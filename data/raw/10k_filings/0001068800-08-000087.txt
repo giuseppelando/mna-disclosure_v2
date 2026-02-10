@@ -1,0 +1,1880 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>ab.htm
+<TEXT>
+<html>
+<head>
+<meta name="generator" content="DL Pager/HTML 1.0 Export v1.45">
+</head>
+<body>
+<P align=center><font face=Times size=2><br><hr size=5 noshade></font></p>
+
+<P align="center"><b><font color="#000000"><font size="+1">UNITED STATES<br>
+SECURITIES AND EXCHANGE COMMISSION</font><br>
+<font color="#000000">Washington, D. C. 20549</font></b></P>
+<P align="center"><b><font color="#000000"><font size="+1">FORM 10-K</font></font></b></P>
+<P align="center"><b><font color="#000000">ANNUAL REPORT PURSUANT TO SECTIONS 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</font></b></P>
+<P align="left"><b></b></P>
+<table cellpadding=0 cellspacing=0 border=0>
+<tr bgcolor="#ffffff">
+<td align='left' valign='top'>
+<b><font color="#000000"><FONT FACE=Wingdings>x</FONT></font></b></td>
+<td align='left' valign='top'>
+<b><font color="#000000">Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 </font></b></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='left' valign='top'>
+<b><font color="#000000">For the Fiscal Year Ended December 31, 2007</font></b></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='left' valign='top'>
+<b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or</font></b></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='top'>
+<b><font color="#000000"><FONT FACE=Wingdings>o</FONT></font></b></td>
+<td align='left' valign='top'>
+<b><font color="#000000">Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 </font></b></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='left' valign='top'>
+<b><font color="#000000">For the transition period from <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> to <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></font></b></td>
+</tr>
+</table>
+<P align="center"><b><font color="#000000">Commission File Number 1-7823</font></b></P>
+<P align="center"><b><font color="#000000"><font size="+1">ANHEUSER-BUSCH COMPANIES, INC.</font></font></b><br>
+<b><font color="#000000">(Exact Name of Registrant as Specified in Its Charter)</font></b></P>
+<table cellpadding=0 cellspacing=0 border=0 width=100%>
+<tr bgcolor="#ffffff">
+<td align='center' valign='bottom'>
+<b><font color="#000000">DELAWARE</font></b></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<b><font color="#000000">43-1162835 </font></b></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='center' valign='bottom'>
+<b><font color="#000000">(State or Other Jurisdiction of</font></b></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<b><font color="#000000">(I.R.S. Employer </font></b></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='center' valign='bottom'>
+<b><font color="#000000">Incorporation or Organization)</font></b></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<b><font color="#000000">Identification No.) </font></b></td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='center' valign='bottom'>
+<b><font color="#000000">ONE BUSCH PLACE, ST. LOUIS, MISSOURI</font></b></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<b><font color="#000000">63118 </font></b></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='center' valign='bottom'>
+<b><font color="#000000">(Address of Principal Executive Offices)</font></b></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<b><font color="#000000">(Zip Code) </font></b></td>
+</tr>
+</table>
+<P align="center"><b><font color="#000000">Registrant&#146;s telephone number, including area code: 314-577-2000</font></b></P>
+<div align="center">
+<P><b><font color="#000000"><hr align='center' width=114 size=2 noshade>
+</font></b></P>
+</div>
+<P align="center"><b><font color="#000000">Securities registered pursuant to Section 12(b) of the Act:</font></b></P>
+<table cellpadding=0 cellspacing=0 border=0 width=100%>
+<tr bgcolor="#ffffff">
+<td align='center' valign='bottom'>
+<b><font color="#000000"><font size="-1"><u>Title of Each Class</u></font></font></b></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<b><font color="#000000"><font size="-1">Name of Each Exchange<br><u>on Which Registered</u></font></font></b></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+<b><font color="#000000">Common Stock&#151;$1 par value</font></b></td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='right' valign='bottom'>
+<b><font color="#000000">New York Stock Exchange </font></b></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+<b><font color="#000000">6&#189;% Debentures Due January 1, 2028</font></b></td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='right' valign='bottom'>
+<b><font color="#000000">New York Stock Exchange </font></b></td>
+</tr>
+</table>
+<P align="center"><b><font color="#000000">Securities registered pursuant to Section 12(g) of the Act:<br>None</font></b></font></P>
+<div align="center">
+<P><b><font color="#000000"><hr align='center' width=114 size=2 noshade>
+</font></b></P>
+</div>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes <FONT FACE=Wingdings>&#252;</FONT> No <u>&nbsp;&nbsp;&nbsp;&nbsp;</u></font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes <u>&nbsp;&nbsp;&nbsp;&nbsp;</u> No <FONT FACE=Wingdings>&#252;</FONT></font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes <FONT FACE=Wingdings>&#252;</FONT> No <u>&nbsp;&nbsp;&nbsp;&nbsp;</u></font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant&#146;s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this  Form 10-K. <FONT FACE=Wingdings>&#252;</FONT></font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer.</font></P>
+<P align="left"><font color="#000000">Large Accelerated Filer&nbsp;<FONT FACE=Wingdings>x</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accelerated Filer&nbsp;<FONT FACE=Wingdings>o</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Non-Accelerated Filer&nbsp;<FONT FACE=Wingdings>o</FONT></font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act) Yes <u>&nbsp;&nbsp;&nbsp;&nbsp;</u> No <FONT FACE=Wingdings>&#252;</FONT></font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As of June 29, 2007, the aggregate market value of the voting stock held by non-affiliates of the registrant was $38,762,495,444.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate the number of shares outstanding of each of the registrant&#146;s classes of common stock, as of the latest practicable date.</font></P>
+<P align="center"><b><font color="#000000">$1 Par Value Common Stock 715,144,414 shares as of February 15, 2008</font></b></P>
+<P align="center"><b><font color="#000000">DOCUMENTS INCORPORATED BY REFERENCE</font></b></P>
+<table cellpadding=0 cellspacing=0 border=0>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Portions of Annual Report to Shareholders for the Year Ended December 31, 2007&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='left' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='bottom'>
+<font color="#000000">PART I and PART II </font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Portions of Definitive Proxy Statement for Annual Meeting of Stockholders on April 23, 2008&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='left' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='bottom'>
+<font color="#000000">PART III </font></td>
+</tr>
+</table>
+<P align="center"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Available on the Web at www.anheuser-busch.com</font></P>
+
+
+<P align=center><font face=Times size=2><br><hr size=5 noshade></font></p>
+
+
+
+<P style="page-break-after:always"></P><P align="center"><b><font color="#000000"><font size="+1">ANHEUSER-BUSCH COMPANIES, INC.</font></font></b></P>
+<P align="center"><b><font color="#000000">TABLE&nbsp;OF&nbsp;CONTENTS</font></b></P>
+<P align="left"><b></b></P>
+<table cellpadding=0 cellspacing=0 border=0 width=100%>
+<tr bgcolor="#e5f9fc">
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<b><font color="#000000"><font size="-1">Page </font></font></b></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">PART I</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">2</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 1. Business</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">2</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;U.S. Beer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">2</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;U.S. Beer Operations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">5</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;International Beer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">6</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;Packaging&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">8</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;Family Entertainment&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">8</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;Other&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">8</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;Sources and Availability of Raw Materials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">8</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;Energy Matters&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">9</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;Brand Names and Trademarks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">9</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;Research and Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">9</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;Environmental Protection&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">9</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;Environmental Packaging Laws and Regulations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">10</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;Number of Employees&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">10</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;Available Information&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">10</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 1A. Risk Factors</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">10</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 1B. Unresolved Staff Comments</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">13</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 2. Properties</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">13</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 3. Legal Proceedings</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">14</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 4. Submission of Matters to a Vote of Security Holders</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">15</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+<b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Executive Officers of the Registrant</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">15</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">PART II</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">17</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 5. Market for the Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">17</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 6. Selected Financial Data</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">17</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">17</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 7A. Quantitative and Qualitative Disclosures About Market Risk</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">17</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 8. Financial Statements and Supplementary Data</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">17</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">17</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 9A. Controls and Procedures</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">18</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 9B. Other Information</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">18</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">PART III</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">18</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 10. Directors, Executive Officers and Corporate Governance of the Registrant</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">18</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 11. Executive Compensation</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">18</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">18</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 13. Certain Relationships and Related Transactions, and Director Independence</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">19</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 14. Principal Accountant Fees and Services</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">19</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">PART IV</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">19</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Item 15. Exhibits and Financial Statement Schedules</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">19</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;15(a)(1) Financial Statements&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">19</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;15(a)(2) Financial Statement Schedule&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">19</font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;15(a)(3) Exhibits&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">19</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Signatures</font></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">23</font></td>
+</tr>
+</table>
+<P align=center><font face=Times size=2>1<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="center"><b><font color="#000000"><font size="+1">PART&nbsp;&nbsp;I </font></font></b></P>
+<P align="left"><b><font color="#000000"><font size="+1">Item 1.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Business </font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anheuser-Busch Companies, Inc. (the &#147;Company&#148; or &#147;Anheuser-Busch&#148;) is a Delaware corporation that was organized in 1979 as the holding company of Anheuser-Busch, Incorporated (&#147;ABI&#148;), a Missouri corporation whose origins date back to 1875. In addition to ABI, which is the nation&#146;s leading brewer of beer, the Company also has subsidiaries that conduct various other business operations. The Company&#146;s operations are comprised of the following principal business segments: domestic beer, international beer, packaging, and entertainment. In 2007, domestic beer contributed 75% and 64%, international beer contributed 7% and 26%, packaging contributed 10% and 4%, and entertainment contributed 8% and 6% to net sales and net income, respectively. For this calculation, net sales and expenses exclude corporate items as detailed in the Company&#146;s business segments disclosure. The Company believes this measure is the most appropriate as it allows the business segments contributions to add to 100%. Approximately 93% of the Company&#146;s net sales and 74% of net income is generated in the United States. Financial information with respect to the Company&#146;s business segments appears in Note 13, &#147;Business Segments,&#148; on pages 62-63 of the 2007 Annual Report to Shareholders, which Note hereby is incorporated by reference. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;U.S. beer volume was 104.4 million barrels in 2007 as compared with 102.3 million barrels in 2006. U.S. beer volume represents produced Anheuser-Busch brands, import brands and acquired brands shipped to U.S. wholesalers. Worldwide sales of the Company&#146;s beer brands aggregated 128.4 million barrels in 2007 as compared with 125.0 million barrels in 2006. Worldwide beer volume is comprised of U.S. and international volume. International volume represents Anheuser-Busch brands produced overseas by Company-owned breweries and under license and contract brewing agreements, plus exports from the Company&#146;s U.S. breweries. Total brands volume includes worldwide Anheuser-Busch brand volume combined with the Company&#146;s ownership percentage share of the volume of its equity partners. Total brands volume was 161.6 million barrels and 156.6 million barrels in 2007 and 2006, respectively.</font></P>
+<P align="left"><b><font color="#000000">U.S. Beer </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s principal product is beer, produced and distributed by its subsidiary, ABI, in a variety of containers primarily under the brand names described below. During 2007, ABI discontinued Anheuser-Busch Lager, Natty Up, BACARDI Silver, BACARDI Silver Big Apple, Peels Blueberry Pomegranate, Peels Spiced Apple, Peels Strawberry Passion Fruit, Peels Cranberry Peach, Peels Spiced Apple, Spykes Banana, Spykes Blue Raspberry, Spykes Grape, Spykes Hot Chocolate, Spykes Peach, Spykes Melon, Spykes Lime, and Spykes Mango.</font></P>
+<P align="left"><b></b><i><b><font color="#000000">Budweiser Family </font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Budweiser, Bud Light, Budweiser Select, and Bud Ice are distributed and sold on a nationwide basis. Bud Ice Light and Bud Dry are sold in 44 states. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Budweiser, Bud Light, Budweiser Select, and Bud Ice are sold in both draught and packaged form. Bud Ice Light and Bud Dry are sold in packaged form. </font></P>
+<P align="left"><b></b><i><b><font color="#000000">Michelob Family </font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Michelob, Michelob Light, Michelob ULTRA, Michelob ULTRA Amber and Michelob Amber Bock are distributed and sold on a nationwide basis. Michelob ULTRA Lime Cactus, Michelob ULTRA Tuscan Orange Grapefruit, and Michelob ULTRA Pomegranate Raspberry (all introduced in 2007) are sold in 49 states. Additionally, Michelob Pale Ale and Michelob Porter are sold in 49 states. Michelob Marzen is sold in 46 states, Michelob Bavarian-Style Wheat in 45 states, Michelob Honey Lager in 44 states, and Michelob Golden Draft and Michelob Golden Draft Light in 8 states.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Michelob, Michelob Light, Michelob ULTRA, Michelob ULTRA Amber, Michelob Golden Draft, Michelob Golden Draft Light and Michelob Amber Bock are sold in both draught and packaged form.</font></P>
+<P align=center><font face=Times size=2>2<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="left"><font color="#000000">Michelob ULTRA Lime Cactus, Michelob ULTRA Tuscan Orange Grapefruit, Michelob ULTRA Pomegranate Raspberry, Michelob Honey Lager, Michelob Marzen, Michelob Porter and Michelob Bavarian-Style Wheat are sold in packaged form. Michelob Pale Ale is sold in sampler packs only.</font></P>
+<P align="left"><b></b><i><b><font color="#000000">Busch Family </font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Busch and Busch Light are sold in 49 states. Busch Ice is sold in 40 states. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Busch and Busch Light are sold in both draught and packaged form. Busch Ice is sold only in packaged form. </font></P>
+<P align="left"><b></b><i><b><font color="#000000">Natural Family </font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Natural Light and Natural Ice are sold on a nationwide basis in both draught and packaged form.</font></P>
+<P align="left"><b></b><i><b><font color="#000000">Specialty Beers </font></b></i></P>
+<P align="left"><i></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bud Extra (formerly known as B</font><font color="#000000"><font size="-1"><sup>E</sup></font></font><font color="#000000">) is sold in 49 states only in packaged form.</font>   </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bare Knuckle Stout is sold on a nationwide basis in draught form. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;American Red is sold in 29 states only in draught form under a variety of custom names. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZiegenBock is sold in one state in both draught and packaged form. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Shark Lager is sold in 50 states only in packaged form. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Redbridge is sold nationwide only in packaged form. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stone Mill Pale Ale is sold on a nationwide basis in both draught and packaged form. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chelada Bud (introduced in 2007) and Chelada Bud Light (introduced in 2007) are sold in 50 states. Chelada Bud and Chelada Bud Light are only sold in packaged form.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In 2007, the Company began distributing Ray Hill American Pilsner (owned by Hill Brewing Co.) in 6 states in packaged form only.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rolling Rock and Rock Green Light are sold on a nationwide basis in both draught and packaged form. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company periodically develops and sells holiday, seasonal, occasional and local beers. </font></P>
+<P align="left"><b></b><i><b><font color="#000000">Nonalcohol Brews </font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O&#146;Doul&#146;s and O&#146;Doul&#146;s Amber are distributed and sold on a nationwide basis. Busch NA is sold in 47 states. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O&#146;Doul&#146;s and O&#146;Doul&#146;s Amber are sold in both draught and packaged form. Busch NA is sold only in packaged form. </font></P>
+<P align="left"><b></b><i><b><font color="#000000">Malt Liquors </font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;King Cobra is sold in 45 states, Hurricane High Gravity in 49 states, Hurricane Malt Liquor in 33 states and Hurricane Ice in 4 states. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;King Cobra, Hurricane High Gravity, Hurricane Malt Liquor and Hurricane Ice are sold only in packaged form. </font></P>
+<P align="left"><b></b><i><b><font color="#000000">Specialty Malt Beverages </font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BACARDI Silver Watermelon, BACARDI Silver Strawberry, BACARDI Silver Raz, BACARDI Silver Mojito (introduced in 2007), BACARDI Silver Mojito Pomegranate (introduced in 2007) and Tilt are distributed and sold on a nationwide basis. BACARDI Silver O</font><font color="#000000"><font size="-1"><sup>3</sup></font></font><font color="#000000"> and Tequiza are sold in 49 states. BACARDI Silver Peach is sold in 47 states. Tilt Green is sold in 42 states. Intensitea Lemon (introduced in 2007) is sold in 14</font></P>
+<P align=center><font face=Times size=2>3<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="left"><font color="#000000">states, Intensitea Raspberry (introduced in 2007) in 13 states, and Intensitea Peach (introduced in 2007) in 11 states. Wild Blue is sold in 3 states. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BACARDI Silver Raz and BACARDI Silver Mojito are sold in both draught and packaged form. BACARDI Silver O</font><font color="#000000"><font size="-1"><sup>3</sup></font></font><font color="#000000">, BACARDI Silver Watermelon, BACARDI Silver Strawberry, BACARDI Silver Peach, BACARDI Silver Mojito, BACARDI Silver Mojito Pomegranate, Tilt, Tilt Green, Tequiza, Intensitea Lemon, Intensitea Raspberry, Intensitea Peach and Wild Blue are sold only in packaged form.</font>   </font></P>
+<P align="left"><b></b><i><b><font color="#000000">Alliance Partner Products </font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><i><font color="#000000">Coastal Brands</font></i></P>
+<P align="left"><i></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ABI owns a 49% equity interest in Maryland-based Fordham Brewing Co. Through this alliance, ABI is the master distributor of Coastal Brewing Brands in 4 states.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><i><font color="#000000">Redhook Ale and Widmer Brothers</font></i></P>
+<P align="left"><i></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In 2007, Seattle-based Redhook Ale Brewery, Inc. and Portland-based Widmer Brothers Brewing Company announced that they will merge to form Craft Brewers Alliance, Inc. The new company will maintain the brands of both companies. The Company owns a 33.1% equity interest in Seattle-based Redhook Ale Brewery, Inc. Through this alliance, Redhook products are distributed exclusively by ABI wholesalers in 49 states. The Company owns a 39.6% interest in Portland-based Widmer Brothers Brewing Company. Widmer products are distributed exclusively by ABI wholesalers in 49 states. Widmer has ownership interests in Hawaii-based Kona Brewing Company and Illinois-based Goose Island Brewing Company and their products Kona and Goose Island, respectively, are distributed exclusively by ABI wholesalers in 17 and 14 states, respectively. The Company will have a 36.4% interest in Craft Brewers Alliance, Inc.</font></P>
+<P align="left"><b></b><i><b><font color="#000000">Joint Venture Agreements </font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><i><font color="#000000">Kirin </font></i></P>
+<P align="left"><i></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company brews, markets and sells Kirin-Ichiban and Kirin Light through a license agreement with Kirin Brewing Company, Ltd. of Japan for sale in the United States. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kirin-Ichiban is sold in 50 states and Kirin Light in 41 states. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kirin-Ichiban is sold in both draught and packaged form. Kirin Light is sold only in packaged form. </font></P>
+<P align="left"><b></b><i><b><font color="#000000">Energy Drinks </font></b></i></P>
+<P align="left"><i></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company has energy drinks, &#147;180&#148;, &#147;180 Orange&#148;, &#147;180 Blue&#148;, &#147;180 Red&#148; (introduced in 2007), &#147;180 Blue Low Calorie&#148; (introduced in 2007) and &#147;180 Orange Low Calorie&#148; (introduced in 2007) in the energy drink category. 180, 180 Orange and 180 Blue are sold on a nationwide basis, 180 Red is sold in 49 states, and 180 Blue Low Calorie and 180 Orange Low Calorie in 40 states. All 180 brands are available in packaged form only with the exception of 180 which is in test in draught form.</font>   </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company distributes Hansen energy drinks, including Monster Energy, Lost Energy and Rumba (energy juice). In 2007, the Company signed an agreement to market and sell Monster Energy energy drinks to on-premise retailers.</font></P>
+<P align="left"><b></b><i><b><font color="#000000">Other </font></b></i></P>
+<P align="left"><i></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s subsidiary, Long Tail Libations Inc., currently has a liqueur product, Jekyll &amp; Hyde, available in packaged form in 81 test markets in 17 states.</font>   </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company distributes Ku Soju (a Korean liquor manufactured by Ku Soju, Inc.) in packaged form in 39 test markets in 2 states.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company began distributing Blue Coat Gin (owned by Philadelphia Distilling, LLC) in packaged form in 2 test markets in 2007.</font></P>
+<P align=center><font face=Times size=2>4<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company began distributing Vermont Spirits Vodka (owned by Duncan Spirits, Inc.) in packaged form in 9 test markets in 2007.</font>   </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company began distributing Margaritaville Tequilla (owned by Margaritaville Spirits) in packaged form  in 11 test markets in 3 states in 2007. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company distributes Icelandic Glacial Spring Water (owned by Icelandic Water Holdings) in packaged form in 20 states.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company began marketing and distributing Borba Skin Balance Waters (owned by Borba) in packaged form in 4 states in 2007.</font></P>
+<P align="left"><b></b><i><b><font color="#000000">Imports </font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company, through an import alliance with Royal Grolsch N.V., imports certain of the Grolsch traditional European brands into the U.S. Grolsch Lager is sold in 49 states, Grolsch Amber in 45 states, Grolsch Light in 44 states and Grolsch Blonde in 43 states. Grolsch Lager is sold in both draught and packaged form. Grolsch Amber, Grolsch Light and Grolsch Blonde are sold only in packaged form. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company imports Harbin Lager (manufactured by the Company in China) and Tiger Lager (flagship brand of Asia Pacific Breweries) into the U.S. Harbin Lager is sold in 48 states only in packaged form. Tiger Lager is sold in 49 states only in packaged form.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In early 2007, the Company became the U.S. importer of Czechvar Premium Czech Lager brewed by Budejovicky Budvar (BBNP) in Ceske Budejovice, Czech Republic. Czechvar is sold in 40 states in draught and packaged form.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In 2007, the Company became the exclusive U.S. importer of a number of the premium European brands of InBev nv/sa (a Belgium brewery company), including Stella Artois, Beck&#146;s, Bass Pale Ale, Hoegaarden, Leffe and other select InBev brands. Stella Artois, Beck&#146;s and Bass Pale Ale are available nationwide in draught and packaged form. Hoegaarden is available in 49 states in draught and packaged form. Leffe Blonde is available in 40 states in draught and packaged form and Leffe Brown is available on draught in 32 states.</font></P>
+<P align="left"><b><font color="#000000">U.S. Beer Operations </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ABI has developed a system of twelve breweries, strategically located across the country, to economically serve its distribution system. (See Item 2 of Part I&#151;Properties.) Ongoing modernization programs at the Company&#146;s breweries are part of ABI&#146;s overall strategic initiatives. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During 2007, other than the import brands, approximately 94% of the beer sold by ABI, measured in barrels, reached retail channels through more than 600 independent wholesalers. The Company has a formal, written distribution agreement (the Equity Agreement) with each of these wholesalers. Each Equity Agreement generally specifies the territory in which the wholesaler is permitted to sell the Company&#146;s products, the brands that the wholesaler is permitted to sell, performance standards applicable to the wholesaler, procedures to be followed by the wholesaler in connection with the sale of the distribution rights, and circumstances upon which the distribution rights may be terminated. By wholesaler use of controlled environment warehouses and stringent inventory monitoring policies, the quality and freshness of the product are protected, thus providing ABI a significant competitive advantage. ABI utilizes its regional vice-presidents, sales directors, key account and regional sales managers, as well as certain other sales personnel, to provide strategic sales planning and merchandising assistance to its wholesalers. In addition, ABI provides national and local media advertising, point-of-sale advertising, and sales promotion programs to promote its brands, and complements national brand strategies with geographic marketing teams focused on delivering relevant programming addressing local interests and opportunities. The remainder of ABI&#146;s U.S. beer sales in 2007 were made through 13 branches that perform similar sales, merchandising, and delivery services as the independent wholesalers in their respective areas; these branches are owned and operated by the Company or direct or indirect subsidiaries of the Company. ABI&#146;s peak selling periods are the second and third quarters.</font></P>
+<P align=center><font face=Times size=2>5<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s import brands are distributed through a combination of the Company&#146;s wholesalers as well as non-equity wholesalers under new or preexisting arrangements in place at the time the Company began importing such brand.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another wholly-owned subsidiary, Wholesaler Equity Development Corporation, shares equity positions with qualified partners in independent beer wholesalerships and is currently invested in 5 wholesalerships. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are more than 100 companies engaged in the highly competitive brewing industry in the United States. ABI&#146;s beers are distributed and sold in competition with other nationally distributed beers, with locally and regionally distributed beers, and with other imported beers. Although the methods of competition in the industry vary widely, in part due to differences in applicable state laws, the principal methods of competition are product quality, taste and freshness, packaging, price, advertising (including television, radio, sponsorships, billboards, stadium signs, and print media), point-of-sale materials, and service to retail customers. ABI&#146;s beers compete in different price categories. Although all brands compete against the total market, the Company&#146;s Budweiser family of beers along with Michelob Golden Draft and Michelob Golden Draft Light compete primarily with premium priced beers. The Company&#146;s Busch and Natural family of beers compete with the value priced beers. The Company&#146;s malt liquor products compete against other brands in the malt liquor segment. Michelob, Michelob Light, Michelob Amber Bock, Michelob Honey Lager, Michelob ULTRA, Michelob ULTRA Amber, Michelob Marzen, Michelob Pale Ale, Kirin Light, Kirin-Ichiban, Tequiza, ZiegenBock Amber, the BACARDI Silver products, American Red, Bare Knuckle Stout, Bud Extra, Land Shark Lager, Redbridge, Stone Mill Pale Ale, and the Tilt, Rolling Rock, Wild Blue, Redhook and Widmer products as well as the Company&#146;s beer import products compete primarily in the above-premium-priced beer segment of the malt beverage market. O&#146;Doul&#146;s and O&#146;Doul&#146;s Amber (premium priced) and Busch NA (value priced) compete in the non-alcohol malt beverage category. Since 1957, ABI has led the United States brewing industry in total sales volume. In 2007, its sales exceeded those of its nearest competitor by more than 60 million barrels. ABI&#146;s U.S. market share for 2007 was approximately 48.5%. Major competitors in the United States brewing industry during 2007 included SABMiller, Molson Coors Brewing Company, Grupo Modelo, S.A.B. de C.V., and Heineken. In addition to competing with the other brewers&#146; brands, the Company&#146;s beer brands must also compete in the marketplace with other types of alcohol beverage choices available to consumers. </font></P>
+<P align="left"><b><font color="#000000">International Beer </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International beer volume was 24.0 million barrels in 2007, compared with 22.7 million barrels in 2006. Anheuser-Busch International, Inc. (&#147;ABII&#148;), a wholly-owned subsidiary of the Company, oversees the marketing and sale of Budweiser and other brands outside the U.S., operates breweries in the United Kingdom (U.K.) and China, negotiates and administers license and contract brewing agreements on behalf of ABI with various foreign brewers, and negotiates and manages equity investments in foreign brewing partners. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through Anheuser-Busch Europe Limited (&#147;ABEL&#148;), an indirect, wholly-owned subsidiary of the Company, certain ABI beer brands are marketed, distributed, and sold in more than thirty countries. In the U.K., ABEL sells Budweiser, Bud Ice, Michelob, and Michelob ULTRA brands to selected on-premise accounts, brewers, wholesalers, and directly to off-premise accounts. Budweiser, Bud Ice, and Michelob ULTRA are brewed and packaged at the Stag Brewery near London, England which is owned by ABEL. Harbin 1900 and Estrella Damm are imported into the U.K. by ABEL. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In China, the Company has a 97% equity interest in the Budweiser Wuhan International Brewing Company Limited (BWIB), a joint venture that owns and operates a brewery in Wuhan.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company also owns 100% of Harbin Brewery Group Limited. Harbin Brewery Group has thirteen breweries in northeast China. Harbin Brewery Group owns 100% of the entities operating ten of the breweries and a majority interest in the remaining three breweries.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company also operates two sales companies in China, the Budweiser (China) Sales Company, Ltd., and the Harbin Beer Sales Company, Ltd., both indirect wholly-owned subsidiaries (&#147;The China Sales Companies&#148;). BWIB, Harbin Brewing Group and the China Sales Companies are responsible for the production, marketing and distribution of the Company&#146;s products in China. They currently sell Budweiser, Bud Ice,</font></P>
+<P align=center><font face=Times size=2>6<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="left"><font color="#000000">Bud Ultra, Bud Genuine Draft, Harbin Ice, Harbin 1900 and various other Harbin brands. During 2007 the Budweiser (China) Sales Company, Ltd., began importing Grupo Modelo&#146;s Corona brand.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During 2007 Anheuser-Busch International, Inc. announced plans to build a new brewery in Foshan in the Guangdong province with a scheduled completion date in late 2008.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Canada, Budweiser, Bud Light, Busch and Busch Light are brewed and sold through a license agreement with Labatt Brewing Co. In Japan, Budweiser is brewed and sold through a license agreement with Kirin Brewery Company, Limited. A licensing agreement allows Guinness Ireland Limited to brew and sell Budweiser in the Republic of Ireland and Northern Ireland and Bud Light in the Republic of Ireland. Budweiser is also brewed under license and sold by brewers in Italy (Heineken Italia SpA), Spain (Sociedad Anonima Damm), Korea (Oriental Brewery Co., Ltd.), Russia (Heineken) and Panama (Heineken). The Company owns a 7.9% stake in a subsidiary in Argentina of Compa&ntilde;&iacute;a Cervecer&iacute;as Unidas S.A. (&#147;CCU&#148;), the leading Chilean brewer, that brews and distributes Budweiser under license in Argentina and distributes Budweiser in Chile and Uruguay. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Mexico, Budweiser, Bud Light, O&#146;Doul&#146;s and the 180 energy drink are imported and distributed by a wholly-owned subsidiary of Grupo Modelo (Cervezas Internacionales). </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company also sells in over 60 other countries by exporting various brands including Budweiser and Bud Light from Company breweries in the U.S., U.K. and China and from its license partners&#146; breweries in Argentina, Italy and Spain. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company has a strategic investment agreement with Tsingtao Brewery Company Limited, the second largest brewer in China, and producer of the Tsingtao brand. The Company has a 27% economic stake and a 20% voting stake in Tsingtao.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In 2007 the Anheuser-Busch International, Inc. and Crown Beers agreed to a 50/50 joint venture to brew, market and distribute Budweiser and other brands in India. The joint venture operates under the name Crown Beers India Ltd., and includes a new 500,000 hectoliter brewery in the Southern city of Hyderabad.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company owns a 35.12% direct interest in Grupo Modelo, S.A.B. de C.V., Mexico&#146;s largest brewer, and a 23.25% direct interest in Diblo S.A. de C.V., Grupo Modelo&#146;s operating subsidiary, providing the Company with, directly and indirectly, a 50.2% interest in Diblo. However, the Company does not have voting or other control of either Grupo Modelo or Diblo. Additional information is contained in Note 2, &#147;International Equity Investments,&#148; on page 50 of the 2007 Annual Report to Shareholders, which note is hereby incorporated by reference. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Competition for international beer operations differs significantly depending upon the specific country involved. For 2007 no single foreign country accounted for more than 3.6% of consolidated revenues or 2.6% of consolidated income before income taxes. The Company&#146;s primary foreign markets for beer sales are China, the United Kingdom, Canada, Mexico and Ireland. In each international market, the Company competes against a mix of national, regional, local, and imported beer brands. In China, competition is primarily from numerous national and regional brands. There is no dominant competitor in China. In the United Kingdom, the top four competitors&#151;Scottish &amp; Newcastle, Molson Coors Brewers, InBev UK, and Carlsberg UK&#151;have combined market share of nearly 76%, with Scottish &amp; Newcastle having a share of approximately 25%. The Company&#146;s share is 3%. In Ireland, the market leader is the Company&#146;s license brewing partner, Guinness Ireland, with a market share of 58% including a share of 13% related to the Company&#146;s products. In Canada, the top two competitors, of similar size, are the Molson Coors Brewing Company and the Company&#146;s license brewing partner, Labatt Brewing. Their combined market share is more than 82%, including a share of 16% related to the Company&#146;s products. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Net income for the International Beer Segment also includes the Company&#146;s ownership percentage of the net income of Grupo Modelo. Modelo&#146;s principal competitor in Mexico is FEMSA S.A.B. de C.V., with the two companies having respective market shares of 56% and 44%. Although Anheuser-Busch does not significantly compete in the Mexican beer market, a significant change in Modelo&#146;s business could have a material effect on the Company&#146;s reported net income and earnings per share.</font></P>
+<P align=center><font face=Times size=2>7<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="left"><b><font color="#000000">Packaging </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s packaging operations are handled through the following wholly-owned subsidiaries of the Company: Metal Container Corporation (MCC), which manufactures beverage cans at eight plants and beverage can lids at three plants for sale to ABI and U.S. soft drink customers (See Item 2 of Part 1&#151;Properties); Anheuser-Busch Recycling Corporation, which buys and sells used aluminum beverage containers from its corporate office in Sunset Hills, Missouri and recycles aluminum and plastic containers at its plant in Hayward, California; Precision Printing and Packaging, Inc., which manufactures pressure sensitive, metalized, plastic and paper labels at its plant in Clarksville, Tennessee; and Eagle Packaging, Inc., which manufactures crown and closure liner materials for ABI at its plant in Bridgeton, Missouri. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through a wholly-owned limited partnership, Longhorn Glass Manufacturing, L.P., the Company owns and operates a glass manufacturing plant in Jacinto City, Texas, which manufactures glass bottles for the Company&#146;s nearby Houston brewery. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The packaging industry is highly competitive. MCC&#146;s share of the U.S. aluminum beverage can market for 2007 was approximately 25%. MCC&#146;s competitors include Ball Corporation, Rexam Corporation, and Crown Holdings. In addition, the can industry faces competition from other beverage containers, such as glass and plastic bottles. </font></P>
+<P align="left"><b><font color="#000000">Family Entertainment </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company is active in the family entertainment industry, primarily through its wholly-owned subsidiary, Busch Entertainment Corporation (&#147;BEC&#148;), which currently owns, directly and through subsidiaries, nine theme parks. A tenth park in Orlando (Aquatica) is scheduled to open in March 2008.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BEC operates Busch Gardens theme parks in Tampa, Florida and Williamsburg, Virginia, and SeaWorld theme parks in Orlando, Florida, San Antonio, Texas, and San Diego, California. BEC operates water park attractions in Tampa, Florida (Adventure Island) and Williamsburg, Virginia (Water Country, U.S.A.), and Langhorne, Pennsylvania (Sesame Place), as well as Discovery Cove in Orlando, Florida, a reservations-only attraction offering interaction with marine animals. Due to the seasonality of the theme park business, BEC experiences higher revenues and earnings in the second and third quarters than in the first and fourth quarters. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company is the second largest theme park operator in the United States. It faces competition in the family entertainment industry from other theme and amusement parks, public zoos, public parks, and other family entertainment events and attractions. Major competitors in the theme park industry during 2007 include Walt Disney Co., Six Flags Parks, Cedar Fair Parks, and Universal Studios Theme Parks. No reliable national market share information is available for the theme park industry. </font></P>
+<P align="left"><b><font color="#000000">Other </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through its wholly-owned subsidiary, Busch Properties, Inc. (&#147;BPI&#148;), the Company is engaged in the business of real estate development. BPI also owns and operates The Kingsmill Resort and Conference Center in Williamsburg, Virginia. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through its wholly-owned subsidiary, Manufacturers Railway Co., the Company owns and operates a transportation service business. </font></P>
+<P align="left"><b><font color="#000000">Sources and Availability of Raw Materials </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Busch Agricultural Resources, L.L.C. (&#147;BARL&#148;), owned and operated by ABI, operates rice milling facilities in Jonesboro, Arkansas and Woodland, California; eight grain elevators in the western and midwestern United States; barley seed processing plants in Fairfield, Montana, Idaho Falls, Idaho, and Powell, Wyoming; and a barley research facility in Ft. Collins, Colorado. BARL also owns and operates malt plants in Manitowoc, Wisconsin, Moorhead, Minnesota, and Idaho Falls, Idaho. Through other entities owned by BARL, ABI operates land application farms in Jacksonville, Florida and Fort Collins, Colorado; hop farms in Bonners Ferry, Idaho and Huell, Germany; and a barley purchasing office in Winnipeg, Canada.</font></P>
+<P align=center><font face=Times size=2>8<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The products manufactured by the Company require a large volume of various agricultural products, including hops, barley malt, rice, and corn grits for beer, and rice and barley for the rice milling and malting operations of BARL. The Company fulfills its commodities requirements through purchases from various sources, including purchases from its subsidiaries, through contractual arrangements and on the open market. The Company believes that adequate supplies of the aforementioned agricultural products are available at the present time, but cannot predict future availability or market prices of such products and materials. The above referenced commodities have experienced and will continue to experience price fluctuations. The price and supply of raw materials will be determined by, among other factors, the level of crop production both in the U.S. and around the world, weather conditions, export demand, and government regulations and legislation affecting agriculture and trade. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company uses water in brewing its beer. The Company generally satisfies its requirements for water from municipal water systems and privately owned wells. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company also requires aluminum cansheet for the manufacture of cans and lids. The cansheet market experiences price volatility due to the supply and demand balance for both aluminum ingot and sheet fabrication. The Company manages its aluminum supply and cost using various methods including long-term purchase contracts and hedging techniques. The Company believes that an adequate supply of aluminum is available at the present time, but cannot predict future availability or market prices.</font></P>
+<P align="left"><b><font color="#000000">Energy Matters </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company uses natural gas, fuel oil, and coal as its primary fuel materials. The Company believes that adequate supplies of fuel and electricity are available at the present time, but cannot predict future availability or market prices. Where economically feasible, the Company has alternate fuel capability which helps ensure continued operation of essential processes. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The energy commodity markets have experienced and, the Company expects, will continue to experience significant price volatility. The Company manages its energy costs using various methods including supply contracts, hedging techniques, and fuel switching. </font></P>
+<P align="left"><b><font color="#000000">Brand Names and Trademarks </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some of the Company&#146;s major brand names used in its principal business segments are mentioned in the discussion above. The Company regards consumer recognition of and loyalty to all of its brand names and trademarks as extremely important to the long-term success of its principal business segments. The Company owns rights to its principal brand names and trademarks in perpetuity. </font></P>
+<P align="left"><b><font color="#000000">Research and Development </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company is involved in a number of research activities relating to the development of new products or services or the improvement of existing products or services. The dollar amounts expended by the Company during the past three years on such research activities and the number of employees engaged full time therein during such period, however, are not considered to be material in relation to the total business of the Company. </font></P>
+<P align="left"><b><font color="#000000">Environmental Protection </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All of the Company&#146;s facilities are subject to federal, state, and local environmental protection laws and regulations, and the Company is operating within existing laws and regulations or is taking action aimed at assuring compliance therewith. Various proactive strategies are utilized to help assure this compliance. Compliance with such laws and regulations is not expected to materially affect the Company&#146;s capital expenditures, earnings, or competitive position. The Company has devoted considerable effort to research, development, and engineering of innovative and cost effective systems to minimize effects on the environment from its operating facilities. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These projects, coupled with the Company&#146;s Environmental Management System and an overall Company emphasis on pollution prevention and resource conservation initiatives, are improving efficiencies and creating</font></P>
+<P align=center><font face=Times size=2>9<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="left"><font color="#000000">saleable by-products from residuals. They have generally facilitated lower cost operating systems while reducing the impact to air, water, and land. </font></P>
+<P align="left"><b><font color="#000000">Environmental Packaging Laws and Regulations </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The states of California, Connecticut, Delaware, Hawaii, Iowa, Maine, Massachusetts, Michigan, New York, Oregon, and Vermont have adopted certain restrictive packaging laws and regulations for beverages that require deposits on packages. ABI continues to do business in these states. While such laws have not had a significant effect on ABI&#146;s market share, they have resulted in significantly higher beer prices over and above the cost of the deposit in those states that have adopted container deposit laws as well as had an adverse impact on beer industry growth in those states. The Company considers deposit laws to be inflationary, costly, and inefficient for recycling packaging materials. Congress and a number of additional states continue to consider similar legislation, the adoption of which would impose higher operating costs on the Company while depressing sales volume. Higher operating costs result from the need to maintain separate inventories of packaging materials for deposit states and non-deposit states and from ensuing loss of packaging flexibility.</font></P>
+<P align="left"><b><font color="#000000">Number of Employees</font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As of December 31, 2007, the Company had approximately 30,849 full-time employees worldwide. Within the United States approximately 8,072 employees were represented by the International Brotherhood of Teamsters. The labor agreement between ABI and the Teamsters, which represents the majority of the domestic brewery workers, expires February 28, 2009. Approximately 7,788 international employees of the Company are members of other worker organizations (the vast majority of which are not subject to collective bargaining agreements).</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company considers its employee relations to be good. </font></P>
+<P align="left"><b><font color="#000000">Available Information </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company maintains a website on the World Wide Web at www.anheuser-busch.com. The Company makes available, free of charge, on its website its annual reports on Forms 10-K, quarterly reports on Forms 10-Q, current reports on Forms 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after such reports are electronically filed with, or furnished to, the SEC. The Company&#146;s reports filed with, or furnished to, the SEC are also available on the SEC&#146;s website at www.sec.gov.</font></P>
+<P align="left"><b><font color="#000000"><font size="+1">Item 1A.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Risk Factors</font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anheuser-Busch makes forward-looking statements in its filings with the Securities and Exchange Commission and in other oral or written communications. Forward-looking statements involve risks and uncertainties that could cause actual results to be materially different from those indicated (both favorably and unfavorably). These risks and uncertainties include (but are not limited to) the risks described below. Anheuser-Busch undertakes no obligation to update any forward-looking statements, whether as a result of new information, future events or otherwise. </font></P>
+<P align="left"><b><font color="#000000">Increased competitive pressures may reduce revenues or increase costs. </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anheuser-Busch faces competition in each business from alternative providers of the products we offer. For example:</font></P>
+<UL>
+<LI align="left">The U.S. beer business competes with other domestic and international brewers as well as with producers of other types of alcohol beverages;<br>&nbsp;<br></LI>
+
+<LI align="left">The international beer business competes with a mix of national, regional, local and international brewers, depending on the country; </LI>
+
+</ul>
+
+</font></P>
+<P align=center><font face=Times size=2>10<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><UL>
+<LI align="left">The packaging business competes with other producers of beverage cans and beverage lids as well as producers of other types of beverage containers;<br>&nbsp;<br></LI>
+
+<LI align="left">The family entertainment business competes with the operators of other theme and amusement parks, public zoos, public parks and other family events and attractions.</LI>
+</UL>
+
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Competition may divert consumers and customers from the Anheuser-Busch products. In order to respond to or anticipate competition, Anheuser-Busch may need to change the prices of products or incur additional costs to introduce new packages or products. Innovation faces inherent risks, and the new products we introduce may not be successful. </font></P>
+<P align="left"><b><font color="#000000">Changes in consumer tastes and preferences could reduce demand for the Anheuser-Busch products. </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The success of Anheuser-Busch depends on satisfying consumer tastes and preferences with our beverage products, our container products and our theme park offerings. Consumer preferences can change in unpredictable ways, and consumers may begin to prefer the products of competitors or may generally reduce their demand for products in the category. Failure by Anheuser-Busch to anticipate changes in consumer preferences might affect financial results and loss in market share. In order to respond to or anticipate changes in consumer preferences, Anheuser-Busch may need to increase and enhance the marketing of existing products, change the pricing of existing products or introduce new products and services. Each response might affect financial results. </font></P>
+<P align="left"><b><font color="#000000">Increases in raw material and commodity prices could increase operating costs. </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Anheuser-Busch malt beverage products require various agricultural products. Anheuser-Busch also uses aluminum cansheet to manufacture beverage cans and lids, glass bottles as containers for malt beverages and natural gas, fuel oil and coal as primary fuel materials. Raw materials and commodities are subject to price volatility caused by market fluctuations, including the quality and availability of supply, weather, currency fluctuations, trade agreements among producing and consuming nations, consumer demand and changes in governmental programs. To some extent, derivative financial instruments and supply agreements can protect against increases in materials and commodities costs, but they do not provide complete protection over the longer term. Anheuser-Busch might be able to raise prices to offset increases in costs, but price increases can reduce sales volumes. If Anheuser-Busch is not able to increase prices to offset cost increases or if price increases reduce sales volumes, financial results would be adversely affected. </font></P>
+<P align="left"><b><font color="#000000">An inability to reduce costs could affect profitability.</font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anheuser-Busch&#146;s future success and earnings growth depend in part on its ability to be efficient in producing, advertising and selling of our products and services. Anheuser-Busch has a number of initiatives to improve operational efficiency. Failure to generate significant cost savings and margin improvement through these initiatives could adversely affect profitability and the ability of Anheuser-Busch to achieve its financial goals.</font></P>
+<P align="left"><b><font color="#000000">Anheuser-Busch is subject to risks associated with international operations. </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anheuser-Busch has significant international operations and the profitable expansion of the international business is a long term goal. Anheuser-Busch has equity investments in brewers in China and Mexico, owns breweries in China and the United Kingdom and sells malt beverages globally. Although Anheuser-Busch does not significantly compete in the Mexican beer market, a significant change in Modelo&#146;s business could have a material effect on the Company&#146;s reported net income and earnings per share. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The international operations are subject to the inherent risks of international business, such as:</font></P>
+<UL>
+<LI align="left">Political and economic changes;<br>&nbsp;<br></LI>
+
+<LI align="left">Changes in the relations between the United States and foreign countries;<br>&nbsp;<br></LI>
+
+<li align="left">Actions of foreign or United States governmental authority affecting trade and foreign investment;<br>&nbsp;<br></li>
+</ul>
+
+
+<P align=center><font face=Times size=2>11<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><UL>
+
+
+<LI align="left">Regulations on repatriation of funds; <br>&nbsp;<br></LI>
+<LI align="left">Foreign currency exchange restrictions;<br>&nbsp;<br> </LI>
+<LI align="left">Interpretation and application of local laws and regulations;<br>&nbsp;<br> </LI>
+<LI align="left">Enforceability of intellectual property and contract rights; <br>&nbsp;<br></LI>
+<LI align="left">Local labor conditions and regulations.</LI>
+</UL>
+<P align="left"><b><font color="#000000">An increase in beer excise taxes or other taxes could adversely affect financial results. </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anheuser-Busch is affected by federal, foreign, state and local income and other taxes, particularly beer excise taxes which are levied both by the federal, foreign and state governments. Proposals are made from time to time to increase beer excise taxes in a variety of states. In addition, Anheuser-Busch is subject to periodic audits and examinations by the Internal Revenue Service and other foreign, state and local taxing authorities. An increase in taxes or an adverse determination by a taxing authority could adversely affect financial results. </font></P>
+<P align="left"><b><font color="#000000">The consolidation of retailers may adversely affect Anheuser-Busch.</font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The retail industry in the United States and in other countries in which Anheuser-Busch operates continues to consolidate. Large retailers may seek to improve profitability and sales by reducing the prices or increasing the promotional activities for Anheuser-Busch products. Although retailers purchase products not from Anheuser-Busch, but from its wholesalers (including in a limited number of markets, the Anheuser-Busch wholesaler operations), the efforts of retailers could result in reduced profitability for the beer industry as a whole and indirectly adversely affect our financial results.</font></P>
+<P align="left"><b><font color="#000000">Governmental regulation could affect our operations or increase costs. </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All of the Anheuser-Busch businesses are subject to governmental regulation. The Anheuser-Busch U.S. beer business and its wholesalers are especially subject to extensive regulation at the federal, state and local levels. Permits, licenses and approvals necessary to the U.S. beer business are required from the Alcohol and Tobacco Tax and Trade Bureau of the United States Treasury Department, state alcohol beverage regulatory agencies in the states in which we sell or produce products and local authorities in some jurisdictions in which we sell products. Compliance with these laws and regulations can be costly. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anheuser-Busch may be subject to claims that we have not complied with existing laws and regulations, which could result in fines and penalties. Anheuser-Busch is routinely subject to new or modified laws and regulations with which we must comply in order to avoid fines and other penalties and which may affect operations. From time to time, new laws and regulations are proposed that would affect operations, affect the distribution of the Anheuser-Busch products by its wholesalers, or increase expenses. </font></P>
+<P align="left"><b><font color="#000000">Anheuser-Busch is subject to litigation.</font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recently, the advertising practices of Anheuser-Busch and many other brewers and distilled spirits manufacturers have been subject to litigation which has now ended. Anheuser-Busch is now, and may in the future be, a party to other legal proceedings and claims, and significant damages may be asserted against us. Given the inherent uncertainty of litigation, it is possible that Anheuser-Busch might incur liabilities as a consequence of the proceedings and claims brought against it. </font></P>
+<P align="left"><b><font color="#000000">Anheuser-Busch may make acquisitions, investments and joint venture and similar arrangements, which are risky. </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anheuser-Busch has in the past and may in the future desire to make acquisitions of, investments in, and joint venture and similar arrangements with other companies to increase shareholder value. These transactions cannot occur unless we can identify suitable candidates and agree on terms with them. After completion of a transaction, we may be required to integrate acquired businesses or operations into our existing operations. An</font></P>
+<P align=center><font face=Times size=2>12<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="left"><font color="#000000">inability to successfully complete transactions or successfully integrate acquired operations may affect our profitability. </font></P>
+<P align="left"><b><font color="#000000">The loss of an important supplier could adversely affect operations and financial results. </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For certain packaging supplies, raw materials and commodities, we rely on a small number of important suppliers. If these suppliers became unable to continue to meet our requirements, and we could not develop alternative sources of supply, our operations and financial results could be adversely affected. </font></P>
+<P align="left"><b><font color="#000000">Anheuser-Busch relies on its wholesalers. </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the United States, Anheuser-Busch sells substantially all of its beer to independent wholesalers for distribution to retailers and ultimately consumers. In 2007, Anheuser-Busch was appointed as the United States importer for a number of the premium European brands of InBev. Many of the wholesalers of these brands have not traditionally been wholesalers for Anheuser-Busch. As independent companies, wholesalers make their own business decisions that may not always align themselves with our interests. If the Anheuser-Busch wholesalers do not effectively distribute our products, our financial results could be adversely affected. </font></P>
+<P align="left"><b><font color="#000000">If Anheuser-Busch is unable to maintain the image and reputation of its products and services, operations and financial results may suffer. </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anheuser-Busch&#146;s success depends on our ability to maintain and increase the image and reputation of our existing products and to develop a favorable image and reputation for new products. The image and reputation of our products may be reduced in the future; concerns about product quality, even when unfounded, could tarnish the image and reputation of our products. Restoring the image and reputation of our products may be costly and may not be possible. </font></P>
+<P align="left"><b><font color="#000000">The Anheuser-Busch businesses are subject to a number of other miscellaneous risks that may adversely affect financial results. </font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other miscellaneous risks include:</font></P>
+<UL>
+<LI align="left">Changes in global and domestic economies, including slow growth rate, rise in interest rates, changes in currency exchange rates, rise in cost of commodities, inflation, unemployment and weakening consumer confidence which could reduce demand for the Anheuser-Busch products, affect the businesses of the international brewers in which we have made investments or increase costs, including borrowing costs;<br>&nbsp;<br></LI>
+<LI align="left">Natural disasters, such as hurricanes, which may result in shortages of raw materials and commodities and reduction in tourism and attendance at the Anheuser-Busch theme parks; <br>&nbsp;<br></LI>
+<LI align="left">Unusual weather conditions which could affect domestic beer consumption, attendance at the Anheuser-Busch theme parks, raw material availability, or natural gas prices;<br>&nbsp;<br> </LI>
+<LI align="left">Continued threat of terrorist acts and war, which may result in heightened security and higher costs for imports and exports, reduced tourism and attendance at the Anheuser-Busch theme parks and contraction of the United States and worldwide economies; <br>&nbsp;<br></LI>
+<LI align="left">Changes in the Anheuser-Busch share price which could affect the share repurchase program.</LI>
+</UL>
+<P align="left"><b><font color="#000000"><font size="+1">Item 1B.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Unresolved Staff Comments</font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.</font></P>
+<P align="left"><b><font color="#000000"><font size="+1">Item 2.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Properties</font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ABI has twelve breweries in operation at the present time, located in St. Louis, Missouri; Newark, New Jersey; Los Angeles and Fairfield, California; Jacksonville, Florida; Houston, Texas; Columbus, Ohio; Merrimack, New Hampshire; Williamsburg, Virginia; Baldwinsville, New York; Fort Collins, Colorado; and Cartersville, Georgia. Title to the Baldwinsville, New York brewery is held by the Onondaga County Industrial</font></P>
+<P align=center><font face=Times size=2>13<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="left"><font color="#000000">Development Agency (&#147;OCIDA&#148;) pursuant to a Sale and Agency Agreement with ABI, which enabled OCIDA to issue tax exempt pollution control and industrial development revenue notes and bonds to finance a portion of the cost to purchase and modify the brewery. The brewery is not pledged or mortgaged to secure any of the notes or bonds, and the Sale and Agency Agreement with OCIDA gives ABI the unconditional right to require at any time that title to the brewery be transferred to ABI. ABI&#146;s breweries operated at approximately 93.7% of capacity in 2007; during portions of the peak selling periods (second and third quarters), the breweries operated at a rate closer to maximum capacity. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company also owns a 97% equity interest in a joint venture that owns and operates a brewery in Wuhan, China and a 50% equity interest in a joint venture that owns and operates a brewery in Hyderabad, India. The Company also owns the Stag Brewery near London, England. With its acquisition of Harbin Brewery Group, the Company now has thirteen breweries  in northeast China. There are two breweries located in Harbin and one in each of Hailun, Yongji County (Jilin Province), Hegang, Changchun, Mudanjiang, Jiamusi, Daqing, Jinzhou, Tangshan, Shenyang, and Yanji. During 2007 Anheuser-Busch International, Inc. announced plans to build a new brewery in Foshan in the Guangdong province with a scheduled completion date in late 2008.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ABI, through wholly-owned entities, operates malt plants in Manitowoc, Wisconsin, Moorhead, Minnesota, and Idaho Falls, Idaho; rice mills in Jonesboro, Arkansas and Woodland, California; and, hop farms in Bonners Ferry, Idaho and Huell, Germany. The Company, through wholly-owned subsidiaries, operates can manufacturing plants in Jacksonville, Florida, Columbus, Ohio, Arnold, Missouri, Windsor, Colorado, Newburgh, New York, Ft. Atkinson, Wisconsin, Rome, Georgia, and Mira Loma, California; can lid manufacturing plants in Gainesville, Florida, Oklahoma City, Oklahoma, and Riverside, California; a label plant in Clarksville, Tennessee; a crown and closure liner material plant in Bridgeton, Missouri; and an aluminum and plastic recycling plant in Hayward, California. The Company operates a glass manufacturing plant in Jacinto City, Texas. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BEC operates its principal family entertainment facilities in Tampa, Florida; Williamsburg, Virginia; San Diego, California; Orlando, Florida; and San Antonio, Texas. The Tampa facility is 336 acres, the Williamsburg facility is 323 acres, the San Diego facility is 166 acres, the Orlando facility is 247 acres, and the San Antonio facility is 316 acres. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Except for the Baldwinsville brewery, the can manufacturing plants in Newburgh, New York, the SeaWorld park in San Diego, California, the brewery in Wuhan, China, and certain of the breweries owned by Harbin Brewery Group, all of the Company&#146;s principal properties are owned in fee. The lease for the land used by the SeaWorld park in San Diego, California expires in 2048. In 1995, the joint venture that operates the brewery in Wuhan was granted the right to use the property for a period of 50 years from the appropriate governmental authorities. The Company considers its buildings, improvements, and equipment to be well maintained and in good condition, irrespective of dates of initial construction, and adequate to meet the operating demands placed upon them. The production capacity of each of the manufacturing facilities is adequate for current needs and, except as described above, substantially all of each facility&#146;s capacity is utilized.</font></P>
+<P align="left"><b><font color="#000000"><font size="+1">Item 3.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Legal Proceedings</font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company had been served with complaints in putative class action lawsuits in California, Michigan, Ohio, West Virginia and Wisconsin. These suits had named a large number of other brewers and distillers and sought to blame minors&#146; intentional violations of state alcohol laws on lawful product advertising, generally asserting theories of consumer fraud, unjust enrichment and public nuisance. These class actions had been instituted by the parents of illegal underage drinkers to obtain the sums that underage people purportedly spent illegally buying alcohol from persons or entities other than the defendants. The California case was dismissed in 2005, and in August 2006 the plaintiffs in that case voluntarily discontinued their appeal, thus ending the suit. The Michigan, Ohio, West Virginia and Wisconsin cases were dismissed in 2006. In July 2007, the U.S. Court of Appeals for the Sixth Circuit effectively affirmed the dismissal of the Michigan and Ohio actions for plaintiffs&#146; failure to plead an injury to themselves and causation. In November 2007, the plaintiffs voluntarily discontinued all appeals, thus ending all illegal underage drinking litigation pending against the Company.</font></P>
+<P align=center><font face=Times size=2>14<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On September 19, 2006, one of the Company&#146;s cansheet suppliers, Novelis Corporation (&#147;Novelis&#148;), instituted a lawsuit seeking relief from continued performance of its obligations under its cansheet supply agreement with the Company. This action is being heard in federal court in the Northern District of Ohio. The Company believes that the assertions of Novelis are without merit, intends to vigorously defend its rights under the cansheet supply agreement and expects to prevail in the litigation.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company is not a party to any other pending or threatened litigation, the outcome of which could be expected to have a material adverse effect upon its financial condition, results of operations or cash flows. </font></P>
+<P align="left"><b><font color="#000000"><font size="+1">Item 4.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Submission of Matters to a Vote of Security Holders </font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There were no matters submitted to a vote of security holders, through the solicitation of proxies or otherwise, during the fourth quarter ended December 31, 2007.</font></P>
+<P align="center"><b><font color="#000000"><font size="+1">EXECUTIVE&nbsp;&nbsp;OFFICERS&nbsp;&nbsp;OF&nbsp;&nbsp;THE&nbsp;&nbsp;REGISTRANT</font></font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AUGUST A. BUSCH IV (age 43) is presently President and Chief Executive and a Director of the Company and has served as President and Chief Executive Officer since December 1, 2006 and as a Director since September 2006. He previously served as Vice President and Group Executive of the Company (2000-November 30, 2006). He is also presently Chairman of the Board (since December 2006) and President (since 2002) of the Company&#146;s subsidiary, Anheuser-Busch, Incorporated.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W. RANDOLPH BAKER (age 61) is presently Vice President and Chief Financial Officer of the Company and has served in such capacity since 1996. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THOMAS W. SANTEL (age 49) is presently Vice President-Corporate Planning and International Operations of the Company and has served in such capacity since April 2007. He is also presently President and Chief Executive Officer of the Company&#146;s subsidiary, Anheuser-Busch International, Inc. and has served in such capacity since April 2007. He previously served as Vice President-Corporate Development of the Company (1996-2007).</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STEPHEN J. BURROWS (age 55) is presently Executive Vice President-Asian Operations of the Company&#146;s subsidiary, Anheuser-Busch International, Inc. and has served in such capacity since April 2007. He previously served as Vice President-International Operations of the Company (1999-2007) and Chief Executive Officer (1999-2007) and President (1994-2007) of the Company&#146;s subsidiary, Anheuser-Busch International, Inc.</font>   </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DOUGLAS J. MUHLEMAN (age 53) is presently Group Vice President-Brewing Operations and Technology of the Company&#146;s subsidiary, Anheuser-Busch, Incorporated, and has served in such capacity since 2001. He also serves as Chairman of the Company&#146;s subsidiary, Anheuser-Busch Packaging, Inc. (since December 2006) and Chairman, Chief Executive Officer and President of Busch Agricultural Resources, L.L.C., owned and operated by Anheuser-Busch, Incorporated, (since December 2006). </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FRANCINE I. KATZ (age 49) is presently Vice President-Communications and Consumer Affairs of the Company&#146;s subsidiary, Anheuser-Busch Incorporated and has served in such capacity since October 2007. She previously served as the Company&#146;s Vice President-Communications and Consumer Affairs (2004-September 2007), Vice President-Corporate Communications (2002-2004) and Vice President-Consumer Affairs (1999-2002).</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KEITH M. KASEN (age 64) is presently Chairman of the Board and Chief Executive Officer of the Company&#146;s subsidiary, Busch Entertainment Corporation, and has served as Chairman since 2003 and Chief Executive since December 1, 2007. He previously also served as President (2003-November 2007) of Busch Entertainment Corporation. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JOSEPH P. CASTELLANO (age 54) is presently Vice President and Chief Information Officer of the Company&#146;s subsidiary, Anheuser-Busch, Incorporated, and has served in such capacity since March 2007. He previously served as Vice President-Corporate Human Resources of the Company (2004-March 2007) and as Vice President-Retail Marketing (2001-2004) of the Company&#146;s subsidiary, Anheuser-Busch, Incorporated. </font></P>
+<P align=center><font face=Times size=2>15<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MICHAEL J. OWENS (age 53) is presently Vice President-Business Operations of the Company&#146;s subsidiary, Anheuser-Busch, Incorporated and has served in such capacity since October 2007. He previously served as Vice President-Marketing (2006-September 2007), Vice President-Sales and Marketing (2004-2005) and Vice President-Sales (2001-2004) of Anheuser-Busch, Incorporated. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ANTHONY T. PONTURO (age 55) is presently Vice President-Global Media and Sports Marketing of the Company&#146;s subsidiary, Anheuser-Busch, Incorporated and has served in such capacity since 1998. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JOHN F. KELLY (age 51) is presently Vice President and Controller of the Company and has served in such capacity since 1996. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MARLENE V. COULIS (age 46) is presently Vice President-Consumer Strategy and Innovation of the Company&#146;s subsidiary, Anheuser-Busch, Incorporated and has served in such capacity since October 2007. She previously served as Vice President-Brand Management (August 2005-September 2007), Vice President-Research and Customer Satisfaction (March 2005-August 2005), Vice President-Geographic Marketing (April 2004-March 2005) and Director-New Products (2001-2004) of Anheuser-Busch, Incorporated. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DAVID A. PEACOCK (age 39) is presently Vice President-Marketing of the Company&#146;s subsidiary, Anheuser-Busch, Incorporated and has served in such capacity since October 2007. He previously served as Vice President-Business Operations (December 2006-September 2007), Vice President-Business and Finance Operations (June 2006-November 2006), Vice President-Administration (July 2004-2006) and Director of Operations-President&#146;s Office (2002-2004) of Anheuser-Busch, Incorporated. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ROBERT C. LACHKY (age 54) is presently Executive Vice President-Global Industry Development and Creative Development of the Company&#146;s subsidiary, Anheuser-Busch, Incorporated and has served in such capacity since October 2007. He previously served as Executive Vice President-Global Industry Development (August 2005-September 2007) and Vice President-Brand Management (2001-July 2005) of ABI. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MICHAEL S. HARDING (age 56) is presently Chief Executive Officer and President of the Company&#146;s direct subsidiary, Anheuser-Busch Packaging Group, Inc., and Chairman and Chief Executive Officer of the Company&#146;s direct subsidiaries, Anheuser-Busch Recycling Corporation, Metal Container Corporation, Eagle Packaging, Inc., Precision Printing and Packaging, Inc. and Glass Container Corporation (doing business as Longhorn Glass Corporation), and has served in all such capacities since December 2006. He previously served as Vice President-Operations of the Company&#146;s subsidiary, Anheuser-Busch, Incorporated (2001-2006). </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JOHN T. FARRELL (age 61) is presently Vice President-Corporate Human Resources and has served in such capacity since March 2007. He previously served as Vice President-Employee Benefits of the Company (1996-March 2007).</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GARY L. RUTLEDGE (age 53) is presently Vice President-Legal and Government Affairs and has served in that capacity since January 1, 2008. He previously served as Vice President-Corporate Labor Relations of the Company (2001-2007).</font></P>
+<P align=center><font face=Times size=2>16<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="center"><b><font color="#000000"><font size="+1">PART&nbsp;&nbsp;II </font></font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by Items 5 (except as set forth below), 6, 7, 7A, and 8 of this Part II are hereby incorporated by reference from pages 26 through 65 of the Company&#146;s 2007 Annual Report to Shareholders. </font></P>
+<P align="left"><b><font color="#000000"><font size="+1">Item 5.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Market for the Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities </font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Following are the Company&#146;s common stock purchases during the fourth quarter of 2007 (shares in millions). All shares are repurchased under Board of Directors authorization. The Board&#146;s most recent authorization, to purchase 100 million shares, occurred in December 2006. There is no prescribed termination date for this program. The figures shown include shares delivered to the Company to exercise stock options.</font></P>
+<P align="left"></P>
+<table cellpadding=0 cellspacing=0 border=0 width=100%>
+<tr bgcolor="#e5f9fc">
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='center' valign='bottom' colspan=3>
+<b><font color="#000000"><font size="-1">Shares<br><hr></font></font></b></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='center' valign='bottom' colspan=3>
+<b><font color="#000000"><font size="-1">Avg. Price<br>per Share<br><hr></font></font></b></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Shares Remaining Authorized Under Disclosed Repurchase Programs at September 30, 2007&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000">76.3</font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000"><hr></font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Less Shares Repurchased: </font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">October&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000">2.7</font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+<font color="#000000">$</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">51.45</font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">November&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000">7.5</font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+<font color="#000000">$</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">50.46</font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">December&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000">4.8</font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+<font color="#000000">$</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">53.00</font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000"><hr></font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;Total Shares Repurchased&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000">15.0</font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000"><hr></font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Shares Remaining Authorized Under Disclosed Repurchase Programs at December 31, 2007&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000">61.3</font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000"><hr color="#000000" size="3"></font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+</table>
+<P align="left"></P>
+<P align="left"><b><font color="#000000"><font size="+1">Item 6.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Selected Financial Data </font></font></b></i></P>
+<P align="left"><i><b></b></i><b><font color="#000000"><font size="+1">Item 7.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations </font></font></b></i></P>
+<P align="left"><i><b></b></i><b><font color="#000000"><font size="+1">Item 7A.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Quantitative and Qualitative Disclosures About Market Risk </font></font></b></i></P>
+<P align="left"><i><b></b></i><b><font color="#000000"><font size="+1">Item 8.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Financial Statements and Supplementary Data </font></font></b></i></P>
+<P align="left"><i><b></b></i><b><font color="#000000"><font size="+1">Item 9.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Changes in and Disagreements with Accountants on Accounting and Financial Disclosure </font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.</font></P>
+<P align=center><font face=Times size=2>17<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="left"><b><font color="#000000"><font size="+1">Item 9A.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Controls and Procedures.</font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is the responsibility of the chief executive officer and chief financial officer to ensure the Company maintains disclosure controls and procedures designed to provide reasonable assurance that material information, both financial and non-financial, and other information required under the securities laws to be disclosed is identified and communicated to senior management on a timely basis. The Company&#146;s disclosure controls and procedures include mandatory communication of material subsidiary events, automated accounting processing and reporting, management review of monthly and quarterly results, periodic subsidiary business reviews, an established system of internal controls and rotating internal control reviews by the Company&#146;s internal auditors. </font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The chief executive officer and chief financial officer evaluated the Company&#146;s disclosure controls and procedures as of the end of the year ended December 31, 2007 and have concluded that they are effective as of December 31, 2007 in providing reasonable assurance that such information is identified and communicated on a timely basis. Additionally, there were no changes in the Company&#146;s internal control over financial reporting during the quarter ended December 31, 2007 that have materially affected, or are reasonably likely to materially affect, the Company&#146;s internal control over financial reporting.</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Management&#146;s Report on Internal Control Over Financial Reporting appears on page 41 of the 2007 Annual Report to Shareholders, which is incorporated by reference. The Report of the Independent Registered Public Accounting Firm on Internal Control Over Financial Reporting appears on page 42 of the 2007 Annual Report to Shareholders, which is incorporated by reference. </font></P>
+<P align="left"><b><font color="#000000"><font size="+1">Item 9B.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Other Information. </font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.</font></P>
+<P align="center"><b><font color="#000000"><font size="+1">PART&nbsp;&nbsp;III </font></font></b></P>
+<P align="left"><b><font color="#000000"><font size="+1">Item 10.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Directors, Executive Officers and Corporate Governance</font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this Item is hereby incorporated by reference from the sections entitled &#147;Information Concerning the Election of Directors,&#148; &#147;Additional Information Concerning the Board of Directors of the Company,&#148; &#147;Audit Committee,&#148; &#147;Certain Business Relationships and Transactions,&#148; &#147;Section 16(a) Beneficial Ownership Reporting Compliance,&#148; and &#147;Code of Business Conduct and Ethics&#148; of the Company&#146;s Proxy Statement for the Annual Meeting of Stockholders on April 23, 2008 (the &#147;2008 Proxy&#148;) and on pages 15 through 16 of this Form 10-K.</font></P>
+<P align="left"><b><font color="#000000"><font size="+1">Item 11.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Executive Compensation </font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this Item is hereby incorporated by reference from the sections entitled &#147;Director Compensation,&#148; &#147;Executive Compensation&#148; (entire section including all sections thereunder beginning with &#147;Compensation Discussion and Analysis Report&#148; through &#147;Equity Compensation Plans&#148;), &#147;Compensation Committee Interlocks and Insider Participation,&#148; and &#147;Report of the Compensation Committee&#148; of the 2008 Proxy. </font></P>
+<P align="left"><b><font color="#000000"><font size="+1">Item 12.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters</font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this Item hereby is incorporated by reference from the sections entitled &#147;Stock Ownership by Directors and Executive Officers&#148; and &#147;Equity Compensation Plans&#148; of the 2008 Proxy. </font></P>
+<P align=center><font face=Times size=2>18<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="left"><b><font color="#000000"><font size="+1">Item 13.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Certain Relationships and Related Transactions, and Director Independence</font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this Item is hereby incorporated by reference from the sections entitled &#147;Additional Information Concerning the Board of Directors of the Company,&#148; &#147;Committees of the Board&#148; and &#147;Certain Business Relationships and Transactions&#148; of the 2008 Proxy. </font></P>
+<P align="left"><b><font color="#000000"><font size="+1">Item 14.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Principal Accountant Fees and Services</font></font></b></i></P>
+<P align="left"><i><b></b></i><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this Item is hereby incorporated by reference from the section entitled &#147;Fees Paid to PricewaterhouseCoopers&#148; of the 2008 Proxy.</font></P>
+<P align="center"><b><font color="#000000"><font size="+1">PART&nbsp;&nbsp;IV </font></font></b></P>
+<P align="left"><b><font color="#000000"><font size="+1">Item 15.&nbsp;&nbsp;</font></font></b><i><b><font color="#000000"><font size="+1">Exhibits and Financial Statement Schedules</font></font></b></i></P>
+<P align="left"><i><b></b></i><b><font color="#000000">(a) The following documents are filed as part of this report:</font></b></P>
+<P align="left"><b></b></P>
+
+
+
+
+<table cellpadding=0 cellspacing=0 border=0 width=100%>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='bottom'>
+<b><font color="#000000">1.&nbsp;&nbsp;</font></b></td>
+<td align='left' valign='bottom' nowrap>
+&nbsp;</td>
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Financial Statements:</font></b></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<b><font color="#000000">Page<br><hr></font></b></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='left' valign='top' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='top'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Report of Independent Registered Public Accounting Firm</font></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<font color="#000000">&nbsp;&nbsp;42*&nbsp;&nbsp;</font></td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr bgcolor="#e5f9fc">
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='left' valign='top' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='top'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Consolidated Balance Sheet at December 31, 2007 and 2006</font></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<font color="#000000">&nbsp;&nbsp;43*&nbsp;&nbsp;</font></td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='left' valign='top' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='top'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Consolidated Statement of Income for the three years ended December 31, 2007</font></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<font color="#000000">&nbsp;&nbsp;44*&nbsp;&nbsp;</font></td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr bgcolor="#e5f9fc">
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='left' valign='top' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='top'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Consolidated Statement of Changes in Shareholders Equity for the three years ended December 31, 2007</font></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<font color="#000000">&nbsp;&nbsp;45*&nbsp;&nbsp;</font></td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='left' valign='top' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='top'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Consolidated Statement of Cash Flows for the three years ended December 31, 2007</font></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<font color="#000000">&nbsp;&nbsp;46*&nbsp;&nbsp;</font></td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr bgcolor="#e5f9fc">
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='left' valign='top' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='top'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Notes to Consolidated Financial Statements and Supplementary Information</font></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<font color="#000000">47-63*</font></td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='left' valign='top' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='top'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">*2007 Annual Report to Shareholders </font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='bottom'>
+<b><font color="#000000">&nbsp;</font></b></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='bottom'>
+<b><font color="#000000">2.&nbsp;&nbsp;</font></b></td>
+<td align='left' valign='top' nowrap>
+&nbsp;</td>
+<td align='left' valign='top'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Financial Statement Schedule: </font></b></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+
+
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#e5f9fc">
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='left' valign='top' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='top'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Report of Independent Registered Public Accounting Firm on Financial Statement Schedule for the three years ended<br>&nbsp;&nbsp;&nbsp;December 31, 2007</font></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<font color="#000000">F-1 </font></td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='left' valign='top' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='top'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Schedule II&#151;Valuation and Qualifying Accounts and Reserves</font></td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<font color="#000000">F-2 </font></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='bottom'>
+<b><font color="#000000">&nbsp;</font></b></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='bottom'>
+<b><font color="#000000">3.&nbsp;&nbsp;</font></b></td>
+<td align='left' valign='top' nowrap>
+&nbsp;</td>
+<td align='left' valign='top'>
+&nbsp;&nbsp;&nbsp;<b><font color="#000000">Exhibits: </font></b></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+</table>
+
+<table cellpadding=0 cellspacing=0 border=0 width=100%>
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Restated Certificate of Incorporation (Incorporated by reference to Exhibit 3.1 to Form 10-K for the fiscal year ended December 31, 2004). </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Certificate of Amendment of Restated Certificate of Incorporation (Incorporated by reference to Exhibit 3.1 to the Form 10-Q for the quarterly period ended March 31, 2006). </font></td>
+</tr>
+
+
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">By-Laws of the Company (As amended and restated on February 27, 2008). </font></td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 4.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Indenture dated as of August 1, 1995 between the Company and The Chase Manhattan Bank, as Trustee (Incorporated by reference to Exhibit 4.1 in the Form S-3 of the Company, Registration Statement No. 33-60885). </font></td>
+</tr>
+</table>
+
+
+
+
+<P align=center><font face=Times size=2>19<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P>
+
+
+
+
+<table cellpadding=0 cellspacing=0 border=0>
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 4.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Indenture dated as of July 1, 2001 between the Company and The Chase Manhattan Bank, as Trustee (Incorporated by reference to Exhibit 4.4 to the Form 10-K for the fiscal year ended December 31, 2002).<br>
+&nbsp;<br>
+Other indentures are not required to be filed, but the Company agrees to furnish copies of such instruments to the Securities and Exchange Commission upon request. </font></td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 4.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Credit Agreement dated as of September 30, 2005 among the Company and JP Morgan Chase Bank, N.A., as Administrative Agent (Incorporated by reference to Exhibit 4 to Form 10-Q for the quarter ended September 30, 2005). </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+
+
+<table cellpadding=0 cellspacing=0 border=0>
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Anheuser-Busch Companies, Inc. Deferred Compensation Plan for Non-Employee Directors (Amended and Restated as of March 1, 2000) (Incorporated by reference to Exhibit 10.1 to Form 10-K for the fiscal year ended December 31, 2004).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Anheuser-Busch Companies, Inc. Non-Employee Director Elective Stock Acquisition Plan (Amended and Restated as of March 1, 2000) (Incorporated by reference to Exhibit 10.2 to the Form 10-K for the fiscal year ended December 31, 2004).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Anheuser-Busch Companies, Inc. Stock Plan for Non-Employee Directors (Restated to reflect a 2-for-1 stock split effective September 18, 2000 and amendments effective February 28, 2001 and October 23, 2002) (Incorporated by reference to Appendix B to the Definitive Proxy Statement for Annual Meeting of Stockholders on April 23, 2003).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Anheuser-Busch Companies, Inc. 1989 Incentive Stock Plan (As amended December 20, 1989, December 19, 1990, December 15, 1993, December 20, 1995, and November 26, 1997) (Incorporated by reference to Exhibit 10.4 to Form 10-K for the fiscal year ended December 31, 2002).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Anheuser-Busch Companies, Inc. 1998 Incentive Stock Plan as amended on September 27, 2006 (Incorporated by reference to Exhibit 10.5 to Form 10-Q for the quarterly period ended September 30, 2006).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Anheuser-Busch Companies, Inc. 2007 Equity and Incentive Plan (Incorporated by reference to Appendix B to the Definitive Proxy Statement for Annual Meeting of Stockholders on April 25, 2007.)* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Anheuser-Busch Companies, Inc. Excess Benefit Plan (Amended and Restated as of March 1, 2000) (Incorporated by reference to Exhibit 10.6 to the Form 10-K for the fiscal year ended December 31, 2004).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Anheuser-Busch Companies, Inc. Supplemental Executive Retirement Plan (Amended and Restated as of March 1, 2003) (Incorporated by reference to Exhibit 10.8 to Form 10-K for the fiscal year ended December 31, 2002).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">First Amendment of Anheuser-Busch Companies, Inc. Supplemental Executive Retirement Plan (Amended and Restated as of March 1, 2003).</font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+
+
+<table cellpadding=0 cellspacing=0 border=0>
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Anheuser-Busch Executive Deferred Compensation Plan (Amended and Restated as of January 1, 2002) (Incorporated by reference to Exhibit 10.9 to Form 10-K for the fiscal year ended December 31, 2002).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">First Amendment to the Anheuser-Busch Executive Deferred Compensation Plan (Amended and Restated as of January 1, 2002) (Incorporated by reference to Exhibit 10.9 to Form 10-K for the fiscal year ended December 31, 2005).* </font></td>
+</tr>
+</table>
+<P align=center><font face=Times size=2>20<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P>
+
+<table cellpadding=0 cellspacing=0 border=0>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Anheuser-Busch 401(k) Restoration Plan (Amended and Restated as of March 1, 2000) (Incorporated by reference to Exhibit 10.11 to Form 10-K for the fiscal year ended December 31, 2004).* </font></td>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">First Amendment to the Anheuser-Busch 401(k) Restoration Plan (Amended and Restated as of March 1, 2000) (Incorporated by reference to Exhibit 10.11 to Form 10-K for the fiscal year ended December 31, 2005).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Form of Indemnification Agreement with Directors and Executive Officers (Incorporated by reference to Exhibit 10.12 to the Form 10-K for the fiscal year ended December 31, 2004).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Anheuser-Busch Officer Bonus Plan as amended on April 26, 2000 and April 27, 2005 (Incorporated by reference to Appendix B to the Definitive Proxy Statement for Annual Meeting of Stockholders on April 27, 2005).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Investment Agreement By and Among Anheuser-Busch Companies, Inc., Anheuser-Busch International, Inc. and Anheuser-Busch International Holdings, Inc. and Grupo Modelo, S.A.B. de C.V., Diblo, S.A. de C.V. and certain shareholders thereof, dated as of June 16, 1993 (Incorporated by reference to Exhibit 10.14 to Form 10-K for the fiscal year ended December 31, 2004). </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Letter agreement between Anheuser-Busch Companies, Inc. and the Controlling Shareholders regarding Section 5.5 of the Investment Agreement filed as Exhibit 10.16 of this report (Incorporated by reference to Exhibit 10.15 to Form 10-K for the fiscal year ended December 31, 2004). </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Second Amendment to Investment Agreement By and Among Anheuser-Busch Companies, Inc., Anheuser-Busch International, Inc. and Anheuser-Busch International Holdings, Inc. and Grupo Modelo, S.A.B. de C.V., Diblo, S.A. de C.V., and certain shareholders thereof (Incorporated by reference to Exhibit 10.17 to Form 10-K for the fiscal year ended December 31, 2006). </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Form of Indemnification Agreement between Anheuser-Busch, Incorporated and an Executive Officer of the Company (Incorporated by reference to Exhibit 10.16 to Form 10-K for the fiscal year ended December 31, 2002).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">2008 Officer Bonus Program.* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Summary of compensation arrangements with Executive Officers of the Company.* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Summary of compensation arrangements with Non-Employee Directors of the Company (Incorporated by reference to Exhibit 10.21 to Form 10-Q for the period ended September 30, 2007).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Form of Incentive Stock Option Cover Sheet and Standard Incentive Stock Option Agreement under the Anheuser-Busch Companies, Inc. 2007 Equity and Incentive Plan for executive officers of Anheuser-Busch Companies, Inc. (Incorporated by reference to Exhibit 10.23 to Form 8-K dated November 28, 2007).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Form of Non-Qualified Stock Option Cover Sheet and Standard Non-Qualified Stock Option Agreement under the Anheuser-Busch Companies, Inc. 2007 Equity and Incentive Plan for executive officers of Anheuser-Busch Companies, Inc. (Incorporated by reference to Exhibit 10.24 to Form 8-K dated November 28, 2007).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Independent Consulting Agreement with a Former Executive Officer of the Company (Incorporated by reference to Exhibit 10.24 to Form 8-K dated November 21, 2006).* </font></td>
+</tr>
+</table>
+<P align=center><font face=Times size=2>21<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P>
+
+<table cellpadding=0 cellspacing=0 border=0>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Independent Consulting Agreement with a Former Executive Officer of the Company (Incorporated by reference to Exhibit 10.25 to Form 8-K dated November 21, 2006).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Confidential Agreement and General Release with a Former Executive of the Company (Incorporated by reference to Exhibit 10.27 to Form 10-K for the fiscal year ended December 31, 2006).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Letter to a Former Executive of the Company (Incorporated by reference to Exhibit 10.28 to Form 10-K for the fiscal year ended December 31, 2006).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.29&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Consulting and Non-Disclosure Agreement and General Release with Former Executive Officer of the Company (Incorporated by reference to Exhibit 10.30 to Form 10-K for the fiscal year ended December 31, 2006)*</font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Confidential Agreement and General Release with a Former Executive of the Company.* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.31&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Summary of Executive Tax and Financial Consulting Program for Executive Officers of the Company (Incorporated by reference to Exhibit 10.24 to Form 10-Q for the quarterly period ended September 30, 2006).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.32&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Anheuser-Busch Companies, Inc. 2006 Restricted Stock Plan for Non-Employee Directors (Incorporated by reference to Appendix B to the Definitive Proxy Statement for Annual Meeting of Stockholders on April 26, 2006).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.33&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Form of Notice of Award and Information Memorandum under Anheuser-Busch Companies, Inc. 2006 Restricted Plan for Non-Employee Directors (Incorporated by reference to Exhibit 10.32 to the Form 10-Q for the quarterly period ended March 31, 2007).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.34&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Form of Notice of Award and Information Memorandum under Anheuser-Busch Companies, Inc. 2006 Restricted Stock Plan for Non-Employee Director who is a citizen of Mexico (Incorporated by reference to Exhibit 10.33 to the Form 10-Q for the quarterly period ended March 31, 2007).* </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 10.35&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Anheuser-Busch Companies, Inc. Related Person Transactions Policy (Incorporated by reference to Exhibit 10.34 to Form 10-K for the fiscal year ended December 31, 2006). </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+
+
+<table cellpadding=0 cellspacing=0 border=0>
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Ratio of Earnings to Fixed Charges. </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Pages 26 through 65 of the Anheuser-Busch Companies, Inc. 2007 Annual Report to Shareholders, a copy of which is furnished for the information of the Securities and Exchange Commission. Portions of the Annual Report not incorporated herein by reference are not deemed &#147;filed&#148; with the Commission. </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Code of Business Ethics and Conduct (Incorporated by reference to Exhibit 14 to Form 10-K for the fiscal year ended December 31, 2003). </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Subsidiaries of the Company. </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Consent of Independent Registered Public Accounting Firm. </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Power of Attorney. </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+
+<table cellpadding=0 cellspacing=0 border=0>
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 31.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Certification of Chief Executive Officer required by Rule 13a-14(a) and 15d-14(a) under the Exchange Act. </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 31.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Certification of Chief Financial Officer required by Rule 13a-14(a) and 15d-14(a) under the Exchange Act. </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 32.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. </font></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top' nowrap>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 32.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. </font></td>
+</tr>
+</table>
+
+
+<div align="left">
+<P><b><font color="#000000"><hr align='left' width=60 size=0></b><br>
+*A management contract or compensatory plan or arrangement required to be filed by Item 15(c) of this report.</font></P>
+<P align=center><font face=Times size=2>22<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="center"><b><font color="#000000">SIGNATURES</font></b></P>
+<P align="left"><b></b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></P>
+<P align="left"></P>
+<table cellpadding=0 cellspacing=0 border=0 width=100%>
+
+
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" width=50%>&nbsp;</td>
+<td align='center' valign='bottom'>
+<font color="#000000"><u>&nbsp;&nbsp;&nbsp;&nbsp;ANHEUSER-BUSCH COMPANIES, INC.&nbsp;&nbsp;&nbsp;&nbsp;</u>
+</font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='left' valign='bottom'>
+<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Registrant) </font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+<font color="#000000">&nbsp;</font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align=center align='left' valign='bottom'>
+<font color="#000000" >By</font><u><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/s/&nbsp;&nbsp;&nbsp;</font><font color="#000000">W</font><font color="#000000"><font size="-1">.</font></font><font color="#000000"> R</font><font color="#000000"><font size="-1">ANDOLPH</font></font><font color="#000000"> B</font><font color="#000000"><font size="-1">AKER</font></font><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></u><br>
+W. Randolph Baker<br>Vice President and Chief Financial Officer</font></td>
+</tr>
+</table>
+
+
+<P align="left"><font color="#000000">Date: February 29, 2008</font></P>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.</font></P>
+<P align="left"><font color="#000000">Principal Executive Officer:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;August A. Busch IV*<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;President and Chief Executive Officer</font></P>
+<P align="left"><font color="#000000">Principal Financial Officer:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W. Randolph Baker<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vice President and Chief Financial Officer</font></P>
+<P align="left"><font color="#000000">Principal Accounting Officer:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;John F. Kelly*<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vice President and Controller</font></P>
+
+
+
+<table cellpadding=0 cellspacing=0 border=0 width=100%>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom' width=50%>
+<font color="#000000">&nbsp;</font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='left' valign='bottom'>
+<u><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/s/&nbsp;&nbsp;&nbsp;</font><font color="#000000">W</font><font color="#000000"><font size="-1">.</font></font><font color="#000000"> R</font><font color="#000000"><font size="-1">ANDOLPH</font></font><font color="#000000"> B</font><font color="#000000"><font size="-1">AKER</font></font><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></u><br>
+(W. Randolph Baker, as attorney-in-fact and on his<br>own behalf as Principal Financial Officer)</font></td>
+</tr>
+</table>
+
+<P align="left"><font color="#000000">Date: February 29, 2008</font></P>
+<div align="left">
+
+<P><font color="#000000">Directors:<br><hr align='left' size=0>
+</font></P>
+</div>
+<table cellpadding=0 cellspacing=0 border=0 width=100%>
+
+
+<tr bgcolor="#ffffff">
+<td align='left' valign='top'>
+<font color="#000000">August A. Busch IV*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Patrick T. Stokes*<br>August A. Busch III*<br>Carlos Fernandez G.*<br>James J. Forese*<br>John E. Jacob*<br>James R. Jones*<br>Charles F. Knight*</font></td>
+<td align='left' valign='top'>
+<font color="#000000">Vernon R. Loucks, Jr.*<br>Vilma S. Martinez*<br>William Porter Payne*<br>Joyce M. Roch&eacute;*<br>Henry Hugh Shelton*<br>Andrew C. Taylor*<br>Douglas A. Warner III*<br>Edward E. Whitacre, Jr.* </font></td>
+</tr>
+</table>
+<div align="left">
+<P><font color="#000000"><hr align='left' size=0>
+</font></P>
+</div>
+<P align="left"><font color="#000000">* by power of attorney</font></P>
+<P align=center><font face=Times size=2>23<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="center"><b><font color="#000000"><font size="+1">ANHEUSER-BUSCH COMPANIES, INC.</font></font></b></P>
+<P align="center"><b><font color="#000000">INDEX&nbsp;TO&nbsp;FINANCIAL&nbsp;STATEMENT&nbsp;SCHEDULE</font></b></P>
+<P align="center"><b></b></P>
+
+
+<table cellpadding=0 cellspacing=0 border=0 width=80%>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='center' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='center' valign='bottom'>
+<b><font color="#000000"><font size="-1">Page<br><hr></font></font></b></td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Report of Independent Registered Public Accounting Firm on Financial Statement Schedule&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br></font></td>
+<td align='center' valign='top' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='center' valign='top'>
+<font color="#000000">F-1 </font></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">Financial Statement Schedule for the Years 2007, 2006 and 2005:<br>&nbsp;<br> </font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='left' valign='bottom'>
+&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;Valuation and Qualifying Accounts and Reserves (Schedule II)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='center' valign='top' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='center' valign='top'>
+<font color="#000000">F-2 </font></td>
+</tr>
+</table>
+<P align="left"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All other Financial Statement Schedules are omitted because they are not applicable or the required information is shown in the Consolidated Financial Statements and Notes.</font></P>
+<P align=center><font face=Times size=2>24<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P><IMG SRC="priceltrhd.jpg" width=70%></P><P align="left"></P>
+<P align="center"><b><font color="#000000">REPORT&nbsp;OF&nbsp;INDEPENDENT&nbsp;REGISTERED&nbsp;PUBLIC&nbsp;ACCOUNTING&nbsp;FIRM&nbsp;ON<br>FINANCIAL&nbsp;STATEMENT&nbsp;SCHEDULE</font></b></P>
+<P align="left"><b></b></P>
+<P align="left"><b></b><font color="#000000">To the Board of Directors<br>of Anheuser-Busch Companies, Inc.</font></P>
+<P align="left"><font color="#000000">Our audits of the consolidated financial statements and of the effectiveness of internal control over financial reporting referred to in our report dated February 27, 2008 appearing in the 2007 Annual Report to Shareholders of Anheuser-Busch Companies, Inc. (which report and consolidated financial statements are incorporated by reference in this Annual Report on Form 10-K) also included an audit of Schedule II - Valuation and Qualifying Accounts and Reserves included in this Form 10-K. In our opinion, this financial statement schedule presents fairly, in all material respects, the information set forth therein when read in conjunction with the related consolidated financial statements.</font></P>
+<P><IMG SRC="pwc.gif" width=45%></P><P align="left"><font color="#000000">St. Louis, MO<br>February 27, 2008</font></P>
+<P align=center><font face=Times size=2>F-1<br><hr size=5 noshade></font></p><P style="page-break-after:always"></P><P align="center"><b><font color="#000000"><font size="+1">ANHEUSER-BUSCH COMPANIES, INC.</font></font></b></P>
+<P align="center"><b><font color="#000000">SCHEDULE&nbsp;II&#151;VALUATION&nbsp;AND&nbsp;QUALIFYING&nbsp;ACCOUNTS&nbsp;AND&nbsp;RESERVES</font></b></P>
+<P align="center"><b><font color="#000000"><font size="-1">(In Millions)</font></font></b></P>
+<table cellpadding=0 cellspacing=0 border=0 width=100%>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom'>
+<b><font color="#000000"><font size="-1">2007<br><hr></font></font></b></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom'>
+<b><font color="#000000"><font size="-1">2006<br><hr></font></font></b></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom'>
+<b><font color="#000000"><font size="-1">2005<br><hr></font></font></b></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+<font color="#000000">Deferred income tax asset valuation allowance: </font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+<font color="#000000">&nbsp;&nbsp;Balance at beginning of period &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+<font color="#000000">$</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">47.4</font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+<font color="#000000">$</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">67.0</font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+<font color="#000000">$</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">32.2</font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td align='left' valign='bottom'>
+<font color="#000000">&nbsp;&nbsp;Additions charged to expense, including litigation settlement in 2005&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000">13.6</font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000">18.5</font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000">47.6</font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+<font color="#000000">&nbsp;&nbsp;Reductions from utilizations, primarily litigation settlement in 2006&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000">(11.0</font></td>
+<td align='left' valign='bottom' nowrap>
+<font color="#000000">)</font></td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000">(38.1</font></td>
+<td align='left' valign='bottom' nowrap>
+<font color="#000000">)</font></td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000">(12.8</font></td>
+<td align='left' valign='bottom' nowrap>
+<font color="#000000">)</font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000"><hr></font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000"><hr></font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000"><hr></font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td align='left' valign='bottom'>
+<font color="#000000">&nbsp;&nbsp;Balance at end of period &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+<font color="#000000">$</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">50.0</font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+<font color="#000000">$</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">47.4</font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+<font color="#000000">$</font></td>
+<td align='right' valign='bottom'>
+<font color="#000000">67.0</font></td>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr bgcolor="#e5f9fc">
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000"><hr color="#000000" size="3"></font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000"><hr color="#000000" size="3"></font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom' nowrap>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td align='right' valign='bottom'>
+<font color="#000000"><hr color="#000000" size="3"></font></td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+<td bgcolor="#e5f9fc">&nbsp;</td>
+</tr>
+</table>
+<P align=center><font face=Times size=2>F-2</font></p><P style="page-break-after:always"></P></body>
+</html>
+</TEXT>
+</DOCUMENT>
+

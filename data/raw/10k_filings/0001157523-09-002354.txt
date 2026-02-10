@@ -1,0 +1,1360 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>a5923415.txt
+<DESCRIPTION>SUNSHINE PCS CORPORATION 10-K
+<TEXT>
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+[X]   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+      ACT OF 1934
+
+For the fiscal year ended: December 31, 2008
+                           -----------------
+
+                                       or
+[ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+For the transition period from                       to
+                              -----------------------  -------------------------
+
+Commission file number:  333-50948
+
+                            SUNSHINE PCS CORPORATION
+--------------------------------------------------------------------------------
+             (Exact name of Registrant as specified in its charter)
+
+                     Delaware                                30-0076986
+                     --------                                ----------
+            State of other jurisdiction                   (I.R.S. Employer
+           incorporation or organization                 Identification No.)
+
+          65 Highland Road, Rye, New York                       10580
+     (Address of principal executive offices)                (Zip Code)
+
+Registrant's telephone number, including area code    (914) 967-3285
+                                                      --------------
+
+Securities registered pursuant to Section 12(b) of the Act:  None
+                                                             ----
+
+Securities registered pursuant to section 12(g) of the Act:  None
+                                                             ----
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act. Yes [  ]   No [X]
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act Yes [ ] No [X]
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Act of 1934 during the
+preceding 12 months (or for such shorter period that the Registrant was required
+to file such reports), and (2) has been subject to such filing requirements for
+the past 90 days. Yes[X] No [_]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulations S-K is not contained herein, and will not be contained, to the
+best of the Registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K, or any
+amendment to this Form 10-KSB. [_]
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, a non-accelerated filer, or a smaller reporting company. See
+the definitions of "large accelerated filer," "accelerated filer" and "smaller
+reporting company" in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer [  ]                      Accelerated filer [  ]
+Non-accelerated filer [  ]                        Smaller reporting company [X]
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act) Yes [X] No [ ]
+
+<PAGE>
+
+As of March 17, 2009, the aggregate market value of the Registrant's voting and
+nonvoting common equity held by non-affiliates of the Registrant was
+approximately $12,000, which value, solely for the purposes of this calculation,
+excludes shares held by the Registrant's officers, directors, and their
+affiliates. Such exclusion should not be deemed a determination or an admission
+by the issuer that all such individuals are, in fact, affiliates of the issuer.
+
+The number of outstanding shares of the Registrant's Common Stock was 4,588,653
+as of March 17, 2009.
+
+================================================================================
+
+
+
+                                       2
+
+<PAGE>
+                            SUNSHINE PCS CORPORATION
+                                TABLE OF CONTENTS
+                                                                        Page No.
+
+Item 1.    Business.                                                       4
+
+Item 1A.   Risk Factors.
+
+Item 1B.   Unresolved Staff Comments.
+
+Item 2.    Properties.                                                     4
+
+Item 3.    Legal Proceedings.                                              4
+
+Item 4.    Submission of Matters to a Vote of Security Holders.            5
+
+Item 5.    Market For Registrant's Common Equity, Related Stockholder
+           Matters and Issuer Purchases of Equity Securities.              5
+
+Item 6.    Selected Financial Data.                                        5
+
+Item 7.    Management's Discussion and Analysis of Financial Condition
+           and Results of Operations.                                      6
+
+Item 7A.   Quantitative and Qualitative Disclosure About Market Risk.      7
+
+Item 8.    Financial Statements and Supplementary Data.                    7-15
+
+Item 9.    Changes in and Disagreements with Accountants on Accounting
+           and Financial Disclosure.                                       16
+
+Item 9A.   Controls and Procedures.                                        16
+
+Item 9B.   Other Information.                                              17
+
+Item 10.   Directors, Executive Officers and Corporate Governance.         17-18
+
+Item 11.   Executive Compensation.                                         19
+
+Item 12.   Security Ownership of Certain Beneficial Owners and
+           Management and Related Stockholder Matters.                     19-20
+
+Item 13.   Certain Relationships and Related Transactions and
+           Director Independence.                                          20
+
+Item 14.   Principal Accountant Fees and Services.                         20
+
+Item 15.   Exhibits, Financial Statement Schedules.                        20
+
+           Signatures
+<PAGE>
+
+                                     PART I
+                                     ------
+
+Item 1.  Business.
+
+         Sunshine PCS Corporation  ("we",  "Sunshine",   or  the  "Company")  is
+currently a holding  company with  $442,026 in cash and cash  equivalents  as of
+December  31, 2008.  We  currently  have no  appreciable  operations  other than
+maintenance  status as a public  company.  We are  continuing  to  evaluate  all
+options available to us at this time.
+
+         Prior to December 31, 2003, we were in the business of  developing  our
+three  personal  communication  services  licenses in Florida.  On that date, we
+completed the sale of our three 15 megahertz C-Block per personal communications
+services licenses to Cingular Wireless LLC for $13,600,000 in cash.
+
+Item 1A. Risk Factors.
+
+         We are a smaller  reporting  company  as defined  in Item  10(f)(1)  of
+Regulation S-K and thus are not required to report the risk factors specified in
+Item 503(c) of Regulation S-K.
+
+
+Item 1B. Unresolved Staff Comments.
+
+         None.
+
+Item 2.  Properties.
+
+         The Company does not own any property.
+
+Item 3.  Legal Proceedings.
+
+         The   Company   along   with   Fortunet   Communications,   L.P.,   our
+predecessor-in-interest,  as well as Victoria G. Kane,  the sole  stockholder of
+Fortunet Wireless  Communication  Corporation,  which was previously our largest
+stockholder,  Karen E. Johnson,  our former Chief  Executive  Officer,  and LICT
+Corporation  ("LICT"),  formerly  known  Lynch  Interactive  Corporation,  among
+others,  were  named as  defendants  in a  lawsuit  brought  in 2001  under  the
+so-called  "qui tam"  provisions  of the federal  False Claims Act in the United
+States District Court for the District of Columbia.  The complaint  alleged that
+the defendants  defrauded the United States  Government  (the  "Government")  by
+creating   "sham"   bidding   entities  to   participate   in  certain   Federal
+Communications   Commission  ("FCC")  spectrum  auctions   restricted  to  small
+businesses  and  unfairly  obtained  bidding  credits and  favorable  government
+financing in these and other spectrum auctions in the mid and late 1990's.
+
+         In May 2006, a tentative  settlement was reached  pursuant to which the
+defendants  agreed to pay the  Government  $130 million,  plus $9 million to the
+counsel of the individual who brought the lawsuit as legal fees and expenses. In
+June  2006,  the  defendants  reached  a  tentative  agreement   allocating  the
+above-mentioned   settlement  amounts  among  themselves.   In  July  2006,  the
+definitive settlement agreements with the Government and the Relator were signed
+and approved by the federal judge hearing the case and the case was dismissed in
+August 2006. In entering into the settlement agreements, the Company admitted no
+liability  and the conduct  giving rise to the case is  expressly  excluded as a
+basis for future administrative proceedings by the FCC.
+
+         The defendants  have agreed to an allocation of the  settlement  amount
+and the payment to the  Relator's  counsel  and the Company was not  required to
+fund any portion thereof.  The defendants have not agreed among themselves as to
+the share of litigation  costs each defendant  should  ultimately bear. To date,
+LICT and certain other  defendants have paid all legal fees associated with this
+action,  other  than the fees  the  Company  has  paid  and  accrued  under  the
+indemnification  provisions  of the  agreement  on the sale of our  licenses  to
+Cingular Wireless.  Prior to our becoming a public company, in 2001, LICT held a
+significant   equity  ownership  position  in  our  Company  and  prior  to  the
+acquisition of licenses by Cingular,  in 2005, LICT held notes,  preferred stock
+and options to acquire our Class A Common Stock.  LICT and the other  defendants
+have  funded   approximately   $8  million  of  the  legal  costs  not  directly
+attributable to any particular  defendant (joint defense costs). It is currently
+unclear to what extent those  defendants  (or any other  defendant)  may seek to
+reimbursement  from  the  Company  for  part  or all  of  their  defense.  While
+management  believes that it would be able to satisfy the Company's  obligations
+under such a potential request with its current resources, there is no assurance
+that  such  could be  accomplished.  The  Company  will  accrue a  liability  in
+accordance  with SFAS No.  5,  when it is  probable  that a  liability  has been
+incurred and the amount of the loss can be reasonably estimated.
+
+                                       4
+<PAGE>
+
+         The Company does not have any insurance to cover the costs of defending
+this lawsuit, which costs may be material.
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+
+         None.
+
+                                     PART II
+
+Item 5.  Market for the Registrant's Common Equity, Related Stockholder Matters,
+         and Issuer Purchases of Equity Securities.
+
+
+         The shares of our Class A common  stock  trade on the  over-the-counter
+market in the Pink Sheets,  under the symbol:  SNSHA.PK The following table sets
+forth the high and low market prices of the Class A common stock for the periods
+indicated, as reported by published sources. These prices represent inter-dealer
+quotations  without  retail  markup,   markdown,   or  commission  and  may  not
+necessarily represent actual transactions.
+
+                                                          High             Low
+                                                          ----             ---
+
+2008 Fiscal Year
+----------------
+First Quarter                                           $0.030          $0.002
+Second Quarter                                          $0.010          $0.003
+Third Quarter                                           $0.003          $0.003
+Fourth Quarter                                          $0.004          $0.003
+
+2007 Fiscal Year
+----------------
+First Quarter                                           $0.002         $0 .015
+Second Quarter                                          $0.015          $0.015
+Third Quarter                                           $0.015          $0.015
+Fourth Quarter                                          $0.010          $0.040
+
+
+         As of March 17, 2009, there were approximately 600 holders of record of
+the Company's common stock.
+
+         In 2003,  we used a portion of the sales  proceeds from the sale of our
+three licenses to acquire all of our preferred stock and  warrants held by Lynch
+Interactive  Corporation  for an aggregate  amount of $7,587,000  and all of our
+outstanding Class B Common Stock for an aggregate amount of $613,863.
+
+         On March 2, 2004, our Board of Directors  declared a cash  distribution
+on our Class A common  stock of $0.83 per share,  we made the cash  distribution
+March 19, 2004.  The Company does not  anticipate  to pay cash  dividends in the
+foreseeable future.
+
+         During the fiscal year ended  December  31,  2008,  the Company did not
+sell any unregistered securities,  and did not repurchase any of its shares from
+its stockholders.
+
+Item 6.  Selected Financial Data.
+
+         We are a smaller  reporting  company  as defined  in Item  10(f)(1)  of
+Regulation  S-K and thus are not required to report the selected  financial data
+specified in Item 303 of Regulation S-K.
+
+                                       5
+
+<PAGE>
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and Results
+         of Operation.
+
+         Forward-Looking Statements and Uncertainty of Financial Projections
+
+         Forward-looking  statements are not based on historical information but
+relate  to  future   operations,   strategies,   financial   results   or  other
+developments.  Forward-looking  statements are necessarily  based upon estimates
+and assumptions that are inherently  subject to significant  business,  economic
+and competitive  uncertainties and  contingencies,  many of which are beyond our
+control  and many of which,  with  respect  to future  business  decisions,  are
+subject to change.  These  uncertainties  and  contingencies  can affect  actual
+results and could cause actual results to differ materially from those expressed
+in any forward-looking statements made by, or on behalf of, us.
+
+         Overview
+
+         As of  December  31,  2008,  the  Company's  only assets  consisted  of
+$442,026 in cash and a net operating  loss carry-forward of  approximately  $3.7
+million  incurred over the years starting in year 2001 through the current year.
+The loss carryover may be carried  forward 20 years which would expire  starting
+in 2021.  The ability to utilize  this loss  carry-forward  is  dependent on the
+Company's ability to generate a taxable income prior to its expiration.
+
+         The Company currently has no operating revenues, its only costs are the
+administrative  expenses required to comply with the regulatory filings required
+to maintain its public  status.  These costs are estimated at $65,000 to $75,000
+per year.
+
+         We are evaluating all options available to the Company at this time.
+
+         Results of Operations
+
+         For the year  ended  December  31,  2008,  our net loss was  $63,334 as
+compared to net loss of $67,721 in 2007.
+
+         The  interest  income was $9,947 in year 2008  compared  to $25,046 for
+year 2007. The decline in interest income was the result of lower interest rates
+on the Company's  investments in the United States Treasury Securities and lower
+average investment balances.
+
+         General  and  administration  expenses  for year 2008 were  $39,163  as
+compared to $57,264  during year 2007.  The Company  recorded  lower general and
+administrative  expenses  for  the  year  by  reducing  the  fees  paid  to  its
+administrative  and management  consulting  firm by 50% beginning  October 2007.
+Professional fees were $34,118 for year 2008 about the same as for year 2007.
+
+         Liquidity and Capital Resources
+
+         At December 31, 2008, we had $442,026 in cash and cash  equivalents  as
+compared to $509,360 at December 31, 2007. During year 2009, the Company expects
+to pay about  $75,000 in costs and  expenses.  These  costs do not  include  any
+unusual transactions that may incur during the year.
+
+         Off-Balance Sheet Arrangements
+
+         The Company does not have any off-balance sheet arrangements.
+
+         Recently Issued Accounting Pronouncements
+
+         In September  2006, the Financial  Accounting  Standards Board ("FASB")
+issued Statement of Financial Accounting Standards ("SFAS") No. 157, "Fair Value
+Measurements."  SFAS No. 157 defines  fair value,  establishes  a framework  for
+measuring fair value and expands  disclosure about fair value  measurements.  It
+applies to other  pronouncements  that require or permit fair value but does not
+require any new fair value  measurements.  The  statement  defines fair value as
+"the  price  that  would be  received  to sell an asset  or paid to  transfer  a
+liability  in  an  orderly   transaction  between  market  participants  at  the
+measurement  date." SFAS No. 157  establishes a fair value hierarchy to increase
+consistency and comparability in fair value  measurements and disclosures.  SFAS
+No. 157 is effective  for fiscal years  beginning  after  November 15, 2007.  In
+February 2008,  FASB issued FASB Staff Position  157-2,  "Effective Date of FASB
+Statement No. 157" ("FSP SFAS 157-2"),  which permits a one-year deferral of the
+application  of SFAS No. 157,  for all  non-financial  assets and  non-financial
+liabilities, except those that are recognized or disclosed at fair value in the
+
+                                       6
+
+<PAGE>
+
+financial  statements  on a  recurring  basis (at least  annually).  The Company
+adopted SFAS No. 157 and FSP SFAS 157-2 effective January 1, 2008 [for financial
+assets and  liabilities].  The  adoption of SFAS No. 157 did not have a material
+impact on our consolidated  financial  statements.  The Company adopted SFAS No.
+157 for non-financial assets and non-financial  liabilities effective January 1,
+2009 which did not have a material impact on the Company's financial statements.
+In October 2008, the FASB issued FASB Staff  Position  157-3,  "Determining  the
+Fair Value of a  Financial  Asset When the Market for That Asset is Not  Active"
+("FSP SFAS 157-3"),  which clarifies the application of SFAS No. 157 in a market
+that is not active. The adoption of this standard did not have a material impact
+on the Company's financial statements.
+
+         In February  2007, the FASB issued SFAS No. 159, "The Fair Value Option
+for Financial Assets and Financial  Liabilities - Including an amendment of FASB
+Statement  No.  115." SFAS No. 159 permits all entities to choose to measure and
+report  many  financial  instruments  and  certain  other items at fair value at
+specified  election dates. If such an election is made, any unrealized gains and
+losses on items for which the fair value option has been elected are required to
+be reported in earnings at each subsequent reporting date. In addition, SFAS No.
+159 establishes  presentation and disclosure requirements designed to facilitate
+comparisons between companies that choose different  measurement  attributes for
+similar  types  of  assets  and  liabilities.  We were  required  to  adopt  the
+provisions  of SFAS No. 159 for  financial  statements  issued for fiscal  years
+beginning  after  November 15, 2007. The adoption of SFAS No. 159 did not have a
+material impact on our financial statements.
+
+         In  December  2007,   the  FASB  issued  SFAS  No.   141(R),   Business
+Combinations and SFAS No. 160, Noncontrolling Interest in Consolidated Financial
+Statements.   These  Statements   replace  FASB  Statement  No.  141,   Business
+Combinations,  and requires an acquirer to recognize  the assets  acquired,  the
+liabilities  assumed,  and any  noncontrolling  interest in the  acquiree at the
+acquisition date, measured at their fair values as of that date. SFAS No. 141(R)
+also makes  significant  amendments to other Statements and other  authoritative
+guidance.  The Statements are effective for years beginning on or after December
+15,  2008.  The  adoption of this  statement  is not expected to have a material
+impact on our financial statements. We expect that the adoption of this standard
+will have no impact on our financial statements.
+
+         In  March  2008,  the  FASB  issued  SFAS No.  161,  Disclosures  about
+Derivative  Instruments and Hedging  Activities,  an amendment of FASB Statement
+No. 133 (SFAS No. 161). SFAS No. 161 requires enhanced disclosures  regarding an
+entity's derivative and hedging activities.  These enhanced  disclosures include
+information regarding how and why an entity uses derivative instruments;  how to
+account for derivative  instruments  and related hedge items under SFAS No. 133,
+Accounting for Derivative  Instruments and Hedging  Activities,  and its related
+interpretations;  and how derivative  instruments and related hedge items affect
+an entity's financial position,  financial  performance and cash flows. SFAS No.
+161 is effective  for financial  statements  issued for fiscal years and interim
+periods beginning after November 15, 2008. The adoption of this statement is not
+expected to have a material impact on our financial  statements.  We expect that
+the adoption of this standard will have no impact on our financial statements.
+
+Item 7A. Quantitive and Qualitative Analysis of Market Risk.
+
+         We are a smaller  reporting  company  as defined  in Item  10(f)(1)  of
+Regulation  S-K and  thus  are not  required  to  report  the  Quantitative  and
+Qualitative Analysis of Market Risk specified in Item 305 of Regulation S-K.
+
+
+Item 8.  Financial Statements and Supplementary Data.
+
+         Report of Independent Registered Public Accounting Firm
+
+         Balance Sheets as of
+         December 31, 2008 and 2007
+
+         Statements of Operations for the
+         Years Ended December 31, 2008 and 2007
+
+         Statements of Cash Flows for the
+         Years Ended December 31, 2008 and 2007
+
+         Statements of Stockholders' Equity for the
+         Years Ended December 31, 2008 and 2007
+
+         Notes to Financial Statements
+
+                                       7
+<PAGE>
+
+             REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+             -------------------------------------------------------
+
+
+To the Board of Directors and Stockholders of
+Sunshine PCS Corporation
+Rye, New York
+
+
+We have audited the accompanying balance sheets of Sunshine PCS Corporation (the
+"Company")  as of  December  31,  2008 and 2007 and the  related  statements  of
+operations,  stockholders' equity and cash flows for the years then ended. These
+financial  statements are the  responsibility of the Company's  management.  Our
+responsibility  is to express an opinion on these financial  statements based on
+our audits.
+
+We  conducted  our audit in  accordance  with  standards  of the Public  Company
+Accounting Oversight Board. Those standards require that we plan and perform the
+audit to obtain reasonable  assurance about whether the financial statements are
+free to material misstatement.  The Company is not required to have, nor were we
+engaged to perform,  an audit of its internal control over financial  reporting.
+Our audits included  consideration of internal control over financial  reporting
+as  a  basis  for  designing  audit  procedures  that  are  appropriate  in  the
+circumstances,  but  not  for  the  purpose  of  expressing  an  opinion  on the
+effectiveness  of the  Company's  internal  control  over  financial  reporting.
+Accordingly,  we express no such opinion. An audit also includes examining, on a
+test basis,  evidence  supporting  the amounts and  disclosures in the financial
+statements,  assessing the accounting  principles used and significant estimates
+made by  management,  as well as  evaluating  the  overall  financial  statement
+presentation.  We believe  that our audits  provide a  reasonable  basis for our
+opinion.
+
+In our  opinion,  the  financial  statements  present  fairly,  in all  material
+respects,  the financial position of Sunshine PCS Corporation as of December 31,
+2008 and 2007 and the results of its operations and its cash flows for the years
+then ended in conformity with accounting  principles  generally  accepted in the
+United States of America.
+
+
+/s/ Daszkal Bolton LLP
+
+Boca Raton, Florida
+March 20, 2009
+
+                                       8
+
+<PAGE>
+
+                            Sunshine PCS Corporation
+                                 Balance Sheets
+                        As of December 31, 2008 and 2007
+
+
+                                                         2008          2007
+ Assets
+
+Cash and cash equivalents                            $     442,026 $     509,360
+Other Assets                                                 1,993         2,743
+                                                     ---------------------------
+ Total Assets                                        $     444,019 $     512,103
+                                                     ===========================
+Liabilities and stockholders' equity
+
+Liabilities
+
+Accounts payable                                     $       9,500 $      14,250
+
+Stockholders' equity
+
+Class A: no par value Authorized shares-20,000,000;
+ 4,588,653 shares issued and outstanding at December
+ 31, 2008 and 2007                                              --            --
+Class B: no par value Authorized shares-9,000,000;
+ no shares outstanding at December 31, 2008 and 2007            --            --
+Additional paid-in capital                              80,514,012    80,514,012
+Accumulated deficit                                   (80,079,493)  (80,016,159)
+                                                     ---------------------------
+ Stockholders' equity                                      434,519       497,853
+                                                     ---------------------------
+ Total liabilities and stockholders' equity          $     444,019 $     512,103
+                                                     ===========================
+
+See accompanying notes to financial statements.
+
+                                       9
+
+<PAGE>
+
+                            Sunshine PCS Corporation
+                            Statements of Operations
+                 For the Years Ended December 31, 2008 and 2007
+
+                                                            2008        2007
+
+      Interest income                                    $    9,947  $   25,046
+      Expenses:
+        Professional fees                                   (34,118)    (35,503)
+        General and administrative expenses                 (39,163)    (57,264)
+                                                         -----------------------
+                                                            (73,281)    (92,767)
+                                                         -----------------------
+      Net loss                                           $  (63,334) $  (67,721)
+                                                         =======================
+      Basic and diluted loss per common share            $    (0.01) $    (0.01)
+                                                         =========== ===========
+      Weighted average shares used in basic computation   4,588,653   4,588,653
+                                                         =========== ===========
+
+See accompanying notes to financial statements.
+
+                                       10
+<PAGE>
+
+                            Sunshine PCS Corporation
+                            Statements of Cash Flows
+                 For the Years ended December 31, 2008 and 2007
+
+
+                                                      2008          2007
+                                                  -------------------------
+Operating activities
+Net loss                                          $  (63,334)   $  (67,721)
+Adjustments to reconcile net loss to cash used
+ in operating activities:
+Decrease in other assets                                 750         1,024
+Decrease in accounts payable                          (4,750)       (4,250)
+                                                  -------------------------
+Net cash used in operating activities                (67,334)      (70,947)
+                                                  -------------------------
+
+Investing Activities
+Net cash provided by (used in)
+investing activities                                     - -           - -
+
+Financing activities
+Net cash provided by (used in)
+financing activities                                     - -           - -
+                                                  -------------------------
+
+Net decrease in cash                                 (67,334)      (70,947)
+Cash and cash equivalents at
+beginning of year                                    509,360       580,307
+                                                  -------------------------
+Cash and cash equivalents at end of
+year                                              $  442,026    $  509,360
+                                                  =========================
+
+Supplemental cash flow information:
+Interest paid                                     $       --    $       --
+Income taxes paid                                 $       --    $       --
+
+See accompanying notes to financial statements.
+
+                                       11
+<PAGE>
+
+                            Sunshine PCS Corporation
+                       Statement of Stockholders' Equity
+                 For the Years Ended December 31, 2008 and 2007
+<TABLE>
+<S>                                     <C>       <C>             <C>        <C>                     <C>
+                                     Shares of      Shares of
+                                      Class A        Class B
+                                       Common         Common     Additional
+                                       Stock          Stock        paid-in    Accumulated
+                                    Outstanding    Outstanding     capital      Deficit     Stockholders'equity
+
+Balance at January 1, 2007              4,588,653 $           --  80,514,012 $  79,948,438)          $ 565,574
+Net loss                                                                  --       (67,721)            (67,721)
+                                   -------------- -------------- ----------- -------------- -------------------
+Balance at December 31, 2007            4,588,653 $           --  80,514,012   (80,016,159)            497,853
+Net loss                                                                           (63,334)            (63,334)
+                                   -------------- -------------- ----------- -------------- -------------------
+Balance at December 31, 2008            4,588,653 $           --  80,514,012   (80,079,493)          $ 434,519
+                                   ============== ============== =========== ============== ===================
+</TABLE>
+
+
+See accompanying notes to financial statements.
+
+                                       12
+<PAGE>
+
+                            Sunshine PCS Corporation
+                          Notes to Financial Statements
+
+
+Note 1   Basis of Presentation and Significant Accounting Principles
+         -----------------------------------------------------------
+
+Basis of Presentation
+---------------------
+
+         Sunshine PCS Corporation ("Sunshine",  or the "Company") is currently a
+holding company with no appreciable  operations other than maintenance status as
+a public company and,  therefore,  is no longer in the  development  stage.  The
+Company  continues  to evaluate all options  available  to us at this time.
+the Company
+
+Significant Accounting Principles
+---------------------------------
+
+Use of Estimates
+
+         The  preparation of financial  statements in conformity with accounting
+principles  generally accepted in the United States requires  management to make
+estimates  and  assumptions  that  affect  the  carrying  amounts  of assets and
+liabilities  and  disclosures  at the date of the financial  statements  and the
+reported amounts of expenses during the reporting  period.  Actual results could
+differ from those estimates.
+
+Cash and Cash Equivalents
+
+         Cash and Cash  Equivalents are invested in United States Treasury money
+market  funds for which an  affiliate  of the Company  serves as the  investment
+manager.  The  Company  considers  highly  liquid  investments  with an original
+maturity of less than three months as cash equivalents.
+
+Concentration of Credit Risk
+
+         Financial  instruments,   which  potentially  subject  the  Company  to
+concentrations of credit risk, consist principally of cash and cash equivalents.
+Management   believes  the  financial  risks  associated  with  these  financial
+instruments are minimal.
+
+         The  Company  maintains  its  cash in bank  deposit  accounts  that are
+guaranteed by the Federal Deposit Insurance  Corporation ("FDIC") up to $250,000
+at December 31, 2008 and  $100,000 at December  31, 2007.  During 2008 and 2007,
+balances in these accounts never exceeded the insured limit.
+
+         Accounts held at United States  Treasury money market funds,  which are
+not  guaranteed  by the FDIC or insured by the  Securities  Investor  Protection
+Corporation,  were approximately  $442,000 and $509,000 at December 31, 2008 and
+2007, respectively.
+
+Fair Values of Financial Instruments
+
+         The Company's financial  instruments consist primarily of cash and cash
+equivalents and accounts payable. All financial instruments are accounted for on
+a historical  cost basis,  which  approximates  fair value given the  short-term
+nature of these instruments
+
+Loss Per Share
+
+         The loss per  share  has been  calculated  based on  average  number of
+shares outstanding.
+
+                                       13
+<PAGE>
+
+Recently Issued Accounting Pronouncements
+
+         In September  2006, the Financial  Accounting  Standards Board ("FASB")
+issued Statement of Financial Accounting Standards ("SFAS") No. 157, "Fair Value
+Measurements."  SFAS No. 157 defines  fair value,  establishes  a framework  for
+measuring fair value and expands  disclosure about fair value  measurements.  It
+applies to other  pronouncements  that require or permit fair value but does not
+require any new fair value  measurements.  The  statement  defines fair value as
+"the  price  that  would be  received  to sell an asset  or paid to  transfer  a
+liability  in  an  orderly   transaction  between  market  participants  at  the
+measurement  date." SFAS No. 157  establishes a fair value hierarchy to increase
+consistency and comparability in fair value  measurements and disclosures.  SFAS
+No. 157 is effective  for fiscal years  beginning  after  November 15, 2007.  In
+February 2008,  FASB issued FASB Staff Position  157-2,  "Effective Date of FASB
+Statement No. 157" ("FSP SFAS 157-2"),  which permits a one-year deferral of the
+application  of SFAS No. 157,  for all  non-financial  assets and  non-financial
+liabilities,  except those that are recognized or disclosed at fair value in the
+financial  statements  on a  recurring  basis (at least  annually).  The Company
+adopted SFAS No. 157 and FSP SFAS 157-2 effective January 1, 2008 [for financial
+assets and  liabilities].  The  adoption of SFAS No. 157 did not have a material
+impact on our consolidated  financial  statements.  The Company adopted SFAS No.
+157 for non-financial assets and non-financial  liabilities effective January 1,
+2009 which did not have a material impact on the Company's financial statements.
+In October 2008, the FASB issued FASB Staff  Position  157-3,  "Determining  the
+Fair Value of a  Financial  Asset When the Market for That Asset is Not  Active"
+("FSP SFAS 157-3"),  which clarifies the application of SFAS No. 157 in a market
+that is not active. The adoption of this standard did not have a material impact
+on the Company's financial statements.
+
+         In February  2007, the FASB issued SFAS No. 159, "The Fair Value Option
+for Financial Assets and Financial  Liabilities - Including an amendment of FASB
+Statement  No.  115." SFAS No. 159 permits all entities to choose to measure and
+report  many  financial  instruments  and  certain  other items at fair value at
+specified  election dates. If such an election is made, any unrealized gains and
+losses on items for which the fair value option has been elected are required to
+be reported in earnings at each subsequent reporting date. In addition, SFAS No.
+159 establishes  presentation and disclosure requirements designed to facilitate
+comparisons between companies that choose different  measurement  attributes for
+similar  types  of  assets  and  liabilities.  We were  required  to  adopt  the
+provisions  of SFAS No. 159 for  financial  statements  issued for fiscal  years
+beginning  after  November 15, 2007. The adoption of SFAS No. 159 did not have a
+material impact on our financial statements.
+
+         In  December  2007,   the  FASB  issued  SFAS  No.   141(R),   Business
+Combinations and SFAS No. 160,  Noncontrolling Interest in Financial Statements.
+These  Statements  replace FASB Statement No. 141,  Business  Combinations,  and
+requires an acquirer to recognize the assets acquired,  the liabilities assumed,
+and  any  noncontrolling  interest  in the  acquiree  at the  acquisition  date,
+measured  at their  fair  values as of that  date.  SFAS No.  141(R)  also makes
+significant amendments to other Statements and other authoritative guidance. The
+Statements are effective for years  beginning on or after December 15, 2008. The
+adoption of this  statement  is not  expected  to have a material  impact on our
+financial statements.  We expect that the adoption of this standard will have no
+impact on our financial statements.
+
+         In  March  2008,  the  FASB  issued  SFAS No.  161,  Disclosures  about
+Derivative  Instruments and Hedging  Activities,  an amendment of FASB Statement
+No. 133 (SFAS No. 161). SFAS No. 161 requires enhanced disclosures  regarding an
+entity's derivative and hedging activities.  These enhanced  disclosures include
+information regarding how and why an entity uses derivative instruments;  how to
+account for derivative  instruments  and related hedge items under SFAS No. 133,
+Accounting for Derivative  Instruments and Hedging  Activities,  and its related
+interpretations;  and how derivative  instruments and related hedge items affect
+an entity's financial position,  financial  performance and cash flows. SFAS No.
+161 is effective  for financial  statements  issued for fiscal years and interim
+periods beginning after November 15, 2008. The adoption of this statement is not
+expected to have a material impact on our financial  statements.  We expect that
+the adoption of this standard will have no impact on our financial statements.
+
+
+Note 2.  Income Taxes
+         ------------
+
+         Sunshine (a "C"  corporation  for Federal  tax  purposes)  files a U.S.
+Federal  income  tax  return.  Accordingly  at the  date of the  reorganization,
+Sunshine provided for deferred income taxes for temporary differences (primarily
+the reserve for impairment of PCS licenses) between the financial  statement and
+tax bases of Sunshine's assets and liabilities.
+
+                                       14
+
+<PAGE>
+
+         Valuation  allowances  have been  provided  for  deferred tax assets of
+approximately $1.5 million at both December 31, 2008 and 2007  respectively,  as
+the  realization  of such  assets is  dependent  upon the  generation  of future
+taxable income during a period when such losses would be utilizable. The Company
+currently has $3.7 million of federal operating tax loss carry forward, incurred
+over the  years  starting  in year  2001  through  the  current  year.  The loss
+carryover may be carried  forward 20 years which would expire  starting in 2021.
+The ability to utilize this loss  carry-forward  is  dependent on the  Company's
+ability to generate a taxable income prior to its expiration.
+
+
+         Cumulative  temporary  differences at December 31, 2008 and 2007 are as
+follows (amounts rounded):
+
+                                    December 31, 2008     December 31, 2007
+                                   -------------------   -------------------
+Deferred tax assets:
+Net operating losses               $        1,453,900    $        1,432,400
+Other                                         107,000               107,000
+                                   -------------------   -------------------
+                                            1,560,900             1,539,400
+Valuation allowance                        (1,560,900)           (1,539,400)
+                                   -------------------   -------------------
+                                   $                -    $                -
+                                   ===================   ===================
+
+         Income tax provision  (benefit)  for the years ended  December 31, 2008
+and 2007 is comprised of (amounts rounded):
+
+                                          2008                2007
+                                    -------------------------------------
+Current income tax benefit                        --                  --
+Deferred income tax benefit                 ($21,500)           ($25,500)
+Decrease in valuation allowance               21,500              25,500
+                                    -------------------------------------
+  Income tax benefit                $             --    $             --
+                                    =====================================
+
+         The reconciliation of the provision  (benefit) for income taxes for the
+years ended December 31, 2008 and 2007, and the amount  computed by applying the
+statutory federal income tax rate to net loss is as follows (amounts rounded):
+
+                                               2008           2007
+                                           ---------------------------
+Tax benefit provision at statutory rate    $   (21,500)    $  (25,500)
+State benefit                                        0              0
+Increase in valuation allowance                 21,500         25,500
+                                           ---------------------------
+                                           $        --     $       --
+                                           ============    ===========
+
+         In  June  2006,  the  FASB  issued  Interpretation  No 48  ("FIN  48"),
+"Accounting  for  Uncertainty in Income Taxes",  which  prescribes a recognition
+threshold and measurement  attribute for the financial statement recognition and
+measurement of a tax position taken or expected to be taken in a tax return.  In
+accordance  with FIN 48, the Company  must adjust the  financial  statements  to
+reflect only those tax positions that are  more-likely-than-not  to be sustained
+as of the adoption date. The Company adopted the provisions of FIN 48 on January
+1, 2008. The adoption of FIN 48 did not have a material  impact on the financial
+condition or results of operations.
+
+         Based on the  evaluation,  the  Company  concluded  that  there  are no
+significant  uncertain  tax  positions  requiring  recognition  in the financial
+statements.  The  Company's  evaluation  was  performed  for the tax years ended
+December  31,  2005,  2006 and  2007,  the tax years  which  remain  subject  to
+examination  by major tax  jurisdictions  as of December 31, 2008.  In addition,
+management  does not  believe the  Company  would be subject to any  interest or
+penalties  relative  to any open tax years and,  therefore,  has not accrued any
+such  amounts.  If the Company was to incur any  interest  and/or  penalties  in
+connection with income tax  deficiencies,  management would classify interest in
+the "interest  expense" category and classify  penalties in the "other operating
+expenses" category within the statements of income.
+
+                                       15
+<PAGE>
+
+Note 3 Litigation
+       ----------
+
+         The   Company   along   with   Fortunet   Communications,   L.P.,   our
+predecessor-in-interest,  as well as Victoria G. Kane,  the sole  stockholder of
+Fortunet Wireless  Communication  Corporation,  which was previously our largest
+stockholder,  Karen E. Johnson,  our former Chief  Executive  Officer,  and LICT
+Corporation  ("LICT"),  formerly  known  Lynch  Interactive  Corporation,  among
+others,  were  named as  defendants  in a  lawsuit  brought  in 2001  under  the
+so-called  "qui tam"  provisions  of the federal  False Claims Act in the United
+States District Court for the District of Columbia.  The complaint  alleged that
+the defendants  defrauded the United States  Government  (the  "Government")  by
+creating   "sham"   bidding   entities  to   participate   in  certain   Federal
+Communications   Commission  ("FCC")  spectrum  auctions   restricted  to  small
+businesses  and  unfairly  obtained  bidding  credits and  favorable  government
+financing in these and other spectrum auctions in the mid and late 1990's.
+
+         In May 2006, a tentative  settlement was reached  pursuant to which the
+defendants  agreed to pay the  Government  $130 million,  plus $9 million to the
+counsel of the individual who brought the lawsuit as legal fees and expenses. In
+June  2006,  the  defendants  reached  a  tentative  agreement   allocating  the
+above-mentioned   settlement  amounts  among  themselves.   In  July  2006,  the
+definitive settlement agreements with the Government and the Relator were signed
+and approved by the federal judge hearing the case and the case was dismissed in
+August 2006. In entering into the settlement agreements, the Company admitted no
+liability  and the conduct  giving rise to the case is  expressly  excluded as a
+basis for future administrative proceedings by the FCC.
+
+         The defendants  have agreed to an allocation of the  settlement  amount
+and the payment to the  Relator's  counsel  and the Company was not  required to
+fund any portion thereof.  The defendants have not agreed among themselves as to
+the share of litigation  costs each defendant  should  ultimately bear. To date,
+LICT and certain other  defendants have paid all legal fees associated with this
+action,  other  than the fees  the  Company  has  paid  and  accrued  under  the
+indemnification  provisions  of the  agreement  on the sale of our  licenses  to
+Cingular Wireless.  Prior to our becoming a public company, in 2001, LICT held a
+significant   equity  ownership  position  in  our  Company  and  prior  to  the
+acquisition of licenses by Cingular,  in 2005, LICT held notes,  preferred stock
+and options to acquire our Class A Common Stock.  LICT and the other  defendants
+have  funded   approximately   $8  million  of  the  legal  costs  not  directly
+attributable to any particular  defendant (joint defense costs). It is currently
+unclear to what extent those  defendants  (or any other  defendant)  may seek to
+reimbursement  from  the  Company  for  part  or all  of  their  defense.  While
+management  believes that it would be able to satisfy the Company's  obligations
+under such a potential request with its current resources, there is no assurance
+that  such  could be  accomplished.  The  Company  will  accrue a  liability  in
+accordance  with SFAS No.  5,  when it is  probable  that a  liability  has been
+incurred and the amount of the loss can be reasonably estimated.
+
+         The Company does not have any insurance to cover the costs of defending
+this lawsuit, which costs may be material.
+
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+         Financial Disclosure.
+
+         None.
+
+Item 9A. Controls and Procedures.
+
+         (a) Evaluation of Disclosure Controls and Procedures.
+             ------------------------------------------------
+
+         As required by Rule 15d-15 under the  Securities  Exchange Act of 1934,
+as of the end of the period covered by this report,  the Company  carried out an
+evaluation of the  effectiveness  of the design and operation of our  disclosure
+controls and procedures as of December 31, 2008. This evaluation was carried out
+under the  supervision  and with the  participation  of our principal  executive
+officer as well as our  principal  financial  officer,  who  concluded  that our
+disclosure controls and procedures are effective.
+
+                                       16
+
+<PAGE>
+
+         Disclosure  controls and procedures  are controls and other  procedures
+that are  designed to ensure that  information  required to be  disclosed in our
+reports  filed or submitted  under the  Securities  Exchange  Act are  recorded,
+processed,  summarized  and reported,  within the time periods  specified in the
+Securities and Exchange  Commission's rules and forms.  Disclosure  controls and
+procedures  include,  without  limitation,  controls and procedures  designed to
+ensure that information  required to be disclosed in our reports filed under the
+Exchange Act are  accumulated  and  communicated  to  management,  including our
+principal executive officer and our principal financial officer, as appropriate,
+to allow timely decisions regarding required disclosure.
+
+         (b) Management's Annual Report on Internal Control of Financial
+             Reporting.
+             -----------------------------------------------------------
+
+         The  Company's   management  is  responsible   for   establishing   and
+maintaining an adequate system of internal control over financial reporting,  as
+defined  in the Rule  13a-15(f)  of the  Securities  Exchange  Act of  1934,  as
+amended.  Management  conducted an assessment of the Company's  internal control
+over financial reporting based on the framework  established by the Committee of
+Sponsoring   Organizations  of  the  Treadway   Commission  (COSO)  in  Internal
+Control-Integrated  Framework.  Based on the  assessment,  management  concluded
+that, as of December 31, 2008,  the Company's  internal  control over  financial
+reporting is effective.
+
+         This  annual  report  does  not  include  an  attestation  report  of a
+registered  public  accounting  firm regarding  internal  control over financial
+reporting.  Management's  report was not subject to  attestation by a registered
+public  accounting  firm  pursuant  to  temporary  rules of the  Securities  and
+Exchange Commission that permits the Company to provide only management's report
+in this annual report.
+
+         (c)  Changes in Internal Control over Financial Reporting
+              ----------------------------------------------------
+
+         There was no significant  change in the Company's internal control over
+financial  reporting  that occurred  during the most recently  completed  fiscal
+quarter that materially affected,  or is reasonably likely to materially affect,
+the Company's internal control over financial reporting.
+
+Item 9B. Other Information.
+
+         None.
+
+                                    PART III
+                                    --------
+
+Item 10. Directors, Executive Officers and Corporate Governance.
+
+         The  following  table sets forth the name,  business  address,  present
+principal occupation,  employment history, positions, offices or employments for
+the past five years and ages as of February 27, 2009 or our  executive  officers
+and directors.  Members of the board are elected and serve for one-year terms or
+until their successors are elected and qualify.
+
+           Name            Age                        Position
+    ------------------    ------      ------------------------------------------
+    David S. Ahl            62        Chairman of the Board, Chief Executive
+                                      Officer and Director
+    Robert E. Dolan         57        Director and Assistant Secretary
+
+         David S. Ahl has been Chief  Executive  Officer since June 2004 and has
+been a Class B director  since  November 2000. Mr. Ahl is a marketer of start-up
+entities.  Mr.  Ahl  first  gained  experience  in this  field as a  promotional
+director for Young and Rubicam,  Inc. from 1984 to 1992.  Mr. Ahl co-founded and
+helped  manage  Advance  Retail  Marketing,  a company that markets  coupons for
+supermarkets,  from 1992 to 1994.  Mr. Ahl then  served as a general  manager of
+Direct Media, the world's largest mailing list brokerage and management company,
+from 1994 to 1998.  After  leaving  Direct  Media in 1998,  Mr. Ahl served as an
+independent    marketing   consultant   for   GE   Capital,    AdKnowledge   and
+CatalogCity.com. In 1999, Mr. Ahl became the head of Client Services for Message
+Media, an e-mail  publishing  company.  Since 2000, Mr. Ahl has been involved in
+performance  based  internet lead  generation  for  retailers.  He has developed
+behavior based web offers with consumer  response  mechanics that  capitalize on
+the convergence of wireless,  wireline,  VOIP voice, SMS TXT and email. Consumer
+data capture  from mobile  devices  integrates  location  data.  Mr. Ahl's early
+wireless technical experience includes Ham radio and one tour as a Naval Aviator
+avionics officer.
+
+
+                                       17
+<PAGE>
+
+         Robert E. Dolan has been our Assistant Secretary and a Class A director
+since November 2000. Mr. Dolan is also the Interim Chief Executive  Officer (May
+2006 to present) and Chief Financial Officer of LICT Corporation (formerly Lynch
+Interactive  Corporation),  a  diversified  holding  company  with  subsidiaries
+primarily engaged in multimedia (September 1999 to present),  and served in such
+capacity for Lynch Corporation,  a diversified holding company with subsidiaries
+engaged in the manufacture of electronics components and manufacturing equipment
+(1993 to January 2000).  He is also the Chief  Financial  Officer since November
+2001 of Morgan Group Holding Co., a public holding company.
+
+Committees of the Board of Directors
+------------------------------------
+
+         We presently do not have an audit  committee,  compensation  committee,
+nominating  committee,  an executive committee of our board of directors,  stock
+plan committee or any other committees.  Currently, our full board-serves as the
+audit committee and approves,  when applicable,  the appointment of auditors and
+the  inclusion of financial  statements  in our periodic  reports.  Mr. Dolan is
+deemed to be an "audit committee financial expert."
+
+         We have not made any changes to the process by which  stockholders  may
+recommend nominees to the board of directors since our last annual report.
+
+Code of Ethics
+--------------
+
+         We  have  not  adopted   a   corporate  code of  ethics.  Our  board of
+directors is considering  establishing,  over the next year, a code of ethics to
+deter  wrongdoing and promote honest and ethical  conduct;  provide full,  fair,
+accurate,  timely and understandable  disclosure in public reports;  comply with
+applicable  laws;  ensure  prompt  internal  reporting of code  violations;  and
+provide accountability for adherence to the code.
+
+Legal Proceedings Involving Directors, Executive Officers and Control Persons
+-----------------------------------------------------------------------------
+
+         Neither of  our directors  or  executive  officers has been involved in
+legal proceedings that would be material to an evaluation of our management.
+
+Indemnification of Directors and Officers
+-----------------------------------------
+
+         Under Section 145 of the Delaware General  Corporation Law, the Company
+has broad powers to indemnify  its directors  and officers  against  liabilities
+they may incur in such  capacities.  The Company's  certificate of incorporation
+provides  that its directors and officers  shall be  indemnified  to the fullest
+extent permitted by Delaware law. The certificate of incorporation also provides
+that the Company  shall,  to the fullest  extent  permitted by Delaware  law, as
+amended  from  time to  time,  indemnify  and  advance  expenses  to each of its
+currently acting and former directors, officers, employees and agents.
+
+         Delaware law provides  that a  corporation  may limit the  liability of
+each director to the corporation or its stockholders for monetary damages except
+for liability:
+
+o    for any breach of the director's  duty of loyalty to the corporation or its
+     stockholders,
+o    for  acts or  omissions  not in good  faith  or  that  involve  intentional
+     misconduct or a knowing violation of law,
+o    in respect of certain unlawful  dividend  payments or stock  redemptions or
+     repurchases, and
+o    for any  transaction  which  the  director  derives  an  improper  personal
+     benefit.
+
+         The Company's certificate of incorporation provides for the elimination
+and limitation of the personal  liability of its directors for monetary  damages
+to the fullest extent permitted by Delaware law. In addition, the certificate of
+incorporation  provides that if Delaware law is amended to authorize the further
+elimination or limitation of the liability of a director,  then the liability of
+our directors shall be eliminated or limited to the fullest extent  permitted by
+Delaware  law, as amended.  The effect of this  provision  is to  eliminate  the
+Company's rights and its stockholders rights,  through stockholders'  derivative
+suits,  to  recover  monetary  damages  against  a  director  for  breach of the
+fiduciary duty of care as a director,  except in the situations described above.
+This  provision  does  not  limit  or  eliminate  the  Company's  rights  or its
+stockholders'  rights  to seek  non-monetary  relief  such as an  injunction  or
+rescission in the event of a breach of a director's duty of care.
+
+                                       18
+<PAGE>
+
+         Insofar as indemnification for liabilities arising under the Securities
+Act of 1933,  as amended,  may be permitted  for its  directors,  officers,  and
+controlling persons,  pursuant to the foregoing  provisions,  or otherwise,  the
+Company has been  advised  that in the opinion of the  Securities  and  Exchange
+Commission this sort of indemnification is against public policy as expressed in
+the Securities Act of 1933, as amended, and is therefore unenforceable.
+
+         At present,  there is no pending litigation or proceeding involving any
+of our directors,  officers,  employees or agents where  indemnification will be
+required or permitted.
+
+Section 16(a) Beneficial Ownership Reporting Compliance
+-------------------------------------------------------
+
+         To our  knowledge,  based  solely  upon our review of copies of reports
+received by us pursuant to Section 16(a) of the Securities Exchange Act of 1934,
+we believe that all of our  directors,  officers and  beneficial  owners of more
+than 10 percent of our common  stock  filed all such  reports on a timely  basis
+during 2008.
+
+Item 11. Executive Compensation.
+
+         The Company has not paid any compensation to any person,  including its
+directors and executive officers, since inception. The Company does not have any
+employment contracts with either of its executive officers.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and
+         Related Stockholder Matters.
+
+         The following table sets forth information  concerning ownership of our
+Class A common  stock as of March  10,  2009 each  person  known by us to be the
+beneficial  owner of more than five percent of the common stock,  each director,
+each executive officer,  and by all directors and executive officers as a group.
+We believe  that each  stockholder  has sole voting  power and sole  dispositive
+power with respect to the shares  beneficially  owned by him.  Unless  otherwise
+indicated, the address of each person listed below is 65 Highland Road, Rye, New
+York 10580.
+
+                                                    Shares          Percentage
+                                               ---------------  ----------------
+Fortunet Wireless Communications Corporation           767,328             16.7%
+Victoria G. Kane(2)                                    767,328             16.7%
+Mario J.  Gabelli(3)                                829,980(4)             18.1%
+LICT Corporation(5)                                    294,217              6.4%
+Robert E.  Dolan                                        525(6)                 *
+All Directors and Executive Officers as a
+   Group (2 in total)                                      525                 *
+
+*Less than 1%
+
+(1)  A person is deemed to be the beneficial owner of voting securities that can
+     be acquired by such person within 60 days upon the exercise of options and
+     warrants and the conversion of convertible securities. Each beneficial
+     owner's percentage ownership is determined by assuming that options,
+     warrants or convertible securities that are held by such person (but not
+     those held by any other person) and that are currently exercisable or
+     convertible (i.e., that are exercisable or convertible within 60 days) have
+     been exercised or converted.
+
+(2)  Victoria G. Kane is the sole stockholder of Fortunet Wireless Communication
+     Corporation, and therefore shares owned by Fortunet Wireless Communication
+     Corporation are set forth in the table as beneficially owned by Victoria G.
+     Kane. The address of Fortunet Wireless Communications Corporation and
+     Victoria G. Kane is 350 Stuyvesant Avenue, Rye, New York 10580.
+
+(3)  Includes shares beneficially owned by LICT. Mario J. Gabelli is a "control
+     person" of LICT and therefore shares beneficially owned by LICT are set
+     forth in the table as beneficially owned by Mr. Gabelli. Mr. Gabelli
+     disclaims beneficial ownership of the shares held by LICT except for his
+     interest therein. The address of Mr. Gabelli is 401 Theodore Fremd Avenue,
+     Rye, New York 10580.
+
+                                       19
+<PAGE>
+
+(4)  Includes (i) 350,014 shares owned directly by Mr. Gabelli (including 8,027
+     held for the benefit of Mr. Gabelli under LICT Corporation's 401(k) Savings
+     Plan), (ii) 10,750 shares owned by a charitable foundation of which Mr.
+     Gabelli is a trustee, (iii) 175,000 shares owned by a limited partnership
+     in which Mr. Gabelli is the general partner and has approximately a .5%
+     interest and (iv) 294,117 shares of Class A common stock owned by LICT. Mr.
+     Gabelli disclaims beneficial ownership of the shares owned by LICT, the
+     foundation and by the partnership, except for his interest therein. The
+     address of Mr. Gabelli is 401 Theodore Fremd Avenue, Corporate Center at
+     Rye, Rye, NY 10580.
+
+(5)  The address of LICT is 401 Theodore Fremd Avenue, Rye, New York 10580.
+
+(6)  Includes 70 shares registered in the name of Mr. Dolan's children with
+     respect to which Mr. Dolan has voting and investment power and 55 shares
+     held for the benefit of Mr. Dolan under LICT Corporation's 401(k) Savings
+     Plan.
+
+         The Company does not have any compensation plans under which our equity
+securities are authorized for issuance.
+
+
+Item 13. Certain Relationships and Related Transactions, Director Independence.
+
+         The Company did not engage in any transaction  with any related persons
+for 2008 and 2007.
+
+Director Independence
+
+         The Board has  determined  that  currently  and at all times during the
+year ended  December 31, 2008, its members are not  "independent"  as defined by
+the listing  standards of the Nasdaq Stock  Market.  The Board  considers in its
+evaluation of independence  any existing  related-party  transactions,  of which
+there were none in 2008. The Board's  determination  is based on its belief that
+Robert E.  Dolan  and  David S. Ahl are both  precluded  from  being  considered
+independent since each currently serves as an executive officer of the Company.
+
+
+Item 14. Principal Accountant Fees and Services.
+
+Audit Fees
+
+         The  aggregate  fees  billed by  Daszkal  Bolton  LLP for  professional
+services  rendered  for the audit of the  Company  was $19,000 for year 2008 and
+$19,500 for year 2007.  Daszkal  Bolton LLP billed the Company an  aggregate  of
+$13,500 for reviews of the financial  statements  included in its quarterly Form
+10-Q for each year 2008 and 2007.
+
+
+Audit-Related Fees
+
+         No  audit-related  fees were  billed by Daszkal  Bolton LLP for 2008 or
+2007.
+
+Tax Fees
+
+         No tax fees were billed by Daszkal Bolton LLP for 2008 or 2007.
+
+All Other Fees
+
+         No other fees were  billed by  Daszkal  Bolton LLP for 2008 or 2007 for
+services other than as set forth above.
+
+Pre-Approval of Audit Fees
+
+         The  Board of  Directors,  which  serves  as our  Audit  Committee,  is
+responsible for pre-approving all audit and permitted  non-audit  services to be
+performed for the Company by its  independent  auditors or any other auditing or
+accounting firm. Unless a particular  service has received general  pre-approval
+by  the  Board  of  Directors,   each  service  provided  must  be  specifically
+pre-approved.  There were no non-audit  services  rendered by Daszkal Bolton LLP
+for 2008 or 2007.
+
+
+
+                                     PART IV
+
+Item 15. Exhibits, Financial Statement Schedules.
+
+Exhibit Number             Description
+--------------             -----------
+
+3.1      Amended and Restated Certificate of Incorporation of the Company
+         (incorporated by reference to Exhibit 3.1 of Sunshine PCS Corporation's
+         Registration Statement on Form SB-2/A (File No.
+         333-50948) (the "2001 SB-2")
+
+3.2      Certificate of Amendment to the Amended and Restated Certificate of
+         Incorporation of Sunshine PCS Corporation (incorporated by reference to
+         Exhibit 3.2 of Sunshine PCS Corporation's Registration Statement on
+         Form SB-2 (File No. 333-82116) (the "2002 SB-2"))
+
+3.3      Certificate of Second Amendment of Certificate of Incorporation of
+         Sunshine PCS Corporation
+
+3.4      By-laws of Sunshine PCS Corporation (incorporated by reference to
+         Exhibit 3.2 of the 2001 SB-2)
+
+                                       20
+<PAGE>
+
+4.1      Form of Subordinated Note made by Sunshine PCS Corporation to Lynch PCS
+         Corporation A (incorporated by reference to Exhibit 4.1 of the 2001
+         SB-2)
+
+4.2      Warrant issued by Sunshine PCS Corporation to LICT Corporation
+         ("LICT"), formerly known as Lynch Interactive Corporation (incorporated
+         by reference to Exhibit 4.2 of the 2001 SB-2)
+
+10.1     Form of Option Agreements with Directors (incorporated by reference to
+         Exhibit 10.2 of the 2001 SB-2)
+
+10.2     Agreement and Plan of Merger dated February 12, 2001 by and between the
+         Company and Fortunet Communications, L.P. (incorporated by reference to
+         Exhibit 10.3 of the 2002 SB-2)
+
+10.3     Amended and Restated Securities Issuance Agreement, dated February 1,
+         2002, by and between the Company and LICT Corporation ("LICT"),
+         formerly known as Lynch Interactive Corporation, (incorporated by
+         reference from exhibit 10.4 of Sunshine PCS Corporation's registration
+         statement on form SB-2 filed February 4, 2002)
+
+10.4     Term Sheet between the Company and GrayLink Wireless Inc. (incorporated
+         by reference from exhibit 10.5 of Sunshine PCS Corporation's
+         registration statement on form SB-2 filed February 4, 2002)
+
+10.5     Agreement for Purchase and Sale of Licenses dated August 18, 2003, by
+         and between Sunshine PCS Corporation, Cingular Wireless LLC and for
+         purposes of Articles X and XII, certain stockholders including LICT
+         Corporation ("LICT"), formerly known as Lynch Interactive Corporation,
+         (incorporated by reference to Exhibit 2.1 to Sunshine PCS Corporation's
+         Form 8-K dated August 19, 2003)
+
+31.1     Rule 15d-14(a) Certification of the Chief Executive Officer
+
+31.2     Rule 15d-14(a) Certification of the Principal Accounting Officer
+
+32.1     Section 1350 Certification of the Chief Executive Officer
+
+32.2     Section 1350 Certification of the Principal Accounting Officer
+
+                                       21
+
+<PAGE>
+
+                                   SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Company has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized, in the City of Rye, State of New
+York on the 25 day of March, 2009
+
+
+
+                                                  SUNSHINE PCS CORPORATION
+                                                  By:/s/ David S. Ahl
+                                                  Chief Executive Officer
+
+
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the Company and in
+the capacities and on the date indicated.
+
+Signature                           Title                              Date
+--------------------------------------------------------------------------------
+
+
+/s/ David S. Ahl       Chairman of the Board of Directors,        March 25, 2009
+----------------       Chief Executive Officer
+David S. Ahl
+
+/s/ Robert E. Dolan    Director and Assistant Secretary           March 25, 2009
+-------------------
+Robert E. Dolan
+
+                                       22
+</TEXT>
+</DOCUMENT>
+

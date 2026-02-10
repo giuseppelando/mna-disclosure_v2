@@ -1,0 +1,3214 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>c13669e10vk.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e10vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 10pt"><B>U.S. SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, DC 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 10pt"><B>FORM 10-K</B>
+</DIV>
+
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 12pt">
+<TR style="font-size: 10pt">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="center"><FONT style="font-family: Wingdings">&#254;</FONT> </TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Annual report pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+
+<!-- xbrl,dc -->
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt; margin-left: 12%"><B>For the fiscal year ended December&nbsp;31, 2010</B></DIV>
+<!-- /xbrl,dc -->
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 12pt">
+<TR style="font-size: 10pt">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="center"><FONT style="font-family: Wingdings">&#111;</FONT> </TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Transition report pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt; margin-left: 12%"><B>For the transition period from <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> to <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>.</B></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>
+Commission File No.: 000-51104</B>
+</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 10pt"><B>CommerceFirst Bancorp, Inc.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">
+(Exact name of registrant as specified in its charter)</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="48%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+
+
+<TR valign="bottom">
+    <TD align="center" valign="top">Maryland
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">52-2180744</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction of incorporation or organization)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer Identification No.)</TD>
+</TR>
+
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">1804
+West Street, Annapolis MD 21401 <br>(Address of principal executive
+offices) (Zip Code)</div>
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">Registrant&#146;s Telephone Number: 410-280-6695
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">Securities registered pursuant to Section&nbsp;12(b) of the Act</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000">Title of class</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000">Name of each exchange on which registered</TD>
+    <TD nowrap align="center" style="border-bottom: 0px solid #000000"></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Common Stock, $0.01 par value
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Nasdaq Capital Market</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="CENTER" style="font-size: 10pt; margin-top: 10pt">Securities registered pursuant to Section 12(g) of the Act: None
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule&nbsp;405 of
+the Securities Act. Yes <FONT style="font-family: Wingdings">&#111;</FONT> No <FONT style="font-family: Wingdings">&#254;</FONT>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Indicate by check mark if the registrant is not required to file reports pursuant to Section&nbsp;13 or
+Section 15(d) of the Act
+Yes <FONT style="font-family: Wingdings">&#111;</FONT> No <FONT style="font-family: Wingdings">&#254;</FONT>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Indicate by check mark if the registrant: (1)&nbsp;has filed all reports required to be filed by
+Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 during the past 12&nbsp;months (or for such
+shorter period that the registrant was required to file such reports; and (2)&nbsp;has been subject to
+such filing requirements for the past 90&nbsp;days. Yes <FONT style="font-family: Wingdings">&#254;</FONT> No <FONT style="font-family: Wingdings">&#111;</FONT>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Indicate by checkmark whether the registrant has submitted electronically and posted on its
+corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant
+to Rule&nbsp;405 of Regulation&nbsp;S-T (&#167;232.405 of this chapter) during the preceding 12&nbsp;months (or for
+such shorter period that the registrant was required to submit and post such files). Yes <FONT style="font-family: Wingdings">&#111;</FONT> No <FONT style="font-family: Wingdings">&#111;</FONT>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Indicate by check mark if there is no disclosure of delinquent filers pursuant to Item&nbsp;405 of
+Regulation&nbsp;S-K (&#167;225.405 of this chapter) is not contained herein and will not be contained, to the
+best of registrant&#146;s knowledge, in definitive proxy or information statements incorporated by
+reference in Part&nbsp;III of this Form 10-K or any amendment to this Form 10-K <FONT style="font-family: Wingdings">&#111;</FONT>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Indicate by check mark whether registrant is a large accelerated filer, an accelerated filer, a
+non-accelerated filer or a smaller reporting company. See definitions of large accelerated filer,
+accelerated filer and smaller reporting company in Rule&nbsp;12b-2 of the Exchange Act.
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="22%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="22%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="22%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="22%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" valign="top">Large accelerated filer <FONT style="font-family: Wingdings">&#111;</FONT>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Accelerated filer <FONT style="font-family: Wingdings">&#111;</FONT>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Non-accelerated filer <FONT style="font-family: Wingdings">&#111;</FONT>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Smaller reporting company <FONT style="font-family: Wingdings">&#254;</FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Indicate by check mark whether the registrant is a shell company (as defined in Rule&nbsp;12b-2 of the
+Exchange Act).
+Yes <FONT style="font-family: Wingdings">&#111;</FONT> No <FONT style="font-family: Wingdings">&#254;</FONT>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">The aggregate market value of the outstanding Common Stock held by non-affiliates as of June&nbsp;30,
+2010 was approximately $15,201,576.
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">As of March&nbsp;3, 2011, the number of outstanding shares of the Common Stock, $0.01 par value, of
+CommerceFirst Bancorp, Inc. was 1,820,548.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">DOCUMENTS INCORPORATED BY REFERENCE
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Portions of the following documents are hereby incorporated by reference in this Form 10-K: the
+Company&#146;s Annual Report to Shareholders for the Year Ended December&nbsp;31, 2010 &#151; Part&nbsp;II; the
+Company&#146;s Proxy Statement for the Annual Meeting of Shareholders to be held on May&nbsp;4, 2011 &#151; Part
+III.
+</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<!-- TOC -->
+<A name="C13669toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#C13669000">PART I</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669001">ITEM 1. Business</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669002">ITEM 1A. Risk Factors</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669003">ITEM 1B. Unresolved Staff Comments</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669004">ITEM 2. Properties</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669005">ITEM 3. Legal Proceedings</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669006">ITEM 4. &#091;Removed and Reserved&#093;</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#C13669007">PART II</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669008">ITEM 5. Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669009">ITEM 6. Selected Financial Data</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669010">ITEM 7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669011">ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669012">ITEM 8. Financial Statements and Supplementary Data</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669013">ITEM 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669014">ITEM 9A Controls and Procedures</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669015">ITEM 9B. Other Information</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#C13669016">Part&nbsp;III</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669017">ITEM 10. Directors, Executive Officers and Corporate Governance</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669018">ITEM 11. Executive Compensation</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669019">ITEM 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669020">ITEM 13. Certain Relationships and Related Transactions, and Director Independence</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669021">ITEM 14 Principal Accountant Fees and Services</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#C13669022">ITEM 15. Exhibits, Financial Statement Schedules</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#C13669023">SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="c13669exv13.htm">Exhibit 13</A></TD></TR>
+<TR><TD colspan="9"><A HREF="c13669exv23.htm">Exhibit 23</A></TD></TR>
+<TR><TD colspan="9"><A HREF="c13669exv31wa.htm">Exhibit 31(a)</A></TD></TR>
+<TR><TD colspan="9"><A HREF="c13669exv31wb.htm">Exhibit 31(b)</A></TD></TR>
+<TR><TD colspan="9"><A HREF="c13669exv32wa.htm">Exhibit 32(a)</A></TD></TR>
+<TR><TD colspan="9"><A HREF="c13669exv32wb.htm">Exhibit 32(b)</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+
+
+
+
+
+<!-- link1 "PART I" -->
+<DIV align="left"><A NAME="C13669000"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>PART I</B>
+</DIV>
+
+<!-- link2 "ITEM 1. Business" -->
+<DIV align="left"><A NAME="C13669001"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 1.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Business.</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">CommerceFirst Bancorp, Inc. (the &#147;Company&#148;) was incorporated under the laws of the State of
+Maryland on July&nbsp;9, 1999, to serve as the bank holding company for a newly formed Maryland
+chartered commercial bank. The Company was formed by a group of local businessmen and
+professionals with significant prior experience in community banking in the Company&#146;s market area,
+together with an experienced community bank senior management team. The Company&#146;s sole subsidiary,
+CommerceFirst Bank (the &#147;Bank&#148;), a Maryland chartered commercial bank and member of the Federal
+Reserve System, commenced banking operations on June&nbsp;29, 2000.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company operates from its main headquarters in Annapolis, Maryland, and from branch
+offices in Lanham, Maryland opened in September&nbsp;2004, Glen Burnie, Maryland opened in June&nbsp;2006,
+Columbia, Maryland opened in August&nbsp;2006, and Severna Park, Maryland opened in June&nbsp;2007, Maryland.
+The Company does not anticipate opening any additional branches during 2011, but will consider
+opening more branches if an advantageous opportunity presents itself.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Further asset and loan growth by the Company may be limited by its levels of regulatory
+capital. Increases in the loan portfolio need to be funded by increases in deposits as the Company
+has limited amounts of on-balance sheet assets deployable into loans. Growth will depend upon
+Company earnings providing sufficient capital to support growth and/or the raising of additional
+capital.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company operates as a community bank alternative to the super-regional financial
+institutions that dominate its primary market area. The cornerstone of the Company&#146;s philosophy is
+to provide superior, individualized service to its customers. The Company focuses on relationship
+banking, providing each customer with a number of services, familiarizing itself with, and
+addressing itself to, customer needs in a proactive, personalized fashion.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Description of Services. </I>The Company offers full commercial banking services to its business
+and professional clients. The Company emphasizes providing commercial banking services to sole
+proprietorships, small and medium-sized businesses, partnerships, corporations, and non-profit
+organizations and associations in and near the Company&#146;s primary service areas. Limited retail
+banking services are offered to accommodate the personal needs of commercial customers as well as
+members of the communities the Company serves.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company&#146;s loan portfolio consists of business and real estate loans. The business loans
+generally have variable rates and/or short maturities where the cash flow of the borrower is the
+principal source of debt service, with a secondary emphasis on collateral. Real estate loans are
+made generally on commercial property as well as 1-4 family residential properties held as
+investments, and are structured with fixed rates that adjust in three to five years, generally with
+maturities of five to ten years, or with variable rates tied to various indices and adjusting as
+the indices change. The Company&#146;s portfolio contains a small amount of acquisition and construction
+loans (approximately $1&nbsp;million), one of which in the amount of $771 thousand is on nonaccrual.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">In general, the Company offers the following credit services:
+</DIV>
+
+<DIV style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">1)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Commercial loans for business purposes including working capital, equipment
+purchases, real estate, lines of credit, and government contract financing. Asset
+based lending and accounts receivable financing are available on a selective basis.</DIV></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 8pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">2)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Real estate loans for business and investment purposes.</DIV></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 8pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">3)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Commercial lines of credit.</DIV></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 8pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">4)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Merchant credit card services are offered through an outside vendor.</DIV></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company has developed an expertise in making loans under the guarantee programs of the
+Small Business Administration (SBA). The Company currently expects that it will sell the guaranteed
+portion of SBA loans to secondary market investors as soon as possible after funding, while
+retaining the uninsured portion. The sale of the guaranteed
+portion of such loans is expected to result in gains, and the Company expects to receive fees for
+servicing the loans. SBA guaranteed loans are subjected to the same underwriting standards applied
+to other loans.
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->2<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company&#146;s lending activities carry the risk that the borrowers will be unable to
+perform on their obligations. Interest rate policies of the Board of Governors of the Federal
+Reserve System (the &#147;Federal Reserve Board&#148; or the &#147;Federal Reserve&#148;) as well as national and local
+economic conditions can have a significant impact on the Company and the Company&#146;s results of
+operations. To the extent that economic conditions deteriorate, business and individual borrowers
+may be less able to meet their obligations to the Company in full in a timely manner, resulting in
+decreased earnings or losses to the Company. To the extent the Company makes fixed rate loans,
+general increases in interest rates will tend to reduce the Company&#146;s spread as the interest rates
+the Company must pay for deposits increase while interest income is flat. Economic conditions and
+interest rates may also adversely affect the value of property pledged as security for loans.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Deposit services include business and personal checking accounts, NOW accounts, premium
+savings accounts, and a tiered Money Market Account basing the payment of interest on balances on
+deposit. Certificates of deposits are offered with various maturities. The Company supplements
+its local deposits with out-of-area deposits comprised of funds obtained through the use of deposit
+listing services, deposits obtained through the use of brokers and through the Certificates of
+Deposit Account Registry Service program. The acceptance of brokered deposits is utilized when
+deemed appropriate by management in order to have available funding sources for loans and
+investments especially during times when competing local deposit institutions drive up their rate
+offering well beyond rates available to the Company in national markets.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Other services for business accounts include remote deposit and internet Banking services.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Dodd-Frank Wall Street Reform and Consumer Protection Act (the &#147;Dodd-Frank Act&#148;), enacted
+in July&nbsp;2010, eliminated the historic prohibition on paying interest on checking and demand deposit
+accounts maintained by businesses. With this change, it is likely that the Company may be
+required to pay interest on some portion of its non-interest bearing deposits in order to compete
+against other banks. As a significant portion of its deposits are non-interest bearing demand
+deposits established by businesses, payment of interest on these deposits could have a significant
+negative impact on its net income, net interest income, interest margin, return on assets and
+equity, and other indices of financial performance. The Company expects that other banks would be
+faced with similar negative impacts. The Company also expects that the primary focus of
+competition would continue to be based on other factors, such as quality of service.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Source of Business. </I>Management believes that the market segments which the Company targets,
+small to medium sized businesses and the professional base of the Company&#146;s market area, demand the
+convenience and personal service that a smaller, independent financial institution such as the
+Company can offer. It is these themes of convenience and personal service that form the basis for
+the Company&#146;s business development strategies. The Company provides services from its headquarters
+and main branch offices located in Annapolis, Maryland, and from its branch offices in Lanham, Glen
+Burnie, Columbia, and Severna Park, Maryland. It believes these locations meet the needs of the
+Company&#146;s existing and potential customers, and provide prospects for additional growth and
+expansion.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company has capitalized upon the extensive business and personal contacts and
+relationships of its Directors and Executive Officers to establish the Company&#146;s initial customer
+base. To introduce new customers to the Company, reliance is placed on aggressive
+officer-originated calling programs and director, customer and shareholder referrals.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The risk of nonpayment (or deferred payment) of loans is inherent in commercial banking. The
+Company&#146;s marketing focus on small to medium sized businesses may result in the assumption by the
+Company of certain lending risks that are different from those attendant to loans to larger
+companies. Management of the Company carefully evaluates all loan applications and attempts to
+minimize its credit risk exposure by use of thorough loan application, approval and monitoring
+procedures; however, there can be no assurance that such procedures can significantly reduce such
+lending risks.
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Economic Conditions and Concentrations. </I>The Company has a substantial amount of loans secured
+by real estate in the Annapolis, Maryland/suburban Washington D.C. metropolitan areas as
+collateral, and substantially all of our loans are to borrowers in that area and contiguous markets
+in Maryland. At December&nbsp;31, 2010, 71.7% of the Company&#146;s loans were commercial real estate loans
+(including loans to investors in residential property for rental purposes primarily secured by 1-4
+family properties). An additional 28.3% of loans were commercial and industrial loans which are not
+primarily secured by real estate. These concentrations expose the Company to the risk that adverse
+developments in the real estate market, or in the general economic conditions in its market area,
+could increase the levels of nonperforming loans and charge-offs, and reduce loan demand and
+deposit growth. In that event, the Company would likely experience lower earnings or losses.
+Additionally, if economic conditions in the area deteriorate, or there is significant volatility or
+weakness in the economy or any significant sector of the area&#146;s economy, the Company&#146;s ability to
+develop our business relationships may be diminished, the quality and collectability of the loans
+may be adversely affected, the value of collateral may decline and loan demand may be reduced.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The financial industry experienced significant volatility and stress as economic conditions
+worsened, unemployment increased and asset values declined during 2009 and 2010. While the Company
+did not have direct exposure to the upheaval in the residential mortgage loan market and did not
+invest in mortgage back securities or the preferred stock of Freddie Mac and Fannie Mae, the
+slowing economy, declines in housing construction and the related impact on contractors and other
+small and medium sized businesses, has had an adverse impact on the Company&#146;s business. This impact
+included increased levels of nonperforming assets, loan charge-offs and increased loan loss
+provisions. While the Company believes that it has taken adequate reserves for the problem assets
+in its loan portfolio at December&nbsp;31, 2010, there can be no assurance that the Company will not be
+required to take additional charge-offs or make additional provisions for nonperforming loans, or
+that currently performing loans will continue to perform. Additionally, there can be no assurance
+that the steps taken to stimulate the economy and stabilize the financial system will prove
+successful, or that they will improve the financial condition of the Company&#146;s customers or the
+Company.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Employees</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">At December&nbsp;31, 2010 the Company had 39 full time equivalent employees, two of whom are
+executive officers. The Chairman of the Board, an attorney in private practice, devotes
+considerable time each month to the advancement of the Company, principally in business development
+activities. The Company (as distinguished from the Bank) does not have any employees or officers
+who are not employees or officers of the Bank. None of the Company&#146;s employees are represented by
+any collective bargaining group, and the Company believes that its employee relations are good.
+The Company provides a benefit program that includes health and dental insurance, a 401(k) plan,
+and life and long-term disability insurance for substantially all full time employees.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Market Area and Competition</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Location and Market Area. </I>The main office and the headquarters are located at 1804 West
+Street, Annapolis, Maryland 21401. The second office is located at 4451 Parliament Place, Lanham,
+Maryland 20706, and opened in the third quarter of 2004. The third office is located at 910
+Cromwell Park Drive, Glen Burnie, Maryland 21061 and opened late in the second quarter of 2006. The
+fourth office is located at 6230 Old Dobbin Lane, Columbia, Maryland and opened in the third
+quarter of 2006. The Company opened its fifth branch office located at 487 Ritchie
+Highway, Severna Park, Maryland, in June&nbsp;2007.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company is located in one of the most dynamic regions in the United States. The Federal
+Government has a major direct and indirect influence on the economies, infrastructure and land use
+management of Washington, D.C. and the Maryland and Virginia counties surrounding Washington.
+According to the State of Maryland&#146;s Department of Business and Economic Development (the
+&#147;Department&#148;), the region is the nation&#146;s 4<SUP style="FONT-size: 85%; vertical-align: text-top">th</SUP> largest market &#151; with a population of 6.9
+million and a workforce of 3.4&nbsp;million &#151; and is the home to three major airports, the nation&#146;s
+capital and a highly educated workforce. The regional economy is usually strong and diverse, boasts
+consistently higher job growth and lower unemployment rates as compared to other regions and is
+increasingly service sector and small business oriented. Information technology, the medical
+industry and tourism are all major growth industries for the region. These industries are
+characterized by small niche oriented enterprises that thrive on
+their ability to tap the highly educated workforce and abundant access to the region&#146;s substantial
+communications infrastructure. Current economic conditions have negatively impacted business
+activities in the region.
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->4<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company&#146;s market strategy is to grow within the Central Maryland corridor, which consists
+of Anne Arundel, Prince George&#146;s, Montgomery and Howard counties, areas which it believes have
+significant growth opportunities. The Company does not have a branch in Montgomery county at this
+time and does not have near term plans to open a branch in the county.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Anne Arundel County. </I>The county is located in central Maryland on the western shore of the
+Chesapeake Bay and lies wholly in the Atlantic Coastal Plain, east of the Appalachian mountain
+chain. The County is centered within the Baltimore-Washington corridor with its County Seat, The
+City of Annapolis, just 24 miles from Baltimore City and 33 miles from Washington, D.C. The land
+area is 416 square miles or 266,078 acres, making Anne Arundel the tenth in size among Maryland
+Counties. The county evolved from a bedroom community to Baltimore to be more heavily influenced by
+Washington growth factors. The county has developed its own unique and diverse economy due to
+growth opportunities presented by Baltimore/Washington International (BWI)&nbsp;Airport, which has long
+been considered one of the State of Maryland&#146;s prime economic engines. Unemployment rates in Anne
+Arundel County have been consistently lower than those in Maryland and the United States. The
+unemployment rate in the county as of June&nbsp;2010 was 6.9% (6.7% as of June&nbsp;2009) as compared to the
+Maryland rate of 8.2% and the national unemployment rate of 9.6% as of the same date. Anne Arundel
+County&#146;s economy has diversified in the last 25&nbsp;years, trending toward more private sector
+employment but government employment still dominates because Anne Arundel County contains the State
+Capital of Maryland, the United States Naval Academy, the National Security Agency (NSA)
+headquarters and numerous other Federal, State, County and City of Annapolis jobs. The largest
+private sector employer in the county is Northrop Grumman. Outside the government sector, the local
+economy is dominated by small and mid-sized service sector enterprises providing internet based
+services; high-technology telecommunications; product distribution, a result of proximity of goods
+arriving to the Port of Baltimore and BWI Airport; and technical support services.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">In 2005, Congress authorized the Department of Defense to reorganize its base structure- a
+process commonly known as BRAC or Base Realignment and Closure. Maryland&#146;s Ft. Meade was chosen to
+absorb military workers from Northern Virginia in a process that will continue through 2013.
+Maryland, specifically Anne Arundel County, is expected to gain more jobs from military base
+shuffling than any other state in the nation. There are 80 tenant organizations in Ft. Meade,
+including NSA, Defense Information Schools, the EPA, as well as the Department of the Defense
+intelligence training facilities. Employees at Ft. Meade number approximately 36,000, which is
+expected to grow to 42,000 when BRAC consolidation is completed
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Once home to large Maryland-based regional banks, financial services are now primarily
+provided by larger super-regional institutions such as Bank of America, SunTrust, Wachovia (now
+Wells Fargo), M &#038; T Bank, BB&#038;T and Capital One, all of which expanded into this highly attractive
+banking market over the past decade by acquisition.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Prince George&#146;s County</I>. In Prince George&#146;s County, 15,300 businesses employ over 230,000
+workers; an estimated 475 of these businesses have 100 or more employees. Almost 900 technology
+companies employ 33,600 highly-trained workers &#151; the second highest number of high-tech
+companies, as well as defense and aerospace companies, of any jurisdiction in the state. Major
+employers include the Computer Sciences Corporation, the University of Maryland at College Park,
+the Beltsville Agricultural Research Center, Safeway, SGT, and Verizon. Additionally, Andrews Air
+Force Base in Camp Springs is a large military facility that provides transportation for the
+President and other high-ranking government officials and foreign dignitaries. New technology
+companies are nurtured in several business incubators in the county.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Relocating and expanding businesses have been increasingly attracted to Prince George&#146;s County
+due to its competitively priced land and buildings, an integrated transportation system, proximity
+to Washington, D.C., and attractive business incentives. The county closely mirrors Anne Arundel
+County with respect to small business enterprises, with 97% of the over 15 thousand employers
+having fewer than 100 workers, according to published data. Government is a significant economic
+influence, with 80 thousand Federal, state and county employees.
+Similar to Anne Arundel County, large super-regional banking institutions have obtained
+additional market share in the suburban Washington market from the acquisition of many of the
+community banks that once existed in this area. Prince George&#146;s County has a population of over 800
+thousand.
+</DIV>
+
+<P align="center" style="font-size: 10pt; text-indent: 4%">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->5<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Howard County</I>. Expansion into neighboring Howard County is a natural extension of the
+Company&#146;s strategic growth plan. Howard County is situated in the heart of the corridor between
+Washington, D.C. and Baltimore. Howard County&#146;s population is projected to grow to 327,000 by 2035,
+according to the Howard County Department of Planning and Zoning. Currently the county&#146;s citizens
+are among the wealthiest in Maryland with a median 2007 household income of $101,672. Howard
+County&#146;s geographic location has resulted in the substantial growth of a wide variety of
+industries, including high-tech and life science businesses, in addition to transportation and
+education related activities. Accessible to I-95 and I-70, the county is located within a 20-minute
+drive of Baltimore/Washington International Airport and the Port of Baltimore, and serves as a
+bedroom community for both Baltimore and Washington DC area employers. Additionally, Dulles
+International and Washington National Airports are within an hour&#146;s drive. Howard County has a
+strong economic base of its own with over 7,000 Howard County businesses employing more than
+122,000 people, including 725 high-tech businesses with a workforce of nearly 24,000 workers. Like
+the other counties in which the Company operates, the population and workforce of Howard County are
+highly educated, and income levels are favorably high.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Competition. </I>Deregulation of financial institutions and holding company acquisitions of banks
+across state lines has resulted in widespread, fundamental changes in the financial services
+industry. This transformation, although occurring nationwide, is particularly intense in the
+greater Baltimore/Washington, DC area. In Anne Arundel, Prince George&#146;s and Howard Counties,
+competition is exceptionally keen from large banking institutions headquartered outside of
+Maryland. In addition, the Company competes with other community banks, savings and loan
+associations, credit unions, mortgage companies, finance companies and others providing financial
+services. Among the advantages that many of these institutions have over the Company are their
+abilities to finance extensive advertising campaigns, maintain extensive branch networks and
+technology investments, and to directly offer certain services, such as international banking and
+trust services, which the Company does not directly offer. Further, the greater capitalization of
+the larger institutions allows for substantially higher lending limits than the Company. Certain
+of these competitors have other advantages, such as tax exemption in the case of credit unions, and
+lesser regulation in the case of mortgage companies and finance companies. As a result of the
+Dodd-Frank Act, almost unlimited interstate de novo branching is available to all state and
+federally chartered banks. As a result, institutions which previously were ineligible to establish
+de novo branches in Maryland may elect to do so.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Regulation</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The following summaries of statutes and regulations affecting bank holding companies do not
+purport to be complete discussions of all aspects of such statutes and regulations and are
+qualified in their entirety by reference to the full text thereof.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>The Company. </I>The Company is a bank holding company registered under the Bank Holding Company
+Act of 1956, as amended, (the &#147;Act&#148;) and is subject to supervision by the Federal Reserve Board.
+As a bank holding company, the Company is required to file with the Federal Reserve Board an annual
+report and such other additional information as the Federal Reserve Board may require pursuant to
+the Act. The Federal Reserve Board may also make examinations of the Company and each of its
+subsidiaries.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Act requires approval of the Federal Reserve Board for, among other things, the
+acquisition by a proposed bank holding company of control of more than five percent (5%) of the
+voting shares, or substantially all the assets, of any bank or the merger or consolidation by a
+bank holding company with another bank holding company. The Act also generally permits the
+acquisition by a bank holding company of control or substantially all the assets of any bank
+located in a state other than the home state of the bank holding company, except where the bank has
+not been in existence for the minimum period of time required by state law, but if the bank is at
+least five years old, the Federal Reserve Board may approve the acquisition. A presumption of
+control arises under the Change in Bank Control Act where a person controls 10% or more of a class
+of the voting stock of a company or insured bank which is a reporting company under the Securities
+Exchange Act of 1934, such a the Company.
+</DIV>
+<P align="center" style="font-size: 10pt; text-indent: 4%">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->6<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">With certain limited exceptions, a bank holding company is prohibited from acquiring control
+of any voting shares of any company which is not a bank or bank holding company and from engaging
+directly or indirectly in any activity other than banking or managing or controlling banks or
+furnishing services to or performing service for its authorized subsidiaries. A bank holding
+company may, however, engage in or acquire an interest in, a company that engages in activities
+which the Federal Reserve Board has determined by order or regulation to be so closely related to
+banking or managing or controlling banks as to be properly incident thereto. In making such a
+determination, the Federal Reserve Board is required to consider whether the performance of such
+activities can reasonably be expected to produce benefits to the public, such as convenience,
+increased competition or gains in efficiency, which outweigh possible adverse effects, such as
+undue concentration of resources, decreased or unfair competition, conflicts of interest or unsound
+banking practices. The Federal Reserve Board is also empowered to differentiate between activities
+commenced <I>de novo </I>and activities commenced by the acquisition, in whole or in part, of a going
+concern. Some of the activities that the Federal Reserve Board has determined by regulation to be
+closely related to banking include making or servicing loans, performing certain data processing
+services, acting as a fiduciary or investment or financial advisor, and making investments in
+corporations or projects designed primarily to promote community welfare.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Subsidiary banks of a bank holding company are subject to certain restrictions imposed by the
+Federal Reserve Act on any extensions of credit to the bank holding company or any of its
+subsidiaries, or investments in the stock or other securities thereof, and on the taking of such
+stock or securities as collateral for loans to any borrower. Further, a holding company and any
+subsidiary bank are prohibited from engaging in certain tie-in arrangements in connection with the
+extension of credit. A subsidiary bank may not extend credit, lease or sell property, or furnish
+any services, or fix or vary the consideration for any of the foregoing on the condition that: (i)
+the customer obtain or provide some additional credit, property or services from or to such bank
+other than a loan, discount, deposit or trust service; (ii)&nbsp;the customer obtain or provide some
+additional credit, property or service from or to the Company or any other subsidiary of the
+Company; or (iii)&nbsp;the customer not obtain some other credit, property or service from competitors,
+except for reasonable requirements to assure the soundness of credit extended.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Gramm-Leach-Bliley Act of 1999 (the &#147;GLB Act&#148;) allows a bank holding company or other
+company to certify status as a financial holding company, which allows such company to engage in
+activities that are financial in nature, that are incidental to such activities, or are
+complementary to such activities. The GLB Act enumerates certain activities that are deemed
+financial in nature, such as underwriting insurance or acting as an insurance principal, agent or
+broker, underwriting, dealing in or making markets in securities, and engaging in merchant banking
+under certain restrictions. It also authorizes the Federal Reserve Board to determine by
+regulation what other activities are financial in nature, or incidental or complementary thereto.
+The GLB Act allows a wider array of companies to own banks, which could result in companies with
+resources substantially in excess of the Company&#146;s entering into competition with the Company and
+the Bank.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The GLB Act made substantial changes in the historic restrictions on non-bank activities of
+bank holding companies, and allows affiliations between types of companies that were previously
+prohibited. The GLB Act also allows banks to engage in a wider array of non-banking activities
+through &#147;financial subsidiaries.&#148;
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Dodd-Frank Act contains various provisions designed to enhance the regulation of
+depository institutions and prevent the recurrence of a financial crisis such as occurred in
+2008-2009. Also included is the creation of a new federal agency to administer and enforce consumer
+and fair lending laws, a function that is now performed by the depository institution regulators.
+The full impact of the Dodd-Frank Act on the Company&#146;s business and operations will not be known
+for years until regulations implementing the statute are written and adopted. The Dodd-Frank Act
+may have a material impact on the Company&#146;s operations, particularly through increased compliance
+costs resulting from possible future consumer and fair lending regulations.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>The Bank. </I>The Bank, as a Maryland chartered commercial bank which is a member of the Federal
+Reserve System (a state member bank) and whose accounts are insured by the Deposit Insurance Fund
+of the Federal Deposit Insurance Corporation (the &#147;FDIC&#148;) up to the maximum legal limits of the
+FDIC, is subject to regulation, supervision and regular examination by the Maryland Department of
+Financial Institutions and the Federal Reserve Board. The regulations of these various agencies
+govern most aspects of the Bank&#146;s business, including required reserves against
+deposits, loans, investments, mergers and acquisitions, borrowing, dividends and location and
+number of branch offices. The laws and regulations governing the Bank generally have been
+promulgated to protect depositors and the Deposit Insurance Fund, and not for the purpose of
+protecting stockholders.
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->7<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Competition among commercial banks, savings and loan associations, and credit unions has
+increased following enactment of legislation that greatly expanded the ability of banks and bank
+holding companies to engage in interstate banking or acquisition activities. As a result of
+federal and state legislation, banks in the Washington D.C./Maryland/Virginia area can, subject to
+limited restrictions, acquire or merge with a bank in another of the jurisdictions, and can branch
+<I>de novo </I>in any of the jurisdictions.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Banking is a business that depends on interest rate differentials. In general, the
+differences between the interest paid by a bank on its deposits and its other borrowings and the
+interest received by a bank on loans extended to its customers and securities held in its
+investment portfolio constitute the major portion of the bank&#146;s earnings. Thus, the earnings and
+growth of the Bank will be subject to the influence of economic conditions generally, both domestic
+and foreign, and also to the monetary and fiscal policies of the United States and its agencies,
+particularly the Federal Reserve Board, which regulates the supply of money through various means
+including open market dealings in United States government securities. The nature and timing of
+changes in such policies and their impact on the Bank cannot be predicted.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Branching and Interstate Banking. </I>The federal banking agencies are authorized to approve
+interstate bank merger transactions without regard to whether such transaction is prohibited by the
+law of any state, unless the home state of one of the banks has opted out of the interstate bank
+merger provisions of the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994 (the
+&#147;Riegle-Neal Act&#148;) by adopting a law after the date of enactment of the Riegle-Neal Act and prior
+to June&nbsp;1, 1997 which applies equally to all out-of-state banks and expressly prohibits merger
+transactions involving out-of-state banks. Interstate acquisitions of branches are permitted only
+if the law of the state in which the branch is located permits such acquisitions. Such interstate
+bank mergers and branch acquisitions are also subject to the nationwide and statewide insured
+deposit concentration limitations described in the Riegle-Neal Act. The District of Columbia,
+Maryland and Virginia have each enacted laws which permit interstate acquisitions of banks and bank
+branches. The Dodd-Frank Act authorizes national and state banks to establish de novo branches in
+other states to the same extent as a bank chartered by that state would be permitted to branch.
+Previously, banks could only establish branches in other states if the host state expressly
+permitted out-of-state banks to establish branches in that state.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Although the District of Columbia, Maryland and Virginia had all enacted laws which permitted
+banks in these jurisdictions to branch freely, the branching provisions of the Dodd-Frank Act could
+result in banks from other states establishing de <I>novo </I>branches in the Bank&#146;s market area.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Transaction with Affiliates. </I>The Bank is subject to the provisions of Section&nbsp;23A and 23B of
+the Federal Reserve Act and Federal Reserve Regulation&nbsp;W of the Federal Reserve Bank which place
+limits on the amount of loans or extensions of credit to affiliates (as defined in the Federal
+Reserve Act), investments in or certain other transactions with affiliates and on the amount of
+advances to third parties collateralized by the securities or obligations of affiliates. The law
+and regulation limit the aggregate amount of transactions with any individual affiliate to ten
+percent (10%) of the capital and surplus of the Bank and also limit the aggregate amount of
+transactions with all affiliates to twenty percent (20%) of capital and surplus. Loans and certain
+other extensions of credit to affiliates are required to be secured by collateral in an amount and
+of a type described in the regulation, and the purchase of low quality assets from affiliates is
+generally prohibited. The law and Regulation&nbsp;W also, among other things, prohibit an institution
+from engaging in certain transactions with certain affiliates (as defined in the Federal Reserve
+Act) unless the transactions are on terms substantially the same, or at least as favorable to such
+institution and/or its subsidiaries, as those prevailing at the time for comparable transactions
+with non-affiliated entities. In the absence of comparable transactions, such transactions may
+only occur under terms and circumstances, including credit standards that in good faith would be
+offered to or would apply to non-affiliated companies.
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->8<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company is subject to the restrictions contained in Section 22(h) of the Federal Reserve
+Act and the Federal Reserve Board&#146;s Regulation&nbsp;O thereunder on loans to executive officers,
+directors and principal
+stockholders. Under Section&nbsp;22(h), loans to a director, an executive officer or a greater-than-10%
+stockholder of a bank as well as certain affiliated interests of any of the foregoing may not
+exceed, together with all other outstanding loans to such person and affiliated interests, the
+loans-to-one-borrower limit applicable to national banks (generally 15% of the institution&#146;s
+unimpaired capital and surplus), and all loans to all such persons in the aggregate may not exceed
+the institution&#146;s unimpaired capital and unimpaired surplus. Regulation&nbsp;O also prohibits the
+making of loans in an amount greater than $25,000 or 5% of capital and surplus but in any event not
+over $500,000, to directors, executive officers and greater-than-10% stockholders of a bank, and
+their respective affiliates, unless such loans are approved in advance by a majority of the board
+of directors of the bank with any &#147;interested&#148; director not participating in the voting.
+Furthermore, Regulation&nbsp;O requires that loans to directors, executive officers and principal
+stockholders of a bank be made on terms substantially the same as those that are offered in
+comparable transactions to unrelated third parties unless the loans are made pursuant to a benefit
+or compensation program that is widely available to all employees of the bank and does not give
+preference to insiders over other employees. Regulation&nbsp;O also prohibits a depository institution
+from paying overdrafts over $1,000 of any of its executive officers or directors unless they are
+paid pursuant to written pre-authorized extension of credit or transfer of funds plans. Violations
+on the insider transaction provisions of law and regulation could result in severe regulatory
+consequences for the Bank and Company, including the imposition of civil money penalties, or
+regulatory enforcement agreements or orders which require time consuming or expensive corrective
+actions.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Community Reinvestment Act. </I>The Community Reinvestment Act (&#147;CRA&#148;) requires that, in
+connection with examinations of financial institutions within their respective jurisdictions, the
+Federal Reserve Board, the FDIC, the Office of the Comptroller of the Currency or the Office of
+Thrift Supervision shall evaluate the record of the financial institutions in meeting the credit
+needs of their local communities, including low and moderate income neighborhoods, consistent with
+the safe and sound operation of those institutions. The CRA does not establish specific lending
+requirements or programs for financial institutions nor does it limit an institution&#146;s discretion
+to develop the types of products and services that it believes are best suited to its particular
+community, consistent with the CRA. An institution&#146;s CRA activities are considered in, among other
+things, evaluating mergers, acquisitions and applications to open a branch or facility, as well as
+determining whether the institution will be permitted to exercise certain of the powers allowed by
+the GLB Act. The CRA also requires all institutions to make public disclosure of their CRA
+ratings. The Company was last examined for CRA compliance as of August&nbsp;17, 2009 and received a CRA
+rating of &#147;satisfactory.&#148;
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>USA Patriot Act. </I>Under the Uniting and Strengthening America by Providing Appropriate Tools
+Required to Intercept and Obstruct Terrorism Act, commonly referred to as the &#147;USA Patriot Act&#148; or
+the Patriot Act, financial institutions are subject to prohibitions against specified financial
+transactions and account relationships, as well as enhanced due diligence standards intended to
+detect, and prevent, the use of the United States financial system for money laundering and
+terrorist financing activities. The Patriot Act requires financial institutions, including banks,
+to establish anti-money laundering programs, including employee training and independent audit
+requirements, meet minimum standards specified by the act, follow minimum standards for customer
+identification and maintenance of customer identification records, and regularly compare customer
+lists against lists of suspected terrorists, terrorist organizations and money launderers. The
+costs or other effects of the compliance burdens imposed by the Patriot Act or future
+anti-terrorist, homeland security or anti-money laundering legislation or regulations cannot be
+predicted with certainty.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Capital Adequacy Guidelines. </I>The Federal Reserve Board and the FDIC have adopted risk based
+capital adequacy guidelines pursuant to which they assess the adequacy of capital in examining and
+supervising banks and bank holding companies and in analyzing bank regulatory applications.
+Risk-based capital requirements determine the adequacy of capital based on the risk inherent in
+various classes of assets and off-balance sheet items. Under the Dodd-Frank Act, the Federal
+Reserve Board is required to apply consolidated capital requirements to depository institution
+holding companies that are no less stringent than those currently applied to depository
+institutions. The Dodd-Frank Act additionally requires capital requirements to be countercyclical
+so that the required amount of capital increases in times of economic expansion and decreases in
+times of economic contraction, consistent with safety and soundness.
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->9<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">State member banks are expected to meet a minimum ratio of total qualifying capital (the sum
+of core capital (Tier 1) and supplementary capital (Tier 2)) to risk weighted assets of 8%. At
+least half of this amount (4%) should be
+in the form of core capital. These requirements apply to the Bank and will apply to the Company (a
+bank holding company) once its total assets equal $500,000,000 or more, it engages in certain
+highly leveraged activities or it has publicly held debt securities.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Tier 1 Capital generally consists of the sum of common stockholders&#146; equity and perpetual
+preferred stock (subject in the case of the latter to limitations on the kind and amount of such
+stock which may be included as Tier 1 Capital), less goodwill, without adjustment for changes in
+the market value of securities classified as available-for- sale in accordance with ASC Topic 320.
+Tier 2 Capital consists of the following: hybrid capital instruments; perpetual preferred stock
+which is not otherwise eligible to be included as Tier 1 Capital; term subordinated debt and
+intermediate-term preferred stock; and, subject to limitations, general allowances for loan losses.
+Assets are adjusted under the risk-based guidelines to take into account different risk
+characteristics, with the categories ranging from 0% (requiring no risk-based capital) for assets
+such as cash, to 100% for the bulk of assets which are typically held by a bank holding company,
+including certain multi-family residential and commercial real estate loans, commercial business
+loans and consumer loans. Residential first mortgage loans on 1-4 family residential real estate
+and certain seasoned multi-family residential real estate loans, which are not 90&nbsp;days or more
+past-due or nonperforming and which have been made in accordance with prudent underwriting
+standards are assigned a 50% level in the risk-weighing system, as are certain privately-issued
+mortgage-backed securities representing indirect ownership of such loans. Off-balance sheet items
+also are adjusted to take into account certain risk characteristics.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">In addition to the risk-based capital requirements, the Federal Reserve Board has established
+a minimum 3.0% Leverage Capital Ratio (Tier 1 Capital to total adjusted assets) requirement for the
+most highly-rated banks, with an additional cushion of at least 100 to 200 basis points for all
+other banks, which effectively increases the minimum Leverage Capital Ratio for such other banks to
+4.0% &#151; 5.0% or more. The highest-rated banks are those that are not anticipating or experiencing
+significant growth and have well diversified risk, including no undue interest rate risk exposure,
+excellent asset quality, high liquidity, good earnings and, in general, those which are considered
+a strong banking organization. A bank having less than the minimum Leverage Capital Ratio
+requirement shall, within 60&nbsp;days of the date as of which it fails to comply with such requirement,
+submit a reasonable plan describing the means and timing by which the bank shall achieve its
+minimum Leverage Capital Ratio requirement. A bank which fails to file such plan is deemed to be
+operating in an unsafe and unsound manner, and could subject the bank to a cease-and-desist order.
+Any insured depository institution with a Leverage Capital Ratio that is less than 2.0% is deemed
+to be operating in an unsafe or unsound condition pursuant to Section 8(a) of the Federal Deposit
+Insurance Act (the &#147;FDIA&#148;) and is subject to potential termination of deposit insurance. The
+capital regulations also provide, among other things, for the issuance of a capital directive,
+which is a final order issued to a bank that fails to maintain minimum capital or to restore its
+capital to the minimum capital requirement within a specified time period. Such directive is
+enforceable in the same manner as a final cease-and-desist order.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The foregoing capital requirements represent minimum requirements. Our state and federal
+regulators have the discretion to require us to maintain higher capital levels based upon our
+concentrations of loans, the risk of our lending or other activities, the performance of our loan
+and investment portfolios and other factors. Failure to maintain such higher capital expectations
+could result in a lower composite regulatory rating, which would impact our deposit insurance
+premiums and could affect our ability to borrow, and costs of borrowing, and could result in
+additional or more severe enforcement actions.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Under guidance from the federal banking regulators, banks which have concentrations in
+construction, land development or commercial real estate loans (other than loans for majority owner
+occupied properties) would be expected to maintain higher levels of risk management and,
+potentially, higher levels of capital. It is possible that we may be required to maintain higher
+levels of capital than we would otherwise be expected to maintain as a result of our levels of
+construction, development and commercial real estate loans, which may require us to obtain
+additional capital.
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->10<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Prompt Corrective Action. </I>Under Section&nbsp;38 of the FDIA, each federal banking agency is
+required to implement a system of prompt corrective action for institutions that it regulates. The
+federal banking agencies have promulgated substantially similar regulations to implement the system
+of prompt corrective action established by Section&nbsp;38 of the FDIA. Under the regulations, a bank
+shall be deemed to be: (i) &#147;well capitalized&#148; if it has a Total Risk Based
+Capital Ratio of 10.0% or more, a Tier 1 Risk Based Capital Ratio of 6.0% or more, a Leverage
+Capital Ratio of 5.0% or more and is not subject to any written capital order or directive; (ii)
+&#147;adequately capitalized&#148; if it has a Total Risk Based Capital Ratio of 8.0% or more, a Tier 1 Risk
+Based Capital Ratio of 4.0% or more and a Tier 1 Leverage Capital Ratio of 4.0% or more (3.0% under
+certain circumstances) and does not meet the definition of &#147;well capitalized;&#148; (iii)
+&#147;undercapitalized&#148; if it has a Total Risk Based Capital Ratio that is less than 8.0%, a Tier 1 Risk
+based Capital Ratio that is less than 4.0% or a Leverage Capital Ratio that is less than 4.0% (3.0%
+under certain circumstances); (iv) &#147;significantly undercapitalized&#148; if it has a Total Risk Based
+Capital Ratio that is less than 6.0%, a Tier 1 Risk Based Capital Ratio that is less than 3.0% or a
+Leverage Capital Ratio that is less than 3.0%; and (v) &#147;critically undercapitalized&#148; if it has a
+ratio of tangible equity to total assets that is equal to or less than 2.0%.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">An institution generally must file a written capital restoration plan which meets specified
+requirements with an appropriate federal banking agency within 45&nbsp;days of the date the institution
+receives notice or is deemed to have notice that it is undercapitalized, significantly
+undercapitalized or critically undercapitalized. A federal banking agency must provide the
+institution with written notice of approval or disapproval within 60&nbsp;days after receiving a capital
+restoration plan, subject to extensions by the applicable agency.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">An institution that is required to submit a capital restoration plan must concurrently submit
+a performance guaranty by each company that controls the institution. Such guaranty shall be
+limited to the lesser of (i)&nbsp;an amount equal to 5.0% of the institution&#146;s total assets at the time
+the institution was notified or deemed to have notice that it was undercapitalized or (ii)&nbsp;the
+amount necessary at such time to restore the relevant capital measures of the institution to the
+levels required for the institution to be classified as adequately capitalized. Such a guaranty
+shall expire after the federal banking agency notifies the institution that it has remained
+adequately capitalized for each of four consecutive calendar quarters. An institution which fails
+to submit a written capital restoration plan within the requisite period, including any required
+performance guaranty, or fails in any material respect to implement a capital restoration plan,
+shall be subject to the restrictions in Section&nbsp;38 of the FDIA which are applicable to
+significantly undercapitalized institutions.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">A &#147;critically undercapitalized institution&#148; is to be placed in conservatorship or receivership
+within 90&nbsp;days unless the FDIC formally determines that forbearance from such action would better
+protect the deposit insurance fund. Unless the FDIC or other appropriate federal banking
+regulatory agency makes specific further findings and certifies that the institution is viable and
+is not expected to fail, an institution that remains critically undercapitalized on average during
+the fourth calendar quarter after the date it becomes critically undercapitalized must be placed in
+receivership. The general rule is that the FDIC will be appointed as receiver within 90&nbsp;days after
+a bank becomes critically undercapitalized unless extremely good cause is shown and the federal
+regulators agree to an extension. In general, good cause is defined as capital that has been
+raised and is imminently available for infusion into the Bank except for certain technical
+requirements that may delay the infusion for a period of time beyond the 90&nbsp;day time period.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Immediately upon becoming undercapitalized, an institution shall become subject to the
+provisions of Section&nbsp;38 of the FDIA, which (i)&nbsp;restrict payment of capital distributions and
+management fees; (ii)&nbsp;require that the appropriate federal banking agency monitor the condition of
+the institution and its efforts to restore its capital; (iii)&nbsp;require submission of a capital
+restoration plan; (iv)&nbsp;restrict the growth of the institution&#146;s assets; and (v)&nbsp;require prior
+approval of certain expansion proposals. The appropriate federal banking agency for an
+undercapitalized institution also may take any number of discretionary supervisory actions if the
+agency determines that any of these actions is necessary to resolve the problems of the institution
+at the least possible long-term cost to the deposit insurance fund, subject in certain cases to
+specified procedures. These discretionary supervisory actions include: requiring the institution
+to raise additional capital; restricting transactions with affiliates; requiring divestiture of the
+institution or the sale of the institution to a willing purchaser; and any other supervisory action
+that the agency deems appropriate. These and additional mandatory and permissive supervisory
+actions may be taken with respect to significantly undercapitalized and critically undercapitalized
+institutions.
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->11<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Additionally, under Section&nbsp;11(c)(5) of the FDIA, a conservator or receiver may be appointed
+for an institution where: (i)&nbsp;an institution&#146;s obligations exceed its assets; (ii)&nbsp;there is
+substantial dissipation of the institution&#146;s assets or earnings as a result of any violation of law
+or any unsafe or unsound practice; (iii)&nbsp;the institution is in an unsafe or unsound condition;
+(iv)&nbsp;there is a willful violation of a cease-and-desist order; (v)&nbsp;the institution is unable to
+pay its obligations in the ordinary course of business; (vi)&nbsp;losses or threatened losses deplete
+all or substantially all of an
+institution&#146;s capital, and there is no reasonable prospect of becoming &#147;adequately capitalized&#148;
+without assistance; (vii)&nbsp;there is any violation of law or unsafe or unsound practice or condition
+that is likely to cause insolvency or substantial dissipation of assets or earnings, weaken the
+institution&#146;s condition, or otherwise seriously prejudice the interests of depositors or the
+insurance fund; (viii)&nbsp;an institution ceases to be insured; (ix)&nbsp;the institution is
+undercapitalized and has no reasonable prospect that it will become adequately capitalized, fails
+to become adequately capitalized when required to do so, or fails to submit or materially implement
+a capital restoration plan; or (x)&nbsp;the institution is critically undercapitalized or otherwise has
+substantially insufficient capital.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Regulatory Enforcement Authority</I>. Federal banking law grants substantial enforcement powers
+to federal banking regulators. This enforcement authority includes, among other things, the
+ability to assess civil money penalties, to issue cease-and-desist or removal orders and to
+initiate injunctive actions against banking organizations and institution-affiliated parties. In
+general, these enforcement actions may be initiated for violations of laws and regulations and
+unsafe or unsound practices. Other actions or inactions may provide the basis for enforcement
+action, including misleading or untimely reports filed with regulatory authorities.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">As a result of the volatility and instability in the financial system during 2008, 2009 and
+2010, the Congress, the bank regulatory authorities and other government agencies have called for
+or proposed additional regulation and restrictions on the activities, practices and operations of
+banks and their holding companies. While many of these proposals relate to institutions that have
+accepted investments from, or sold troubled assets to, the Department of the Treasury or other
+government agencies, or otherwise participate in government programs intended to promote financial
+stabilization, the Congress and the federal banking agencies have broad authority to require all
+banks and holding companies to adhere to more rigorous or costly operating procedures, corporate
+governance procedures, or to engage in activities or practices which they would not otherwise
+elect. Any such requirement could adversely affect the Company&#146;s business and results of
+operations. The Company did not accept an investment by the Treasury Department in its preferred
+stock or warrants to purchase common stock, and except for the temporary increases in deposit
+insurance for customer accounts, has not participated in any of the programs adopted by the
+Treasury Department, FDIC or Federal Reserve.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>FDIC Insurance Premiums. </I>The FDIC maintains a risk-based assessment system for determining
+deposit insurance premiums. Four risk categories (I-IV), each subject to different premium rates,
+are established, based upon an institution&#146;s status as well capitalized, adequately capitalized or
+undercapitalized, and the institution&#146;s supervisory rating. The levels of rates are subject to
+periodic adjustment by the FDIC. Depository institutions will also pay premiums for the increased
+coverage provided by the FDIC.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Commencing in 2009, the premium rates increased by 7 basis points in each category for the
+first quarter of 2009. For the second quarter of 2009 and beyond, the FDIC established further
+changes in rates, and introduced three adjustments that can be made to an institution&#146;s initial
+base assessment rate: (1)&nbsp;a potential decrease for long-term unsecured debt, including senior and
+subordinated debt and, for small institutions, a portion of Tier 1 capital; (2)&nbsp;a potential
+increase for secured liabilities above a threshold amount; and (3)&nbsp;for non-Risk Category I
+institutions, a potential increase for brokered deposits above a threshold amount. The schedule
+for base assessment rates and potential adjustment is set forth in the following table.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="44%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Risk</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Risk</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Risk</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Risk</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">Category I</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">Category II</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">Category III</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">Category IV</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Initial Base Assessment Rate</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">12 &#150;16</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center">22</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center">32</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center">45</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Unsecured Debt Adjustment (added)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">(5) to 0</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">(5) to 0</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">(5) to 0</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">(5) to 0</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Secured Liability Adjustment (added)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">0 to 8</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">0 to 11</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">0 to 16</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">0 to 22.5</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Brokered Deposit Adjustment (added)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center">N/A</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">0 to 10</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">0 to 10</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">0 to 10</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Total Base Assessment Rate</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">7 to 24</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">17 to 43</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">27 to 58</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">43 to 77.5</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->12<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The FDIC also imposed a special FDIC insurance assessment of 5 basis points implemented a five
+basis point special assessment of each insured depository institution&#146;s assets minus Tier 1 capital
+as of June&nbsp;30, 2009, but
+no more than 10 basis points times the institution&#146;s assessment base for the second quarter of
+2009, which was collected on September&nbsp;30, 2009. While no subsequent special assessments have been
+made since 2009, additional special assessments may be imposed by the FDIC in the future.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">In order to increase its liquidity, the FDIC required banks to prepay three years of estimated
+insurance premiums in December&nbsp;2009. The Company paid the FDIC approximately $1.1&nbsp;million in
+December&nbsp;2009 for its estimated premiums for the subsequent three years. The prepaid premium
+payment is being applied to required calculated quarterly insurance assessments.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Dodd-Frank Act permanently increases the maximum deposit insurance amount for banks,
+savings institutions and credit unions to $250,000 per depositor, and extends unlimited deposit
+insurance to non-interest bearing transaction accounts through December&nbsp;31, 2012. The Dodd-Frank
+Act requires the FDIC to increase the reserve ratio of the Deposit Insurance Fund from 1.15% to
+1.35% of insured deposits by 2020 and eliminates the requirement that the FDIC pay dividends to
+insured depository institutions when the reserve ratio exceeds certain thresholds. Effective one
+year from the date of enactment, Dodd-Frank eliminates the federal statutory prohibition against
+the payment of interest on business checking accounts.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Dodd-Frank Act also broadens the base for FDIC insurance assessments. Assessments will now
+be based on the average consolidated total assets less tangible equity capital of a financial
+institution. Effective April&nbsp;1, 2011, the new schedule for base assessment rates and potential
+adjustments is as set forth in the following table.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Large and Highly</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Risk</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Risk</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Risk</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Risk</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Complex</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">Category I</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">Category II</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">Category III</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">Category IV</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">Institutions</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Initial Base Assessment Rate</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">5 to 9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center">14</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center">23</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center">35</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">5 to 35</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Unsecured Debt Adjustment (added)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">(4.5) to 0</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">(5) to 0</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">(5) to 0</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">(5) to 0</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">(5) to 0</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Brokered Deposit Adjustment (added)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center">N/A</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">0 to 10</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">0 to 10</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">0 to 10</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">0 to 10</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Total Base Assessment Rate</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">2.5 to 9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">9 to 24</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">18 to 33</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">30 to 45</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">2.5 to 45</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Consumer Financial Protection Bureau</I>. The Dodd-Frank Act creates a new, independent federal
+agency called the Consumer Financial Protection Bureau (&#147;CFPB&#148;) which is granted broad rulemaking,
+supervisory and enforcement powers under various federal consumer financial protection laws,
+including the Equal Credit Opportunity Act, Truth in Lending Act, Real Estate Settlement Procedures
+Act, Fair Credit Reporting Act, Fair Debt Collection Act, the Consumer Financial Privacy provisions
+of the Gramm-Leach-Bliley Act and certain other statutes. The CFPB will have examination and
+primary enforcement authority with respect to depository institutions with $10&nbsp;billion or more in
+assets. Smaller institutions will be subject to rules promulgated by the CFPB but will continue to
+be examined and supervised by federal banking regulators for consumer compliance purposes. The CFPB
+will have authority to prevent unfair, deceptive or abusive practices in connection with the
+offering of consumer financial products. The Dodd-Frank Act authorizes the CFPB to establish
+certain minimum standards for the origination of residential mortgages including a determination of
+the borrower&#146;s ability to repay. In addition, Dodd-Frank will allow borrowers to raise certain
+defenses to foreclosure if they receive any loan other than a &#147;qualified mortgage&#148; as defined by
+the CFPB. The Dodd-Frank Act permits states to adopt consumer protection laws and standards that
+are more stringent than those adopted at the federal level and, in certain circumstances, permits
+state attorneys general to enforce compliance with both the state and federal laws and regulations.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">It is difficult to predict at this time what specific impact the Dodd-Frank Act and the yet to
+be written implementing rules and regulations will have on community banks. However, it is expected
+that at a minimum they will increase our operating and compliance costs and could increase our
+interest expense.
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->13<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The FDIC is experiencing significant demands on its financial resources resulting in capital
+and liquidity issues at the FDIC. To address these challenges, the FDIC may need to obtain
+additional funding from banks. The form of such funding, if needed, is not now known.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">As a result of competitive pressures for deposits, the Company may not be able to adjust
+deposit rates to offset the cost of increased deposit insurance premiums.
+</DIV>
+<!-- link2 "ITEM 1A. Risk Factors" -->
+<DIV align="left"><A NAME="C13669002"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 1A.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Risk Factors.</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">An investment in the Company&#146;s common stock involves various risks. The Company has identified
+the following material risks affecting its business. These risk factors may cause our future
+earnings to be lower or our financial condition to be less favorable than the Company expects. In
+addition, other risks of which the Company is not aware, which relate to the banking and financial
+services industries in general, or which it does not believe are material, may cause earnings to be
+lower, or hurt the Company&#146;s future financial condition.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>The Company may not be able to successfully manage continued growth</I><B>.</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company intends to seek further growth in the level of assets and deposits and may
+consider expanding the branch network in the future. The Company may not be able to manage
+increased levels of assets and liabilities, and an expanded branch system, without increased
+expenses and higher levels of nonperforming assets. The Company may be required to make additional
+investments in equipment and personnel to manage higher asset levels and loan balances and a larger
+branch network, which may adversely impact earnings, shareholder returns and efficiency ratio.
+Increases in operating expenses or nonperforming assets may have an adverse impact on the value of
+the Company&#146;s common stock. There can be no assurance that the Company will establish any
+additional branches, or if established, that they can be operated profitably.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>The Company has a lower level of &#147;core deposits&#148; and a higher level of wholesale funding, relative
+to peer institutions.</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Over the past several years, the Company has achieved significant growth in our loan
+portfolio. Because the Company&#146;s deposits have not grown at similar rates, the Company has had to
+supplement our funding sources to include the use of the national market to attract funds. During
+an environment when interest rates are rising and the related U.S. Treasury interest rate curve is
+flattening, the use of this funding source may result in an increase in interest costs
+disproportionate to loan yields. This results in less net interest income, which could adversely
+impact earnings, the stock price and shareholder returns.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>The Company&#146;s concentrations of loans may create a greater risk of loan defaults and losses.</I>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">A substantial portion of the Company&#146;s loans are secured by real estate in the Company&#146;s
+market areas in Maryland. It also has a significant amount of commercial real estate loans. While
+Management believes that the commercial real estate concentration risk is mitigated by
+diversification among the types and characteristics of real estate collateral properties, sound
+underwriting practices, and ongoing portfolio monitoring and market analysis, the repayments of
+these loans usually depends on the successful operation of a business or the sale of the underlying
+property. As a result, these loans are more likely to be adversely affected by adverse conditions
+in the real estate market or the economy in general. The remaining loans in the loan portfolio are
+commercial or industrial loans. These loans are collateralized by various business assets the value
+of which may decline during adverse market conditions. These loans are also susceptible to adverse
+economic conditions. Adverse conditions in the real estate market and the economy may result in
+increasing levels of loan charge-offs and nonperforming assets and the reduction of earnings.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Commercial and commercial real estate loans tend to have larger balances than residential
+mortgage loans. Because the loan portfolio contains a significant number of commercial and
+commercial real estate with relatively large balances, the deterioration of one or a few of these
+loans may cause a significant increase in nonperforming assets. An increase in nonperforming loans
+could result in: a loss of earnings from these loans, an increase in the provision for loan losses,
+or an increase in loan charge-offs, which could have an adverse impact on the Company&#146;s results of
+operations and financial condition.
+</DIV>
+<P align="center" style="font-size: 10pt; text-indent: 4%">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->14<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Further, under guidance adopted by the federal banking regulators, banks which have
+concentrations in construction, land development or commercial real estate loans (other than loans
+for majority owner occupied
+properties) would be expected to maintain higher levels of risk management and, potentially, higher
+levels of capital. It is possible that the Bank may be required to maintain higher levels of
+capital than it would otherwise be expected to maintain as a result of the Bank&#146;s levels of
+commercial real estate loans, which may require the Company to obtain additional capital sooner
+than it would otherwise seek it, which may reduce shareholder returns.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>The Company&#146;s financial condition and results of operations would be adversely affected if its
+allowance for loan losses is not sufficient to absorb actual losses or if it is required to
+increase the allowance for loan losses.</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Although the Company believes that the allowance for loan losses is maintained at a level
+adequate to absorb any inherent losses in the loan portfolio, these estimates of loan losses are
+necessarily subjective and their accuracy depends on the outcome of future events. If the Company
+needs to make significant and unanticipated increases in the loss allowance in the future, its
+results of operations and financial condition would be materially adversely affected at that time.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">While the Company strives to carefully monitor credit quality and to identify loans that may
+become nonperforming, at any time there are loans included in the portfolio that will result in
+losses, but that have not been identified as nonperforming, impaired or potential problem loans.
+The Company cannot be sure that it will be able to identify deteriorating loans before they become
+nonperforming assets, or that it will be able to limit losses on those loans that are identified.
+As a result, future additions to the allowance may be necessary.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>The Company&#146;s continued growth depends on our ability to meet minimum regulatory capital levels.
+Growth and shareholder returns may be adversely affected if sources of capital are not available to
+help the Company meet them.</I>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company is required to maintain its regulatory capital levels at or above the required
+minimum levels. If earnings do not meet current estimates, if it incurs unanticipated losses or
+expenses, or if it grows faster than expected, the Company may need to obtain additional capital
+sooner than expected, through borrowing, additional issuances of debt or equity securities, or
+otherwise. If it does not have continued access to sufficient capital, it may be required to reduce
+its level of assets or reduce its rate of growth in order to maintain regulatory compliance. Under
+those circumstances net income and the rate of growth of net income may be adversely affected.
+Additional issuances of equity securities could have a dilutive effect on existing shareholders.
+The Company cannot be certain that it will be able to acquire additional capital when it is
+required, or that the terms upon which it is available will not be disadvantageous to existing
+shareholders.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>The Company may not be able to successfully compete with others for business.</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company competes for loans and deposits with numerous regional and national banks, online
+divisions of out-of-market banks, and other community banking institutions, as well as other kinds
+of financial institutions and enterprises, such as securities firms, insurance companies, savings
+associations, credit unions, mortgage brokers, and private lenders. As a result of the Dodd-Frank
+Act, additional competitors who have not previously been able to establish de novo branches in
+Maryland, may elect to do so. Many competitors have substantially greater resources than the
+Company, and operate under less stringent regulatory environments. The differences in resources and
+regulations may make it harder for the Company to compete profitably, reduce the rates that it can
+earn on loans and investments, increase the rates it must offer on deposits, and adversely affect
+the Company&#146;s overall financial condition and earnings.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>Liquidity challenges may increase due to turmoil in the financial markets.</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The turmoil in the financial markets over the last several years has resulted in sharp
+declines in real estate values and financial instruments. These declines have resulted in large
+losses at many financial institutions detrimentally affecting depositors&#146; confidence in all
+financial institutions. This lack of confidence has resulted in rapid withdrawals by depositors in
+several institutions causing the institutions to fail and/or require federal assistance.
+</DIV>
+<P align="center" style="font-size: 10pt; text-indent: 4%">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->15<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company positions itself in the marketplace as a business bank. It does not (and did not)
+originate or acquire home loans or securities dependent upon home loans for repayment.
+Nevertheless, the turmoil in the
+financial markets has caused many depositors to seek safety in government securities, resulting in
+liquidity challenges for all banks. Should turmoil in the markets continue, the Company may be
+forced to pay higher interest rates to obtain deposits to meet the needs of its depositors and
+borrowers, resulting in reduced net interest income. If conditions worsen significantly, it is
+possible that banks such as the Bank may be unable to meet the needs of their depositors and
+borrowers, which could, in the worst case, result in the Company being placed into receivership.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>The current economic environment poses significant challenges for the Company and could adversely
+affect its financial condition and results of operations.</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company is operating in a challenging and uncertain economic environment. Financial
+institutions continue to be affected by sharp declines in the real estate market and constrained
+financial markets. Dramatic declines in the housing market over the past years, with falling home
+prices and high levels of foreclosures and unemployment, have resulted in significant write-downs
+of asset values by financial institutions. Continued declines in real estate values, home sales
+volumes, and financial stress on borrowers as a result of the uncertain economic environment could
+have an adverse effect on the Company&#146;s borrowers or their customers, which could adversely affect
+the Company&#146;s financial condition and results of operations. A worsening of these conditions would
+likely exacerbate the adverse effects on the Company and others in the financial institutions
+industry. For example, further deterioration in local economic conditions in the Company&#146;s market
+could drive losses beyond that which is provided for in its allowance for loan losses. The Company
+may also face the following risks in connection with these events:
+</DIV>
+
+<DIV style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Economic conditions that negatively affect housing prices and the job market have
+resulted, and may continue to result, in a deterioration in credit quality of the loan
+portfolios, and such deterioration in credit quality has had, and could continue to
+have, a negative impact on the Company&#146;s business;</DIV></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 8pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">The methodologies the Company uses to establish our allowance for loan losses may no
+longer be reliable because they rely on complex judgments, including forecasts of
+economic conditions, which may no longer be capable of accurate estimation;</DIV></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 8pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Continued turmoil in the market, and loss of confidence in the banking system, could
+require the Company to pay higher interest rates to obtain deposits to meet the needs
+of its depositors and borrowers, resulting in reduced margin and net interest income.
+If conditions worsen significantly, it is possible that banks such as the Company may
+be unable to meet the needs of their depositors and borrowers, which could, in the
+worst case, result in the Company being placed into receivership; and</DIV></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 8pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Compliance with increased regulation of the banking industry may increase our costs,
+limit our ability to pursue business opportunities, and divert management efforts.</DIV></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">As these conditions or similar ones continue to exist or worsen, the Company could experience
+continuing or increased adverse effects on its financial condition.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>Higher deposit insurance premiums and assessments could adversely affect our financial condition.</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Deposit insurance premiums charged by the FDIC increased substantially in 2009 and 2010 and
+the Company may face increased FDIC premiums in the future. A large number of bank failures has
+significantly depleted the Deposit Insurance Fund and reduced the ratio of reserves to insured
+deposits. During 2009, the FDIC adopted a revised risk-based deposit insurance assessment schedule,
+which raised deposit insurance premiums and it implemented a five basis point special assessment
+which was collected on September&nbsp;30, 2009. Additional special assessments may be imposed by the
+FDIC in the future. The Dodd-Frank Act requires the FDIC to increase the reserve ratio of the
+Deposit Insurance Fund from 1.15% to 1.35% of insured deposits by 2020 and eliminates the
+requirement that the FDIC pay dividends to insured depository institutions when the reserve ratio
+exceeds certain thresholds. These actions could significantly increase the Company&#146;s noninterest
+expense for the foreseeable future. There is no assurance that the Company will be able to reflect
+all or any portion of these premium costs in the rates it pays depositors.
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->16<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>There can be no assurance that recent legislation and regulatory actions taken by the federal
+government will help stabilize the financial system in the United States.</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Several pieces of federal legislation have been enacted, and the United States Department of
+the Treasury, the Federal Reserve, the FDIC, and other federal agencies have enacted numerous
+programs, policies and regulations to address the current liquidity and credit crises. These
+measures include the Emergency Economic Stimulus Act of 2008 (&#147;EESA&#148;), the American Reinvestment
+and Recovery Act of 2009 (&#147;ARRA&#148;), and the numerous programs, including the TARP Capital Purchase
+Program, in which the Company did not participate, and expanded deposit insurance coverage, enacted
+thereunder.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">On July&nbsp;21, 2010, the President signed into law The Dodd-Frank Wall Street Reform and Consumer
+Protection Act (the &#147;Dodd-Frank Act&#148;). The Dodd-Frank Act contains various provisions designed to
+enhance the regulation of depository institutions and prevent the recurrence of a financial crisis
+such as occurred in 2007-2009. Also included is the creation of a new federal agency to administer
+and enforce consumer and fair lending laws, a function that is now performed by the depository
+institution regulators. The full impact of the Dodd-Frank Act on the Company&#146;s business and
+operations will not be known for years until regulations implementing the statute are written and
+adopted. The Dodd-Frank Act may have a material impact on the Company&#146;s operations, particularly
+through increased compliance costs.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company cannot predict the actual effects of EESA, ARRA, the regulatory reform measures
+and various governmental, regulatory, monetary and fiscal initiatives which have been and may be
+enacted on the financial markets, on the Company and the Bank. The terms and costs of these
+activities, or the failure of these actions to help stabilize the financial markets, asset prices,
+market liquidity and a continuation or worsening of current financial market and economic
+conditions could materially and adversely affect the Company&#146;s business, financial condition,
+results of operations, and the trading prices of its securities.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company expects to face increased regulation of our industry, including as a result of
+EESA, the ARRA and the Dodd-Frank Act and related initiatives by the federal government. Compliance
+with such regulations may increase costs and limit the Company&#146;s ability to pursue business
+opportunities.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>Trading in the common stock has been light. As a result, shareholders may not be able to quickly
+and easily sell their common stock.</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Although the Company&#146;s common stock is listed for trading on the NASDAQ Capital Market and a
+number of brokers offer to make a market in the common stock on a regular basis, trading volume to
+date has been limited. A more liquid market for the Company&#146;s common stock may not develop (or if
+one develops, it may not be sustainable). As a result, shareholders may find it difficult to sell a
+significant number of shares at the prevailing market price.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>Directors and officers of CommerceFirst Bancorp own approximately 22% of the outstanding common
+stock. As a result of their combined ownership, they could make it more difficult to obtain
+approval for some matters submitted to shareholder vote, including acquisition of the Company. The
+results of the vote may be contrary to the desires or interests of the public shareholders.</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Directors and executive officers own approximately 22% of the outstanding shares of common
+stock. By voting against a proposal submitted to shareholders, the directors and officers, as a
+group, may be able to make approval more difficult for proposals requiring the vote of
+shareholders, such as some mergers, share exchanges, asset sales, and amendments to the Articles of
+Incorporation.
+</DIV>
+<P align="center" style="font-size: 10pt; text-indent: 4%">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->17<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>Changes in interest rates and other factors beyond the Company&#146;s control could have an adverse
+impact on its financial performance and results.</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company&#146;s operating income and net income depend to a great extent on its net interest
+margin, i.e., the difference between the interest yields it receive on loans, securities and other
+interest bearing assets and the interest rates it pay on interest bearing deposits and other
+liabilities. Net interest margin is affected by changes in market interest rates, because different
+types of assets and liabilities may react differently, and at different times, to market interest
+rate changes. When interest bearing liabilities mature or reprice more quickly than interest
+earning
+assets in a period, an increase in market rates of interest could reduce net interest income.
+Similarly, when interest earning assets mature or reprice more quickly than interest bearing
+liabilities, falling interest rates could reduce net interest income These rates are highly
+sensitive to many factors beyond our control, including competition, general economic conditions
+and monetary and fiscal policies of various governmental and regulatory authorities, including the
+Federal Reserve Board.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Company attempts to manage our risk from changes in market interest rates by adjusting the
+rates, maturity, re-pricing, and balances of the different types of interest earning assets and
+interest bearing liabilities, but interest rate risk management techniques are not exact. As a
+result, a rapid increase or decrease in interest rates could have an adverse effect on the
+Company&#146;s net interest margin and results of operations. The results of the interest rate
+sensitivity simulation model depend upon a number of assumptions which may not prove to be
+accurate. There can be no assurance that the Company will be able to successfully manage our
+interest rate risk. Increases in market rates and adverse changes in the local residential real
+estate market, the general economy or consumer confidence would likely have a significant adverse
+impact on noninterest income, as a result of reduced demand for SBA guaranteed loans, the majority
+of which the Company sells.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Changes in laws, including that which permit banks to pay interest on checking and demand
+deposit accounts established by businesses in July&nbsp;2011, could have a significant negative effect
+on net interest income, net income, net interest margin, return on assets and return on equity.
+Usually, more than 10% of the Company&#146;s deposits were noninterest bearing demand deposits.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>Substantial regulatory limitations on changes of control and anti-takeover provisions of Maryland
+law may make it more difficult for shareholders to receive a change in control premium.</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">With certain limited exceptions, federal regulations prohibit a person or company or a group
+of persons deemed to be &#147;acting in concert&#148; from, directly or indirectly, acquiring more than 10%
+(5% if the acquiror is a bank holding company) of any class of the Company&#146;s voting stock or
+obtaining the ability to control in any manner the election of a majority of its directors or
+otherwise direct the management or policies of the Company without prior notice or application to
+and the approval of the Federal Reserve. There are comparable prior approval requirements for
+changes in control under Maryland law. Also, Maryland corporate law contains several provisions
+that may make it more difficult for a third party to acquire control of the Company without the
+approval of its Board of Directors, and may make it more difficult or expensive for a third party
+to acquire a majority of its outstanding common stock.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>Government regulation will significantly affect the Company&#146;s business, and may result in higher
+costs and lower shareholder returns.</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The banking industry is heavily regulated. Banking regulations are primarily intended to
+protect the federal deposit insurance funds and depositors, not shareholders. The Company and Bank
+are regulated and supervised by the Maryland Department of Financial Regulation, the Federal
+Reserve Board and the FDIC. The burden imposed by federal and state regulations puts banks at a
+competitive disadvantage compared to less regulated competitors such as finance companies, mortgage
+banking companies and leasing companies. Changes in the laws, regulations and regulatory practices
+affecting the banking industry may increase the costs of doing business or otherwise adversely
+affect the Company and create competitive advantages for others. Regulations affecting banks and
+financial services companies undergo continuous change, and the Company cannot predict the ultimate
+effect of these changes, which could have a material adverse effect on its profitability or
+financial condition. Federal economic and monetary policy may also affect the Company&#146;s ability to
+attract deposits and other funding sources, make loans and investments, and achieve satisfactory
+interest spreads.
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->18<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>The loss of the services of any key employees could adversely affect investor returns.</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Our business is service oriented, and our success depends to a large extent upon the services
+of Richard J. Morgan, our President and the Bank&#146;s Market Leaders. The loss of the services of any
+of these officers could adversely affect the Company&#146;s business.
+</DIV>
+<!-- link2 "ITEM 1B. Unresolved Staff Comments" -->
+<DIV align="left"><A NAME="C13669003"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 1B.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Unresolved Staff Comments</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">None.
+</DIV>
+<!-- link2 "ITEM 2. Properties" -->
+<DIV align="left"><A NAME="C13669004"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 2.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Properties.</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The main branch office and the executive offices of the Bank and the Company are located at
+1804 West Street, Annapolis, Maryland, in a brick and masonry structure. The Company leases 8,100
+square feet in the building under a lease, which commenced in April&nbsp;2000. Rent expense was $224,219
+and $222,524 for the years ended December&nbsp;31, 2010 and 2009, respectively. The Company has
+exercised the second of three five-year renewal options.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The second office of the Company is located at 4451 Parliament Place, Lanham, Maryland in a
+masonry structure. The Company leases 2,100 square feet in the building under a ten-year lease
+which commenced in June&nbsp;2004. Rent expense was $35,848 and $33,519 for the years ended December&nbsp;31,
+2010 and 2009, respectively.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The third office of the Company is located at 910 Cromwell Park Drive, Glen Burnie, Maryland
+in a masonry structure. The Company leases 2,600 square feet in the building under a five-year
+lease (with one five-year renewal option) which commenced in June&nbsp;2006. Rent expense was $73,602
+and $73,158 for the years ended December&nbsp;31, 2010 and 2009, respectively.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The fourth office of the Company is located at 6230 Old Dobbin Lane, Columbia, Maryland in a
+masonry structure. The Company leases 2,400 square feet in the building under a ten-year lease
+(with one five-year renewal option) which commenced in August&nbsp;2006. Rent expense was $85,230 and
+$81,251 for the years ended December&nbsp;31, 2010 and 2009, respectively.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The fifth office of the Company is located at 485 Ritchie Highway, Severna Park, Maryland in a
+masonry structure. The Company leases approximately 1,500 square feet in the building under a
+five-year lease (with two five-year renewal options) which commenced in June&nbsp;2007. Rent expense was
+$57,169 in 2010 and $56,441 during 2009.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Management believes adequate insurance coverage is in force on all of its properties.
+</DIV>
+<!-- link2 "ITEM 3. Legal Proceedings" -->
+<DIV align="left"><A NAME="C13669005"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 3.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Legal Proceedings.</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">In the normal course of its business, the Company is involved in litigation arising from
+banking, financial, and other activities it conducts. Management, after consultation with legal
+counsel, does not anticipate that the ultimate liability, if any, arising out of these matters will
+have a material effect on the Company&#146;s financial condition, operating results or liquidity.
+</DIV>
+<!-- link2 "ITEM 4. &#091;Removed and Reserved&#093;" -->
+<DIV align="left"><A NAME="C13669006"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 4.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>&#091;Removed and Reserved&#093;</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->19<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+
+
+<!-- link1 "PART II" -->
+<DIV align="left"><A NAME="C13669007"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>PART II</B>
+</DIV>
+
+<!-- link2 "ITEM 5. Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities" -->
+<DIV align="left"><A NAME="C13669008"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 5.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of
+Equity Securities.</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>(a)&nbsp;Market for Common Stock and Dividends. </I>The information regarding the market for the
+Company&#146;s Common Stock, the number of holders of the common stock and dividend history required
+under Item 5(a) is hereby incorporated herein by reference from the material under the caption
+&#147;Market for Common Stock and Dividends&#148; in the Company&#146;s Annual Report for the fiscal year ended
+December&nbsp;31, 2010. See Item&nbsp;12 of this annual report for Equity Compensation Plan Information.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Recent Sales of Unregistered Shares. </I>None.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>(b)&nbsp;Use of Proceeds: </I>Not applicable
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">(c)&nbsp;<I>Issuer Repurchases of Securities during the Fourth Quarter of 2010. </I>None.
+</DIV>
+<!-- link2 "ITEM 6. Selected Financial Data" -->
+<DIV align="left"><A NAME="C13669009"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 6.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Selected Financial Data.</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The information required under Item&nbsp;6 is hereby incorporated herein by reference to the
+material appearing under the caption &#147;Selected Consolidated Financial Data&#148; in the Company&#146;s Annual
+Report to Shareholders for the fiscal year ended December&nbsp;31, 2010.
+</DIV>
+<!-- link2 "ITEM 7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations" -->
+<DIV align="left"><A NAME="C13669010"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 7.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Management&#146;s
+Discussion and Analysis of Financial Condition and Results of Operations.</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The information required by this item is incorporated by reference to the material appearing
+under the caption &#147;Management Discussion and Analysis&#148; in the Company&#146;s Annual Report to
+Shareholders for the year ended December&nbsp;31, 2010.
+</DIV>
+<!-- link2 "ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk" -->
+<DIV align="left"><A NAME="C13669011"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 7A.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Quantitative and Qualitative Disclosures About Market Risk.</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">As the Company is a smaller reporting company, this item is not applicable.
+</DIV>
+<!-- link2 "ITEM 8. Financial Statements and Supplementary Data" -->
+<DIV align="left"><A NAME="C13669012"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 8.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Financial Statements and Supplementary Data</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The information required by this item is incorporated by reference to the Consolidated
+Financial Statements and Notes thereto contained in the Company&#146;s Annual Report to Shareholders for
+the year ended December&nbsp;31, 2010.
+</DIV>
+<!-- link2 "ITEM 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure" -->
+<DIV align="left"><A NAME="C13669013"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 9.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">None.
+</DIV>
+<!-- link2 "ITEM 9A Controls and Procedures" -->
+<DIV align="left"><A NAME="C13669014"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 9A</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Controls and Procedures</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Disclosure Controls and Procedures. </I>The Company&#146;s management, under the supervision and with
+the participation of the Chief Executive Officer and Chief Financial Officer, evaluated, as of the
+last day of the period covered by this report, the effectiveness of the design and operation of the
+Company&#146;s disclosure controls and procedures, as defined in Rule&nbsp;15d-15 under the Securities
+Exchange Act of 1934. Based on that evaluation, the Chief Executive Officer and Chief Financial
+Officer concluded that the Company&#146;s disclosure controls and procedures were effective.
+</DIV>
+<P align="center" style="font-size: 10pt; text-indent: 4%">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->20<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Management&#146;s Report on Internal Control Over Financial Reporting</I>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The management of CommerceFirst Bancorp, Inc. (the &#147;Company&#148;) is responsible for the
+preparation, integrity and fair presentation of the Consolidated Financial Statements incorporated
+by reference in this Annual Report. The financial statements have been prepared in conformity with
+accounting principles generally accepted in the United States of America and reflect management&#146;s
+judgments and estimates concerning the effects of events and transactions that are accounted for or
+disclosed.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Management is also responsible for establishing and maintaining an effective internal control
+over financial reporting. The Company&#146;s internal control over financial reporting includes those
+policies and procedures that pertain to the Company&#146;s ability to record, process, summarize and
+report reliable financial data. The internal control system contains monitoring mechanisms, and
+appropriate actions are taken to correct identified deficiencies. Management believes that internal
+controls over financial reporting, which are subject to scrutiny by management and the Company&#146;s
+internal auditors, support the integrity and reliability of the financial statements. Management
+recognizes that there are inherent limitations in the effectiveness of any internal control system,
+including the possibility of human error and the circumvention or overriding of internal controls.
+Accordingly, even effective internal control over financial reporting can provide only reasonable
+assurance with respect to financial statement preparation. In addition, because of changes in
+conditions and circumstances, the effectiveness of internal control over financial reporting may
+vary over time.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Management assessed the Company&#146;s system of internal control over financial reporting as of
+December&nbsp;31, 2010. This assessment was conducted based on the Committee of Sponsoring Organizations
+(&#147;COSO&#148;) of the Treadway Commission &#147;Internal Control &#151; Integrated Framework.&#148; Based on this
+assessment, management believes that the Company maintained effective internal control over
+financial reporting as of December&nbsp;31, 2010. Management&#146;s assessment concluded that there were no
+material weaknesses within the Company&#146;s internal control structure. The 2010 end of year
+consolidated financial statements have been audited by the independent accounting firm of TGM Group
+LLC (&#147;TGM&#148;). Personnel from TGM were given unrestricted access to all financial records and related
+data, including minutes of all meetings of the Board of Directors and Committees thereof.
+Management believes that all representations made to the independent auditors were valid and
+appropriate. The resulting report from TGM accompanies the financial statements.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The Board of Directors of the Company, acting through its Audit Committee (the &#147;Committee&#148;),
+is responsible for the oversight of the Company&#146;s accounting policies, financial reporting and
+internal control. The Audit Committee of the Board of Directors is comprised entirely of outside
+directors who are independent of management. The Audit Committee is responsible for the appointment
+and compensation of the independent auditors and approves decisions regarding the appointment or
+removal of members of the internal audit function. The Committee meets periodically with
+management, the independent auditors, and the internal auditors to insure that they are carrying
+out their responsibilities. The Committee is also responsible for performing an oversight role by
+reviewing and monitoring the financial, accounting, and auditing procedures of the Company in
+addition to reviewing the Company&#146;s financial reports. The independent auditors and the internal
+auditors have full and unlimited access to the Audit Committee, with or without the presence of the
+management of the Company, to discuss the adequacy of internal control over financial reporting,
+and any other matters which they believe should be brought to the attention of the Audit Committee.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">There were no changes in the Company&#146;s internal control over financial reporting during the
+quarter ended December&nbsp;31, 2010 that has materially affected, or is reasonably likely to materially
+affect, the Company&#146;s internal control over financial reporting.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The annual report does not include an attestation report of the Company&#146;s registered public
+accounting firm regarding internal control over financial reporting. Management&#146;s report was not
+subject to attestation by the Company&#146;s registered public accounting firm pursuant to rules of the
+Securities and Exchange Commission that permit the company to provide only management&#146;s report in
+this annual report.
+</DIV>
+<P align="center" style="font-size: 10pt; text-indent: 4%">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->21<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+<!-- link2 "ITEM 9B. Other Information" -->
+<DIV align="left"><A NAME="C13669015"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 9B.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Other Information.</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">None.
+</DIV>
+<!-- link1 "Part&nbsp;III" -->
+<DIV align="left"><A NAME="C13669016"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>Part III</B>
+</DIV>
+
+<!-- link2 "ITEM 10. Directors, Executive Officers and Corporate Governance" -->
+<DIV align="left"><A NAME="C13669017"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 10.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Directors, Executive Officers and Corporate Governance.</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The information required under Item&nbsp;10 is hereby incorporated herein by reference from the
+material under the captions &#147;Election of Directors&#148; and &#147;Compliance with Section 16(a) of the
+Securities Exchange Act of 1934&#148; in the Company&#146;s Proxy Statement for the Annual Meeting of
+Stockholders to be held on May&nbsp;4, 2011.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>Code of Ethics. </I>The Company has adopted a Code of Ethics that applies to all Directors,
+officers and employees of the Company and the Bank. The Company will provide a copy of the Code of
+Ethics without charge upon written request directed to Candace M. Springmann, Corporate Secretary,
+CommerceFirst Bancorp, Inc, 1804 West Street, Annapolis, Maryland 21401.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">There have been no material changes in the procedures by which shareholders may recommend
+nominees to the Company&#146;s Board of Directors since the proxy statement for the 2010 annual meeting
+of shareholders.
+</DIV>
+<!-- link2 "ITEM 11. Executive Compensation" -->
+<DIV align="left"><A NAME="C13669018"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 11.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Executive Compensation</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The information required by Item&nbsp;11 is hereby incorporated herein by reference to the material
+under the captions &#147;Election of Directors &#151; Executive Compensation,&#148; and &#147;Directors&#146; Compensation&#148;
+in the Company&#146;s Proxy Statement for the Annual Meeting of Stockholders to be held on May&nbsp;4, 2011.
+</DIV>
+<!-- link2 "ITEM 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters" -->
+<DIV align="left"><A NAME="C13669019"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 12.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Security Ownership of Certain Beneficial Owners and Management and Related Stockholder
+Matters.</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><I>Securities Authorized for Issuance under Equity Compensation Plans</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">None. All of the warrants and options previously issued expired in August&nbsp;2010. No warrants or
+options were exercised during 2010. At December&nbsp;31, 2010 there are no active equity compensation
+plans maintained by the Company under which options, warrants or other equity based compensation
+may be issued.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The other information required by Item&nbsp;12 is hereby incorporated herein by reference to the
+material under the caption &#147;Voting Securities and Principal Shareholders&#148; in the Company&#146;s Proxy
+Statement for the Annual Meeting of Stockholders to be held on May&nbsp;4, 2011.
+</DIV>
+<!-- link2 "ITEM 13. Certain Relationships and Related Transactions, and Director Independence" -->
+<DIV align="left"><A NAME="C13669020"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 13.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Certain Relationships and Related Transactions, and Director Independence.</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The information required by Item&nbsp;13 is hereby incorporated herein by reference to the material
+under the caption &#147;Election of Directors&#148; in the Company&#146;s Proxy Statement for the Annual Meeting
+of Stockholders to be held on May&nbsp;4, 2011.
+</DIV>
+<!-- link2 "ITEM 14 Principal Accountant Fees and Services" -->
+<DIV align="left"><A NAME="C13669021"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 14</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Principal Accountant Fees and Services</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The information required by Item&nbsp;14 is hereby incorporated herein by reference to the material
+under the caption &#147;Ratification of Appointment of Independent Registered Public Accounting Firm &#151;
+Fees paid to Independent Accounting Firm&#148; in the Company&#146;s Proxy Statement for the Annual Meeting
+of Stockholders to be held on May&nbsp;4, 2011.
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->22<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">The following financial statements are incorporated in this report under Item&nbsp;8:
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Reports of Independent Registered Public Accounting Firm
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Consolidated Statements of Financial Condition at December&nbsp;31, 2010 and 2009
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Consolidated Statements of Operations for the years ended December&nbsp;31, 2010 and 2009
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Consolidated Statements of Comprehensive Income for the years ended December&nbsp;31, 2010 and 2009
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Consolidated Statements of Shareholders&#146; Equity for the years ended December&nbsp;31, 2010 and 2009
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Consolidated Statements of Cash Flows for the years ended December&nbsp;31, 2010 and 2009
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Notes to Consolidated Financial Statements
+</DIV>
+<!-- link2 "ITEM 15. Exhibits, Financial Statement Schedules" -->
+<DIV align="left"><A NAME="C13669022"></A></DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 15.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><B>Exhibits, Financial Statement Schedules</B></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="86%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Exhibit No.</TD>
+
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Description of Exhibits</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom"><!-- Blank Space -->
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">3</TD>
+    <TD nowrap valign="top">(a)</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Certificate of Incorporation of the Company, as amended (1)</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">3</TD>
+    <TD nowrap valign="top">(b)</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Bylaws of the Company (1)</DIV></TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10</TD>
+    <TD nowrap valign="top">(a)</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Employment Agreement between Richard J. Morgan and the Company (2)</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10</TD>
+    <TD nowrap valign="top">(b)</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Employment Agreement between Lamont Thomas and the Company (3)</DIV></TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10</TD>
+    <TD nowrap valign="top">(c)</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">First Amendment to Employment Agreement between Lamont Thomas and the Company (4)</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10</TD>
+    <TD nowrap valign="top">(d)</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Employment Agreement between Michael T. Storm and CommerceFirst Bank (5)</DIV></TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10</TD>
+    <TD nowrap valign="top">(e)</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Extension of Employment Agreement between Richard J. Morgan and the Company (6)</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">11</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Statement regarding Computation of Per Share Income &#151; Refer to Note 1 to the Consolidated
+Financial Statements included in Exhibit&nbsp;13.</DIV></TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">13</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Annual Report to Shareholders</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">21</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Subsidiaries of the Registrant</DIV></TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+
+    <TD valign="top" COLSPAN="3"><DIV style="margin-left:0px; text-indent:-0px">The sole subsidiary of the Registrant is CommerceFirst Bank, a Maryland chartered commercial bank.</DIV></TD>
+</TR>
+<TR>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">23</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Consent of TGM Group LLC</DIV></TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">31</TD>
+    <TD nowrap valign="top">(a)</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Certification of Richard J. Morgan, President and CEO</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">31</TD>
+    <TD nowrap valign="top">(b)</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Certification of Michael T. Storm, Executive Vice President and Chief Financial Officer</DIV></TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">32</TD>
+    <TD nowrap valign="top">(a)</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Certification of Richard J. Morgan, President and Chief Executive Officer</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">32</TD>
+    <TD nowrap valign="top">(b)</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Certification of Michael T. Storm, Executive Vice President and Chief Financial Officer</DIV></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<DIV align="left">
+<DIV style="font-size: 3pt; margin-top: 10pt; width: 18%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR style="font-size: 6pt">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="96%">&nbsp;</TD>
+</TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(1)</TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Incorporated by reference to exhibit of the same number filed with the Company&#146;s
+Registration Statement on Form SB-2, as amended, (File No.&nbsp;333-91817)</DIV></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(2)</TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Incorporated by reference to exhibit 10(b) to the Company&#146;s to Registration Statement on Form
+SB-2, as amended) (File No.&nbsp;333-91817)</DIV></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(3)</TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Incorporated by reference to exhibits 10(c) to the Company&#146;s to Registration Statement on
+Form SB-2, as amended) (File No.&nbsp;333-91817)</DIV></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(4)</TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Incorporated by reference to Exhibit 10(d) to the Company&#146;s Quarterly Report on Form 10-QSB
+for the period ended March&nbsp;31, 2007.</DIV></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(5)</TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Incorporated by reference to Exhibit 10(e) to the Company&#146;s Quarterly Report on Form 10-QSB
+for the period ended September&nbsp;30, 2007.</DIV></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(6)</TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Incorporated by reference to Exhibit&nbsp;99 to the Company&#146;s Current Report on Form 8-K filed on
+January&nbsp;30, 2009.</DIV></TD>
+</TR>
+
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->23<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="C13669023"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>SIGNATURES</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934,
+the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">COMMERCEFIRST BANCORP, INC<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">March 3, 2011&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Richard J. Morgan,
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Richard J. Morgan, President and CEO&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been
+signed below by the following persons on behalf of the registrant and in the capacities and on the
+dates indicated.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="31%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="11%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><B>Name</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000"><B>Position</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000"><B>Date</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ Milton D. Jernigan II
+<DIV style="font-size: 1pt; border-top: 1px solid #000000">&nbsp;</DIV>
+Milton D. Jernigan II
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Chairman of the Board of Directors
+of the Company and the Bank
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">March&nbsp;3, 2011</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ Richard J. Morgan
+<DIV style="font-size: 1pt; border-top: 1px solid #000000">&nbsp;</DIV>
+Richard J. Morgan
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director, President and CEO of the
+Company and the Bank<br>
+(Principal Executive Officer)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">March&nbsp;3, 2011</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ Edward B. Howlin, Jr.
+<DIV style="font-size: 1pt; border-top: 1px solid #000000">&nbsp;</DIV>
+Edward B. Howlin, Jr.
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director of the Company and the Bank&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">March&nbsp;3, 2011</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ Charles L. Hurtt, Jr.
+<DIV style="font-size: 1pt; border-top: 1px solid #000000">&nbsp;</DIV>
+Charles L. Hurtt, Jr.
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director of the Company and the Bank&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">March&nbsp;3, 2011</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ Lamont Thomas
+<DIV style="font-size: 1pt; border-top: 1px solid #000000">&nbsp;</DIV>
+Lamont Thomas
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director of Company and the Bank&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">March&nbsp;3, 2011</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ Robert R. Mitchell
+<DIV style="font-size: 1pt; border-top: 1px solid #000000">&nbsp;</DIV>
+Robert R. Mitchell
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director of the Company and the Bank&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">March&nbsp;3, 2011</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ John A. Richardson, Sr.
+<DIV style="font-size: 1pt; border-top: 1px solid #000000">&nbsp;</DIV>
+John A. Richardson, Sr.
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director of the Company and the Bank&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">March&nbsp;3, 2011</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ George C. Shenk, Jr.
+<DIV style="font-size: 1pt; border-top: 1px solid #000000">&nbsp;</DIV>
+George C. Shenk, Jr.
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director of the Company and the Bank&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">March&nbsp;3, 2011</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ Jerome A. Watts
+<DIV style="font-size: 1pt; border-top: 1px solid #000000">&nbsp;</DIV>
+Jerome A. Watts
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director of the Company and the Bank&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">March&nbsp;3, 2011</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ Michael T. Storm
+<DIV style="font-size: 1pt; border-top: 1px solid #000000">&nbsp;</DIV>
+Michael T. Storm
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Executive Vice President/Chief Financial
+Officer of the Company and the Bank<br>
+(Principal Financial and Accounting
+Officer)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">March&nbsp;3, 2011</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->24<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#C13669toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="11%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="86%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" valign="top">Exhibit&nbsp;13
+</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Annual Report to Shareholders for the Year Ended December&nbsp;31, 2010</DIV></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+

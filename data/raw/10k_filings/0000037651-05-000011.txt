@@ -1,0 +1,1402 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>ktext.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+ 	SECURITIES AND EXCHANGE COMMISSION
+	WASHINGTON, D.C.  20549
+	FORM 10-K
+(Mark one)
+   [X]	ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+	THE SECURITIES EXCHANGE ACT OF 1934
+                    For the fiscal year ended September 30, 2005
+	OR
+   [ ]	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF
+	THE SECURITIES EXCHANGE ACT OF 1934
+	Commission File number 1-7159
+
+	FLORIDA ROCK INDUSTRIES, INC.
+	(exact name of registrant as specified in its charter)
+
+            Florida                                         59-0573002
+(State or other jurisdiction of                          (I.R.S. Employer
+ incorporation or organization)                         Identification No.)
+
+155 East 21st Street, Jacksonville, Florida                    32206
+ (Address of principal executive offices)                    (Zip Code)
+
+Registrant's telephone number, including area code:   904/355-1781
+
+Securities registered pursuant to Section 12(b) of the Act:
+                                                      Name of each exchange
+     Title of each class                               on which registered
+ Common Stock $.10 par value                         New York Stock Exchange
+
+Securities registered pursuant to Section 12(g) of the Act:    None
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.  Yes X   No___
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K.[  ]
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act).   Yes X  No
+
+Indicate by check mark whether the registrant is a shell company (as defined
+by Rule 12b-2 of the Act).           Yes    No X
+
+At March 31, 2005 the aggregate market value of the shares of Common Stock
+held by non-affiliates of the registrant was approximately $1,879,293,502.  At
+such date there were 47,928,934 shares of the registrant's Common Stock
+outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the Florida Rock Industries, Inc. 2005 Annual Report to
+Shareholders are incorporated by reference in Parts I and II.
+
+Portions of the Florida Rock Industries, Inc. Proxy Statement are incorporated
+by reference into Part III.
+
+
+
+                                    PART I
+Item 1.  BUSINESS.
+
+Florida Rock Industries, Inc., whose predecessors began business in 1929,
+was incorporated in Florida in 1945. Florida Rock Industries, Inc. and
+its subsidiaries (the "Company"), are principally engaged in three
+business segments:  construction aggregates, concrete products and cement
+and calcium products.   The construction aggregates segment is engaged in
+the mining, processing, distribution and sale of sand, gravel and crushed
+stone.  The concrete products segment is engaged in production and sale
+of ready mix concrete, concrete block, prestressed and precast concrete
+as well as sales of other building materials. The cement and calcium
+products segment is engaged in the production and sale of portland and
+masonry cement, the importation of cement and slag which are either sold,
+ground or blended and then sold and sale of calcium products to the
+animal feed, paint, plastics and joint compound industries. Substantially
+all operations are conducted in Florida, Virginia, Georgia, Maryland,
+Washington D.C., Tennessee, Alabama, North Carolina, Illinois and
+Delaware.  The Company also has an investment in a crushed stone plant in
+Charlotte County, New Brunswick, Canada and a distribution yard in New
+York City, New York.
+
+Information as to business is presented under the caption "Operating
+Review" on pages 5 and 6 of the accompanying 2005 Annual Report to
+Shareholders and such information is incorporated herein by reference.
+
+Information as to business segments is presented in Note 14 of the Notes
+to Consolidated Financial Statements in the accompanying 2005 Annual
+Report to Shareholders and such information is incorporated herein by
+reference.
+
+Sales are subject to factors affecting the level of general construction
+activity including the level of interest rates, consumer confidence,
+availability of funds for construction, appropriations by federal and
+state governments for construction, past overbuilding, labor relations in
+the construction industry, energy shortages, material shortages, weather,
+climate, and other factors affecting the construction industry in
+general.  Labor disputes in the construction industry may result in work
+stoppages which may interrupt sales in the affected area.  Precipitation
+or freezing temperatures may cause a reduction in construction activity
+and related demand for the Company's products.  During the winter months,
+sales and income of the Company's Maryland, Virginia, New York, North
+Carolina, Washington, D.C., Georgia, Tennessee, Delaware, Illinois and
+New Brunswick operations are affected by the impact of inclement weather
+on the construction industry.  The Company's Florida operations usually
+are not similarly affected during the winter but can be affected by
+inclement weather during the hurricane season.  A decrease in the level
+of general construction activity in any of the Company's market areas
+caused by any of the above factors may have a material adverse effect on
+sales and income derived therefrom.
+
+During 2005 the construction aggregates segment operated three crushed
+stone plants, two baserock plants, nine sand plants and one industrial
+sand plant in Florida. It operates six crushed stone plants, three sand
+plants and owns a two-thirds interest in one crushed stone plant in
+Georgia; one crushed stone plant in Tennessee; one crushed stone plant
+near Auburn, Alabama; two sand and gravel plants and two crushed stone
+plants in Maryland; two crushed stone plants and two sand plants in
+Virginia and one crushed stone plant in Illinois.  In September 2005, we
+acquired a sand and gravel plant in Atmore, Alabama that serves Mobile,
+Alabama and Pensacola markets.   The Company also operates aggregates
+distribution terminals in Central and Northern Florida; Coastal Georgia;
+Northern Virginia; Norfolk-Virginia Beach, Virginia; Baltimore, Maryland;
+the Eastern Shore of Maryland; Delaware; and Washington, D.C.
+Construction aggregates are sold throughout most of Florida with the
+principal exception of the panhandle other than Pensacola. In Georgia the
+Company primarily serves the regional construction markets around
+Griffin, Macon, Columbus, Rome and the southern and western portions of
+the Atlanta market and all of South Georgia. In Virginia the Company
+primarily serves the Richmond, Norfolk, Virginia Beach, Williamsburg and
+Northern Virginia markets. In Maryland the principal markets served are
+the greater Baltimore area, Frederick, Montgomery, Harford and Cecil
+Counties and the Eastern Shore of Maryland.  In Delaware the principal
+market served is south central Delaware.  In Alabama the principal market
+serviced is the Auburn and Mobile areas.   In Tennessee, the principal
+market served is the Chattanooga area.   The Illinois quarry principal
+markets are cities on the Ohio and Mississippi River.   In Florida and
+Georgia shipments are made by rail and truck. In Virginia and Maryland
+the Company primarily serves the regional construction markets around
+Richmond, Virginia and the greater Baltimore area by truck; and the
+Company's marine division ships materials by barge throughout the
+Chesapeake Bay area, along the James River between Richmond and Norfolk,
+Virginia Beach and as far north as Woodbridge, Virginia on the Potomac
+River and Washington D. C. on the Anacostia River.  One joint venture
+sells products by ship from Canada into New York, South Carolina, Georgia
+and Florida.
+
+In fiscal 2005 approximately 42% of the coarse aggregates and 67% of the
+sand used in the Company's concrete operations were produced by the
+Company. The remaining aggregates were purchased from other suppliers
+whose geographic locations coupled with transportation costs make it more
+economical to supply certain of the Company's plants.   At the present
+time, except for the Florida markets, there is an adequate supply of
+construction aggregates in the areas in which the Company's concrete
+operations are located.   Shortages have occurred in some Florida markets
+due to the disruption in rail service primarily from the hurricanes.
+
+The concrete products segment manufactures and markets ready mixed
+concrete, concrete block, precast and prestressed concrete.  It also
+markets other building materials. The concrete operations serve most of
+Florida with the principal exception of the panhandle area of the state;
+southern and southwest Georgia; the greater Baltimore, Maryland area; the
+Richmond-Petersburg-Hopewell area; Williamsburg; Hampton-Newport News;
+and Norfolk/Virginia Beach areas of Virginia along with northern Virginia
+and Washington, D.C.
+
+Since ready mixed concrete hardens rapidly, delivery is time constrained
+and generally confined to a radius of approximately 20 to 25 miles from
+the producing plant.
+
+Based on current operating schedules the Company's annual capacity at its
+13 operating concrete block plants is approximately 95 million 8x8x16
+equivalent units of block
+
+At most of the Florida and Georgia concrete facilities, the Company
+purchases and resells building material items related to the use of ready
+mixed concrete and concrete block.   Prestressed concrete products for
+commercial developments and bridge and highway construction are produced
+in Wilmington, North Carolina. Precast concrete lintels and other
+building products are produced in Kissimmee, Florida.
+
+The cement and calcium products segment produces portland and masonry
+cement in Newberry, Florida which is sold in both bulk and bags to the
+concrete and concrete products industry.  Calcium products for the animal
+feed, paint, plastics and joint compound industries are produced in
+Brooksville, Florida.   Cement and slag is imported into Tampa, Florida
+and some of the cement is sold and the balance is either blended, bagged
+or reprocessed into specialty cements.   The slag is ground and either
+sold or blended and then sold.   Clinker is imported into Port Manatee,
+Florida and is ground into bulk cement and sold.
+
+During fiscal 2005, the Company's concrete operations purchased cement
+from 12 outside suppliers, the three largest of which supplied
+approximately 36% of the cement used by the Company in its ready mixed
+concrete, concrete block, and prestressed and precast concrete
+operations.  In addition, the cement segment supplied approximately 28%
+of the cement used by the Company's concrete operations.  The Company
+believes that the cement demand in the Company's markets will continue to
+outpace domestic production capacity. Accordingly, the Company has
+decided to pursue the necessary permits to expand production capacity at
+its Newberry facility.   The Company has received a permit from the
+Florida Department of Environmental Protection to expand production at
+its Newberry plant, but must still receive approval from the City of
+Newberry.
+
+The Company's construction aggregates, concrete products and cement are
+sold in competition with other producers of the same type of construction
+aggregates, concrete products and cement as well as in competition with
+other types of construction aggregates, concrete products and cement.
+The Company's concrete products compete with other building materials
+such as asphalt, brick, lumber, steel and other products.  The Company
+believes that price, plant location, transportation costs, service,
+product quality and reputation are the major factors that affect
+competition within a given market. Because of the relatively high
+transportation costs associated with construction aggregates and
+concrete, cement and calcium products, competition is often limited to
+products or competitors in relatively close proximity to our production
+facilities.   Exceptions exist for areas that may be served by river
+barges, ocean-going vessels or rail lines.
+
+The Company does not believe that backlog information accurately reflects
+anticipated annual revenue or profitability from year to year.
+
+The Company's operations are subject to and affected by federal, state
+and local laws and regulations relating to the environment, health and
+safety and other regulatory matters.   Certain of the Company's
+operations may from time to time involve the use of substances that are
+classified as toxic or hazardous substances within the meaning of these
+laws and regulations.   Environmental operating permits are required for
+certain of the Company's operations and such permits are subject to
+modification, renewal and revocation. The Company regularly monitors and
+reviews its operations, procedures and policies for compliance with these
+laws and regulations.   Despite these compliance efforts, risk of
+environmental liability is inherent in the operation of the Company's
+businesses.   Such regulations have not had a material adverse impact in
+recent years and are not expected to have a material adverse effect on
+the Company's capital expenditures or operating results over the next
+year.   However, as is the case with other companies engaged in similar
+businesses, there can be no assurance that environmental liabilities or
+subsequent changes in environmental regulations will not have a material
+adverse effect on the Company in the future.   Additional information
+concerning environmental matters is presented in Item 3 "Legal
+Proceedings" of this Form 10-K and such information is incorporated
+herein by reference.
+
+Employees.  The Company employed 3,426 persons at September 30, 2005.
+
+EXECUTIVE OFFICERS OF THE COMPANY
+Name                     Age         Office              Position Since
+Edward L. Baker          70	Chairman of the Board        May 1989
+John D. Baker II         57	President and Chief          February 1996
+                                  Executive Officer
+John D. Milton, Jr.      60	Executive Vice President,    January 2001
+                                  Treasurer and Chief
+                                  Financial Officer
+C. J. Shepherdson        90	Vice President               September 1972
+Thompson S. Baker II     47	Vice President               August 1991
+George J. Hossenlopp     62	Vice President               May 2002
+Clarron E. Render, Jr.   63	Vice President               August 1991
+Wallace A. Patzke, Jr.   58	Vice President, Controller   August 1997
+                                  and Chief Accounting Officer
+H. W. Walton             60	Vice President,Environment,  September 2004
+                                  Safety,Health and
+                                  Organizational Development
+Scott L. McCaleb         53    Vice President, Corporate    December 2002
+                                  Development
+Dennis D. Frick          63	Secretary                    October 1992
+John W. Green            53	Assistant Secretary          October 1988
+
+John D. Milton, Jr. joined the Company in January 2001 and was elected
+Executive Vice President, Treasurer and Chief Financial Officer.   Prior
+to joining the Company he was a partner in the law firm of Martin, Ade,
+Birchfield & Mickler, PA.
+
+George J. Hossenlopp has been employed by the Company since February 1980
+and has held various positions.   Most recently, he was division
+president for concrete operations in the Richmond-Tidewater areas of
+Virginia.
+
+H. W. Walton has been employed by the Company since August 1985 and has
+held various positions.   Most recently, he served as Vice President,
+Human Resources and Quality from May 2001 and prior to that he was
+Director of Quality since April 1998.
+
+Scott L. McCaleb has been employed by the Company since June 1994 and has
+held various positions.   He has been Director of Corporate Development
+since January 2000.   Prior to that date he was division president for
+the Georgia Aggregates operation since June 1997.
+
+All other officers have been employed by the Company in their respective
+positions for the past five years.
+
+Edward L. Baker and John D. Baker II are brothers.  Thompson S. Baker II
+is the son of Edward L. Baker.
+
+All executive officers of the Company are elected by the Board of
+Directors.
+
+Item 2.  PROPERTIES.
+
+The Company's principal properties are located in Florida, Georgia,
+Tennessee, Alabama, North Carolina, Virginia, Washington, D.C., Maryland and
+Delaware. The following table summarizes the Company's principal
+construction aggregates production and cement and calcium production
+facilities and estimated reserves at September 30, 2005.
+
+                          Tons        Tons of
+                       Delivered in  Estimated  Approximate
+                        Year Ended    Reserves     Acres
+                         9/30/05      9/30/05   (L-Leased)(a)     Lease
+                        (000's)       (000's)    (O-Owned)     Description
+
+Three crushed stone
+ plants in Florida
+ located at Gulf
+ Hammock (which also
+ produces agricultural
+ limestone), Ft. Myers
+ (which also produces
+ baserock), and Miami                                           5 leases
+ (which also produces                               L- 4,428    expiring from
+ baserock)                   8,684      281,000     O- 8,586    2010 to 2046
+
+Seven crushed stone plants
+ in Georgia located at
+ Griffin, Forest Park,
+ Macon, Tyrone, Columbus,
+ Six Mile and Paulding
+ County, one crushed stone
+ plant located near
+ Auburn, Alabama, one
+ crushed stone plant located
+ in Chattanooga, Tennessee
+ and one crushed stone plant                                    10 leases
+ located in Golconda                                L- 2,359    expiring from
+ Illinois                   10,725      574,000     O- 2,112    2029 to 2079
+
+Two crushed stone plants
+ located at Havre de Grace
+ and Frederick, Maryland,
+ two located near Richmond,
+ Virginia and one joint
+ Venture plant in Charlotte                                     2 leases
+ County, New Brunswick                              L-   114    expiring
+ Canada                      9,526      267,000     O- 1,317    2018
+
+Two baserock plants                                             3 leases
+ located at Ft. Pierce                                          expiring
+ and Sunniland, Florida        810       16,000     L-11,795    2007 to 2054
+
+Nine sand plants located
+ at Keystone Heights,
+
+
+
+
+                             Tons        Tons of
+                         Delivered in  Estimated  Approximate
+                          Year Ended    Reserves     Acres
+                           9/30/05      9/30/05   (L-Leased)(a)     Lease
+                           (000's)       (000's)    (O-Owned)     Description
+
+ Astatula, Lake County,
+ Marion County (two
+ locations), Keuka,
+ Grandin, LaBelle and
+ Lake Wales, Florida;
+ three sand plants located
+ at Albany, Leesburg and
+ Bainbridge, Georgia;
+ two sand and gravel plants
+ located at Goose Bay and
+ Leonardtown, Maryland, and
+ two sand plants at Charles
+ City, Virginia and one sand                                    18 leases
+ and gravel plant at Atmore,                         L- 12,806  expiring from
+ Alabama                    12,515      259,000      O-  2,888  2006 to 2008
+
+ The Company has a Portland
+ cement plant located at
+ Newberry, Florida, one fine
+ grinding plant located at
+ Brooksville, Florida, a cement
+ grinding plant at Port Manatee,
+ Florida and a cement grinding                                  2 leases
+ and blending plant at Tampa                         O-   876   expiring from
+ Florida                     1,613      141,000      L- 6,951   2020 to 2046
+
+
+Future reserves:
+ Sand:
+ Lake County, Florida(c)                 11,800      O-   654
+ Polk County, Florida
+   (two locations)                       36,000      O-   924
+ Putnam County, Florida
+   (three locations)                    138,000(b)   O- 1,159
+ Limerock:
+  Brooksville, Florida                   91,000(b)
+  Newberry, Florida                      69,400(b)
+
+Crushed Stone:
+ Muscogee County                         33,000      L-   142   1 lease
+ Georgia                                                        expiring in 2019
+ Lamar County, Georgia                   57,000      O-   588
+ Havre de Grace, Maryland(c)            121,600(b)
+ Carroll County, Maryland                41,250      O-   413
+ Port Deposit, Maryland (c)             185,700      O-   427
+ Ft. Myers, Florida (c)                 133,000(b)
+ Collier County, Florida                 29,500      O- 1,405
+
+
+
+(a)   Leased acreage includes all properties not owned by the Company as to
+which the Company has at least the right to mine construction aggregates
+for the terms specified.
+
+(b)   Acres are included in the first line of the above table.
+
+(c)    All the required zoning or permits for these locations have not yet
+       been obtained.
+
+The Company operates thirteen construction aggregates distribution terminals
+located in Florida (four), Georgia (two), Maryland (three), Virginia (two),
+Delaware (one) and Washington D. C. (one) comprising approximately 183 acres,
+of which the Company owns 130 and leases 53 acres.
+
+The Company has 110 sites for its ready mixed concrete, concrete block and
+prestressed concrete plants in Florida, Georgia, North Carolina, Virginia and
+Maryland aggregating approximately 838 acres.  Of these acres, the Company owns
+approximately 799 and leases approximately 39.  The lease terms vary from
+month-to-month to expiring in 2019.
+
+The Company leases, from Patriot Transportation Holding, Inc., ("Patriot")
+approximately six acres with two office buildings in Jacksonville, Florida,
+which are used for its executive offices and an administrative office space in
+Sparks, Maryland.  A subsidiary leases administrative office space in
+Springfield, Virginia. A subsidiary owns administrative offices in Richmond,
+Virginia.  In addition, the Company owns approximately 14 acres in Maryland,
+which are used for shop facilities and 6,340 acres in Suwannee and Columbia
+counties in Florida held for investment.
+
+The Company owns certain other properties which are summarized as follows:
+
+                                                            Approximate
+          Type Property (1)               State                Acres
+
+       Industrial/Commercial            Virginia                 93
+       Industrial/Commercial            Florida                  89
+       Industrial/Commercial            Maryland                909
+       Industrial/Commercial            North Carolina           27
+
+(1)  The properties owned by the Company are grouped by current or
+proposed use.  Such use may be subject to obtaining appropriate rezoning,
+zoning variances, subdivision approval, permits, licenses, and complying
+with various zoning, building, environmental and other regulations of
+various federal, state, and local authorities.
+
+
+
+At September 30, 2005 certain property, plant and equipment with a
+carrying value of $13,114,000 were pledged to secure industrial
+development revenue bonds and certain other notes and contracts with an
+outstanding principal balance totaling $29,722,000 on such date.
+
+Item 3.  LEGAL PROCEEDINGS.
+
+In November 2000, the United States Environmental Protection Agency
+through the offices of the United States Attorney for the District of
+Columbia commenced an investigation of DC Materials, Inc. and Cardinal
+Concrete Company, both subsidiaries of the Company, with respect to
+possible violations of the Clean Water Act at a site in the District of
+Columbia. On September 10, 2003, a former employee of this facility was
+convicted of violating the Clean Water Act. As a result, the employee
+(but not the Company) has been barred from receiving federal government
+contracts or benefits at this facility.   Counsel for the Company has
+advised that the statute of limitations has run and no action has been
+initiated by the United States Attorney. The United States Environmental
+Protection Agency has notified Cardinal Concrete Company that it will not
+be barred from receiving government contracts and benefits.  As a result,
+no further action is anticipated.
+
+Florida Rock holds one of 12 federal mining permits granted for the Lake
+Belt area in South Florida.   The permit covers Florida Rock's Miami
+quarry.   The Miami quarry is one of the largest of Florida Rock's
+quarries measured by volume of aggregates mined and sold.   Various
+governmental agencies are involved in litigation brought by environmental
+groups concerning the manner in which all 12 permits were granted.   The
+plaintiff's allege that the relevant governmental agencies acted
+capriciously, abused their discretion and failed to comply with
+administrative regulations and procedures and to consider all appropriate
+information when issuing the permits.   The plaintiffs seek to set aside
+the permits and to enjoin the relevant governmental agencies from
+granting further permits.   Although not named as a defendant, Florida
+Rock has intervened in the proceedings to protect its interests.   The
+proceedings are continuing and it is not possible to determine the likely
+outcome or what impact it will have on Florida Rock's operations.   If
+the Lake Belt permits, including the permit for the Miami quarry, were
+ultimately set aside, Florida Rock and the other industry participants
+with quarries in the Lake Belt region would need to source aggregates, to
+the extent available, from other locations in Florida or import
+aggregates.   This would likely result in increased costs and other
+adverse operational effects on Florida Rock.   However, Florida Rock
+believes that its permit for the Miami quarry was validly issued.
+
+In December 2004, management discovered potential violations of the terms
+of wetland dredge-and-fill permits issued by the U.S. Army Corps of
+Engineers and the Florida Department of Environmental Protection at the
+Miami Quarry.   Upon discovery, the Company halted the activities in
+question and voluntarily disclosed the activities to the U.S. Army Corps
+of Engineers and Florida Department of Environmental Protection. On
+December 30, 2004, the Florida Department of Environmental Protection
+issued a warning letter to the Company. On January 13, 2005, the U.S.
+Army Corps of Engineers issued a Notice of Noncompliance to the Company.
+ In June 2005, the Company entered into a settlement agreement with the
+U.S. Army Corps of Engineers that resolves the matter through payment of
+an administrative penalty of $27,500 and completion of a supplemental
+environmental project in the amount of $411,840, which was recorded in
+the third quarter of fiscal 2005.  In August 2005, the Company entered
+into a Consent Decree with the Florida Department of Environmental
+Protection, which resolved the matter through payment of a $5,500
+administrative penalty. As a result of these two settlements, the
+enforcement proceedings on the part of these two agencies have been
+resolved.
+
+The Company's 50% owned subsidiary, Jamer Materials, Ltd., has learned
+that samples of some crushed material from its New Brunswick, Canada
+quarry contain elevated levels of naturally occurring arsenic.     Based
+on test results to date, the Company does not believe that the material
+poses a risk to human health.   The Company is continuing to study the
+potential impact of this issue on the future operations of the
+subsidiary.   In addition, at the request of a nearby property owner,
+some of this material had been used on nearby property for fill near a
+stream that leads to the local water supply.   The Canadian environmental
+authorities have ordered that the material be removed from that site.
+The Company cannot assess at this time, with any degree of certainty, the
+impact on the subsidiary and its future financial performance, but
+management does not expect this matter to have a material adverse effect
+on the Company's consolidated financial statements or future financial
+performance.
+
+The Company has been named as one of numerous defendants in a lawsuit
+filed in Broward County, Florida, by a plaintiff alleging personal
+injuries arising from silicosis.   The lawsuit assets that the Company
+and various other mining companies named in the complaint (along with
+other defendants) are liable for negligence under a number of theories.
+The complaint has not yet been served upon the Company.   The Company is
+unable to determine the impact, if any, on financial position or results
+of operations.
+
+In December 2005, the Company received a Request for Information from the
+U.S. Environmental Protection Agency pursuant to the Comprehensive
+Environmental Response, Compensation, and Liability Act (CERCLA) and the
+Resource Conservation and Recovery Act (RCRA).   The request seeks
+information regarding whether the Company's subsidiary, Florida Cement,
+Inc., disposed of cement kiln dust at the Jernigan Trucking Dump Site in
+Hillsborough County, Florida during the 1970s.   The Company acquired
+this subsidiary from Lafarge North America, Inc., in 2003.   The Company
+has commenced an investigation of this matter but does not have
+sufficient information to determine whether the Company has any liability
+with respect to this matter or the extent of any potential liability.
+
+The Company and its subsidiaries are involved in litigation on a number
+of other matters and are subject to certain claims which arise in the
+normal course of business, none of which, in the opinion of management,
+are expected to have a materially adverse effect on the Company's
+consolidated financial statements.
+
+The Company has retained certain self-insurance risks with respect to
+losses for third party liability and property damage.
+
+Item 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+No reportable events.
+
+
+                               PART II
+
+Item 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER
+        MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+There were approximately 856 holders of record of Florida Rock
+Industries, Inc. common stock, $.10 par value, as of December 01, 2005.
+The Company's common stock is traded on the New York Stock Exchange
+(Symbol: FRK). Information concerning stock prices and dividends paid
+during the past two years is included under the caption "Quarterly
+Results" on page 15 of the Company's 2005 Annual Report to Shareholders
+and such information is incorporated herein by reference.
+
+Purchases of Equity Securities.
+ISSUER PURCHASES OF EQUITY SECURITIES
+              (a) Total   (b) Average  (c) Total   (d) Maximum
+                Number of    Price Paid    Number of     Number (or
+                Shares (or   per Share     Shares (or    Approximate
+                Units        (or Unit)     Units)        Dollar Value)
+                Purchased                  Purchased     of Shares (or
+                                           As Part of    Units) that
+                                           Publicly      May Yet Be
+                                           Announced     Purchased Under
+                                           Plans or      the Plans or
+                                           Programs      Programs
+
+
+
+Period
+July 1, 2005
+thru July 31,
+2005                   173       $45.27	    173			-
+
+August 1, 2005
+thru August 31,
+2005                     -           -            -			-
+
+September 1, 2005
+Thru September
+30, 2005                 -           -            -			-
+
+Total                    -           -            -			-
+
+
+Item 6. SELECTED FINANCIAL DATA.
+
+Information required in response to this Item 6 is included under the
+caption "Five Year Summary" on page 8 of the Company's 2005 Annual Report
+to Shareholders, and such information is incorporated herein by
+reference.
+
+Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+        RESULTS OF OPERATIONS.
+
+Information required in response to this Item 7 is included under the
+captions "Management Analysis" on pages 9 through 14; and in Notes 1
+through 17 to the Consolidated Financial Statements included in the
+accompanying 2005 Annual Report to Shareholders and in Item 3 "Legal
+Proceedings" of this Form 10-K.  Such information is incorporated herein
+by reference.
+
+Item 7.A  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+The Company's operations are subject to factors affecting the level of
+general construction activity including the level of interest rates,
+availability of funds for construction and other factors affecting the
+construction industry. A significant decrease in the level of general
+construction activity in any of the Company's market areas may have a
+material adverse effect on the Company's sales and income derived
+thereof.
+
+The Company is exposed to market risk from changes in interest rates.
+For its cash and cash equivalents a change in interest rates affects the
+amount of interest income that can be earned.   For its debt instruments
+changes in interest rates affect the amount of interest expense incurred.
+
+The following table provides information about the Company's financial
+instruments and the maturity dates thereof that are sensitive to changes
+in interest rates (in thousands):
+
+
+
+                                                     There-        Fair
+                     2006   2007  2008  2009   2010  after   Total  Value
+
+Long-term debt at
+ fixed rates       $1,497    243   186    78     83    297   2,384  2,447
+
+
+Weighted average
+ interest rate        7.6%   7.6   7.6   7.6    7.2    7.2
+
+Long-term debt at
+ variable interest
+ rate              $    0  1,775 1,775     0      0 14,000  17,550 17,550
+
+Weighted average
+ interest             2.4%
+
+
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+Information required in response to this Item 8 is included under the
+caption "Quarterly Results" on page 15 and on pages 16 through 30 of the
+Company's 2005 Annual Report to Shareholders.  Such information is
+incorporated herein by reference.
+
+Item 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE.
+
+On July 21, 2004, the Audit Committee of the Board of Directors of Florida
+Rock Industries, Inc. (the "Company"), engaged KPMG LLP ("KPMG") to serve
+as the Company's independent registered public accountants for a three
+year term beginning with fiscal year 2005.   On July 21, 2004, the
+Company's Audit Committee notified Deloitte & Touche LLP ("Deloitte &
+Touche") of their intent to dismiss Deloitte & Touche as the Company's
+principal public accountants, effective upon completion of the audit of
+the Company's consolidated financial statements for the 2004 fiscal year.
+
+Deloitte & Touche's reports on the consolidated financial statements of
+the Company and its subsidiaries for the two most recent fiscal years
+ended September 30, 2004 did not contain any adverse opinion or disclaimer
+of opinion, nor were they qualified or modified as to uncertainty, audit
+scope, or accounting principles, except that their reports included
+unqualified opinions with an explanatory paragraph to disclose that
+effective October 1, 2002, the Company changed its method of accounting
+for its costs of reclamation to conform to Standard of Financial
+Accounting Standards No. 143, "Accounting for Asset Retirement
+Obligations".
+
+During the Company's fiscal years ended September 30, 2004 and 2003, there
+were no disagreements between the Company and Deloitte & Touche on any
+matter of accounting principles or practices, financial statement
+disclosure, or auditing scope or procedure, which disagreements if not
+resolved to Deloitte & Touche's satisfaction, would have caused them to
+make reference to the subject matter of the disagreement in connection
+with their reports; and there were no reportable events as described in
+Item 304(a)(1)(v) of Regulation S-K.
+
+Prior to engaging KPMG, the Company did not consult KPMG with respect to
+the application of accounting principles to a specified transaction,
+either completed or proposed, or the type of audit opinion that might be
+rendered on the Company's consolidated financial statements, or any other
+matters or reportable events as set forth in Items 304(a)(2)(i) and (ii)
+of Regulation S-K.
+
+Item 9.A CONTROLS AND PROCEDURES
+
+(a) The Company maintains disclosure controls and procedures that are
+designed to ensure that information required to be disclosed in the
+Company's reports under the Securities Exchange Act of 1934, as
+amended (the "Exchange Act"), is recorded, processed, summarized and
+reported within the time periods specified in the SEC's rules and
+forms, and that such information is accumulated and communicated to
+management, including the Company's Chief Executive Office ("CEO"),
+Chief Financial Officer ("CFO"), and Chief Accounting Officer ("CAO"),
+as appropriate, to allow timely decisions regarding required
+disclosure.
+
+    All control systems, no matter how well designed, have inherent
+limitations.   Therefore, even those systems determined to be
+effective can provide only reasonable assurance of achieving the
+desired control objectives.
+
+    As of September 30, 2005, the Company, under the supervision and with
+the participation of the Company's management, including the CEO, CFO
+and CAO, carried out an evaluation of the effectiveness of the design
+and operation of the Company's disclosure controls and procedures.
+Based on this evaluation, the Company's CEO, CFO and CAO concluded
+that the Company' CEO, CFO and CAO concluded that the Company's
+disclosure controls and procedures are effective in alerting them in a
+timely manner to material information required to be included in
+periodic SEC filings.
+
+(b) Changes in Internal Controls.   There have been no changes in internal
+controls or in other factors that could significantly affect these
+controls subsequent to the date of their evaluation, including any
+corrective actions with regard to significant deficiencies and
+material weaknesses.
+
+Item 9.B  OTHER INFORMATION
+
+None.
+
+
+                               PART III
+
+Item 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+Information regarding the executive officers of the Company is set forth
+under the caption "Executive Officers of the Company" in Part I of this
+Form 10-K.
+
+Information concerning directors required in response to this Item 10 will
+be included under the captions "Election of Directors" and "Section 16(a)
+Beneficial Ownership Reporting Compliance" in the Company's Proxy
+Statement and such information is incorporated herein by reference.
+
+Information regarding the corporate governance practices of the Company,
+including information regarding which members of the audit committee are
+audit committee financial experts and the code of conduct applicable to
+principal executive officers, principal financial officers and principal
+accounting officers (a copy of which is included as an exhibit to this
+Form 10-K), will be included under the caption "Election of Directors" in
+the Company's Proxy Statement and such information is incorporated herein
+by reference.
+
+Item 11. EXECUTIVE COMPENSATION.
+
+Information required in response to this Item 11 will be included under
+the captions "Executive Compensation," "Compensation Committee Report,"
+"Compensation Committee Interlocks and Insider Participation," and
+"Shareholder Return Performance" in the Company's Proxy Statement and such
+information is incorporated herein by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+and Related Stockholder Matters.
+
+The following table summarizes certain information concerning the
+Company's equity compensation plans:
+
+                Number of securities                     Number of securities
+                to be issued upon                        available for future
+                exercise of         Weighted average     issuance under equity
+                outstanding         exercise price of    compensation plans
+                options, warrants   outstanding options, (excluding securities
+Plan Category   and rights-         warrants and rights  reflected in column
+
+Equity compen-
+sation plans
+approved by
+security holders     3,591,926              $ 16.89             1,219,000
+
+Equity compen-
+sations plans
+not approved
+by security
+holders                      -                    -                     -
+
+Total                3,591,926              $ 16.89             1,219,000
+
+For additional information, see note 9 of the Notes of Consolidated
+Financial Statements.
+
+Item 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+Information required in response to this Item 13 will be included under
+the captions "Compensation Committee Interlocks and Insider Participation"
+and "Certain Relationships and Related Transactions" in the Company's
+Proxy Statement.
+
+Item 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+Information required in response to this Item 14 will be included under
+the caption "Audit Committee Report - Audit and Non-Audit Fees" in the
+Company's Proxy Statement.
+
+
+
+PART IV
+
+Item 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULE
+
+(a)(1)and (2)Financial Statements and Financial Statement Schedule.
+
+    The response to this item is submitted as a separate section.  See
+    Index to Financial Statements and Financial Statement Schedule on
+    page 21 of this Form 10-K.
+
+   (3)Exhibits
+
+The response to this item is submitted as a separate section.  See
+Exhibit Index on pages 18 through 20 of this Form 10-K.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+DECEMBER 14, 2005                             FLORIDA ROCK INDUSTRIES, INC.
+
+
+                                              By JOHN D. BAKER, II
+                                                 John D. Baker, II
+                                                 President and Chief
+                                                  Executive Officer
+
+                                              By JOHN D. MILTON, JR.
+                                                 John D. Milton, Jr.
+                                                 Executive Vice President
+                                                  Treasurer and Chief
+                                                  Financial Officer
+
+                                              By WALLACE A. PATZKE, JR.
+                                                 Wallace A. Patzke, Jr.
+                                                 Vice President, Controller
+                                                  and Chief Accounting
+                                                  Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities indicated on December 07, 2005.
+
+JOHN D. BAKER, II                                 J. DIX DRUCE, JR.
+John D. Baker, II                                 J. Dix Druce, Jr.
+Director, President and Chief                     Director
+Executive Officer
+(Principal Executive Officer)                     LUKE E. FICHTHORN, III
+                                                  Luke E. Fichthorn, III
+JOHN D. MILTON, JR.           		                Director
+John D. Milton, Jr.
+Executive Vice President, Treasurer               EDWARD L. BAKER
+ and Chief Financial Officer                      Edward L. Baker
+ (Principal Financial Officer)                    Director
+
+WALLACE A. PATZKE, JR.                            THOMAS S. BAKER, II
+Wallace A. Patzke, Jr.                            Thomas S. Baker, II
+Vice President, Controller and                    Director
+ Chief Accounting Officer
+(Principal Accounting Officer)                    WILLIAM H. WALTON, III
+                                                  William H. Walton, III
+________________                                  Director
+Francis X. Knott
+Director                                          ______________________
+                                                  Robert P. Crozer
+ALVIN R. CARPENTER                                Director
+Alvin R. Carpenter
+Director                                          JOHN A. DELANEY
+                                                  John A. Delaney
+WILLIAM P. FOLEY  II		                Director
+William P. Foley, II
+Director
+
+
+
+
+
+
+
+
+                               FLORIDA ROCK INDUSTRIES, INC.
+	FORM 10-K FOR THE FISCAL YEAR ENDED SEPTEMBER 30, 2005
+
+                                      EXHIBIT INDEX
+                                      [Item 14(a)(3)]
+
+
+(3)(a)(1)		Restated Articles of Incorporation of Florida Rock
+Industries, Inc., filed with the Secretary of State of
+Florida on May 9, 1986, incorporated by reference to an
+exhibit previously filed with Form 10-Q for the quarter
+ended December 31, 1986.  File No. 1-7159.
+
+(3)(a)(2)		Amendment to the Articles of Incorporation of Florida
+Rock Industries, Inc. filed with the Secretary of State
+of Florida on February 19, 1992, incorporated by
+reference to an exhibit previously filed with Form 10-K
+for the fiscal year ended September 30, 1993. File No.
+1-7159.
+
+(3)(a)(3)		Amendments to the Articles of Incorporation of Florida
+Rock Industries, Inc. filed with the Secretary of State
+of Florida on February 7, 1995, incorporated by
+reference to an appendix to the Company's Proxy
+Statement dated December 15, 1994.   File No. 1-7159.
+
+(3)(a)(4)		Amendment to the Articles of Incorporation of Florida
+Rock Industries, Inc. filed with the Secretary of State
+of Florida on February 4, 1998, incorporated by
+reference to an exhibit previously filed with Form 10-Q
+for the quarter ended March 31, 1998.   File No. 1-7159.
+
+(3)(a)(5)		Amendment to the Articles of Incorporation of Florida
+Rock Industries, Inc. filed with the Secretary of State
+of Florida on May 6, 1999.  A form of such amendment was
+previously filed as Exhibit 4 to the Company's Form 8-K
+dated May 5, 1999 and is incorporated by reference
+herein.   File No. 1-7159.
+
+(3)(b)(1)		Restated Bylaws of Florida Rock Industries, Inc.,
+adopted December 1, 1993, incorporated by reference to
+an exhibit previously filed with Form 10-K for the
+fiscal year ended September 30, 1993.  File No. 1-7159.
+
+(3)(b)(2)		Amendment to the Bylaws of Florida Rock Industries, Inc.
+adopted October 5, 1994, incorporated by reference to an
+exhibit previously filed with Form 10-K for the fiscal
+year ended September 30, 1994.  File No. 1-7159.
+
+(3)(b)(3)		Amendment to the Bylaws of Florida Rock Industries, Inc.
+adopted February 4, 1998, incorporated by reference to
+an exhibit previously filed with Form 10-Q for the
+quarter ended March 31, 1998.  File No. 1-7159.
+
+(3)(b)(4)		Amendment to the Bylaws of Florida Rock Industries, Inc.
+adopted December 5, 2001 incorporated by referenced to
+an exhibit previously filed with Form 10-Q for the
+quarter ended December 31, 2001.	File No 1-7159.
+
+(3)(b)(5)		Amendment to Bylaws of Florida Rock Industries Inc.
+adopted May 5, 2004 incorporated by reference to an
+exhibit previously filed with Form 10-Q for the quarter
+ended June 30, 2004.   File No. 1-7159.
+
+(4)(a)		Articles III, VII, and XIII of the Articles of
+Incorporation of Florida Rock Industries, Inc.,
+incorporated by reference to exhibits previously filed
+with Form 10-Q for the quarter ended December 31, 1986
+and Form 10-K for the fiscal year ended September 30,
+1993.  And Articles XIV and XV, incorporated by
+reference as appendix to the Company's Proxy Statement
+dated December 15, 1994.  File No. 1-7159.
+
+(4)(b)		Credit Agreement dated as of May 27, 2004 among Florida
+Rock Industries, Inc.; Wachovia Bank, N.A.; Bank of
+America, N.A.; SunTrust Bank; Wachovia Capital Markets,
+LLC and Banc of America Securities, LLC incorporated by
+reference to an exhibit previously filed with Form 10-Q
+for the quarter ended June 30, 2004.   File No. 1-7159.
+
+
+
+(4)(c)		The Company and its consolidated subsidiaries have other
+long-term debt agreements which do not exceed 10% of the
+total consolidated assets of the Company and its
+subsidiaries, and the Company agrees to furnish copies
+of such agreements and constituent documents to the
+Commission upon request.
+
+(4)(d)		Rights Agreement, dated as of May 5, 1999 between the
+Company and First Union National Bank, incorporated by
+reference to Exhibit 4 to the Company's Form 8-K dated
+May 5, 1999.   File No. 1-7159.
+
+(10)(a)		Employment Agreement dated June 12, 1972 between Florida
+Rock Industries, Inc. and Charles J. Shepherdson, Sr.
+and form of Addendum thereto, incorporated by reference
+to an exhibit previously filed with Form S-1 dated June
+29, 1972.  File No. 2-44839
+
+(10)(b)		Addendums dated April 3, 1974 and November 18, 1975 to
+Employment Agreement dated June 12, 1972 between Florida
+Rock Industries, Inc., and Charles J. Shepherdson, Sr.,
+incorporate by reference to an exhibit previously filed
+with Form 10-K for the fiscal year ended September 30,
+1975.  File No. 1-7159.
+
+(10)(c)		Amended Medical Reimbursement Plan of Florida Rock
+Industries, Inc., effective May 24, 1976, incorporated
+by reference to an exhibit previously filed with Form
+10-K for the fiscal year ended September 30, 1980.
+File No. 1-7159.
+
+(10)(d)		Amendment No. 1 to Amended Medical Reimbursement Plan of
+Florida Rock Industries, Inc. effective July 16, 1976,
+incorporated by reference to an exhibit previously filed
+with Form 10-K for the fiscal year ended September 30,
+1980.  File No. 1-7159
+
+(10)(e)		Tax Service Reimbursement Plan of Florida Rock
+Industries, Inc. effective October 1, 1976, incorporated
+by reference to an exhibit previously filed with Form
+10-K for the fiscal year ended September 30, 1980.
+			File No. 1-7159.
+
+(10)(f)		Amendment No. 1 to Tax Service Reimbursement Plan of
+Florida Rock Industries, Inc., incorporated by reference
+to an exhibit previously filed with Form 10-K for the
+fiscal year ended September 30, 1981. File No. 1-7159.
+
+(10)(g)		Amendment No. 2 to Tax Service Reimbursement Plan of
+Florida Rock Industries, Inc., incorporated by reference
+to an exhibit previously filed with Form 10-K for the
+fiscal year ended September 30, 1985. File No. 1-7159.
+
+(10)(h)		Summary of Management Incentive Compensation Plan as
+amended effective October 1, 1992, incorporated by
+reference to an exhibit previously filed with Form 10-K
+for the fiscal year ended September 30, 1993.  File No.
+1-7159.
+
+(10)(i)		Florida Rock Industries, Inc. Management Security Plan,
+incorporated by reference to an exhibit previously filed
+with Form 10-K for the fiscal year ended September 30,
+1985.  File No. 1-7159.
+
+
+
+(10)(j)		Various mining royalty agreements with Patriot or its
+subsidiary, none of which are presently believed to be
+material individually, but all of which may be material
+in the aggregate, incorporated by reference to exhibits
+previously filed with Form 10-K for the fiscal year
+ended September 30, 1986.  File No. 1-7159.
+
+(10)(k)		Florida Rock Industries, Inc. 1996 Stock Option Plan,
+incorporated by reference to an appendix to the
+Company's Proxy Statement dated December 18, 1995.  File
+No. 1-7159.
+
+(10)(l)		Florida Rock Industries, Inc. 2000 Stock Option Plan,
+incorporated by reference to an exhibit previously filed
+with the Proxy Statement dated December 20, 2000.   File
+No. 1-7159.
+
+(10)(m)		Summary of Compensation Arrangements with Directors,
+incorporated by reference to an exhibit previously filed
+with the Form 10-Q for the quarter ended March 31, 2005.
+Fi1e No.1-7159.
+
+(10)(n)		Summary of Compensation with Named Executive Officers,
+incorporated by reference to an exhibit previously filed
+with the Form 10-Q for the quarter ended March 31, 2005.
+File No. 1-7159.
+
+(11)   		Computation of Earnings Per Common Share.
+
+(13)    		The Company's 2005 Annual Report to Shareholders,
+portions of which are incorporated by reference in this
+Form 10-K.  Those portions of the 2005 Annual Report to
+Shareholders, which are not incorporated by reference,
+shall not be deemed to be filed as part of this Form 10-
+K.
+
+(14)			Financial Code of Ethical Conduct. Incorporated by
+reference to an Exhibit previously filed with the Form
+10-K for the fiscal year ended September 30, 2003.
+File No. 1-7159.
+
+(21)   		Subsidiaries of the Company.
+
+(23)    		Consents of KPMG LLP and Deloitte & Touche LLP appear on
+page 22 of this Form 10-K.
+
+          (31)(a)	         Certification of John D. Baker, II
+
+          (31)(b)	         Certification of John D. Milton, Jr.
+
+          (31)(c)	         Certification of Wallace A. Patzke, Jr.
+
+(32)              Certification under Section 906 of Sarbanes-Oxley Act
+               of 2002
+
+
+
+	FLORIDA ROCK INDUSTRIES, INC.
+	INDEX TO FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULE
+
+	(Item 15(a)(1) and (2))
+
+                                                                         Page
+Consolidated Financial Statements:
+  Consolidated balance sheets at September 30, 2005 and 2004              17(a)
+
+  For the years ended September 30, 2005, 2004 and 2003:
+      Consolidated statements of income                                   16(a)
+      Consolidated statements of shareholders' equity                     19(a)
+        and comprehensive income
+      Consolidated statements of cash flows                               18(a)
+
+  Notes to consolidated financial statements                           20-29(a)
+
+Reports of Independent Registered Public Accounting Firms                 30(a)
+
+Selected quarterly financial data (unaudited)                             15(a)
+
+Consents of Independent Registered Public Accounting Firms                22(b)
+
+Reports of Independent Registered Public Accounting Firms
+  on Financial Statement Schedule                                         23(b)
+
+Consolidated Financial Statement Schedule:
+
+   II - Valuation and qualifying accounts                                 24(b)
+
+(a)	Refers to the page number in the Company's 2005 Annual Report to
+Shareholders. Such information is incorporated by reference in Item 8
+of this Form 10-K.
+
+(b)	Refers to the page number in this Form 10-K.
+
+All other financial statement schedules have been omitted, as they are not
+required under the related instructions, are inapplicable, or because the
+information required is included in the footnotes to the consolidated financial
+statements.
+
+
+
+                                                                   Exhibit 23
+
+CONSENTS OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRMS
+
+The Board of Directors and Shareholders
+Florida Rock Industries, Inc.:
+
+
+We consent to the incorporation by reference in Registration Statements Nos.
+333-55128, 33-56322, 333-26775, 333-18873, 333-47618, 333-111663 and 333-
+121007 of Florida Rock Industries, Inc. on Form S-8 of Florida Rock
+Industries, Inc. of our reports dated December 14, 2005, with respect to the
+consolidated balance sheet of Florida Rock Industries, Inc. and subsidiaries
+as of September 30, 2005, and the related consolidated statements of income,
+shareholders' equity and comprehensive income and cash flows, for the year
+ended September 30, 2005, and the related financial statement schedule,
+management's assessment of the effectiveness of internal control over
+financial reporting as of September 30, 2005 and the effectiveness of
+internal control over financial reporting as of September 30, 2005, which
+reports appear in the September 30, 2005, annual report on Form 10-K of
+Florida Rock Industries, Inc.
+
+
+
+KPMG LLP
+
+Jacksonville, Florida
+December 14, 2005
+
+
+
+
+
+
+
+We consent to the incorporation by reference in Registration Statements Nos.
+333-55128, 33-56322, 333-26775, 333-18873, 333-47618, 333-111663 and 333-
+121007 of Florida Rock Industries, Inc. on Forms S-8 of our reports dated
+December 01, 2004,(December 14, 2005 as to the effects of the stock split
+described in Note 1) incorporated by reference and included in this Annual
+Report on Form 10-K of Florida Rock Industries, Inc. for the year ended
+September 30, 2004.
+
+
+DELOITTE & TOUCHE LLP
+
+Jacksonville, Florida
+December 14, 2005
+
+
+
+
+REPORTS OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRMS
+
+The Board of Directors and Shareholders of
+Florida Rock Industries, Inc:
+
+Under date of December 14, 2005, we reported on the consolidated balance
+sheet of Florida Rock Industries, Inc. and subsidiaries as of September 30,
+2005, and the related consolidated statements of income, shareholders'
+equity and comprehensive income, and cash flows for the year then ended,
+which are included in the 2005 Annual Report to Shareholders.  In
+connection with our audit of the aforementioned consolidated financial
+statements, we also audited the related consolidated financial statement
+schedule for the year ended September 30, 2005 incorporated in the Form 10-
+K by reference.  This financial statement schedule is the responsibility of
+the Company's management.  Our responsibility is to express an opinion on
+this financial statement schedule based on our audit.
+In our opinion, such financial statement schedule, when considered in
+relation to the basic consolidated financial statements taken as a whole,
+present fairly, in all material respects, the information set forth
+therein.
+
+
+KPMG LLP
+
+Jacksonville, Florida
+December 14, 2005
+
+
+
+To the Board of Directors and Shareholders of
+Florida Rock Industries, Inc.
+Jacksonville, Florida
+
+We have audited the consolidated financial statements of Florida Rock
+Industries, Inc. and subsidiaries (the "Company") as of September 30, 2004
+and for each of the two years ended September 30, 2004, and have issued our
+report thereon dated December 01, 2004 (December 14, 2005 as to the effects
+of the stock split described in Note 1); such consolidated financial
+statements and report are included in your 2005 Annual Report to
+Shareholders and are incorporated herein by reference.  Our audits also
+included the financial statement schedule of the Company, listed in Item
+15.  This financial statement schedule is the responsibility of the Company
+management. Our responsibility is to express an opinion based on our
+audits.  In our opinion, such financial statement schedule, when considered
+in relation to the basic consolidated financial statements taken as a
+whole, presents fairly in all material respects the information set forth
+therein.
+
+
+
+DELOITTE & TOUCHE LLP
+Certified Public Accountants
+
+Jacksonville, Florida
+December 1, 2004
+
+
+	FLORIDA ROCK INDUSTRIES, INC.
+	SCHEDULE II (CONSOLIDATED) - VALUATION AND QUALIFYING ACCOUNTS
+	YEAR ENDED SEPTEMBER 30, 2005, 2004, AND 2003
+
+                                    Additions
+                Balance at    Charged to   Charged                 Balance
+                Beginning     Costs and   to Other                 at End
+Description      of Year      Expenses    Accounts   Deductions    of Year
+
+Year ended
+September 30,
+2005:
+
+Allowance for
+ doubtful
+ accounts       $ 2,554,502    257,747               (511,646)a   2,300,603
+
+Accrued risk
+ Insurance      $17,066,925 20,354,943            (18,338,202)b 19,083,666
+
+Asset
+ retirement
+ obligations    $ 9,033,478    404,135  1,735,965 d (2,113,934)b  9,059,644
+
+Year ended
+September 30,
+2004:
+
+Allowance for   $ 3,419,357    776,683    (50,000)C   1,591,538a    2,554,502
+ doubtful
+ accounts
+
+Accrued risk
+ insurance
+ reserve        $13,147,330 10,956,265              7,036,670b  17,066,925
+
+Asset
+ retirement
+ obligations    $ 8,648,576    361,288    212,866d     189,252b  9,033,478
+
+Year ended
+September 30,
+ 2003:
+
+Allowance for
+ Doubtful
+ accounts      $  1,694,319  1,170,229  1,250,000c     695,191a   3,419,357
+
+Accrued risk
+ insurance
+ reserves      $ 11,486,667  8,238,673               6,578,010b 13,147,330
+
+Asset
+ retirement
+ obligations(d)$          -    363,421  8,824,958d     539,803b   8,648,576
+
+
+
+a) Accounts written off less recoveries
+b) Payments
+c) For 2003 allowance for doubtful receivables established in an acquisition
+   and for fiscal 2004 an adjustment due to finalization of the purchase price
+   allocation.
+d) Initial liability recorded upon adoption of FASB 143 plus new obligations
+   established in fiscal 2003, 2004 and 2005.
+
+
+
+25
+
+</TEXT>
+</DOCUMENT>
+

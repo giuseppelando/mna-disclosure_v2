@@ -1,0 +1,1625 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d283483d10k.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 10-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:4px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>FORM 10 - K
+</B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>OF THE SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P>
+ <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>For the fiscal year ended December&nbsp;31, 2011 </B></FONT></P>
+ <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Commission File Number 000-52584 </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>BIRMINGHAM BLOOMFIELD BANCSHARES, INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Michigan</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>20-3993452</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(State or other jurisdiction of</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>incorporation or organization)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>33583 Woodward Avenue, Birmingham. MI 48009 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Address of principal executive offices, including zip code) </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>(248) 723-7200 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Registrant&#146;s telephone number, including area code)
+</B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Securities registered pursuant to Section&nbsp;12(b) of the Act: None </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Securities registered pursuant to Section&nbsp;12(g) of the Act: Common Stock, no par value </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Indicate by check mark if the issuer is not required to file reports pursuant to Section&nbsp;13 or Section&nbsp;15(d) of the Exchange Act.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT
+STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Indicate
+by check mark whether the registrant: (1)&nbsp;has filed all reports required to be filed by Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required
+to file such reports), and (2)&nbsp;has been subject to such filing requirements for the past 90 days.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT
+STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Indicate by check mark whether the registrant has submitted electronically and posted on its
+corporate website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T(section 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was
+required to submit and post such files.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT> </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Indicate by check mark if disclosure of delinquent filers pursuant to Item&nbsp;405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant&#146;s knowledge, in definitive proxy or information statements incorporated by reference in Part III of the Form 10-K or any amendment of this Form 10-K.&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer. See definition
+of &#147;accelerated filer and large accelerated filer&#148; (in Rule 12b-2 of the Exchange Act). (Check one:) </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="16%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="60%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="1%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Large&nbsp;accelerated&nbsp;filer</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Accelerated&nbsp;filer</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Non-accelerated filer</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Smaller&nbsp;reporting&nbsp;company</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange
+Act.)&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The aggregate market value of the voting and non-voting common equity held by non-affiliates as of the last business day of the registrant&#146;s most recently completed second quarter was $5,850,000.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">As of March&nbsp;30, 2012, 1,812,662 shares of the common stock of the registrant were issued or outstanding. </FONT></P>
+<P STYLE="font-size:8px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Documents Incorporated by Reference: </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Parts I and II &#150; Portions of the Shareholder Report of the issuer for the year ended December&nbsp;31, 2011. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Part III &#150; Portions of the Proxy Statement of the issuer for its May&nbsp;21, 2012 Annual Meeting. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Disclosure Regarding Forward Looking Statements </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">This report contains forward-looking statements throughout that are based on management&#146;s beliefs, assumptions, current
+expectations, estimates and projections about the financial services industry, the economy, and about the Corporation and the Bank. Words such as anticipates, believes, estimates, expects, forecasts, intends, is likely, plans, projects, variations
+of such words and similar expressions are intended to identify such forward-looking statements. These forward-looking statements are intended to be covered by the safe-harbor provisions of the Private Securities Litigation Reform Act of 1995. These
+statements are not guarantees of future performance and involve certain risks, uncertainties and assumptions that are difficult to predict with regard to timing, extent, likelihood and degree of occurrence. Actual results and outcomes may materially
+differ from what may be expressed or forecasted in the forward-looking statements. The Corporation undertakes no obligation to update, amend, or clarify forward looking statements, whether as a result of new information, future events (whether
+anticipated or unanticipated), or otherwise. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Future factors that could cause actual results to differ materially from the
+results anticipated or projected include, but are not limited to, the following: expected cost savings and synergies from our acquisition activities might not be realized within the expected time frames, and costs or difficulties related to
+integration matters might be greater than expected; expenses associated with the implementation of our trust and wealth management services might be greater than expected, whether due to a possible need to hire more employees than anticipated or
+other costs incurred in excess of budgeted amounts; the credit risks of lending activities, including changes in the level and direction of loan delinquencies and write-offs and changes in estimates of the adequacy of the allowance for loan losses;
+competitive pressures among depository institutions; interest rate movements and their impact on customer behavior and net interest margin; the impact of re-pricing and competitor&#146;s pricing initiatives on loan and deposit products; the ability
+to adapt successfully to technological changes to meet customers&#146; needs and development in the market place; our ability to access cost-effective funding; changes in financial markets; changes in economic conditions in general and particularly
+as related to the automotive and related industries in the Detroit metropolitan area; new legislation or regulatory changes, including but not limited to changes in federal and/or state tax laws or interpretations thereof by taxing authorities;
+changes in accounting principles, policies or guidelines; and our future acquisitions of other depository institutions or lines of business. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>BIRMINGHAM BLOOMFIELD BANCSHARES, INC. </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>PART I </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;1.
+Business </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Overview </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Birmingham Bloomfield Bancshares, Inc. (the &#147;Corporation&#148;) was organized as a Michigan corporation on February&nbsp;26, 2004 to serve as a bank holding company for the Bank of Birmingham (the
+&#147;Bank&#148;). The Corporation received approval from the Federal Reserve Bank of Chicago to become a bank holding company on May&nbsp;17, 2006 upon the acquisition of 100% of the common stock of the Bank of Birmingham. The Corporation has no
+material business operations other than owning and managing the Bank and has no plans for other business operations in the foreseeable future. On April&nbsp;8, 2005, the organizers of the Bank filed an application with the Michigan Office of
+Financial and Insurance Regulation (OFIR &#150; previously known as the Michigan Office of Financial and Insurance Services or OFIS) to organize the Bank as a state bank and with the Federal Deposit Insurance Corporation (FDIC) for federal deposit
+insurance. The Bank received the regulatory approvals of the OFIR on October&nbsp;21, 2005 and the FDIC on November&nbsp;9, 2005. The Corporation commenced its initial public offering on November&nbsp;15, 2005 to raise the capital required to
+capitalize the Bank of Birmingham. The Corporation continued raising capital until the closing of its offering on September&nbsp;30, 2006. Early in the fourth quarter of 2006, the Corporation closed on the remaining portion of its equity offering of
+$4,011,700 bringing its total equity to $18,000,000. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Philosophy and strategy </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Bank of Birmingham operates as a full-service community bank, offering sophisticated financial products while emphasizing prompt,
+personalized customer service. We believe that this philosophy, encompassing the service aspects of community banking, distinguishes the Bank from its competitors. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">To carry out this philosophy, the Bank&#146;s business strategy involves the following: </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Capitalizing on the diverse community involvement, professional expertise and personal and business contacts of our directors, organizers and executive
+officers; </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Hiring and retaining experienced and qualified banking personnel; </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Providing individualized attention with consistent, local decision-making authority; </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Utilizing technology and strategic outsourcing to provide a broad array of convenient products and services; </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Operating from highly visible and accessible banking offices in close proximity to a concentration of targeted commercial businesses and professionals;
+</FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Attracting its customer base by offering competitive interest rates on deposit accounts. </FONT></P></TD></TR></TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Market opportunities </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Primary service areas. Bank of Birmingham&#146;s primary service area is Oakland County and surrounding areas, with its headquarters
+located at 33583 Woodward Avenue, Birmingham, Michigan. The Bank of Birmingham conducts most of its lending transactions from and within its primary service area and derives its deposits locally and through a national certificate of deposit listing
+service. Compared with other economically less fortunate areas of the state, Oakland County has a stable economy and population and is one of the most affluent counties in the country. From a wealth accumulation standpoint, the Bank&#146;s specific
+target market compares favorably with any affluent area in the country. This situation continues to create opportunities for new businesses, including financial service providers such as the Bank, who wish to serve this affluent and distinct market
+albeit at a slower pace than in the recent past. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Local economy</U>. As a community bank, Bank of Birmingham is designed to
+serve the needs of the residents, small to medium-sized businesses and professionals within this county. Economic conditions have marginally improved in the region but challenges remain with the level of unemployment and housing sector. While
+Oakland county is not immune to these issues, the demographics of the Birmingham Bloomfield area somewhat lessen the impact. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The economic base of the County continues to diversify from the automotive service sector. This trend should lessen the impact on the
+County of future economic downturns in the automotive sector of the economy. Changes in the local economy may affect the demand for commercial loans and related small to medium business related products. This could have a significant impact on how
+the Corporation deploys earning assets. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Our target area, which while not being as economically challenged as the overall
+metropolitan area, is still experiencing downward pressure. Residents are increasingly more educated and more diversified in business and professional skills, but are finding employment opportunities increasingly limited. The current economic
+environment has provided challenges and opportunities. We believe there is a still opportunity for community bank to attract customers by providing specialized service for their unique banking needs. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Competition</U>. The market for financial services is rapidly changing and intensely competitive and is likely to become more
+competitive as the number and types of market entrants increase. The Bank of Birmingham competes in both lending and attracting funds with other commercial banks, savings and loan associations, credit unions, consumer finance companies, pension
+trusts, mutual funds, insurance companies, mortgage bankers and brokers, brokerage and investment banking firms, asset-based non-bank lenders, government agencies and certain other non-financial institutions, including retail stores, that may offer
+more favorable financing alternatives than the bank. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">According to information disclosed on the FDIC&#146;s website
+(www.fdic.gov), as of June&nbsp;30, 2011, financial institutions in Oakland County, where the main office is located, held approximately $37.4 billion in total deposits. A significant portion of the deposits held in financial institutions in our
+primary banking market are attributable to branch offices of out-of-state banks. We believe that banks headquartered outside of our primary service areas often lack the consistency of local leadership necessary to provide efficient service to
+individuals and small- to medium-sized business customers. Through our local ownership and management, we believe that Bank of Birmingham is uniquely situated to efficiently provide these customers with loan, deposit and other financial products
+tailored to fit their specific needs. We believe that the Bank can compete effectively with larger and more established banks through an active business development plan and by offering local access, competitive products and services and more
+responsive customer service. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">5 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Business strategy </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><U>Management philosophy</U>. Bank of Birmingham is a full-service commercial bank dedicated to providing superior customer service to the individuals and businesses in our community. Its primary focus is
+on local businesses, professionals and individuals to whom quality banking service is a critical, but lacking, element in their current banking relationships. We believe that this philosophy, encompassing the service aspects of community banking,
+distinguishes the bank from its competitors. To this end, the Bank has endeavored to hire the most qualified and experienced people in the market who share the Bank&#146;s commitment to customer service. We believe there is an opportunity for a
+locally-owned and locally-managed community bank to acquire a significant market share by offering an alternative to the less personal service offered by many larger banks. Accordingly, the Bank has implemented the following operating and growth
+strategies. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Operating strategy</U>. In order to achieve the level of prompt, responsive service that we believe is
+necessary to attract customers and to develop the bank&#146;s image as a local bank with a community focus, the Bank of Birmingham will employ the following operating strategies: </FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Experienced senior management</I>. The Bank&#146;s senior management possesses extensive experience in banking industry, as well as substantial
+business and banking contacts in our primary service areas. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Quality employees</I>. Bank of Birmingham will strive to hire highly trained and seasoned staff. </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Community-oriented board of directors</I>. All of the Bank&#146;s directors are either experienced bankers or local business and community leaders.
+Most have significant business ties to the Bank&#146;s primary service areas, enabling them to be sensitive and responsive to the needs of the community. Additionally, the board of directors represents a wide variety of business experience and
+community involvement. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Highly visible site</I>. The main office is highly visible and located in close proximity to major traffic arteries. The main office is located at
+33583 Woodward Avenue, Birmingham, Michigan in an area that provides easy access to potential banking customers traveling in the Birmingham area. We believe that this site gives the Bank a highly visible presence in a market that is dominated by
+branch offices of banks headquartered out of the area. We believe this enhances the Bank&#146;s image as a strong competitor. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Individual customer focus</I>. Bank of Birmingham focuses on providing individual service and attention to our target customers, which include local
+businesses, professionals and individuals. The Bank&#146;s products and services are delivered personally though one full-service offices and supported by effective technical and non-technical service delivery systems. Clients will enjoy the
+convenience of on-site visits by the Bank&#146;s business relationship managers and business consultation services. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Financial and information center.</I> Bank of Birmingham serves as a financial and information center for the community, and will assemble and
+sponsor professionals to conduct seminars and workshops on a variety of subjects of interest to assist members of our community in developing or enhancing their personal and professional effectiveness. </FONT></P></TD></TR></TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">6 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Growth strategies</U>. Because we believe that the growth and expansion of the
+Bank&#146;s operations is a significant factor in our success, Bank of Birmingham has implemented the following growth strategies: </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Capitalize on community orientation</I>. We capitalize on the Bank&#146;s position as an independent, locally-owned community bank to attract
+individuals, professionals and local business customers that may be underserved by larger banking institutions in our market area. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Emphasize local decision-making</I>. The Bank emphasizes local decision-making by experienced bankers. This helps the Bank attract local businesses
+and service-minded customers. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Attract experienced lending officers</I>. Bank of Birmingham has hired experienced, well-trained lending officers. </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Offer fee-generating products and services</I>. The Bank&#146;s range of services, pricing strategies, interest rates paid and charged and hours of
+operation are structured to attract its target customers and increase its market share. Bank of Birmingham strives to offer the small business person, professional, entrepreneur and consumer the best loan services available while charging
+competitively for these services and utilizing technology and strategic outsourcing to increase fee revenues. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Lending
+services </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Lending policy</U>. The Bank offers a full range of lending products, including commercial loans to small-to
+medium-sized businesses, professionals, and consumer loans to individuals. The Bank understands that it competes for these loans with competitors who are well established in its primary market area and have greater resources and lending limits. As a
+result, Bank of Birmingham offers more flexible pricing and terms to attract borrowers. We feel a quick response to credit requests provides the Bank a competitive advantage. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Bank&#146;s loan approval policies provide for various levels of officer lending authority. When the amount of total loans to a single borrower exceeds that individual officer&#146;s lending
+authority, an officer with a higher lending limit or the Bank&#146;s loan committee will determine whether to approve the loan request. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><U>Lending limits</U>. The Bank&#146;s lending activities are subject to a variety of lending limits. Differing limits apply based on the type of loan or the nature of the borrower, including the
+borrower&#146;s relationship to the Bank. In general, however, the Bank is able to loan any one borrower a maximum amount equal to either: </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">15% of the Bank&#146;s capital and surplus; or </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">upon a 2/3 vote of the Bank&#146;s board of directors, 25% of its capital and surplus. </FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Credit risks</U>. The principal economic risk associated with each category of loans that the Bank makes is the creditworthiness of
+the borrower. Borrower creditworthiness is affected by general economic conditions and the strength of the relevant business market segment. General economic factors affecting a borrower&#146;s ability to repay include inflation and employment
+rates, as well as other factors affecting a borrower&#146;s customers, suppliers and employees. The well-established financial institutions in our primary service areas are likely to make proportionately more loans to medium- to large-sized
+businesses than we will make. Many of the Bank&#146;s anticipated commercial loans will likely be made to small- to medium-sized businesses that may be less able to withstand competitive, economic and financial pressures than larger borrowers.
+</FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">7 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Real estate loans</U>. Bank of Birmingham offers commercial real estate loans,
+construction and development loans and residential real estate loans. The following is a description of each of the major categories of real estate loans that the Bank makes and the anticipated risks associated with each class of loan. </FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Commercial real estate</I>. Commercial real estate loan terms generally are limited to five years or less, although payments may be structured on a
+longer amortization basis. Interest rates may be fixed or adjustable. The Bank generally will require personal guarantees from the principal owners of the property supported by a review by Bank management of the principal owners&#146; personal
+financial statements. Risks associated with commercial real estate loans include fluctuations in the value of real estate, new job creation trends, tenant vacancy rates and the quality of the borrower&#146;s management. The Bank limits its risk by
+analyzing borrowers&#146; cash flow and collateral value on an ongoing basis. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Construction and development loans</I>. Bank of Birmingham considers making owner-occupied construction loans with a pre-approved take-out loan. The
+Bank also considers construction and development loans on a pre-sold basis. If the borrower has entered into an agreement to sell the property prior to beginning construction, then the loan is considered to be on a pre-sold basis. If the borrower
+has not entered into an agreement to sell the property prior to beginning construction, then the loan is considered to be on a speculative basis. Construction and development loans are generally made with a term of six to twelve months and interest
+is paid quarterly. The ratio of the loan principal to the value of the collateral as established by independent appraisal typically will not exceed industry standards. Speculative loans will be based on the borrower&#146;s financial strength and
+cash flow position. Loan proceeds will be disbursed based on the percentage of completion and only after the project has been inspected by an experienced construction lender or third-party inspector. Risks associated with construction loans include
+fluctuations in the value of real estate and new job creation trends. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Residential real estate</I>. The Bank&#146;s residential real estate loans will consist of residential second mortgage loans, residential
+construction loans and traditional mortgage lending for one-to-four family residences. The Bank expects that any long-term fixed rate mortgages will be underwritten for resale to the secondary market. It offers primarily adjustable rate mortgages.
+The majority of fixed rate loans will be sold in the secondary mortgage market. All loans will be made in accordance with our appraisal policy with the ratio of the loan principal to the value of collateral as established by independent appraisal
+not exceeding 80%, unless the borrower has private mortgage insurance. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Commercial loans</U>. Bank of
+Birmingham expects that loans for commercial purposes in various lines of businesses will be one of the larger components of the Bank&#146;s loan portfolio. The target commercial loan market is small- to medium-sized businesses and the business
+professional market. The terms of these loans vary by purpose and by type of underlying collateral. The commercial loans will primarily be underwritten on the basis of the borrower&#146;s ability to service the loan from income. The Bank typically
+makes equipment loans for a term of five years or less at fixed or variable rates, with the loan fully amortized over the term. Loans to support working capital will typically have terms not exceeding one year and will usually be secured by accounts
+receivable, inventory or personal guarantees of the principals of the business. For loans secured by accounts receivable or inventory, principal will typically be repaid as the assets securing the loan are converted into cash, and for loans secured
+with other types of collateral, principal will typically be due at maturity. The quality of the commercial borrower&#146;s management and its ability both to properly evaluate changes in the supply and demand characteristics affecting its markets
+for products and services and to effectively respond to such changes are significant factors in a commercial borrower&#146;s creditworthiness. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><U>Consumer loans</U>. Bank of Birmingham makes a variety of loans to individuals for personal, family and household purposes, including secured and unsecured installment and term loans, second mortgages,
+home equity loans and home equity lines of credit. The amortization of second mortgages will generally not exceed 15 years. Repayment of consumer loans depends upon the borrower&#146;s financial stability and is more likely to be adversely affected
+by divorce, job loss, illness and personal hardships than repayment of other loans. Because many consumer loans are secured by depreciable assets such as boats, cars and trailers, the loan will generally be amortized over the useful life of the
+asset. The loan officer will review the borrower&#146;s past credit history, past income level, debt history and, when applicable, cash flow and determine the impact of all these factors on the ability of the borrower to make future payments as
+agreed. We expect that the principal competitors for consumer loans will be the established banks and finance companies in the Bank&#146;s market. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">8 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Investments </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">In addition to loans, Bank of Birmingham makes other investments primarily in obligations of the United States or obligations guaranteed as to principal and interest by the United States and other taxable
+securities. No investment in any of those instruments will exceed any applicable limitation imposed by law or regulation. The asset-liability management committee will review the investment portfolio on an ongoing basis in order to ensure that the
+investments conform to the Bank&#146;s policy as set by its board of directors. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Asset and liability management </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The asset-liability management committee oversees the Bank&#146;s assets and liabilities and strives to provide a stable, optimized net
+interest margin, adequate liquidity and a profitable after-tax return on assets and return on equity. The committee conducts these management functions within the framework of written loan and investment policies that the Bank has adopted. The
+committee attempts to maintain a balanced position between rate sensitive assets and rate sensitive liabilities. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Deposit services
+</B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Bank of Birmingham has established a broad base of core deposits, including savings accounts, checking accounts, money
+market accounts, NOW accounts, a variety of certificates of deposit and individual retirement accounts. In addition, the Bank has implemented a marketing program in its primary service areas and will feature a broad product line and competitive
+rates and services. The primary sources of deposits will be residents of, and businesses and their employees located in, the Bank&#146;s primary service areas. Bank of Birmingham obtains these deposits through personal solicitation by its officers
+and directors, direct mail solicitations and advertisements published in the local media. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Other banking services </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Other banking services include cashier&#146;s checks, travelers&#146; checks, and direct deposit of payroll and Social Security checks,
+night depository, remote deposit capture, bank-by-mail, Internet banking, automated teller machine cards and debit cards. The Bank is associated with nationwide networks of automated teller machines that its customers can use throughout Michigan and
+the country. It also may offer expanded financial services, such as insurance, financial planning, investment and trust services; in each case, if offered, we would expect initially that the Bank would do so through strategic partners. The Bank does
+not currently exercise trust powers and may choose to do so in the future with prior regulatory approval. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Employees </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Bank&#146;s success depends, in part, on its ability to attract, retain and motivate highly qualified management and other personnel,
+for whom competition is intense. The Bank of Birmingham operates with thirty one full-time equivalent employees. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">9 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>SUPERVISION AND REGULATION </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>General </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The growth and earnings performance of the Corporation and the
+Bank can be affected not only by management decisions and general economic conditions, but also by the policies of various governmental regulatory authorities including, but not limited to, the Board of Governors of the Federal Reserve System (the
+&#147;Federal Reserve&#148;), the Federal Deposit Insurance Corporation (the &#147;FDIC&#148;), the Michigan Office of Financial and Insurance Regulation (the &#147;OFIR&#148;), the Internal Revenue Service and state taxing authorities. Financial
+institutions and their holding companies are extensively regulated under federal and state law. The effect of such statutes, regulations and policies can be significant, and cannot be predicted with a high degree of certainty. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Federal and state laws and regulations generally applicable to financial institutions, such as the Corporation and the Bank, regulate,
+among other things, the scope of business, investments, and reserves against deposits, capital levels relative to operations, the nature and amount of collateral for loans, the establishment of branches, mergers, consolidations and dividends. The
+system of supervision and regulation applicable to the Corporation and the Bank establishes a comprehensive framework for their respective operations and is intended primarily for the protection of the FDIC&#146;s deposit insurance funds and the
+depositors, rather than the shareholders, of financial institutions. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Corporation&#146;s common stock is registered with
+the Securities and Exchange Commission under the Securities Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;). Therefore, the Corporation is subject to the information, proxy solicitation, insider trading restrictions and other
+requirements of the Securities and Exchange Commission under the Exchange Act. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Corporation&#146;s common stock held by
+persons who are affiliates (generally officers, directors and principal stockholders) of the Corporation may not be resold without registration unless sold in accordance with certain resale restrictions. If the Corporation meets specified current
+public information requirements, each affiliate of the Corporation is able to sell in the public market, without registration, a limited number of shares in any three-month period. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The following references to material statutes and regulations affecting the Corporation and the Bank are brief summaries and do not
+purport to be complete, and are qualified in their entirety by reference to such statues and regulations. Any change in applicable laws or regulations may have a material effect on the business of the Corporation and the Bank. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>The Corporation </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>General</U>.</B> The Corporation, as the sole shareholder of the Bank, is a bank holding company. As a bank holding company, the
+Corporation is required to register with, and is subject to regulation by, the Federal Reserve under the Bank Holding Company Act, as amended (the &#147;BHCA&#148;). In accordance with the Federal Deposit Insurance Act, as amended, (the &#147;FDI
+Act&#148;) and Federal Reserve policy, the Corporation is expected to act as a source of financial strength to the Bank and to commit resources to support the Bank in circumstances where the Corporation might not do so absent such policy. Under the
+BHCA, the Corporation is subject to periodic examination by the Federal Reserve Bank of Chicago and is required to file periodic reports of its operations and such additional information as the Federal Reserve may require. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Investments and Activities</U>.</B> Under the BHCA, a bank holding company must obtain Federal Reserve approval before:
+(i)&nbsp;acquiring, directly or indirectly, ownership or control of any voting shares of another bank or bank holding company if, after such acquisition, it would own or control more than 5% of such shares (unless it already owns or controls the
+majority of such shares); (ii)&nbsp;acquiring all or substantially all of the assets of another bank or bank holding company; or (iii)&nbsp;merging or consolidating with another bank holding company. The Federal Reserve may allow a bank holding
+company to acquire banks located in any state of the United&nbsp;States without regard to geographic restrictions or reciprocity requirements imposed by state law, but subject to certain conditions, including limitations on the aggregate amount of
+deposits that may be held by the acquiring holding company and all of its insured depository institution affiliates. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">10 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The BHCA limits the activities of a bank holding company that has not qualified as a
+financial holding company to banking and the management of banking organizations, and to certain non-banking activities that are deemed to be so closely related to banking or managing or controlling banks as to be a proper incident to those
+activities. Such non-banking activities include, among other things: operating a mortgage company, finance company, credit card company or factoring company; performing certain data processing operations; providing certain investment and financial
+advice; acting as an insurance agent for certain types of credit-related insurance; leasing property on a full-payout, non-operating basis; and providing securities brokerage services for customers. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In November 1999, the Gramm-Leach-Bliley Act (the &#147;GLB Act&#148;) was signed into law. Under the GLB Act, a bank holding company
+whose subsidiary depository institutions all are well-capitalized and well-managed and who have Community Reinvestment Act ratings of at least &#147;satisfactory&#148; may elect to become a financial holding company. A financial holding company is
+permitted to engage in a broader range of activities than are permitted to bank holding companies. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Those expanded activities
+include any activity which the Federal Reserve (in certain instances in consultation with the Department of the Treasury) determines, by order or regulation, to be financial in nature or incidental to such financial activity, or to be complementary
+to a financial activity and not to pose a substantial risk to the safety or soundness of depository institutions or the financial system generally. Such expanded activities include, among others: insuring, guaranteeing, or indemnifying against loss,
+harm, damage, illness, disability or death, or issuing annuities, and acting as principal, agent, or broker for such purposes; providing financial, investment, or economic advisory services, including advising a mutual fund; and underwriting,
+dealing in, or making a market in securities. The Corporation has not elected to be treated as a financial holding company. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Federal legislation also prohibits the acquisition of control of a bank holding company, such as the Corporation, by a person or a group
+of persons acting in concert, without prior notice to the Federal Reserve. Control is defined in certain cases as the acquisition of 10% of the outstanding shares of a bank holding company. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Capital Requirements</U>.</B> The Federal Reserve uses capital adequacy guidelines in its examination and regulation of bank
+holding companies. If capital falls below minimum guideline levels, a bank holding company may, among other things, be denied approval to acquire or establish additional banks or non-bank businesses. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Federal Reserve capital guidelines establish the following minimum regulatory capital requirements for bank holding companies: a
+risk-based requirement expressed as a percentage of total risk-weighted assets, and a leverage requirement expressed as a percentage of total assets. The risk-based requirement consists of a minimum ratio of total capital to total risk-weighted
+assets of 8%, of which at least 4% must be Tier&nbsp;I capital (which consists principally of shareholders&#146; equity). The leverage requirement consists of a minimum ratio of Tier&nbsp;I capital to total assets of 3% for the most highly rated
+bank holding companies, with minimum requirements of 4% to 5% for all others. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The risk-based and leverage standards presently
+used by the Federal Reserve are minimum requirements, and higher capital levels will be required if warranted by the particular circumstances or risk profiles of individual banking organizations. Further, any banking organization experiencing or
+anticipating significant growth would be expected to maintain capital ratios, including tangible capital positions (i.e., Tier I capital less all intangible assets), well above the minimum levels. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to its Small Bank Holding Company Policy, the Federal Reserve exempts certain bank holding companies from the capital
+requirements discussed above. The exemption applies only to bank holding companies with less than $500 million in consolidated assets that: (i)&nbsp;are not engaged in significant nonbanking activities either directly or through a nonbank
+subsidiary; (ii)&nbsp;do not conduct significant off-balance sheet activities (including securitization and asset management or administration) either directly or through a nonbank subsidiary; and (iii)&nbsp;do not have a material amount of debt or
+equity securities outstanding (other than trust preferred securities) that are registered with the SEC. The Corporation qualifies for this exemption and, thus, is required to meet applicable capital standards on a bank-only basis. However, bank
+holding companies with assets of less than $500 million are subject to various restrictions on debt including requirements that debt is retired within 25 years of being incurred, that the debt to equity ratio is .30 to 1 within 12 years of the
+incurrence of debt and that dividends generally cannot be paid if the debt to equity ratio exceeds 1 to 1. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">11 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Dividends</B><B><I>.</I></B> The Corporation is organized under the Michigan Business
+Corporation Act which provides that distributions may be made only if, after giving the distribution effect, a corporation is able to pay its debts as they become due in the usual course of business and the corporation&#146;s total assets equal or
+exceed the sum of its total liabilities plus the amount that would be needed to satisfy the preferential rights of any shareholder whose preferential rights are superior to those receiving the distribution if the corporation were to be dissolved at
+the time of the distribution. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Additionally, the Federal Reserve has issued a policy statement with regard to the payment of
+cash dividends by bank holding companies. The policy statement provides that a bank holding company should not pay cash dividends which exceed its net income or which can only be funded in ways that weaken the bank holding company&#146;s financial
+health, such as by borrowing. The Federal Reserve also possesses enforcement powers over bank holding companies and their non-bank subsidiaries to prevent or remedy actions that represent unsafe or unsound practices or violations of applicable
+statutes and regulations. Among these powers is the ability to proscribe the payment of dividends by banks and bank holding companies. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">As a result of the Corporation&#146;s issuance of senior non-cumulative perpetual preferred shares to the Secretary of the Treasury (the &#147;Treasury&#148;) pursuant to the Small Business Lending Fund
+(&#147;SBLF&#148;) (as described below), the Corporation is restricted in the payment of dividends on Common Stock if it fails to maintain certain capital levels. In addition, as long as the preferred shares are outstanding, dividend payments are
+prohibited until all accrued and unpaid dividends are paid on such preferred shares, subject to certain limited exceptions. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Recent Developments</U>. </B>The Emergency Economic Stabilization Act of 2008 (&#147;EESA&#148;) was enacted on October&nbsp;3,
+2008. Pursuant to its authority under EESA, the Treasury created the Troubled Asset Relief Program Capital Purchase Program (the &#147;TARP CPP&#148;) under which the Treasury was authorized to invest in non-voting, senior preferred stock of U.S.
+banks and savings associations or their holding companies. The Corporation elected to participate in the TARP CPP and on April&nbsp;24, 2009 completed the sale to the Treasury of $1,635,000 of Fixed Rate Cumulative Perpetual Preferred Stock, Series
+A (the &#147;Series A Preferred Shares&#148;) and a warrant to purchase Fixed Rate Cumulative Perpetual Preferred Stock, Series B (the &#147;Series B Preferred Shares&#148;). The Corporation issued and sold 1,635 Series A Preferred Shares, with a
+$1,000 per share liquidation preference, and a warrant to purchase 82 shares of the Series B Preferred Shares, with a $1,000 per share liquidation preference, at an exercise price of $0.01 per share (the &#147;Warrant&#148;). The Warrant was
+immediately exercised by the Treasury. On December&nbsp;18, 2009, the Corporation completed the sale of 1,744 shares of Fixed Rate Cumulative Perpetual Preferred Stock Series C (the &#147;Series C Preferred Shares&#148;) in exchange for $1,744,000
+from the Treasury under the TARP CPP. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">On September&nbsp;27, 2010, the Small Business Jobs Act of 2010 was enacted into law.
+The law authorized the creation of the SBLF, a $30 billion capital investment program designed for community banks with less than $10 billion in assets to increase credit availability for small businesses. The Corporation elected to participate in
+the SBLF program and on July&nbsp;28, 2011 issued $4,621,000 of Senior Non-cumulative Perpetual Preferred Stock, Series D (the Series D Preferred Stock&#148;) to the Treasury pursuant to the Securities Purchase Agreement dated July&nbsp;28, 2011
+(the &#147;Securities Purchase Agreement&#148;). A portion of the proceeds from the sale of the Series D stock were used to redeem all of the outstanding Series A, B and C Preferred Shares and Warrants associated with the TARP CPP. The remaining
+proceeds were used to improve the capital position of the Bank and to increase credit availability for small business. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The
+Series D Preferred Stock pays non-cumulative dividends each January&nbsp;1,&nbsp;April&nbsp;1,&nbsp;July&nbsp;1 and October&nbsp;1, beginning October&nbsp;1, 2011. The dividend rate, which is calculated on the aggregate Liquidation Amount, is based
+upon the current level of &#147;Qualified Small Business Lending&#148;, or &#147;QSBL&#148; (as defined in the Securities Purchase Agreement) by the Bank. The dividend rate for future dividend periods will be set based upon the &#147;Percentage
+Change in Qualified Lending&#148; (as defined in the Securities Purchase Agreement) between each dividend period and the &#147;Baseline&#148; QSBL level. Such dividend rate may vary from 1%&nbsp;per annum to 5%&nbsp;per annum for the second through
+tenth dividend periods, from 1%&nbsp;per annum to 7%&nbsp;per annum for the eleventh dividend period through year four and one-half. If the Series D Preferred Stock remains outstanding for more than four and one-half years, the dividend rate will be
+fixed at 9%. Prior to that time, in general, the dividend rate decreases as the level of the Bank&#146;s QSBL increases. Such dividends are not cumulative, but the Company may only declare and pay dividends on its common stock (or any other equity
+securities junior to the Series D Preferred Stock) if it has declared and paid dividends for the current dividend period on the Series D Preferred Stock, and will be subject to other restrictions on its ability to repurchase or redeem other
+securities. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">12 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In June 2010, the banking regulators issued final guidance to ensure that incentive
+compensation arrangements at financial institutions take into account risk and are consistent with safe and sound practices. The guidance does not set forth any formulas or pay caps, but sets forth certain principles which companies would be
+required to follow with respect to certain employees and groups of employees that may expose the institution to material amounts of risk. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (&#147;Dodd-Frank Act&#148;) was signed into law by President Obama on July&nbsp;21, 2010. The Dodd-Frank Act represents a
+comprehensive overhaul of the financial services industry within the United States and deals with a wide range of regulatory issues including, but not limited to: mandating new capital requirements that would require certain bank holding companies
+to be subject to the same capital requirements as their depository institutions; eliminating (with certain exceptions) trust preferred securities; codifying the Federal Reserve&#146;s Source of Strength doctrine; creating a Bureau of Consumer
+Financial Protection (the &#147;CFPB&#148;) which will have the power to exercise broad regulatory, supervisory and enforcement authority concerning both existing and new consumer financial protection laws; permanently increasing federal deposit
+insurance protection to $250,000 per depositor; extending the unlimited coverage for qualifying non-interest bearing transactional accounts until December&nbsp;31, 2012; increasing the ratio of reserves to deposits minimum to 1.35 percent; assessing
+premiums for deposit insurance coverage on average consolidated total assets less average tangible equity, rather than on a deposit base; authorizing the assessment of examination fees; establishing new standards and restrictions on the origination
+of mortgages; permitting financial institutions to pay interest on business checking accounts; limiting interchange fees payable on debit card transactions; and implementing requirements on boards, corporate governance and executive compensation for
+public companies. The act is categorized into 16 titles and requires regulators to create new and significant rules and regulations, conduct studies, and issue periodic reports. The rulemaking phase began shortly after enactment. Implementation is
+occurring in stages, and widespread and complex changes are expected. The Dodd-Frank Act contains more than 300 provisions that expressly indicate that rulemaking is either required or permitted. At this time, it is difficult to predict the extent
+to which the Dodd-Frank Act or the resulting rules and regulations will impact the Corporation&#146;s and the Bank&#146;s business. Compliance with these new laws and regulations will likely result in additional costs, which could be significant and
+could adversely impact the Corporation&#146;s and the Bank&#146;s results of operations, financial condition or liquidity. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In
+July 2011, the CFPB took over many of the consumer financial functions that had been assigned to the federal banking agencies and other designated agencies. The CFPB has broad rulemaking authority and there is considerable uncertainty as to how the
+CFPB actually will exercise its regulatory, supervisory, examination and enforcement authority. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The complete impact of the
+Dodd-Frank Act is unknown since many of the substantive requirements will be contained in the many rules and regulations to be implemented. However, the Dodd-Frank Act will have significant and immediate effects on banks and bank holding companies
+in many areas. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>The Bank </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B><U>General</U>.</B> The Bank is a Michigan state-chartered bank, the deposit accounts of which are insured by the FDIC. As a state-chartered non-member bank, the Bank is subject to the examination,
+supervision, reporting and enforcement requirements of the OFIR, as the chartering authority for state banks, and the FDIC, as administrator of the deposit insurance fund, and to the statutes and regulations administered by the OFIR and the FDIC
+governing such matters as capital standards, mergers, establishment of branch offices, subsidiary investments and activities and general investment authority. The Bank is required to file reports with the OFIR and the FDIC concerning its activities
+and financial condition and is required to obtain regulatory approvals prior to entering into certain transactions, including mergers with, or acquisitions of, other financial institutions. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Business Activities</U>. </B>The Bank&#146;s activities are governed primarily by Michigan&#146;s Banking Code of 1999 (the
+&#147;Banking Code&#148;) and the FDI Act. The FDI Act, among other things, requires that federal banking regulators intervene promptly when a depository institution experiences financial difficulties; mandates the establishment of a risk-based
+deposit insurance assessment system; and requires imposition of numerous additional safety and soundness operational standards and restrictions. The GLB Act, which amended the FDI Act, among other things, loosens the restrictions on affiliations
+between entities engaged in certain financial, securities, and insurance activities; imposes restrictions on the disclosure of consumers&#146; nonpublic personal information; and institutes certain reforms of the Federal Home Loan Bank System. The
+federal laws contain provisions affecting numerous aspects of the operation and regulation of federally insured banks and empower the FDIC, among other agencies, to promulgate regulations implementing their provisions. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">13 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Branching</U>.</B> Michigan chartered banks, such as the Bank, have the authority
+under Michigan law to establish branches throughout Michigan and in any state, the District of Columbia, any U.S. territory or protectorate, and foreign countries, subject to the receipt of all required regulatory approvals. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994 allows the FDIC and other federal bank regulators to approve
+applications for mergers of banks across state lines without regard to whether such activity is contrary to state law. However, each state could determine if it would permit out of state banks to acquire only branches of a bank in that state or to
+establish <I>de novo</I> branches. As a result of the Dodd-Frank Act, interstate branching authority has been expanded. A state or national bank may open a <I>de novo </I>branch in another state if the law of the state where the branch is to be
+located would permit a state bank chartered by that state to open a branch. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Loans to One Borrower</U>.</B> Under
+Michigan law, a bank&#146;s total loans and extensions of credit and leases to one person is limited to 15% of the bank&#146;s capital and surplus, subject to several exceptions. This limit may be increased to 25% of the bank&#146;s capital and
+surplus upon approval by a 2/3 vote of its board of directors. Certain loans, including loans secured by bonds or other instruments of the United States and fully guaranteed by the United States as to principal and interest, are not subject to the
+limit just referenced. In addition, certain loans, including loans arising from the discount of nonnegotiable consumer paper which carries a full recourse endorsement or unconditional guaranty of the person transferring the paper, are subject to a
+higher limit of 30% of capital and surplus. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Enforcement</U>.</B> The OFIR and FDIC each have enforcement authority with
+respect to the Bank. The Commissioner of the OFIR has the authority to issue cease and desist orders to address unsafe and unsound practices and actual or imminent violations of law and to remove from office bank directors and officers who engage in
+unsafe and unsound banking practices and who violate applicable laws, orders, or rules. The Commissioner of the OFIR also has authority in certain cases to take steps for the appointment of a receiver or conservator of a bank. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The FDIC has similar broad authority, including authority to bring enforcement actions against all &#147;institution-affiliated
+parties&#148; (including shareholders, directors, officers, employees, attorneys, consultants, appraisers and accountants) who knowingly or recklessly participate in any violation of law or regulation or any breach of fiduciary duty, or other unsafe
+or unsound practice likely to cause financial loss to, or otherwise have an adverse effect on, an insured institution. Civil penalties under federal law cover a wide range of violations and actions. Criminal penalties for most financial institution
+crimes include monetary fines and imprisonment. In addition, the FDIC has substantial discretion to impose enforcement action on banks that fail to comply with its regulatory requirements, particularly with respect to capital levels. Possible
+enforcement actions range from requiring the preparation of a capital plan or imposition of a capital directive, to receivership, conservatorship, or the termination of deposit insurance. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Assessments and Fees</U>.</B> The Bank pays a supervisory fee to the OFIR of not less than $5,000 and not more than 25 cents for
+each $1,000 of total assets. This fee is invoiced prior to July&nbsp;1 each year and is due no later than August&nbsp;15. The OFIR imposes additional fees, in addition to those charged for normal supervision, for applications, special evaluations
+and analyses, and examinations. As described below under &#147;Deposit Insurance, &#147; the Bank also pays assessments to the FDIC for deposit insurance. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B><U>Regulatory Capital Requirements</U>.</B> The Bank is required to comply with capital adequacy standards set by the FDIC. The FDIC may establish higher minimum requirements if, for example, a bank
+has previously received special attention or has a high susceptibility to interest rate risk. Banks with capital ratios below the required minimum are subject to certain administrative actions. More than one capital adequacy standard applies, and
+all applicable standards must be satisfied for an institution to be considered to be in compliance. There are three basic measures of capital adequacy: a total risk-based capital ratio, a Tier 1 risk-based capital ratio; and a leverage ratio.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The risk-based framework was adopted to assist in the assessment of capital adequacy of financial institutions by,
+(i)&nbsp;making regulatory capital requirements more sensitive to differences in risk profiles among organizations; (ii)&nbsp;introducing off-balance-sheet items into the assessment of capital adequacy; (iii)&nbsp;reducing the disincentive to
+holding liquid, low-risk assets; and (iv)&nbsp;achieving greater consistency in evaluation of capital adequacy of major banking organizations throughout the world. The risk-based guidelines include both a definition of capital and a framework for
+calculating risk-weighted assets by assigning assets and off-balance sheet items to different risk categories. An institution&#146;s risk-based capital ratios are calculated by dividing its qualifying capital by its risk-weighted assets. </FONT></P>
+
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">14 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Qualifying capital consists of two types of capital components: &#147;core capital
+elements&#148; (or Tier 1 capital) and &#147;supplementary capital elements&#148; (or Tier 2 capital). Tier 1 capital is generally defined as the sum of core capital elements less goodwill and certain other intangible assets. Core capital elements
+consist of (i)&nbsp;common shareholders&#146; equity, (ii)&nbsp;non-cumulative perpetual preferred stock (subject to certain limitations), and (iii)&nbsp;minority interests in the equity capital accounts of consolidated subsidiaries. Tier 2 capital
+consists of (i)&nbsp;allowance for loan and lease losses (subject to certain limitations); (ii)&nbsp;perpetual preferred stock which does not qualify as Tier 1 capital (subject to certain conditions); (iii)&nbsp;hybrid capital instruments and
+mandatory convertible debt securities; (iv)&nbsp;term subordinated debt and intermediate term preferred stock (subject to limitations); and (v)&nbsp;net unrealized holding gains on equity securities. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Under current capital adequacy standards, the Bank must meet a minimum ratio of qualifying total capital to risk-weighted assets of 8%.
+Of that ratio, at least half, or 4%, must be in the form of Tier 1 capital. The Bank must also meet a leverage capital requirement. In general, the minimum leverage capital requirement is not less than 3% Tier 1 capital to total assets if the bank
+has the highest regulatory rating and is not anticipating or experiencing any significant growth. All other banks should have a minimum leverage capital ratio of not less than 4%. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Dodd-Frank Act requires the FDIC to establish minimum leverage and risk-based capital requirements to apply to insured depository
+institutions. The Dodd-Frank Act additionally requires capital requirements to be countercyclical so that the required amount of capital increases in times of economic expansion and decreases in times of economic contraction, consistent with safety
+and soundness. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Prompt Corrective Regulatory Action</U>.</B> The FDIC is required to take certain supervisory actions
+against undercapitalized institutions, the severity of which depends upon the institution&#146;s degree of undercapitalization. Generally, a bank is considered &#147;well capitalized&#148; if its risk-based capital ratio is at least 10%, its Tier 1
+risk-based capital ratio is at least 6%, its leverage ratio is at least 5%, and the bank is not subject to any written agreement, order, or directive by the FDIC. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">A bank generally is considered &#147;adequately capitalized&#148; if it does not meet each of the standards for well-capitalized institutions, and its risk-based capital ratio is at least 8%, its
+Tier&nbsp;1 risk-based capital ratio is at least 4%, and its leverage ratio is at least 4% (or 3% if the institution receives the highest rating under the Uniform Financial Institution Rating System). A bank that has a risk-based capital ratio less
+than 8%, or a Tier 1 risk-based capital ratio less than 4%, or a leverage ratio less than 4% (3% or less for institutions with the highest rating under the Uniform Financial Institution Rating System) is considered to be
+&#147;undercapitalized.&#148; A bank that has a risk-based capital ratio less than 6%, or a Tier 1 capital ratio less than 3%, or a leverage ratio less than 3% is considered to be &#147;significantly undercapitalized,&#148; and a bank is considered
+&#147;critically undercapitalized&#148; if its ratio of tangible equity to total assets is equal to or less than 2%. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Subject
+to a narrow exception, the FDIC is required to appoint a receiver or conservator for a bank that is &#147;critically undercapitalized.&#148; In addition, a capital restoration plan must be filed with the FDIC within 45&nbsp;days of the date a bank
+receives notice that it is &#147;undercapitalized,&#148; &#147;significantly undercapitalized&#148; or &#147;critically undercapitalized.&#148; Compliance with the plan must be guaranteed by each company that controls a bank that submits such a
+plan, up to an amount equal to 5% of the bank&#146;s assets at the time it was notified regarding its deficient capital status. In addition, numerous mandatory supervisory actions become immediately applicable to an undercapitalized institution,
+including, but not limited to, increased monitoring by regulators and restrictions on growth, capital distributions, and expansion. The FDIC could also take any one of a number of discretionary supervisory actions, including the issuance of a
+capital directive and the replacement of senior executive officers and directors. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Deposit Insurance</U>.</B> The
+Bank&#146;s deposits are insured up to applicable limitations by a deposit insurance fund administered by the FDIC. The Dodd-Frank Act permanently raised the basic limit on federal deposit insurance coverage from $100,000 to $250,000 per depositor.
+In addition, in November 2010, pursuant to the Dodd-Frank Act, the FDIC issued a final rule to provide temporary unlimited deposit insurance coverage for non-interest bearing accounts from December&nbsp;31, 2010 through December&nbsp;31, 2012, at no
+additional surcharge. The provision extended the FDIC&#146;s Temporary Liquidity Guarantee Program that provided full FDIC deposit insurance coverage for non-interest bearing deposit transaction accounts regardless of dollar amount for an additional
+assessment fee. This latter program expired on December&nbsp;31, 2010. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">15 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Under the FDIC&#146;s risk-based assessment regulations, there are four risk categories and
+each insured institution is assigned to a risk category based on capital levels and supervisory ratings. Well-capitalized institutions with CAMELS composite ratings of 1 or 2 are placed in Risk Category I while other institutions are placed in Risk
+Categories II, III or IV depending on their capital levels and CAMELS composite ratings. The assessment rates may be changed by the FDIC as necessary to maintain the insurance fund at the reserve ratio designated by the FDIC. A bank&#146;s initial
+assessment rate is based upon the risk category to which it is assigned. Adjustments may be made to a bank&#146;s initial assessment rate based certain factors including levels of long-term unsecured debt, levels of secured liabilities above a
+threshold amount, and, for certain institutions, brokered deposit levels. Effective through March&nbsp;31, 2011, initial assessment rates ranged from 12 to 45 basis points of assessable deposits. As required by the Dodd-Frank Act, in February 2011,
+the FDIC adopted a final rule that redefines its deposit insurance premium assessment base to be an insured depository institution&#146;s average consolidated total assets minus average tangible equity capital, rather than deposits. In addition, the
+FDIC has revised its deposit insurance rate schedules as a consequence of the changes to the assessment base. The proposed rate schedule and other revisions became effective on April&nbsp;1, 2011. Initial base assessment rates now range between 5
+and 35 basis points of the new assessment base. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Due to a decrease in the reserve ratio of the deposit insurance fund, in
+October 2008, the FDIC established a restoration plan to restore the reserve ratio to at least 1.15%. However, the Dodd-Frank Act raised the minimum reserve ratio to 1.35% and removed the 1.5% maximum fund ratio, instead leaving it to the discretion
+of the FDIC. The Dodd-Frank Act also requires that the reserve ratio reach 1.35% by September&nbsp;30, 2020. Effective January&nbsp;1, 2011, the FDIC set the long term reserve ratio at 2%. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">On May&nbsp;22, 2009, the FDIC imposed a special assessment of five basis points on each FDIC-insured depository institution&#146;s
+assets, minus its Tier 1 capital, as of June&nbsp;30, 2009. The special assessment was collected on September&nbsp;30, 2009, and the Bank paid an additional assessment of $37,853. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">On November&nbsp;12, 2009, the FDIC adopted a final rule that required insured institutions to prepay on December&nbsp;31, 2009,
+estimated quarterly risk-based assessments for the fourth quarter of 2009 and for all of 2010, 2011, and 2012. For purposes of calculating the prepayment amount, the institution&#146;s third quarter 2009 assessment base was increased quarterly at a
+five percent annual growth rate through the end of 2012. On September&nbsp;29, 2009, the FDIC also increased annual assessment rates uniformly by three basis points beginning in 2011. On December&nbsp;31, 2009, the Bank prepaid estimated assessments
+of $632,342. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Payment of Dividends by the Bank</U></B>. There are state and federal requirements limiting the amount of
+dividends which the Bank may pay. Generally, a bank&#146;s payment of cash dividends must be consistent with its capital needs, asset quality, and overall financial condition. Additionally, OFIR and the FDIC have the authority to prohibit the Bank
+from engaging in any business practice (including the payment of dividends) which they consider to be unsafe or unsound. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Under Michigan law, the payment of dividends is subject to several additional restrictions. The Bank cannot declare or pay a cash
+dividend or dividend in kind unless the Bank will have a surplus amounting to not less than 20% of its capital after payment of the dividend. The Bank will be required to transfer 10% of net income to surplus until its surplus is equal to its
+capital before the declaration of any cash dividend or dividend in kind. In addition, the Bank may pay dividends only out of net income then on hand, after deducting its losses and bad debts. These limitations can affect the Bank&#146;s ability to
+pay dividends. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Loans to Directors, Executive Officers, and Principal Shareholders</U>.</B> Under FDIC regulations, the
+Bank&#146;s authority to extend credit to executive officers, directors, and principal shareholders is subject to substantially the same restrictions set forth in Federal Reserve Regulation&nbsp;O. Among other things, Regulation O (i)&nbsp;requires
+that any such loans be made on terms substantially similar to those offered to nonaffiliated individuals, (ii)&nbsp;places limits on the amount of loans the Bank may make to such persons based, in part, on the Bank&#146;s capital position, and
+(iii)&nbsp;requires that certain approval procedures be followed in connection with such loans. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Certain Transactions
+with Related Parties</U>.</B> Under Michigan law, the Bank may purchase securities or other property from a director, or from an entity of which the director is an officer, manager, director, owner, employee, or agent, only if such purchase
+(i)&nbsp;is made in the ordinary course of business, (ii)&nbsp;is on terms not less favorable to the Bank than terms offered by others, and (iii)&nbsp;the purchase is authorized by a majority of the board of directors not interested in the sale. The
+Bank may also sell securities or other property to its directors, subject to the same restrictions (except in the case of a sale by the Bank, the terms may not be more favorable to the director than those offered to others). </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">16 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In addition, the Bank is subject to certain restrictions imposed by federal law on
+extensions of credit to the Corporation and its non-bank subsidiaries, on investments in the stock or other securities of the Corporation and its non-bank subsidiaries, and on the acceptance of stock or other securities of the Corporation or its
+non-bank subsidiaries as collateral for loans. Various transactions, including contracts, between the Bank and the Corporation or its non-bank subsidiaries must be on substantially the same terms as would be available to unrelated parties.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Standards for Safety and Soundness</U>.</B> The FDIC has established safety and soundness standards applicable to the
+Bank regarding such matters as internal controls, loan documentation, credit underwriting, interest-rate risk exposure, asset growth, compensation and other benefits, and asset quality and earnings. If the Bank were to fail to meet these standards,
+the FDIC could require it to submit a written compliance plan describing the steps the Bank will take to correct the situation and the time within which such steps will be taken. The FDIC has authority to issue orders to secure adherence to the
+safety and soundness standards. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Reserve Requirement</U>.</B> Under a regulation promulgated by the Federal Reserve,
+depository institutions, including the Bank, are required to maintain cash reserves against a stated percentage of their transaction accounts. Effective October&nbsp;9, 2008, the Federal Reserve Banks are now authorized to pay interest on such
+reserves. The current reserve requirements are as follows: </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="1%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">for transaction accounts totaling $11.5 million or less, a reserve of 0%; and </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="1%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">for transaction accounts in excess of $11.5 million up to and including $71.0 million, a reserve of 3%; and for transaction accounts totaling in excess
+of $71.0 million, a reserve requirement of $1.785 million plus 10% of that portion of the total transaction accounts greater than $71.0 million. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The dollar amounts and percentages reported here are all subject to adjustment by the Federal Reserve. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;1A. Risk Factors. </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">This item is not required for smaller
+reporting companies. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;1B. Unresolved Staff Comments. </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Not applicable. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;2. Properties. </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Bank operates its main office located at 33583 Woodward Avenue, Birmingham, Michigan 48009, which is in the southeast corner of our
+primary service area. It has leased an 8,300 square foot facility for the main office. The building is located on the southwest corner of Woodward Avenue and Chapin Street. Woodward Avenue was the first official state highway in Michigan and is a
+heavily traveled, eight lane boulevard style roadway. The main office is located on the west side of the street, facing east. The main lobby may be accessed from the street or the rear of the building through the parking lot. This facility opened in
+August 2006. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The aggregate commitments under the lease is set forth in the notes to the audited financial statements included
+in this Form 10-K. At this time, the Bank does not intend to own any of the properties from which it will conduct banking operations. Management believes that its facilities are adequate to meet the needs of the Corporation and Bank and that the
+properties are adequately covered by insurance. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;3. Legal Proceedings. </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">There are no material pending legal proceedings to which the Corporation or the Bank is a party or to which any of its properties are
+subject; nor are there material proceedings known to the Corporation, in which any director, officer or affiliate or any principal stockholder is a party or has an interest adverse to the Corporation or the Bank. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">17 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;4. Reserved. </B></FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">18 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>PART II </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;5. Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The information shown under the caption &#147;Stock Information&#148; on page A-46 of the Shareholder Report filed as Exhibit 13 to this
+Form 10-K is incorporated herein by reference. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Dividends </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Because, as a holding company, the Corporation conducts no material activities other than holding the common stock of the Bank, its ability to pay dividends depends on the receipt of dividends from the
+Bank. Additionally, the Corporation and the Bank are subject to significant regulatory restrictions on the payment of cash dividends. In light of these restrictions and the need to retain and build capital, neither the Corporation nor the Bank plans
+to pay dividends until the Bank becomes profitable and recovers any losses incurred during its initial operations. The payment of future dividends and the dividend policies of the Corporation and the Bank will depend on the earnings, capital
+requirements and financial condition of the Corporation and the Bank, as well as other factors that its respective boards of directors consider relevant. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The performance graph required by Item&nbsp;201(e) of Regulation S-K is not applicable to smaller reporting companies. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>Recent Sales of Unregistered Securities </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">None. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;6. Selected Financial Data </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The information under the caption &#147;SELECTED FINANCIAL INFORMATION&#148; of the Corporation&#146;s 2011 Shareholder Report is incorporated herein by reference from Exhibit 13. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations. </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The information presented under the caption &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of
+Operations&#148; on pages A-29 to A-46 of the Shareholder Report filed as Exhibit 13 to this Form 10-K is incorporated herein by reference. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;7A. Quantitative and Qualitative Disclosures about Market Risk </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The information required by the item number is not applicable to smaller reporting companies. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;8. Financial Statements and Supplemental Data. </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The information presented under the captions &#147;Consolidated Balance Sheets,&#148; &#147;Consolidated Statements of Operations,&#148; &#147;Consolidated Statements of Changes in Shareholders&#146;
+Equity (Deficit),&#148; &#147;Consolidated Statements of Cash Flows,&#148; and &#147;Notes to Consolidated Financial Statements,&#148; on pages A-1 through A-28 of the Shareholder Report filed as Exhibit 13 to this Form 10-K, as well as the Report
+of Independent Registered Public Accounting Firm of Plante&nbsp;&amp; Moran, PLLC, dated March&nbsp;30, 2012, included in the Shareholder Report, are incorporated herein by reference. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;9.&nbsp;Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">None. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">19 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;9A. Controls and Procedures. </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Disclosure Controls and Procedures</U> - As of the end of the period covered by this Annual Report on Form 10-K for the year ended
+December&nbsp;31, 2011, the Corporation carried out an evaluation, under the supervision and with the participation of its management, including its chief executive officer and chief financial officer, of the effectiveness of the design and
+operation of its &#147;disclosure controls and procedures,&#148; as such term is defined under Exchange Act Rule 13a-15(e). </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Based on this evaluation, the Corporation&#146;s chief executive officer and chief financial officer concluded that, as of the end of the
+fiscal quarter covered by this report, such disclosure controls and procedures were effective in ensuring that information required to be disclosed by us in the reports the Corporation files or submit under the Exchange Act is: (a)&nbsp;recorded,
+processed, summarized and reported within the time periods specified in the rules and forms of the Securities and Exchange Commission, and (b)&nbsp;accumulated and communicated to management, including its chief executive officer and chief financial
+officer, as appropriate to allow timely decisions regarding required disclosure. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In designing and evaluating the disclosure
+controls and procedures, management recognized that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives and in reaching a reasonable level of
+assurance management of the Corporation necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><U>Management&#146;s Annual Report on Internal Control over Financial Reporting</U> - The management of Birmingham Bloomfield Bancshares, Inc. is responsible for establishing and maintaining adequate
+internal control over financial reporting. Birmingham Bloomfield Bancshares, Inc.&#146;s internal control over financial reporting is a process designed under the supervision of the Company&#146;s Chief Executive Officer and Chief Financial Officer
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of the Company&#146;s financial statements for external reporting purposes in accordance with United States generally accepted accounting
+principles. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Birmingham Bloomfield Bancshares, Inc.&#146;s management assessed the effectiveness of the Company&#146;s
+internal control over financial reporting as of December&nbsp;31, 2011 based on criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in &#147;Internal Control-Integrated Framework.&#148; Based on that
+assessment, management determined that, as of December&nbsp;31, 2011, the Company&#146;s internal control over financial reporting is effective, based on those criteria. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><U>Changes in Internal Controls</U> - There were no changes in the Corporation&#146;s internal controls over financial reporting during the quarter ended December&nbsp;31, 2011 that materially affected,
+or were reasonably likely to materially affect, its internal controls over financial reporting. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Corporation intends to
+continually review and evaluate the design and effectiveness of its disclosure controls and procedures and to improve its controls and procedures over time and to correct any deficiencies that it may discover in the future. The goal is to ensure
+that senior management has timely access to all material non-financial information concerning the Corporation&#146;s business. While the Corporation believes the present design of its disclosure controls and procedures is effective to achieve its
+goal, future events affecting its business may cause the Corporation to modify its disclosure controls and procedures. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;9B. Other
+Information </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Not applicable. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">20 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>PART III </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">In accordance with applicable rules and regulations of the Securities and Exchange Commission, certain information required by this Part III is omitted from this report in that the Company will file a
+definitive proxy statement pursuant to Regulation 14A (the &#147;Proxy Statement&#148;) not later than 120 days after the end of the fiscal year covered by this report and certain information included therein is incorporated herein by reference.
+Only those sections of the proxy statement that specifically address the items set forth herein are incorporated by reference. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;10. Directors, Executive Officers and Corporate Governance. </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The information with respect to directors and executive officers of the Corporation, set forth under the captions &#147;Election of Directors&#148; and &#147;Backgrounds of our Other Executive
+Officers&#148; in the Proxy Statement is incorporated herein by reference. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Board of Directors of the Corporation has
+determined that Harry Cendrowski, a director and member of the Audit Committee, qualifies as an &#147;Audit Committee Financial Expert&#148; as defined in rules adopted by the Commission pursuant to the Sarbanes-Oxley Act of 2002 and is
+&#147;independent,&#148; as defined by NASDAQ listing standards. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Board of Directors of the Corporation has adopted a Code
+of Ethics which details principles and responsibilities governing ethical conduct for all Corporation directors and executive officers. The Code of Ethics is available on our website (<U>www.bankofbirmingham.net</U>) or can be obtained free of
+charge by sending a request to the Corporation&#146;s Corporate Secretary at 33583 Woodward Ave, Birmingham, MI 48009. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">The information
+required for Section&nbsp;16 reporting persons is incorporated from the proxy statement under the caption &#147;Compliance with Section&nbsp;16.&#148; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The information required with respect to our audit committee is incorporated from the proxy statement under the caption &#147;Role and Composition of the Board of Directors&#148;. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;11. Executive Compensation. </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The information presented under the captions &#147;Directors Compensation&#148; and &#147;Executive Compensation&#148; in the Proxy Statement is incorporated herein by reference. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Information required by Items 407(e) (4)&nbsp;and 407(e) (5)&nbsp;of Regulation S-K is not applicable to smaller reporting companies.
+</FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The information relating to security ownership of certain beneficial owners and management presented under the captions &#147;Security
+Ownership of Directors, Nominees for Directors, Most Highly Compensated Executive Officers and All Directors and Executive Officers as A Group&#148; and &#147;Security Ownership of Stockholder Holding 5% or More&#148; in the Proxy Statement is
+incorporated herein by reference. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">21 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The following table shows the Company&#146;s shareholder approved and non-shareholder
+approved equity compensation plans as of December&nbsp;31, 2011: </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="84%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="45%"></TD>
+<TD VALIGN="bottom" WIDTH="13%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="13%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="13%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:46pt"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Plan category</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Number&nbsp;of&nbsp;securities&nbsp;to<BR>be&nbsp;issued&nbsp;upon&nbsp;exercise<BR>of&nbsp;outstanding&nbsp;
+options,<BR>warrants&nbsp;and&nbsp;rights</B></FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(a)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" NOWRAP ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Weighted-average<BR>exercise&nbsp;price&nbsp;of<BR>outstanding&nbsp;options,<BR>warrants&nbsp;
+and&nbsp;rights</B></FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(b)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Number&nbsp;of&nbsp;securities<BR>remaining&nbsp;available&nbsp;for<BR>future&nbsp;issuance&nbsp;
+under<BR>equity&nbsp;compensation<BR>plans&nbsp;(excluding<BR>securities&nbsp;in&nbsp;column&nbsp;(a))</B></FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(c)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+
+
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Equity compensation plans approved by security holders</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">180,000</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10.00</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">45,000</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Equity compensation plans not approved by security holders (1)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">184,000</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10.00</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Total</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">364,000</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10.00</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">45,000</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+</TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(1)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Organizers of the Company were granted warrants pursuant to the Company&#146;s registration statement dated November&nbsp;14, 2005. </FONT></TD></TR></TABLE>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;13. Certain Relationships and Related Transactions, and Director Independence. </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Information relating to certain relationships and related transactions under the caption &#147;Transactions With Certain Related
+Persons&#148; in the Proxy Statement is incorporated by reference. The information relating to director independence under the caption &#147;Role and Composition of the Board of Directors&#148; in the Proxy Statement is incorporated herein by
+reference. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;14. Principal Accounting Fees and Services. </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The information relating to principal accountant fees and services presented under the caption &#147;Audit Committee&#148; (with the
+exception of the Audit Committee Report) in the Proxy Statement is incorporated herein by reference. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">22 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;15. Exhibits and Financial Statement Schedules</B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Number</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Description</B></FONT></TD></TR>
+
+
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;3.1(i)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Articles of Incorporation are incorporated by reference from Exhibit 3.1 of the Corporation&#146;s quarterly report on Form 10-Q for the quarter ended September&nbsp;30,
+2011.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;3.1(ii)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certificate of Designations for the Series C Preferred Stock (incorporated by reference from Form 8-K filed on December&nbsp;21, 2009).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;3.1(iii)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certificate of Designations for the Series D Preferred Stock (incorporated by reference from Form 8-K filed on August&nbsp;1, 2011).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;3.1(IV)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certificate elimination the Certificates of Designations with respect to the Series A, Series B, Series C Fixed Rate, Cumulative Perpetual Preferred Stock (incorporated by reference
+from Form 8-K filed on August&nbsp;3, 2011).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;3.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Bylaws (incorporated by reference from Exhibit 3.2 of the Corporation&#146;s Registration Statement on Form SB-2 dated September&nbsp;6, 2005).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;4.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Specimen common stock certificate (incorporated by reference from Exhibit 4.1 of the Corporation&#146;s Registration Statement on Form SB-2 dated September&nbsp;6,
+2005).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;4.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Form of Birmingham Bloomfield Bancshares, Inc. Organizers&#146; Warrant Agreement (incorporated by reference from Exhibit 4.2 of the Corporation&#146;s Registration Statement on
+Form SB-2 dated September&nbsp;6, 2005).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Birmingham Bloomfield Bancshares, Inc. 2006 Stock Incentive Plan (incorporated by reference from Exhibit 10.1 of the Corporation&#146;s Quarterly Report on Form 10-QSB for the
+Quarter Ended March&nbsp;31, 2007).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Lease Agreement dated January 28, 2005, by and between Irving I. Rosen Family Limited Partnership and Birmingham Bloomfield Bancshares, Inc. (incorporated by reference from Exhibit
+10.10 of the Corporation&#146;s Registration Statement on Form SB-2 dated September&nbsp;6, 2005).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Form of Incentive Stock Option Agreement (incorporated by reference from Quarterly Report on Form 10-QSB for the quarter ended March&nbsp;31, 2007).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.4</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Letter Agreement dated April&nbsp;24, 2009 including the Securities Purchase Agreement &#150; Standard Terms incorporated by reference therein between the Company and the U.S.
+Treasury (incorporated by reference from Form 8-K filed on April&nbsp;30, 2009).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.5</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Form of Waiver of Senior Executive Officers (incorporated by reference from Form 8-K filed on April&nbsp;30, 2009).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.6</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Form of Omnibus Amendment Agreement (incorporated by reference from Form 8-K filed on April&nbsp;30, 2009).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.7</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Side Letter Agreement dated April&nbsp;24, 2009 between the Company and the U.S. Treasury (incorporated by reference from Form 8-K filed on April&nbsp;30, 2009).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.8</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Executive Employment Agreement with Robert E. Farr (incorporated by reference from Form 8-K filed on May&nbsp;21, 2009).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.9</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Executive Employment Agreement with Lance N. Krajacic, Jr. (incorporated by reference from Form 8-K filed on May&nbsp;21, 2009).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.10</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Letter Agreement dated December 18, 2009 including the Securities Purchase Agreement &#150; Standard Terms incorporated by reference therein between the Company and the U.S.
+Treasury (incorporated by reference from Form 8-K filed on December&nbsp;24, 2009).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.11</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Form of Waiver of Senior Executive Officers (incorporated by reference from Form 8-K filed on December&nbsp;24, 2009).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.12</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Side Letter Agreement No.&nbsp;1 dated December&nbsp;18, 2009 between the Company and the U.S. Treasury (incorporated by reference from Form 8-K filed on December&nbsp;24,
+2009).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.13</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Side Letter Agreement No.&nbsp;2 dated December&nbsp;18, 2009 between the Company and the U.S. Treasury (incorporated by reference from Form 8-K filed on December&nbsp;24,
+2009).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.14</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Executive Employment Agreement with Thomas H. Dorr (incorporated by reference from Form 8-K filed on November&nbsp;17, 2010).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.15</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Letter Agreement dated July 28, 2011 including the Securities Purchase Agreement &#150; Standard Terms incorporated by reference therein between the Company and the U.S. Treasury
+(incorporated by reference from Form 8-K filed on August&nbsp;3, 2011).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">11</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Computation of Per Share Earnings is incorporated by reference from the Corporation&#146;s 2011 Shareholder Report on Form
+10-K</FONT></TD></TR></TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">23 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="94%"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">13</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">2011 Shareholder Report (except for portions of the 2011 Shareholder Report that are expressly incorporated by reference into this Annual Report of Form 10-K, the 2011 Shareholder
+Report shall not be deemed filed as apart hereof.)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">14</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Code of Ethics (incorporated by reference from Form 10-K filed on March&nbsp;31, 2010)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">21</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">List of Subsidiaries.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">23</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Consent of Plante &amp; Moran, PLLC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">31.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certification of Chief Executive Officer Pursuant to Rule 15d-15(e) of the securities Exchange Act.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">31.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certification of Chief Financial Officer Pursuant to Rule 15d-15(e) of the securities Exchange Act.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">32</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certification Pursuant to Rule 14d-14(b) of the Securities Exchange Act and 18 U.S.C. section 1350</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">31 C.F.R. Section 30.15 Certification of Principal Executive Officer</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">99.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">31 C.F.R. Section 30.15 Certification of Principal Financial Officer</FONT></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">24 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">SIGNATURES </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Exchange Act, the Registrant has caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD WIDTH="46%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">BIRMINGHAM BLOOMFIELD BANCSHARES, INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Date: <U>March&nbsp;30, 2012</U></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Robert E. Farr</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Robert E. Farr</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">President and Chief Executive Officer</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by
+the following persons on behalf of the Registrant and in the capacities and on the dates indicated. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD WIDTH="37%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="44%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="15%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1">SIGNATURE</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1">TITLE</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1">DATE</FONT></TD></TR>
+
+
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Harry Cendrowski</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">March&nbsp;30,&nbsp;2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Harry Cendrowski</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Donald E. Copus</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 30, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Donald E. Copus</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Joe A. Ahern</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 30, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Joe A. Ahern</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Robert E. Farr</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director, President &amp; Chief Executive Officer</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">(Principal Executive Officer)</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 30, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Robert E. Farr</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Charles Kaye</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 30, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Charles Kaye</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Lance N. Krajacic, Jr.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 30, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Lance N. Krajacic, Jr.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Scott McCallum</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 30, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Scott McCallum</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Daniel P. O&#146;Donnell</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 30, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Daniel P. O&#146;Donnell</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Charles T. Pryde</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 30, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Charles T. Pryde</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Walter G. Schwartz</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 30, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Walter F. Schwartz</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Henry Spellman</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 30, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Henry Spellman</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Bruce E. Nyberg</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 30, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Bruce E. Nyberg</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR></TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">25 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD WIDTH="37%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="44%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="15%"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ John C. Hamaty</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">March&nbsp;30, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">John C. Hamaty</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Barbara Rom</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">March&nbsp;30,&nbsp;2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Barbara Rom</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Thomas J. Wagner</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">March&nbsp;30,&nbsp;2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Thomas J. Wagner</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Thomas H. Dorr</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Chief Financial Officer (Principal Financial and Accounting Officer)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">March&nbsp;30,&nbsp;2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Thomas H. Dorr</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">26 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibit Index </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Number</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Description</B></FONT></TD></TR>
+
+
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">13</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">2011 Shareholder Report (except for portions of the 2011 Shareholder Report that are expressly incorporated by reference into this Annual Report of Form 10-K, the 2011 Shareholder
+Report shall not be deemed filed as a part hereof.)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">21</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">List of Subsidiaries</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">23</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Consent of Plante &amp; Moran, PLLC</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">31.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certification of Chief Executive Officer Pursuant to Rule 15d-15(e) of the securities Exchange Act.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">31.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certification of Chief Financial Officer Pursuant to Rule 15d-15(e) of the securities Exchange Act.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">32</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certification Pursuant to Rule 14d-14(b) of the Securities Exchange Act and 18 U.S.C. section 1350</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">31 C.F.R. Section 30.15 Certification of Principal Executive Officer</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">99.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">31 C.F.R. Section 30.15 Certification of Principal Financial Officer</FONT></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">27 </FONT></P>
+
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+

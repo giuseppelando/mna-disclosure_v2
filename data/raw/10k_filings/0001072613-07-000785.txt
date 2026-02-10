@@ -1,0 +1,902 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>form10-k_14951.txt
+<DESCRIPTION>FORM 10-K FOR THE YEAR ENDED 12-31-06
+<TEXT>
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                                    FORM 10-K
+                ANNUAL REPORT PURSUANT TO SECTION 13 or 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+                   For the fiscal year ended December 31, 2006
+
+                           Commission File No. 1-31374
+
+                                   BIW LIMITED
+             (Exact Name of registrant as specified in its charter)
+
+         CONNECTICUT                                     04-3617838
+(State or other jurisdiction of             (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+     230 Beaver Street, Ansonia, CT                      06401-0426
+(Address of principal executive offices)                 (Zip Code)
+
+    Registrant's telephone number, including area code:  (203)735-1888
+       Securities registered pursuant to Section 12(b) of the Act:
+
+     Title of each class               Name of each exchange on which Registered
+  Common Stock (no par value)                The American Stock Exchange
+
+Securities registered pursuant to Section 12(g) of the Act: None Indicate by
+check mark if the registrant is a well-known seasoned issuer, as defined in Rule
+405 of the Securities Act. Yes [ ] No[X]
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. Yes[] No [X]
+
+Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act. (Check
+one): Large Accelerated Filer [ ] Accelerated Filer [ ] Non-Accelerated Filer
+[X]
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act). Yes[ ] No [X]
+
+Aggregate market value of the voting stock held by non-affiliates of the
+registrant based on the closing sale price of such stock as of June 30, 2006:
+$23,779,110.
+
+As of March 16, 2007, the Registrant had 1,674,579 shares of common stock, no
+par value, outstanding.
+
+                       Documents Incorporated by Reference
+Portions of the Annual Report to stockholders for the fiscal year ended December
+31, 2006 are incorporated by reference into Part II of this report. Portions of
+the Proxy Statement for the 2007 Annual Meeting of Stockholders are incorporated
+by reference into Part III of this report.
+================================================================================
+
+                                                                               1
+<PAGE>
+
+                                     PART I
+
+Forward Looking Information
+
+Forward looking statements in this report, including, without limitation,
+statements relating to the Company's plans, strategies, objectives, intentions,
+and expectations, are made pursuant to the safe harbor provisions of the Private
+Securities Litigation Reform Act of 1995. These forward looking statements are
+based on current information and involve known and unknown risks and
+uncertainties, which could cause the Company's actual results to differ
+materially from expected results.
+
+These factors include, among others, the adequacy of rates approved by the DPUC,
+weather conditions, changes in governmental regulations affecting water quality,
+success of operating initiatives, changes in business strategy, as well as
+general economic and business conditions, as set forth in Item 1A, below.
+
+Item 1. Business
+
+BIW Limited ("BIW" or the "Company") is the parent company of Birmingham
+Utilities, Inc. ("BUI" or "Birmingham Utilities") a specially chartered
+Connecticut public service corporation in the business of collecting and
+distributing water for domestic, commercial and industrial uses and fire
+protection in Ansonia and Derby, Connecticut, and in small parts of the
+contiguous Town of Seymour, which is referred to as the Ansonia division. Water
+service is also provided for domestic and commercial use in 33 satellite water
+operations in 16 towns in eastern Connecticut, which form BUI's Eastern
+Division. This division, which was acquired in 2003, was the former Eastern
+Connecticut Regional Water Company, Inc. In November of 2006, as part of the
+Connecticut Department of Public Utility Control's rate order, both the Ansonia
+and Eastern division were combined for regulatory purposes. Birmingham H2O
+Services Inc. ("BHS" or "Birmingham H2O Services"), the Company's non-regulated
+subsidiary, offers a consumer protection program for residential service lines
+and provides water related services to other water utilities, municipalities,
+contractors and individuals throughout Connecticut. Under its charter,
+Birmingham Utilities enjoys a monopoly franchise in the distribution of water in
+the area which it serves. In conjunction with its right to sell water,
+Birmingham Utilities has the power of eminent domain and the right to erect and
+maintain certain facilities on and in public highways and grounds, all subject
+to such consents and approvals of public bodies and others as may be required by
+law.
+
+The current sources of Birmingham Utilities' water are wells located in Derby
+and Seymour and interconnections with the South Central Connecticut Regional
+Water Authority's (the "Regional Water Authority") system (a) at the border of
+Orange and Derby (the "Grassy Hill Interconnection") and (b) near the border of
+Seymour and Ansonia (the "Woodbridge Interconnection"), and 75 wells located in
+16 towns in eastern Connecticut that service 33 satellite water systems.
+Birmingham Utilities maintains its interconnected Beaver Lake Reservoir System,
+a 2.2 million gallon per day (MGD) surface supply, in case of emergency needs,
+located in Seymour and Woodbridge, CT.
+
+Birmingham Utilities' main system operating in Ansonia, Derby, and Seymour has a
+safe daily yield (including only those supplies that comply with the Federal
+Safe Drinking Water Act (SDWA) on a consistent basis) of approximately 8.0 MGD,
+while the average daily demand and the maximum daily demand on the system during
+2006 were approximately 3.07 MGD and 3.97 MGD, respectively. The distribution
+system with the exception of the well supplies, is mainly through gravity, but
+there are seven distinct areas at higher elevations where pumping, pressure
+tanks and standpipes are utilized. These higher areas include approximately 25%
+of BUI's customers.
+
+                                                                               2
+<PAGE>
+
+During 2006, approximately 1.12 billion gallons of water from all sources were
+delivered to Birmingham Utilities' customers. Birmingham Utilities has
+approximately 11,705 customers of whom approximately 97% are residential and
+commercial. No single customer accounted for as much as 10% of total billings in
+2006. The business of Birmingham Utilities is to some extent seasonal, since
+greater quantities of water are delivered to customers in the hot summer months.
+
+The Company had, as of March 9, 2007, 40 full-time employees and 1 part-time
+employee. The Company's employees are not affiliated with any union
+organization.
+
+Birmingham Utilities is subject to the jurisdiction of the Connecticut
+Department of Public Utility Control ("DPUC") as to accounting, financing,
+ratemaking, disposal of property, the issuance of long-term securities and other
+matters affecting its operations. The Connecticut Department of Public Health
+(the "Health Department" or "DPH") has regulatory powers over Birmingham
+Utilities under state law with respect to water quality, sources of supply, and
+the use of watershed land. The Connecticut Department of Environmental
+Protection ("DEP") is authorized to regulate BUI's operations with regard to
+water pollution abatement, diversion of water from streams and rivers, safety of
+dams and the location, construction and alteration of certain water facilities.
+Birmingham Utilities' activities are also subject to regulation with regard to
+environmental and other operational matters by federal, state and local
+authorities, including, without limitation, zoning authorities. Birmingham
+Utilities is subject to regulation of its water quality under the SDWA. The
+United States Environmental Protection Agency has granted to the Health
+Department the primary enforcement responsibility in Connecticut under the SDWA.
+The Health Department has established regulations containing maximum limits on
+contaminants, which have or may have an adverse effect on health.
+
+The Company operates in two business segments - regulated water operations
+(Birmingham Utilities) and unregulated service operations (H2O Services).
+Applicable segment information appears in Note 20 of the Notes to Consolidated
+Financial Statements incorporated by reference in Item 8 of this Report.
+
+              Executive Officers of the Registrant
+
+Name, Age and Position        Business Experience Past 5 Years
+
+Betsy Henley-Cohn, 54
+Chairwoman of the Board       Chairwoman of the Board of Directors and
+and Chief Executive Officer   Chief Executive Officer of the Company since
+                              May 1992; Chairperson/Treasurer, Joseph Cohn &
+                              Sons, Inc. since 1979; Director, UIL Holdings
+                              Corporation, since 1990; Director, Aristotle Corp.
+                              (1995-2002); Director, Citizens Bank of
+                              Connecticut (1997-1999).
+
+John S. Tomac, 53
+President and Treasurer       President of the Company since October 1, 1998;
+                              Vice President of the Company December 1,
+                              1997-September 30, 1998; Treasurer of the Company
+                              since December 1997; Assistant Controller, BHC
+                              Company 1991-1997.
+
+Item 1A.  Risk Factors
+
+Our business is subject to a number of risks, some of which are discussed below.
+Other risks are presented elsewhere in this report and in the information
+
+                                                                               3
+<PAGE>
+
+incorporated by reference into this report. You should carefully consider the
+following risks in addition to the other information contained in this report
+and our other filings with the SEC, including our subsequent reports on Forms
+10-Q and 8-K, before deciding to buy, sell or hold our common stock. The risks
+and uncertainties described below are not the only ones facing the Company.
+Additional risks and uncertainties not presently known to us or that we
+currently deem immaterial may also affect our business operations. Any of these
+risks could materially and adversely affect the Company's business, financial
+condition and results of operations, which in turn could materially and
+adversely affect the price of the Company's common stock.
+
+DIVIDENDS ON OUR COMMON STOCK WILL BE DEPENDENT ON DIVIDENDS PAID TO BIW LIMITED
+BY BIRMINGHAM UTILITIES.
+
+Funds required by BIW Limited to enable it to pay dividends on BIW Limited
+common stock are derived predominantly from the dividends paid by Birmingham
+Utilities to BIW Limited. Accordingly, the ability of BIW Limited to pay
+dividends, as a practical matter, will be governed by the ability of Birmingham
+Utilities to pay common stock dividends. The ability of Birmingham Utilities to
+pay dividends to BIW Limited will continue to be subject to outstanding common
+stock dividend restrictions currently contained in Birmingham Utilities'
+mortgage bond indenture. Because Birmingham Utilities will remain subject to
+regulation by the Connecticut Department of Public Utility Control (DPUC), the
+amount of its earnings and dividends will continue to be affected by the manner
+in which the DPUC regulates Birmingham Utilities. Therefore, there can be no
+assurance as to the payment of future dividends by BIW Limited. Furthermore, any
+losses incurred by BIW Limited's unregulated businesses will not be recoverable
+through the water rates of Birmingham Utilities.
+
+OUR BUSINESS REQUIRES SIGNIFICANT CAPITAL EXPENDITURES AND THE RATES WE CHARGE
+OUR CUSTOMERS ARE SUBJECT TO REGULATION.
+
+The water utility business is capital intensive. In addition to any capital
+required to fund potential acquisitions, on an annual basis, we spend
+significant sums for additions to or replacement of property, plant and
+equipment. Our ability to maintain and meet our financial objectives is
+dependent upon the availability of adequate capital and the recovery of our
+capital investments through the rates we charge our customers. There is no
+guarantee that we will be able to obtain sufficient capital in the future on
+reasonable terms and conditions for expansion, construction and maintenance. In
+the event we are unable to obtain sufficient capital, our expansion efforts
+could be curtailed, which may affect our growth and may affect our future
+results of operations.
+
+The rates our regulated operations charge our customers are subject to approval
+by the DPUC. We file rate increase requests, from time to time, to recover our
+investments in utility plant and expenses. Once a rate increase petition is
+filed with the DPUC, the ensuing administrative and hearing process may take up
+to 180 days and may be costly. We can provide no assurances that any future rate
+increase request will be approved; and, if approved, we cannot guarantee that
+these rate increases will be granted in a timely or sufficient manner to cover
+the investments and expenses for which we initially sought the rate increase.
+
+OUR OPERATING COSTS COULD BE SIGNIFICANTLY INCREASED IN ORDER TO COMPLY WITH NEW
+OR STRICTER REGULATORY STANDARDS IMPOSED BY FEDERAL AND STATE ENVIRONMENTAL
+AGENCIES.
+
+Our water services are governed by various federal and state environmental
+protection and health and safety laws and regulations, including the federal
+Safe Drinking Water Act, the Clean Water Act and similar state laws, and federal
+and state regulations issued under these laws by the United States Environmental
+
+                                                                               4
+<PAGE>
+
+Protection Agency and state environmental regulatory agencies. These laws and
+regulations establish, among other things, criteria and standards for drinking
+water and for discharges into the waters of the United States and states.
+Pursuant to these laws, we are required to obtain various environmental permits
+from environmental regulatory agencies for our operations. We cannot assure you
+that we have been or will be at all times in total compliance with these laws,
+regulations and permits. If we violate or fail to comply with these laws,
+regulations or permits, we could be fined or otherwise sanctioned by regulators.
+Environmental laws and regulations are complex and change frequently. These
+laws, and the enforcement thereof, have tended to become more stringent over
+time. While we have budgeted for future capital and operating expenditures to
+maintain compliance with these laws and our permits, it is possible that new or
+stricter standards could be imposed that will raise our operating costs.
+Although these costs may be recovered in the form of higher rates, there can be
+no assurance that the DPUC would approve rate increases to enable us to recover
+such costs. In summary, we cannot assure you that our costs of complying with,
+or discharging liability under, current and future environmental and health and
+safety laws will not adversely affect our business, results of operations or
+financial condition.
+
+OUR BUSINESS IS SUBJECT TO SEASONAL FLUCTUATIONS, WHICH COULD AFFECT DEMAND FOR
+OUR WATER SERVICE AND OUR REVENUES.
+
+Demand for our water during the warmer months is generally greater than during
+cooler months due primarily to additional requirements for water in connection
+with irrigation systems, swimming pools, cooling systems and other outside water
+use. Throughout the year, and particularly during typically warmer months,
+demand will vary with temperature and rainfall levels. In the event that
+temperatures during the typically warmer months are cooler than normal, or if
+there is more rainfall than normal, the demand for our water may decrease and
+adversely affect our revenues.
+
+DROUGHT CONDITIONS MAY IMPACT OUR ABILITY TO SERVE OUR CURRENT AND FUTURE
+CUSTOMERS.
+
+We depend on an adequate water supply to meet the present and future demands of
+our customers. Drought conditions could interfere with our sources of water
+supply and could adversely affect our ability to supply water in sufficient
+quantities to our existing and future customers. An interruption in our water
+supply could have a material adverse effect on our financial condition and
+results of operations. Moreover, governmental restrictions on water usage during
+drought conditions may result in a decreased demand for our water, even if our
+water reserves are sufficient to serve our customers during these drought
+conditions, which may adversely affect our revenues and earnings.
+
+CONTAMINATION TO OUR WATER SUPPLY MAY RESULT IN DISRUPTION IN OUR SERVICES.
+
+Our water supplies are potentially subject to contamination, including
+contamination from the development of naturally-occurring compounds, chemicals
+in groundwater systems, pollution resulting from man-made sources, such as MTBE,
+and possible terrorist attacks. In the event that our water supply is
+contaminated, we may have to interrupt the use of that water supply until we are
+able to substitute the flow of water from an uncontaminated water source. In
+addition, we may incur significant costs in order to treat the contaminated
+source through expansion of our current treatment facilities, or development of
+new treatment methods. If we are unable to substitute water supply from an
+uncontaminated water source, or to adequately treat the contaminated water
+source in a cost-effective manner, there may be an adverse effect on our
+revenues, operating results and financial condition. The costs we incur to
+decontaminate a water source or an underground water system could be significant
+and could adversely affect our business, operating results and financial
+condition and may not be recoverable in rates. We could also be held liable for
+
+                                                                               5
+<PAGE>
+
+consequences arising out of human exposure to hazardous substances in our water
+supplies or other environmental damage. For example, private plaintiffs have the
+right to bring personal injury or other toxic tort claims arising from the
+presence of hazardous substances in our drinking water supplies. Our insurance
+policies may not be sufficient to cover the costs of these claims.
+
+WE DEPEND SIGNIFICANTLY ON THE SERVICES OF THE MEMBERS OF OUR MANAGEMENT TEAM.
+
+Our success depends significantly on the continued individual and collective
+contributions of our management team. The loss of the services of any member of
+our management team or the inability to hire and retain experienced management
+personnel could harm our operating results.
+
+Item 1B. Unresolved Staff Comments
+
+Not Applicable.
+
+Item 2. Properties
+
+     The Company's properties consist chiefly of land, wells, reservoirs, and
+pipelines. Birmingham Utilities operations in Ansonia, Derby and Seymour have 5
+production wells with an aggregate effective capacity of approximately 3.0 MGD.
+Birmingham Utilities' existing interconnections with the Regional Water
+Authority can provide 5.0 MGD. Birmingham Utilities' entire system has a safe
+daily yield (including only those supplies that comply with the SDWA on a
+consistent basis) of approximately 8.0 MGD, while the average daily demand and
+the maximum daily demand on the system during 2006 were approximately 3.07 MGD
+and 3.97 MGD, respectively. The distribution system, with the exception of the
+well supplies, is mainly through gravity, but there are seven distinct areas at
+higher elevations where pumping, pressure tanks and standpipes are utilized.
+These higher areas include approximately 25% of Birmingham Utilities' customers.
+
+     Birmingham Utilities has two emergency stand-by reservoirs (Peat Swamp and
+Middle) with a storage capacity of 457 million gallons and a safe daily yield of
+approximately 2.1 MGD. Because the water produced by those reservoirs does not
+consistently meet the quality standards of the SDWA, none of those reservoirs is
+actively being used by Birmingham Utilities to supply water to the system.
+
+            Birmingham Utilities' Eastern Division consists of 33 satellite
+water systems in 16 towns in eastern Connecticut serving 2,280 connections.
+These systems serve residential subdivisions, elderly housing complexes, and
+condominium complexes. Typical system configuration includes two or more wells,
+chemical addition, atmospheric storage, booster pumps, and hydropneumatic
+storage. Several of these systems also include filtration for iron and manganese
+removal. Two systems have radon removal treatment. Three of the systems are
+seasonal, only operating during the months of April through October.
+
+     Birmingham Utilities' dams are subject to inspection by and the approval of
+the DEP. All of Birmingham Utilities' dams are in compliance with improvements
+previously ordered by the U.S. Army Corps of Engineers.
+
+     Birmingham Utilities owns an office building at 230 Beaver Street, Ansonia,
+CT that contains 4,200 square feet of office and storage space. In addition,
+Birmingham Utilities owns two buildings devoted to equipment storage. Birmingham
+Utilities owns office space in a wood frame, residential building owned by
+Birmingham Utilities at 228 Beaver Street, Ansonia, CT. Birmingham Utilities
+also owns two residential houses at 189 Maple Street and 59 Rimmon Road,
+Seymour, CT. Birmingham Utilities also rents office and warehouse space in
+Glastonbury, CT and Birmingham H2O Services owns two buildings in Guilford, CT
+at 2935 and 2940 Boston Post Road.
+
+                                                                               6
+<PAGE>
+
+     Birmingham Utilities' approximately 1,400 acres of land were acquired over
+the years principally in watershed areas to protect the quality and purity of
+the Company's water at a time when land use was not regulated and standards for
+water quality in streams were non-existent.
+
+     Under Connecticut law a water company cannot abandon a source of supply or
+dispose of any land holdings associated with a source of supply until it has a
+"water supply plan" approved by the Health Department. The Health Department
+approved Birmingham Utilities' first Water Supply Plan in 1988 and updated Water
+Supply Plan in 1993, 1998 and in 2003. Pursuant to abandonment permits issued by
+the Health Department in 1988, Birmingham Utilities abandoned its Upper and
+Lower Sentinel Hill Reservoirs, Steep Hill (Bungay) Reservoir, and Fountain Lake
+Reservoir, and the land associated with them then became available for sale. In
+1994, the abandonment of Great Hill Reservoir was approved by the Health
+Department and in 1999 the abandonment of the Quillinan Reservoir was also
+approved by the Health Department.
+
+     Since 1988, Birmingham Utilities has sold approximately 2,325 acres of land
+in Bethany, Ansonia, Derby, Seymour and Oxford, realizing net gains of
+$13,085,806.
+
+     Birmingham Utilities no longer has any significant land holdings that will
+not be needed in the future for water supply purposes. The DPUC has accepted
+with respect to prior transactions, an accounting and ratemaking mechanism by
+which the gain on the sale of Birmingham Utilities' land holdings is shared
+between ratepayers and stockholders as contemplated by Connecticut law. (See
+Note 1 to the Company's Financial Statements.)
+
+Item 3. Legal Proceedings
+
+     None.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+     None.
+
+                                     PART II
+
+Item 5.  Market for Registrant's Common Equity, Related Stockholder
+         Matters and Issuer Purchases of Equity Securities
+
+     The inside back cover of the Company's Annual Report to shareholders for
+the year ended December 31, 2006, (Market Information), is incorporated herein
+by reference, pursuant to Rule 12b-23 of the Securities and Exchange Act of 1934
+(the "Act") and to Instruction G(2) to Form 10-K.
+
+     The following graph shows the cumulative total stockholder return on our
+common stock since January 1, 2002, compared to the returns of the American
+Stock Exchange Market Index, and the reporting companies in SIC Code 4941 -
+Water Supply Companies.
+
+                                                                               7
+<PAGE>
+
+              COMPARISON OF CUMULATIVE TOTAL RETURN OF ONE OR MORE
+          COMPANIES, PEER GROUPS, INDUSTRY INDEXES AND/OR BROAD MARKETS
+
+<TABLE><CAPTION>
+                       ------------------------ FISCAL YEAR ENDING ---------------------
+COMPANY/INDEX/MARKET   12/31/2001 12/31/2002 12/31/2003 12/31/2004 12/30/2005 12/29/2006
+<S>                      <C>        <C>        <C>        <C>        <C>        <C>
+BIW LIMITED              100.00     100.61     108.21     115.85     109.11      99.35
+WATER SUPPLY             100.00      71.22      88.56     113.68     143.63     221.08
+AMEX MARKET INDEX        100.00      96.01     130.68     149.65     165.03     184.77
+</TABLE>
+
+Item 6. Selected Financial Data
+
+The inside front cover of the Company's Annual Report to shareholders for the
+year ended December 31, 2006, (Financial Highlights), is incorporated herein by
+reference, pursuant to Rule 12b-23 of the Act and to Instruction G(2) to Form
+10-K.
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+        of Operations
+
+Pages 6 through 13 of the Company's Annual Report to Shareholders for the year
+ended December 31, 2006 (Management's Discussion and Analysis of Financial
+Condition and Results of Operations) are incorporated herein by reference,
+
+                                                                               8
+<PAGE>
+
+pursuant to Rule 12b-23 of the Act and to Instruction G(2) to Form 10-K.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+The Company has certain exposures to market risk related to changes in interest
+rates. The Company has an outstanding revolving credit agreement, under which
+there were borrowings of $7,330,000 at December 31, 2006. The revolving credit
+agreement bears interest at variable rates based on current LIBOR indices. The
+Company is not subject in any material respect to currency or other commodity
+risk.
+
+Item 8. Financial Statements and Supplementary Data
+
+The consolidated financial statements, together with the report therein, of
+Dworken, Hillman, LaMorte and Sterczala, P.C., dated March 14, 2007 appearing on
+pages 14 through 32 of the Company's 2006 Annual Report to Shareholders are
+incorporated herein by reference, pursuant to Rule 12b-23 of the Act and
+Instruction G(2) to Form 10-K.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+        Financial Disclosure
+
+Not applicable.
+
+Item 9A. Controls and Procedures
+
+The Company maintains disclosure controls and procedures that are designed to
+ensure that information required to be disclosed in the Company's Exchange Act
+reports is recorded, processed, summarized and reported within the time periods
+specified in the SEC's rules and forms, and that such information is accumulated
+and communicated to the Company's management, including its Chief Executive
+Officer and Chief Financial Officer, as appropriate, to allow timely decisions
+regarding required disclosure based on the definition of "disclosure controls
+and procedures" in Rule 13a-15(e). In designing and evaluating the disclosure
+controls and procedures, management recognized that any controls and procedures,
+no matter how well designed and operated, can provide only reasonable assurance
+of achieving the desired control objectives, and management necessarily was
+required to apply its judgment in evaluating the cost-benefit relationship of
+possible controls and procedures.
+
+As of December 31, 2006, the Company carried out an evaluation, under the
+supervision and with the participation of the Company's management, including
+the Company's Chief Executive Officer and the Company's Chief Financial Officer,
+of the effectiveness of the design and operation of the Company's disclosure
+controls and procedures. Based on the foregoing, the Company's Chief Executive
+Officer and Chief Financial Officer concluded that the Company's disclosure
+controls and procedures were effective.
+
+In connection with the evaluation described in the foregoing paragraph, there
+were no changes identified in the Company's internal controls over financial
+reporting during the quarter ended December 31, 2006 that have materially
+affected, or are reasonably likely to materially affect, the Company's internal
+control over financial reporting.
+
+Item 9B.  Other Information
+
+None.
+
+                                                                               9
+<PAGE>
+
+                                    PART III
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+The information required by Items 401,405,406 and 407(c)(3), (d)(4) and (d) (5)
+of Regulation S-K will be filed by an amended 10K no later than April 30, 2007.
+
+Item 11. Executive Compensation
+
+The information required by Items 402 and 407 (e)(5) and (e) (6) of Regulation
+S-K will be filed by an amended 10-K no later than April 30, 2007.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and
+Related Stockholder Matters.
+
+The information required by Item 403 of Regulation S-K will be filed by an
+amended 10-K no later than April 30, 2007.
+
+       Securities Authorized for Issuance Under Equity Compensation Plans
+
+The following table provides information regarding our equity compensation plans
+as of December 31, 2006:
+<TABLE><CAPTION>
+
+-------------------------  --------------------  -------------------  --------------------
+                                                                      Number of securities
+                           Number of Securities                       remaining available
+                           to be issued          Weighted-average     for future issuance
+                           upon exercise of      exercise price of    under equity
+Plan Category              outstanding options   outstanding options  compensation plans
+-------------------------  --------------------  -------------------  --------------------
+<S>                                <C>                 <C>                    <C>
+Equity compensation plans
+ approved by security
+ holders                           62,000              $16.33                 61,000
+-------------------------  --------------------  -------------------  --------------------
+Equity compensation plans
+ not approved by security
+ holders                              --                  --                     --
+-------------------------  --------------------  -------------------  --------------------
+Total                              62,000              $16.33                 61,000
+-------------------------  --------------------  -------------------  --------------------
+</TABLE>
+
+Item 13. Certain Relationships and Related Transactions, and Director
+Independence
+
+The information required by Items 404 and 407(a) of Regulation S-K will be filed
+by an amended 10-K no later than April 30, 2007.
+
+Item 14. Principal Accountant Fees and Services
+
+The information required by Item 9(e) of Schedule 14A will be filed by an
+amended 10-K no later than April 30, 2007.
+
+                                                                              10
+<PAGE>
+
+                                     PART IV
+
+Item 15. Exhibits and Financial Statement Schedules
+
+(a) The following statements are filed as part of this report:
+
+                                                                     Page in
+                                                                  Annual Report*
+          Consolidated Statements of Income and Retained
+          earnings for the three years ended
+          December 31, 2006                                             14
+
+          Consolidated Balance Sheets at December 31, 2006
+          and 2005                                                      13
+
+          Consolidated Statements of Cash Flows for the three
+          years ended December 31, 2006                                 15
+
+          Notes to the Consolidated Financial Statements              16-28
+
+          Report of Independent Registered Public Accounting Firm       12
+
+*  Incorporated by reference from the indicated pages of the 2006 Annual Report.
+
+(b) Exhibits
+
+(3)       Certificate of Incorporation and By-Laws of BIW Limited. Incorporated
+          herein by reference to Exhibits C and D of the prospectus contained in
+          the Registration Statement of BIW Limited on Form S-4 (Reg. No.
+          333-84508) dated May 20, 2002.
+
+(4)       Instruments Defining Rights of Security Holders
+
+(4.1)     Bond Purchase Agreement dated as of April 15, 2004 between Birmingham
+          Utilities, Inc., and General Electric Capital Assurance Company.
+          Incorporated herein by reference to Exhibit 4.1 of the Form 10-Q of
+          BIW Limited for the period ended June 30, 2004.
+
+(4.2)     Eighth Supplemental Indenture dated as of April 15, 2004 between
+          Birmingham Utilities, Inc., and US Bank National Association.
+          Incorporated herein by reference to Exhibit 4.2 of the Form 10-Q of
+          BIW Limited for the period ended June 30, 2004.
+
+(4.3)     First Modification and Reaffirmation Agreement by and between
+          Birmingham Utilities, Inc., Birmingham H2O Services, Inc., and
+          Citizens Bank of Connecticut, dated December 30, 2003. Incorporated
+          herein by reference to Exhibit 4.2 of BIW's Annual Report on Form 10-K
+          for the period ended December 31, 2003.
+
+(4.4)     Birmingham Utilities, Inc. Dividend Reinvestment Plan, adopted by its
+          Board of Directors on September 13, 1994. Incorporated herein by
+          reference to Exhibit 4 (iii) of Birmingham Utilities, Inc.'s Annual
+          Report on Form 10-K for the period ended December 31, 1994.
+
+(4.5)     Third Modification and Reaffirmation Agreement. Incorporated herein by
+          reference to Exhibit 10.1 of BIW Limited's Quarterly Report on Form
+          10-Q for the quarter ended September 30, 2006.
+
+(4.6)     Fourth Modification and Reaffirmation Agreement. Incorporated herein
+          by reference to Exhibit 10.1 of BIW Limited's Quarterly Report on Form
+          10-Q for the quarter ended September 30, 2006.
+
+                                                                              11
+<PAGE>
+
+(4.7)     Commercial Revolving Promissory Note. Incorporated herein by reference
+          to Exhibit 10.1 of BIW Limited's Quarterly Report on Form 10-Q for the
+          quarter ended September 30, 2006.
+
+(10)      Material Contracts
+
+(10.1)    Agreement to Purchase Water by and between The Ansonia Derby Water
+          Company and South Central Connecticut Regional Water Authority dated
+          January 18, 1984 for the sale of water by the Authority to the Company
+          and subsequent amendment dated December 29, 1988. Incorporated herein
+          by reference to Exhibit (10.1) of the Annual Report on Form 10-K of
+          Birmingham Utilities, Inc. for the period ended December 31, 1999.
+
+(10.2)    Agreement to Purchase Water by and between The Ansonia Derby Water
+          Company and South Central Connecticut Regional Water Authority dated
+          November 30, 1984 for the sale by the Authority to the company of
+          water and for the construction of the pipeline and pumping and storage
+          facilities in connection therewith by the Authority at the expense
+          primarily of the Company and Bridgeport Hydraulic Company.
+          Incorporated herein by reference to Exhibit (10.2) of the Annual
+          Report on Form 10-K of Birmingham Utilities, Inc. for the period ended
+          December 31, 1996.
+
+(10.3)    Employment Agreement between Birmingham Utilities, Inc. and John S.
+          Tomac dated October 1, 1998. Incorporated herein by reference to
+          Exhibit (10.3) of the Annual Report on Form 10-K of Birmingham
+          Utilities, Inc. for the period ended December 31, 1998.
+
+(10.4)    Birmingham Utilities, Inc. 1994 Stock Incentive Plan adopted by its
+          Board of Directors on September 13, 1994. Incorporated herein by
+          reference to Exhibit (10.9) of Birmingham Utilities, Inc.'s Annual
+          Report on Form 10-K for the period ended December 31, 1994.
+
+(10.5)    Birmingham Utilities, Inc. 1994 Stock Option Plan for Non-Employee
+          Directors adopted by its Board of Directors on September 13, 1994.
+          Incorporated herein by reference to Exhibit (10.10) of Birmingham
+          Utilities, Inc.'s Annual Report on Form 10-K for the period ended
+          December 31, 1994.
+
+(10.6)    Birmingham Utilities, Inc. 1998 Stock Incentive Plan adopted by its
+          Board of Directors on December 9, 1998. Incorporated herein by
+          reference to Exhibit (10.8) of Birmingham Utilities, Inc.'s Annual
+          Report on Form 10-K for the period ended December 31, 1999.
+
+(10.7)    Birmingham Utilities, Inc. 2000 Stock Option Plan for non-employee
+          Directors adopted by its Board of Directors on September 6, 2000.
+          Incorporated herein by reference to Exhibit (10.9) of Birmingham
+          Utilities, Inc.'s Annual Report on Form 10-K for the period ended
+          December 31, 2000.
+
+(10.8)    BIW Limited's Stock Option Agreement Form for grants pursuant to 2000
+          Stock Option Plan for non-employee Directors. Incorporated herein by
+          reference to Exhibit (10.8) of BIW's Annual Report on Form 10-K for
+          the period ended December 31, 2004.
+
+(10.9)    BIW Limited's Stock Option Agreement Form for grants pursuant to 1998
+          Stock Incentive Plan. Incorporated herein by reference to Exhibit
+          (10.9) of BIW Limited's Annual Report on Form 10-K for the period
+          ended December 31, 2004.
+
+(13)      2006 Annual Report to Shareholders
+
+(21)      Subsidiaries of the Registrant
+
+(23)      Consent of Independent Registered Public Accounting Firm
+
+                                                                              12
+<PAGE>
+
+(31.1)    Certification of the Chief Executive Officer Pursuant to Securities
+          Exchange Act Rule 13a-14, as adopted pursuant to Section 302 of the
+          Sarbanes-Oxley Act of 2002
+
+(31.2)    Certification of the Chief Financial Officer Pursuant to Securities
+          Exchange Act Rule 13a-14, as adopted pursuant to Section 302 of the
+          Sarbanes-Oxley Act of 2002
+
+(32)      Certification of the Chief Executive Officer and Chief Financial
+          Officer Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+          Section 906 of the Sarbanes-Oxley Act of 2002.
+
+(c) Financial Statement Schedules None.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              13
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+
+
+BIW Limited
+(Registrant)
+
+
+
+BY:  /s/ Betsy Henley-Cohn
+     --------------------------
+     Betsy Henley-Cohn
+     Chairwoman of the Board
+     and Chief Executive Officer
+
+
+
+Date: March 30, 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              14
+<PAGE>
+
+
+   Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+
+/s/ Mary Jane Burt                               /s/ Themis Klarides
+-----------------------------                    ------------------------------
+Mary Jane Burt, Director                         Themis Klarides, Director
+March 30, 2007                                   March 30, 2007
+
+
+
+
+/s/ James E. Cohen                               /s/ B. Lance Sauerteig
+-----------------------------                    ------------------------------
+James E. Cohen, Director                         B. Lance Sauerteig, Director
+March 30, 2007                                   March 30, 2007
+
+
+
+
+/s/ Alvaro daSilva                               /s/ Kenneth E. Schaible
+------------------------------                   ------------------------------
+Alvaro daSilva, Director                         Kenneth E. Schaible, Director
+March 30, 2007                                   March 30, 2007
+
+
+
+
+/s/ Juri Henley-Cohn                             /s/ John S. Tomac
+------------------------------                   ------------------------------
+Juri Henley-Cohn, Director                       John S. Tomac, Director
+March 30, 2007                                   President & Treasurer and Chief
+                                                   Financial Officer
+                                                 March 30, 2007
+
+
+/s/ Linda B. Batten                              /s/ Betsy Henley-Cohn
+------------------------------                   ------------------------------
+Linda B. Batten, Controller and                  Betsy Henley-Cohn
+Assistant Treasurer                              Chairwoman and Chief Executive
+March 30, 2007                                   Officer and Director
+                                                 March 30, 2007
+
+
+                                                                              15
+<PAGE>
+
+                                   BIW Limited
+
+                                INDEX TO EXHIBITS
+
+
+ Item No.
+
+(13)     2006 Annual Report to Shareholders
+
+(21)     Subsidiaries of the Registrant
+
+(23)     Consent of Independent Registered Public Accounting Firm
+
+(31.1)   Certification of the Chief Executive Officer Pursuant to Securities
+         Exchange Act Rule 13a-14, as adopted pursuant to Section 302 of the
+         Sarbanes-Oxley Act of 2002.
+
+(31.2)   Certification of the Chief Financial Officer Pursuant to Securities
+         Exchange Act Rule 13a-14, as adopted pursuant to Section 302 of the
+         Sarbanes-Oxley Act of 2002.
+
+(32)     Certification of the Chief Executive Officer and Chief Financial
+         Officer Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+         Section 906 of the Sarbanes-Oxley Act of 2002.
+
+
+
+
+
+                                                                              16
+
+
+</TEXT>
+</DOCUMENT>
+

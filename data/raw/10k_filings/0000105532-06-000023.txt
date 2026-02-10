@@ -1,0 +1,3831 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>form10k2006.txt
+<DESCRIPTION>FORM 10-K FOR THE FISCAL YEAR ENDED 7/01/2006
+<TEXT>
+                                    FORM 10-K
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D. C. 20549
+
+               (X)ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+                     For the fiscal year ended July 1, 2006
+
+                          Commission file number 1-5555
+                            WELLCO ENTERPRISES, INC.
+               (Exact name of Registrant as specified in charter)
+
+    North Carolina                                     56-0769274
+--------------------------       ----------------------------------------------
+(State of incorporation)                   (I.R.S. employer identification no.)
+
+       Waynesville, North Carolina                                 28786
+-------------------------------------------                  -------------
+(Address of principal executive offices)                        (Zip Code)
+
+Registrant's telephone number, including area code 828-456-3545
+                                                   ------------
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Common Capital Stock - $1 par value                   American Stock Exchange
+-----------------------------------                   -----------------------
+(Title of class)                         (Name of exchange on which registered)
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                       Common Capital Stock - $1 par value
+                                (Title of class)
+Indicate by check mark if the registrant is a well-know seasoned issuer, as
+defined in Rule 405 of the Securities Act.
+Yes     No   X .
+   ----   -----
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 of Section 15(d) of the Act.
+Yes     No   X .
+   ----   -----
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes X No .
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.. ( )
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rul 12b-2 of the Exchange Act: Large
+accelerated file ( ) Accelerated filer ( ) Non-accelerated filer (X)
+
+Indicated by check mark whether the registrant is a shell company (as defined in
+ Rule 12b-2 of the Act):  Yes      No  X   .
+
+As of August 31, 2006, 1,270,746 common shares were outstanding, and the
+aggregate market value of the common shares (based upon the closing price of
+these shares on the American Stock Exchange on August 31, 2006) of Wellco
+Enterprises, Inc. held by nonaffiliates was approximately $5,700,000.
+
+Documents incorporated by reference:
+         Definitive Proxy Statement, to be dated October 13, 2006, in PART IV.
+         Form 8-K, dated April 25, 2006, Part IV (Commission File No 001-05555
+         06 776827)
+         Form 8-K, dated March 17, 2006, Part IV (Commission File No 001-05555
+         06 694859)
+         Definitive Proxy Statement, dated October 17, 2003, in PART IV.
+         (Commission File No 001-05555 03 960316)
+
+
+
+<PAGE>
+
+
+
+
+         Definitive Proxy Statement, dated October 17, 1997, in PART IV.
+         (Commission File No 001-05555 97 698354)
+         Definitive Proxy Statement, dated October 18, 1996, in PART IV.
+         (Commission File No 001-05555 96 646538)
+         Form 10-K for the Fiscal Year Ended July 1, 2004, in PART IV.
+         (Commission File No 001-05555 04 1057733)
+         Form 10-K for the Fiscal Year Ended July 1, 2000, in PART IV.
+         (Commission File No 001-05555 00 734911)
+
+                                     PART I
+                                     ------
+
+Item 1. Business.
+----------------
+
+Substantially all of the Company's operating activity is from the sale of
+military and other rugged footwear, the sale of specialized machinery and
+materials for the manufacture of this type of footwear and the rendering of
+technical assistance and other services to licensees for the manufacture of this
+type of footwear.
+
+Footnote 15 to the Consolidated  Financial Statements contains information about
+revenues by similar  sources and by geographic  areas.  The majority of revenues
+($38,528,000  in 2006 and  $44,249,000  in 2005)  were  from  sales to the U. S.
+government,  primarily the Defense  Supply  Center  Philadelphia  (DSCP),  under
+contracts  for the supply of boots used by the U. S. Armed  Forces.  The loss of
+this customer would have a material adverse effect on the Company.
+
+For more than the last five years, the Company has manufactured and sold
+military combat boots under firm fixed price contracts with DSCP. The primary
+boot products supplied DSCP are the hot weather boot and the temperate weather
+boot. The government awards fixed price boot contracts on the basis of bids from
+several qualified U. S. manufacturers. The Company also sells similar
+military-style boot products, as well as anti-personnel mine protective footwear
+products, to other customers, including customers located in other countries.
+
+The Company provides, primarily under long-term licensing agreements,
+technology, assistance and related services for manufacturing military and
+commercial footwear to customers in the United States and abroad. Under these
+agreements licensees receive technology, services and assistance, and the
+Company earns fees based primarily on the licensees' sales volume. In addition
+to providing technical assistance, the Company also, from time to time, supplies
+certain foreign military footwear manufacturers with some of their machinery and
+material needs. The Company builds specialized footwear manufacturing equipment
+for use in its own and its customers' manufacturing operations. This equipment
+is usually sold, but in some cases it is leased.
+
+Net income for the 2006 fiscal year was $746,000 ($0.58 diluted income per
+share) compared to net income of $1,907,000 ($1.47 diluted income per share) for
+the 2005 fiscal year.
+
+Compared to the prior year, total revenues in the current year decreased by
+$6,445,000. The primary reason for the decrease was a 15% reduction of total
+pairs of boots shipped to the U.S. government. Gross profit for the current
+period was 8.2% of revenues as compared to gross profit of10.4% for the prior
+period. This decrease in gross profit as a percentage of revenues is primarily
+due to a higher per unit manufacturing costs associated with lower production
+levels and the decrease of $787,000 in reimbursement of revenues from the Puerto
+Rican government grant.
+
+More information about these, and other events affecting Wellco's 2006 and 2005
+operating results, are contained in the Management's Discussion and Analysis of
+Results of Operations and Financial Condition section of the Company's 2006
+Annual Report to Shareholders which is incorporated in Part II of this Form
+10-K.
+
+                                       -1-
+
+<PAGE>
+
+
+
+Bidding on U. S.  government boot  solicitations  is open to any qualified U. S.
+manufacturer.  In addition to meeting very stringent  manufacturing  and quality
+standards,  contractors are required to comply with demanding delivery schedules
+and quality standards.
+
+The Company competes on U. S. government contracts with several other companies,
+none of which dominates the industry.  Bidding on contracts is very competitive.
+U. S. footwear  manufacturers  have been adversely affected by sales of footwear
+made  in  low  labor  cost  countries.   This  has  significantly  affected  the
+competition  for contracts to supply boots to U. S. Armed  Forces,  which by law
+must be made in the  United  States.  Most  boot  contracts  are for  multi-year
+periods.  Therefore,  a  bidder  not  receiving  an  award  from  a  significant
+solicitation  could be adversely affected for several years. Most of our current
+boot  contracts  contain  additional  option  periods to purchase  boots and the
+options are exercisable at the government's discretion.
+
+Many factors affect the government's demand for boots, therefore the quantity
+purchased can vary from year to year. Contractors cannot influence the
+government's boot needs. Price, quality, quick delivery and manufacturing
+efficiency are the areas emphasized by the Company that strengthen its
+competitive position. While the government's demand for boots varies from month
+to month, the Company's business cannot be deemed seasonal.
+
+The U. S. government usually evaluates bids received on solicitations for boots
+using their "best value" system, under which bidders offering the best value to
+the government are awarded the contract, or in the case of multiple contract
+awards, a greater portion of total boots contracted. Best value usually involves
+an evaluation of performance considerations, such as quality and delivery, with
+the prices bid being equally important. As bidders become more equal in the best
+value evaluation, price becomes more important.
+
+Government contracts are subject to partial or complete termination under the
+following circumstances:
+         (1)      Convenience of the Government. The government's contracting
+                  officer has the authority to partially or completely terminate
+                  a contract for the convenience of the government only when it
+                  is in the government's interest to terminate. The contracting
+                  officer is responsible for negotiating a settlement with the
+                  contractor.
+
+         (2)      Default of the Contractor. The government's contracting
+                  officer has the authority to partially or completely terminate
+                  a contract because of the contractor's actual or anticipated
+                  failure to perform his contractual obligations.
+
+Under certain circumstances occasioned by the egregious conduct of a contractor,
+contracts may be terminated and a contractor may be prohibited for a certain
+period of time from receiving government contracts. The Company has never had a
+contract either partially or completely terminated.
+
+Because domestic commercial footwear manufacturers are adversely affected by
+imports from low labor cost countries, the Company targets its marketing of
+technology and assistance primarily to military footwear manufacturers. The
+Company competes against several other footwear construction methods commonly
+used for heavy-duty commercial footwear. These methods include the Goodyear Welt
+construction, as well as boots bottomed by injection molding. These methods are
+used in work shoes, safety shoes, and hiking boots manufactured both in the U.
+S. and abroad for the commercial market. Quality, service and reasonable
+manufacturing costs are the most important features used to market the Company's
+technology, assistance and services.
+
+The Company has a strong research and development program. While not all
+research and development results in successful new products or significant
+revenues, the continuing development of new products and processes has been and
+
+                                       -2-
+
+<PAGE>
+
+
+
+will continue to  be a significant factor in our growth and development.
+
+Of the total amount spent on research and development, a significant portion is
+for personnel costs of mold engineers, rubber technicians, chemists, pattern
+engineers and management, all of whom have many responsibilities in addition to
+research and development. The Company estimates that the total cost of research
+and development, the majority of which is company sponsored, for fiscal years
+2006, 2005 and 2004 is $83,000, $78,000 and $101,000.
+
+The Company's backlog of all sales, not including license fees and rentals, as
+of September 22, 2006 was approximately $6,700,000 compared to $17,300,000 at
+August 31, 2005. The Company estimates that substantially all of the current
+year backlog will be shipped in the 2007 fiscal year. The current year's backlog
+decreased because the Department of Defense has stated that they are in an
+over-inventoried position on some products related to boots. Thus, DOD orders
+have decreased.
+
+Most of the raw materials used by the Company can be obtained from at least two
+sources and are readily available. Because all materials in combat boots must
+meet rigid government specifications and because quality is the first priority,
+the Company purchases most of its raw materials from vendors who provide the
+best materials at a reasonable cost. The loss of some vendors would cause some
+difficulty for the entire industry, but the Company believes a suitable
+replacement could be found in a reasonably short period of time. Major raw
+materials include leathers, fabrics and rubber, and, by government regulation
+all are from manufacturers in the United States.
+
+Compliance with various existing governmental provisions relating to protection
+of the environment has not had a material effect on the Company's capital
+expenditures, earnings or competitive position.
+
+The Company employed an average of 719 persons during the 2006 fiscal year.
+
+Item 1A. Risk Factors.
+---------------------
+
+The Company's business, operations, and financial condition are subject to
+various risks. Some of these risks are described below. This section does not
+describe all risks that may be applicable to the Company, the Company's
+industry, or the Company's business, and it is intended only as a summary of
+certain material risk factors.
+
+Substantially all of the Company's operating activity is from the sale of
+military and other rugged footwear, the sale of specialized machinery and
+materials for the manufacture of this type of footwear and the rendering of
+technical assistance and other services to licensees for the manufacture of this
+type of footwear. The majority of revenues is from sales to the U. S.
+government, primarily the Defense Supply Center Philadelphia (DSCP), under
+contracts for the supply of boots used by the U. S. Armed Forces. The loss of
+this customer would have a material adverse effect on the Company.
+
+Bidding on U. S.  government boot  solicitations  is open to any qualified U. S.
+manufacturer.  Bidding  on  contracts  is  highly  competitive.  U. S.  footwear
+manufacturers  have been  adversely  affected by sales of  footwear  made in low
+labor cost  countries.  This has  significantly  affected  the  competition  for
+contracts  to supply boots to U. S. Armed  Forces,  which by law must be made in
+the U. S.
+
+Most boot contracts are for multi-year periods. Therefore, a bidder not
+receiving an award from a significant solicitation could be adversely affected
+up to five years. In addition, current boot contracts contain options for
+additional pairs that are exercisable at the sole discretion of the government.
+The Company's business may be adversely affected by periodic difficulties in
+obtaining raw materials and other items needed for the production of its
+
+                                       -3-
+
+<PAGE>
+
+
+
+products, the effects of quality deviations in raw materials and fluctuations in
+prices of such materials.
+
+We rely on our manufacturing facility in Aguadilla, Puerto Rico and our
+warehousing center in Waynesville, North Carolina. Any natural disaster or other
+serious disruption at either of these facilities due to fire, hurricane, flood,
+terrorist attack or any other cause could impair our ability to meet deliveries
+and adequately supply our customers with products and adversely affect our
+operating results.
+
+Some of our operations use substances  regulated under various  federal,  state,
+local and  international  environmental  and  pollution  laws,  including  those
+relating to the  storage,  use,  discharge,  disposal and labeling of, and human
+exposure to,  hazardous  and toxic  materials.  We could incur costs,  fines and
+civil or criminal  sanctions,  third party  property  damage or personal  injury
+claims,  if we were to violate or become  liable under any  environmental  laws.
+There can be no assurance that violations of  environmental  laws or regulations
+have not  occurred  in the past and will not occur in the  future as a result of
+our inability to obtain permits, human error, equipment failure or other causes,
+and any such violations could harm our business and financial condition.
+
+Since the Company's first source of liquidity is cash from operations, a
+decrease in sales of the Company's products would reduce this source of
+liquidity and result in increased use of the bank line of credit. The bank line
+of credit of $7,500,000 will expire on December 31, 2006 and will then be
+subject to renewal at the discretion of the bank. Historically, the bank has
+always renewed the line of credit. Under conditions of substantial reduction in
+operations, with little basis for projecting a reversal of such reduction, it is
+possible that the bank would cancel or not renew the line of credit. Events that
+would cause a substantial reduction in operations include, but are not limited
+to, cancellation of existing government contracts or receiving government
+contracts that do not provide enough revenues to provide adequate liquidity.
+
+The Estate of James T. Emerson owns 57% of our stock. The Estate of James T.
+Emerson can direct our affairs and significantly influence the election or
+removal of our directors and the outcome of all matters submitted to a vote of
+our stockholders. The interest of our principal stockholder may conflict with
+interests of other stockholders. This concentration of ownership may harm the
+market price of our common stock.
+
+Our success depends in part on our ability to retain key executives and to
+attract and retain additional qualified management personnel who have experience
+both in defense contracting and small public companies. Competition for such
+personnel is strong in the footwear industry and we may not be successful in
+attracting or retaining the personnel we require. We expect to effectively
+compete in this area by offering competitive financial packages that include
+incentive-based compensation.
+
+Item 1B.  Unresolved Staff Comments.  (None)
+-------   -------------------------
+
+Item 2.  Properties.
+------   ----------
+
+The Company has manufacturing, warehousing and office facilities in Waynesville,
+North Carolina and Aguadilla, Puerto Rico. The building and land in North
+Carolina are owned by the Company. The Puerto Rico building and land are leased.
+
+Management believes all its plants, warehouses and offices are in good condition
+and are reasonably suited for the purposes for which they are presently used.
+
+Item 3. Legal Proceedings.
+------  -----------------
+
+There are no material  pending legal  proceedings,  other than ordinary  routine
+litigation incidental to the Company's business, to which the Company or any of
+
+                                       -4-
+
+<PAGE>
+
+
+
+its subsidiaries are a party or of which any of their property is subject.
+
+Management does not know of any director, officer, affiliate of the Company, nor
+any stockholder of record or beneficial owner of more than 5% of the Company's
+common stock, or any associate thereof who is a party to a legal proceeding that
+is adverse to the Company or any of its subsidiaries.
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+------  ---------------------------------------------------
+
+There were not any submissions of matters to a vote of security holders during
+the fourth quarter of fiscal year 2006.
+
+
+
+
+
+
+
+
+
+
+
+                                       -5-
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    WELLCO(R)
+                                ENTERPRISES, INC.
+                                  ANNUAL REPORT
+                                      2006
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+
+
+
+
+                            WELLCO ENTERPRISES, INC.
+                      CONSOLIDATED SELECTED FINANCIAL DATA
+                   (In Thousands Except for Per Share Amounts)
+
+                                                Fiscal Year Ended
+
+                             July 1,    July 2,   July 3,   June 28,   June 29,
+                                2006      2005       2004       2003       2002
+--------------------------------------------------------------------------------
+
+Revenues                    $ 44,022  $ 50,467   $ 45,693   $ 24,833   $ 19,981
+--------------------------------------------------------------------------------
+
+Net Income                       746     1,907      2,448        823        683
+--------------------------------------------------------------------------------
+
+Basic Earnings per Share        0.59      1.51       2.04       0.70       0.58
+--------------------------------------------------------------------------------
+
+Diluted Earnings per Share      0.58      1.47       1.97       0.68       0.56
+--------------------------------------------------------------------------------
+
+Cash Dividends Declared
+per Share of Common Stock       0.60      0.60       0.45       0.40       0.40
+--------------------------------------------------------------------------------
+
+Total Assets at Year End      18,150    20,804     22,919     15,310     12,929
+--------------------------------------------------------------------------------
+
+Long-Term Liabilities at
+Year End                    $  2,054  $  2,462   $  2,112   $  1,972   $  1,328
+--------------------------------------------------------------------------------
+
+
+
+See the  Management's  Discussion  and  Analysis of Results and  Operations  and
+Financial Condition section.
+
+
+
+Independent Auditors
+Dixon Hughes PLLC
+Asheville, N.C.
+
+Annual Meeting
+November 14, 2006
+Corporate Offices
+Waynesville, N.C.
+
+10-K Availability
+The Company's  Form 10-K (annual  report filed with the  Securities and Exchange
+Commission)  is  available  without  charge to those who wish to receive a copy.
+Write to: Corporate Secretary,  Wellco Enterprises,  Inc., Box 188, Waynesville,
+N.C. 28786
+
+                                      -1-
+
+<PAGE>
+
+
+
+
+To:      Our Valued Shareholders:
+
+         For fiscal year 2006, your Company had net income of $746,000
+equivalent to basic earnings per share of $0.59 (diluted $0.58) from revenues of
+$44,022,000. This compares with net income of $1,907,000 in the 2005 fiscal
+year, from revenues of $50,467,000. Management Discussion and Analysis section
+of the 2006 Annual Report will provide additional comparative information
+pertaining to the reasons for the changes occurring between fiscal years 2006
+and 2005 results
+.
+         Although revenues were lower in fiscal 2006 when compared to fiscal
+2005, revenues for fiscal 2006 were strong when compared to fiscal years 2002,
+2003, 2004. As discussed in 2005 Annual Report, manufacturing inefficiency
+issues from 2005 also continued through the first three quarters of fiscal year
+2006.
+          Late in the third quarter of fiscal year 2006, I was named by your
+Board of Directors as President and Chief Executive Officer. Since that time, we
+have worked tirelessly to build a management team that I believe is highly
+skilled and ready to face the challenges that lie ahead.
+
+         The Company's boot manufacturing is performed by a wholly-owned
+subsidiary located in Aguadilla, Puerto Rico. The challenges this operation has
+been faced with that were alluded to in the prior year's 2005 Annual Report
+continued throughout the fiscal 2006 year. Although progress aimed at improving
+operations in Puerto Rico has been slow to materialize, your new management team
+made significant inroads toward operational improvements within the fourth
+quarter of fiscal year 2006. During the fourth quarter the new management team
+worked diligently on reducing costs related to overhead expense, improved many
+processes related to manufacturing methods, significantly reduced labor content
+on many select operations, intertwined automation with multiple operations,
+along with improvement in material consumption levels at operations in Puerto
+Rico.
+         The success of all of the above resulted in gross margin improvement to
+16% in the fourth quarter of 2006, up from the prior three quarters' average
+gross margin of 6%. Your management remains very focused on continued process
+improvements aimed at further improving our gross margin throughout fiscal year
+2007 and beyond.
+
+         On July 7, 2006, your Company was awarded a new option for Temperate
+Weather boots known as Option III. The minimum pairs awarded were 10,000 pairs
+with a maximum pair opportunity of 227,000 pairs. The Company received delivery
+orders against this option for 15,000 pairs during the first quarter of fiscal
+year 2007. Your Company is near the completion of the third and final year of
+the Hot Weather boot contract. During September 2006, we were notified of two
+orders totaling 60,000 pairs of the Hot Weather boot that will be shipped during
+the second and third quarters of fiscal year 2007.
+
+                                      -2-
+
+<PAGE>
+
+         Recently, your Company has submitted a bid for a new Hot Weather boot
+solicitation with anticipated award in late calendar year 2006 or early 2007.
+The minimum pairs for this contract are 83,045 pairs with a maximum pair
+opportunity of 444,968 pairs per base year and four option years. Government
+bidding is very competitive and your Company cannot predict its being awarded or
+not being awarded a contract from any solicitation. As mentioned above, we have
+recently implemented many new cost reductions to enable us to remain competitive
+in the bidding process.
+
+         Your Company also submitted a bid for a new solicitation for a boot
+known as the Intermediate Cold Weather Boot. This particular boot will have a
+minimum 60,000 pairs with a maximum of 90,000 pairs per base year and four
+option years available. Your Company has also submitted a bid for a boot known
+as the Flight Deck Safety Boot. This product is a new item for Wellco in the bid
+process. The contract calls for minimum 37,782 pairs with maximum potential of
+88,842 pairs in the base year with four option years.
+
+         Our DOD contracts are multi-year indefinite order quantity contracts.
+Each contract provides for a minimum number of pairs to be procured by the DOD,
+along with a maximum number of pairs that may be purchased by the DOD through
+issuance of delivery orders against that particular contract. While the
+multi-year feature of any contract provides for a certain number of years of
+delivery solely at the government's discretion, the indefinite quantity feature
+is often a variable that makes it extremely difficult to project actual levels
+of sustainable boot sales and deliveries for any given year.
+
+         For several years, the Company has also sold its various products
+through the commercial channel of distribution. The Company offers military
+specification products, as well as an assortment of products designed at
+servicing the military and law enforcement tactical end users that offer lighter
+weight and added levels of comfort. The Company has historically sold its
+products into the commercial channel via e-commerce and telemarketing
+methodologies. Although this effort has been marginally successful, the Company
+is looking to bring on line a sales representative force to better promote the
+Company product by taking the Company's products and technology direct to the
+retail distributors. This will create a greater brand awareness to current and
+potential accounts at a higher level of involvement than previously
+communicated. The sales representatives will all be paid on a commission basis.
+The Company is interviewing representatives based on their experience in the
+target marketplace. The Company expects to be selling via the new methodology by
+the start of the third quarter of fiscal 2007.
+
+         Going into fiscal year 2007, we have a lower than normal level of
+backlog for DOD orders. The DOD has stated that it is their feeling they are in
+an over-inventoried position on some products related to boots. With a new Hot
+Weather contract due to be awarded by late 2006 or early 2007, we are feeling
+optimistic about returning to higher levels of production within that period of
+time.
+
+                                      -3-
+
+<PAGE>
+
+         In conclusion, fiscal year 2006 was a year of ongoing challenges. Our
+associates have responded to many of those challenges in a highly constructive
+manner. The associates of your Company are focused to handle the challenges in
+the future and are very dedicated and committed to making Wellco a more
+efficient company in the months ahead. Your Company as a whole is focused on
+long-term value creation by expanding our products and broadening our customer
+base while reducing manufacturing costs. We are dedicated to building value for
+our shareholders.
+
+
+
+-----------------------------------
+Lee Ferguson
+Chief Executive Officer and President
+
+
+
+
+
+
+
+
+                                      -4-
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+MANAGEMENT'S  DISCUSSION  AND ANALYSIS OF RESULTS OF  OPERATIONS  AND  FINANCIAL
+--------------------------------------------------------------------------------
+CONDITION
+---------
+
+RESULTS OF OPERATIONS
+
+Critical Accounting Policies:
+----------------------------
+
+The Consolidated Financial Statements have been prepared in accordance with
+accounting principles generally accepted in the United States of America which
+require the Company to make estimates and assumptions that affect the reported
+amounts of assets and liabilities at the date of the Consolidated Financial
+Statements, and revenues and expenses during the periods reported. Actual
+results could differ from those estimates. The Company believes the following
+are the critical accounting policies which could have the most significant
+effect on the Company's reported results and require the most difficult,
+subjective or complex judgements by management.
+
+(A) Impairment of Long-Lived Assets:
+              The Company reviews its long-lived assets for impairment whenever
+              events or circumstances indicate that the carrying amount of an
+              asset may not be recoverable. If the sum of the expected cash
+              flows, undiscounted and without interest, is less than the
+              carrying amount of the asset, an impairment loss is recognized as
+              the amount by which the carrying amount of the asset exceeds its
+              fair value. The Company makes estimates of its future cash flows
+              related to assets subject to impairment review. One of the most
+              critical estimates is future demand, primarily through U. S.
+              Department of Defense contracts, for the Company's products.
+              Changes to this and other estimates could result in an impairment
+              charge in future periods.
+
+(B) Inventory Valuation:
+              Raw materials and supplies are valued at the lower of first-in,
+              first-out cost or market. Finished goods and work in process are
+              valued at the lower of actual cost, determined on a specific
+              identification basis, or market. The Company estimates which
+              materials may be obsolete and which products in work in process or
+              finished goods may be sold at less than cost, and adjusts their
+              inventory value accordingly. Future periods could include either
+              income or expense items if estimates change and for differences
+              between the estimated and actual amount realized from the sale of
+              inventory.
+
+(C) Recognition of Contract Adjustments:
+        From time to time, contract price adjustments will occur which require
+         the Company to compute and present to the Defense Department for audit
+         its calculation of such adjustments. If the adjustment is one of a
+         recurring nature, the Company will record its calculation in the period
+         the change occurred. For other adjustments, the adjustment is not
+         recorded until the period in which the Company and the government agree
+         on the amount of adjustment.
+
+(D) Income Taxes:
+              The Company records a liability for potential tax assessments
+              based on its estimate of the potential exposure. Due to the
+              subjectivity and complex nature of the underlying issues, actual
+              payments or assessments may differ from estimates. Income tax
+              expense in future periods could be adjusted for the difference
+              between actual payments and the Company's recorded liability based
+              on its assessments and estimates.
+
+              The Company has recorded a valuation allowance for part of its
+              deferred tax assets. The valuation allowance is based on an
+              evaluation of the uncertainty of future taxable income from
+              certain jurisdictions. An adjustment could be required if
+              circumstances and events cause the Company to change these
+              estimates.
+
+                                      -5-
+
+<PAGE>
+
+
+Comparing the Fiscal Year ended July 1, 2006 to the Fiscal Year ended July 2,
+-----------------------------------------------------------------------------
+2005:
+----
+
+                                    OVERVIEW
+                                    --------
+The most significant events occurring during fiscal year ended July 1, 2006
+(current period) compared to the fiscal year ended July 2, 2005 (prior period)
+are:
+
+         1. 15% decrease in total pairs of boots sold under contracts with the
+            U.S. Department of Defense (DOD).
+
+         2. In the current period, the Company received $787,000 less than the
+            prior period as reimbursement from the Government of Puerto Rico for
+            part of the compensation paid to certain employees. These payments
+            are recorded as revenues in the period received.
+
+Comparative results for these two periods is as follows:
+
+--------------------------------------------------------------------------------
+                               Fiscal Year    Fiscal Year
+                                Ended July     Ended July    Change  % of Change
+(Amounts in thousands)             1, 2006        2, 2005
+--------------------------------------------------------------------------------
+Revenues                           $44,022        $50,467   $(6,445)      (13)%
+--------------------------------------------------------------------------------
+Cost of Sales and Services          40,400         45,232    (4,832)      (11)%
+--------------------------------------------------------------------------------
+Gross Profit                         3,622          5,235    (1,613)      (31)%
+--------------------------------------------------------------------------------
+General and Administrative
+Expenses                             2,716          2,717        (1)        -
+--------------------------------------------------------------------------------
+Grant Income                           174            135        39        29%
+--------------------------------------------------------------------------------
+Operating Income                     1,080          2,653    (1,573)      (59)%
+--------------------------------------------------------------------------------
+Net Interest Expense                   264            253        11         4%
+--------------------------------------------------------------------------------
+Income Taxes                            70            493      (423)      (86)%
+--------------------------------------------------------------------------------
+Net Income                            $746         $1,907   $(1,161)      (61)%
+--------------------------------------------------------------------------------
+
+For the current period, the Company had a net income of $746,000 from revenues
+of $44,022,000 compared to a net income of $1,907,000 from revenues of
+$50,467,000.
+
+The Company's primary customer is the Defense Supply Center Philadelphia (DSCP),
+the Department of Defense agency with which the Company contracts for the
+manufacture of boots used by U. S. Armed Forces personnel. Revenues decreased by
+$6,445,000. The primary reason for the decrease was a 15% reduction of total
+pairs of boots shipped to the U.S. government. During the prior year, the
+Company was awarded and completed an exigency contract for 110,000 pairs of the
+Temperate Weather Army Combat Boot (TW). Comparing fiscal years 2006 and 2005,
+pairs shipped of the TW boot decreased 55,000 pairs because fiscal year 2005
+included the exigency contract. Also, pairs sold of the Hot Weather boot (HW)
+deceased 88,000 pairs during fiscal year 2006 when compared to the prior period
+due to DSCP reducing inventories of certain boots. However, DSCP increased their
+purchases of the Extreme Cold Weather boot by 56,000 pairs.
+
+                                      -6-
+
+<PAGE>
+
+The majority of the Company's boot manufacturing operations occur at the factory
+of a wholly-owned subsidiary located in Puerto Rico. The Company's Puerto Rico
+subsidiary participates in a Puerto Rico government program under which certain
+portions of wages paid to new employees in training are reimbursed to that
+subsidiary. In the current period, the Company received from the Government of
+Puerto Rico $598,000 under this program. This is $787,000 less than the
+$1,385,000 received during the prior year. The Company's policy is to recognize
+the reimbursements as revenue in the period that it is received, and not when
+the related compensation is paid.
+
+Gross profit for the current period was $3,622,000 or 8.2% of revenues as
+compared to gross profit of $5,235,000 or 10.4% for the prior period. This
+decrease in gross profit as a percentage of revenues is primarily due to a
+higher per unit manufacturing costs associated with lower production levels and
+the decrease of $787,000 in reimbursement of wages from the Puerto Rican
+government mentioned above.
+
+In early August 2005, the only U.S. supplier of a DOD required component had a
+significant quality problem. The Company's rate of boot production was reduced
+due to the limited supply of this component. After the supplier resolved his
+quality problem the rate of production continued to be impaired as it took that
+supplier several weeks to reestablish full production. The supplier agreed to
+reimburse the Company certain excess manufacturing costs and the current period
+costs have been reduced by the amount invoiced for these excess costs. However,
+some of the excess costs could not be recouped from the supplier and this
+decreased the gross profit percentage for the current period.
+
+From time to time, the Company receives grants from the government of Puerto
+Rico, primarily related to the expansion of manufacturing operations. Grant
+income represents the straight-line recognition of grants over the grant period,
+with grant income first recognized in the period in which it is received. Fiscal
+years 2006 and 2005 reflect recognition of income from a new grant covering the
+fiscal years 2004 through 2008. The fiscal year 2004 amount represents the last
+recognition of a grant issued in 1999. See Footnote 17 to Consolidated Financial
+Statements.
+
+Increased interest rates on the bank line of credit caused the increase in
+interest expense.
+
+The income tax rate (the percent of Provision for Income Taxes to the Income
+Before Income Taxes) for the 2006 fiscal year was 9% compared to 21% for the
+prior fiscal year. Income earned by the Company's Puerto Rico subsidiary, which
+is exempt from Puerto Rico income tax is currently partially exempt from U. S.
+income taxes. Fiscal year 2006 is the last year in which this subsidiary has an
+exemption from U. S. income taxes. In addition, for the current period, the
+Company has reversed part of a previously recorded valuation allowance on
+deferred tax assets that are now likely to be realized. See Footnote 11 to the
+Consolidated Financial statements.
+
+
+Comparing the Fiscal Year ended July 2, 2005 to the Fiscal Year ended July 3,
+-----------------------------------------------------------------------------
+2004:
+----
+
+Comparative results for these two periods are as follows:
+
+--------------------------------------------------------------------------------
+
+                                Fiscal Year    Fiscal Year
+                                Ended July     Ended July    Change  % of Change
+(Amounts in thousands)             2, 2005        3, 2004
+--------------------------------------------------------------------------------
+Revenues                          $ 50,467      $  45,693  $  4,774         10%
+--------------------------------------------------------------------------------
+Cost of Sales and
+Services                            45,232         39,438     5,794         15%
+--------------------------------------------------------------------------------
+
+                                      -7-
+
+<PAGE>
+
+Gross Profit                         5,235          6,255    (1,020)       (16)%
+--------------------------------------------------------------------------------
+General and
+Administrative Expenses              2,717          3,009      (292)       (10)%
+--------------------------------------------------------------------------------
+Grant Income                           135             80        55         69%
+--------------------------------------------------------------------------------
+Operating Income                     2,653          3,326      (673)       (20)%
+--------------------------------------------------------------------------------
+Net Interest Expense                   253            196        57         29%
+--------------------------------------------------------------------------------
+Income Taxes                           493            682      (189)       (28)%
+--------------------------------------------------------------------------------
+Net Income                        $  1,907       $  2,448   $  (541)       (22)%
+--------------------------------------------------------------------------------
+
+
+
+<PAGE>
+
+
+In late March 2003, DSCP exercised its surge option clause under contracts to
+manufacture the Hot Weather (HW) boot. Surge orders ended in early fiscal year
+2005, and the pairs of HW boots shipped in 2005 was 256,000 compared to 514,000
+pairs in fiscal year 2004.
+
+In March 2003, the Company was awarded a multi-year, indefinite quantity
+contract to supply the U. S. Army's Combat Boot-Temperate Weather (TW). During
+fiscal year 2005, the Company made significant shipments under DSCP orders for
+this boot. In addition, the Company was awarded and completed an exigency
+contract for this boot. Comparing fiscal year 2005 and 2004, pairs shipped of
+the TW boot increased to 324,000 from 75,000.
+
+Although revenues increased, gross profit decreased. Margins earned on the TW
+boot are lower than those earned on the HW boot. In addition, some boot sales in
+fiscal year 2004 were under a now-expired contract that had a higher margin than
+the current HW boot contract.
+
+Revenues from technical assistance fees and equipment rentals from licensees,
+which vary with licensee sales, decreased approximately 31% in the 2005 fiscal
+year. Some of these licensees have boot contracts with DSCP and their sales
+decreased with the end of surge. This revenue decrease also contributed to the
+lower gross profit.
+
+The Company's Puerto Rico subsidiary participates in a Puerto Rico government
+program under which certain portions of wages paid to new employees in training
+are reimbursed to that subsidiary. This reimbursement is recorded as revenues in
+the period cash is received. Under this program, $1,385,000 was received and
+recorded in fiscal year 2005. The amount received and recorded in fiscal year
+2004 was $321,000.
+
+Decreased salary, bonus and travel costs were the major expense categories that
+reduced General and Administrative Expenses. In fiscal year 2005, two highly
+compensated salaried persons retired. Salary expense in fiscal year 2004
+includes both the salaries of these persons and their replacements. Officer
+bonuses vary with net profit. In fiscal year 2005, fewer trips were made to the
+Company's boot manufacturing factory in Puerto Rico.
+
+Increased interest rates on the bank line of credit caused the increase in
+interest expense.
+
+                                      -8-
+
+
+<PAGE>
+
+
+
+From time to time, the Company receives grants from the government of Puerto
+Rico, primarily related to the expansion of manufacturing operations. Grant
+income represents the straight-line recognition of grants over the grant period.
+The fiscal year 2004 amount represents the last recognition of a grant issued in
+1999, and fiscal year 2005 reflects recognition of income from a new grant
+covering the fiscal years 2004 through 2008. See Footnote 17 to Consolidated
+Financial Statements.
+
+The income tax rate (the percent of Provision for Income Taxes to the Income
+Before Income Taxes) for the 2005 fiscal year was 21% compared to 22% for the
+prior fiscal year. Income earned by the Company's Puerto Rico subsidiary, which
+is exempt from Puerto Rico income tax is currently partially exempt from U. S.
+income taxes. Fiscal year 2006 is the last year in which this subsidiary will
+have an exemption from U. S. income taxes. See Footnote 11 to the Consolidated
+Financial statements.
+
+Forward Looking Information:
+---------------------------
+
+In early February 2006, Department of Defense extended the delivery dates for
+two boot orders under its contracts. The original delivery dates for boot
+shipments in April through June 2006 were extended to May through August 2006.
+The Company was informed the Army's current usage of boots was lower than the
+rate projected when the orders were issued. This was only an extension of the
+shipping date and no orders were cancelled. Subsequently, the DOD provided the
+Company with additional specific information about the significant reduction in
+year-to-year comparative boot usage.
+
+During the three months of June, July and August 2006, DOD has issued much
+smaller orders for HW and TW boots. The Company has substantially completed
+production on these orders during the first quarter of fiscal year 2007, which
+will end September 30, 2006. Due to limited DOD orders, Wellco will ship
+approximately 50,000 pairs of boots to Defense Department for the first quarter
+of 2007compared to 92,000 pairs shipped the first quarter 2006.
+
+ During the month of September 2006, DOD issued orders for 60,000 pairs of HW
+boots and 5,000 pairs of TW boots. Approximately 50,000 pairs of these orders
+will be shipped during the second fiscal quarter of 2007 compared to 119,000
+pairs shipped during the second quarter of 2006. The reduction in boot
+production will have a negative effect on margins for the first and second
+quarters of 2007.
+
+Below is a summary of the Company's current boot contracts with the Defense
+Department. The Company's Defense Department boot contracts are indefinite
+quantity contracts. This means that each contract specifies a minimum number of
+pairs that must be ordered from a contractor and a maximum number of pairs that
+may be ordered.
+
+         On September 23, 2005, the Defense Department exercised the second and
+         final option year under the Company's Hot Weather boot contract. The
+         second option year is for the period October 2005 through September
+         2006. For the second option year, the minimum pairs are 41,000 and the
+         maximum is 256,000. Pairs ordered to date under the second option year
+         are 169,000.
+
+         On August 2, 2006, the Company submitted a proposal for the new Hot
+         Weather boot solicitation. The solicitation is for an indefinite
+         quantity contract with a base year and four one-year option periods.
+         DSCP has 180 days to award the contract and intends to make five
+         awards, of which three will be restricted to contractors who meet the
+         criteria for being a small business, and two contracts will be awarded
+         without the small business restriction. The Company is not a small
+         business. Bidding on government solicitations is very competitive, and
+         the Company cannot confidently predict its success in receiving a
+         contract award from any solicitation. If the Company does not receive a
+         contract from this solicitation, future operating results and liquidity
+         will be adversely affected.
+
+                                      -9-
+
+<PAGE>
+
+
+         On July 7, 2006, the Defense Department exercised the third option year
+         under the Company's Temperate Weather boot contract. For the third
+         option year, the minimum pairs are 10,000 and the maximum are 227,000.
+         Pairs ordered to date under the third option year are 15,000.This
+         contract has one more option year outstanding. The exercise of any
+         contract option is the unilateral decision of the Defense Department.
+
+         On April 13, 2006, the Company received a Department of Defense
+         contract to supply the U.S. Army with Extreme Cold Weather boots. This
+         contract is for a one year period, with four one year options which are
+         exercisable at the government's discretion. The base year is for a
+         minimum of 5,000 pairs and a maximum of 29,000 pairs.
+
+The Company also submitted a bid for a new solicitation for a boot known as the
+Intermediate Cold Weather Boot. This particular boot will have a minimum 60,000
+pairs with a maximum of 90,000 pairs per base year and four option years
+available. The Company has also submitted a bid for a boot known as the Flight
+Deck Safety Boot. This product is a new item for Wellco in the bid process. The
+contract calls for minimum 37,782 pairs with maximum potential of 88,842 pairs
+in the base year with four option years.
+
+The majority of the Company's boots manufacturing operations occur at the
+factory of a wholly owned subsidiary located in Puerto Rico. The Company is
+participating in a Puerto Rican government program under which it is reimbursed
+for part of the compensation paid to certain employees in training. As of July
+1, 2006, $808,000 has been filed for, but has not been received or recorded as
+revenues, reimbursement under this program. The government of Puerto Rico
+recently suspended new contracts for this program. The Company understands that
+this suspension will not affect its collection of the $808,000. In the past
+three fiscal years, the Company has received and recorded as revenues a total of
+$2,300,000 under this program.
+
+In December 2005, the Company was one of two contract awardees for the
+development of the US Army Modular Boot System. This award was the result of the
+Company's response to the Modular Boot System solicitation that required
+submission of data and product demonstration models illustrating the Company's
+concept of the modular boot system.
+
+This contract provides the development of a Modular Boot System for the U. S.
+military. Presently, the Department of Defense buys four different boot styles
+to meet the varied climatic conditions encountered by military personnel. The
+contract's goal is to develop a functional boot system to provide comfort in a
+temperature range of -60(0)F to 120(0)F. If successful, the new Modular Boot
+System would replace many, if not all, of the current boot styles.
+
+The Department of Defense placed its first order under this contract for 580
+pairs of the Modular Boot System and the boots were shipped in March 2006.
+Recent feedback from the Natick Contracting Division of the U.S. Army was very
+positive on the testing of the first order of boots. Recently, DOD exercised the
+second option to supply the development of the Modular Boot System. At the same
+time, they issued an order for 450 pairs of the MBS for expanded testing. If the
+Wellco Modular Boot System is successful through all phases of development and
+testing, the contract provides for Wellco to manufacture 160,000 pairs of this
+boot for issuance to military personnel. As with any contract, there is no
+assurance that Wellco will be successful in development of the Army's Modular
+Boot System.
+
+Income earned by the Company's Puerto Rico subsidiary has for many years been
+fully exempt from U. S. income taxes and is currently partially exempt. Fiscal
+year 2006 is the last year in which this subsidiary has any exemption from U. S.
+income taxes. See Footnote 11 to the Consolidated Financial Statements.
+
+                                      -10-
+
+<PAGE>
+
+The requirements of Section 404 of the Sarbanes-Oxley Act of 2002 will first
+apply to the Company's 2008 fiscal year. Section 404 requires the Company to
+document, test, and issue an opinion as to the adequacy of their internal
+controls over financial reporting. In addition, Section 404 requires the
+Company's Independent Accountants to review the Company's internal control
+documentation and testing results, and to issue its opinion as to the
+correctness of the Company's opinion as to the adequacy of their internal
+controls over financial reporting. The Company has received quotations from
+outside firms specializing in the review, documentation and testing of internal
+controls. Based on these quotations and on reported information about the costs
+other companies are incurring, the Company estimates that the cost of the
+internal control review and audit will be between $200,000 and $500,000. The
+Company cannot reasonably predict whether material weaknesses will be found in
+its internal controls over financial reporting.
+
+The  business  of  providing  boots  to the U.  S.  Defense  Department  is very
+competitive.  With  more  than 98% of U. S.  footwear  sales  being  of  foreign
+manufacture,  the  Company  believes  that  many U. S.  boot  manufacturers  are
+attempting to utilize excess U. S. manufacturing  capacity by supplying boots to
+the U. S. military under contracts with the Defense Department.
+
+A 1% increase in the assumed discount rate used to compute the Company's pension
+benefit obligation would decrease the obligation at June 30, 2006 by
+approximately $517,000. Conversely, a 1% decrease in the assumed discount rate
+would increase the benefit obligation at June 30, 2006 by approximately
+$621,000.
+
+A 1% increase in the assumed discount rate used to compute the Company's retiree
+health benefit obligation would decrease the benefit obligation at July 1, 2006
+by approximately $22,000. Conversely, a 1% decrease in the assumed discount rate
+would increase the benefit obligation at July 1, 2006 by approximately $26,000.
+
+                         LIQUIDITY AND CAPITAL RESOURCES
+
+Wellco uses cash from operations and a bank line of credit to supply most of its
+liquidity needs. The following table summarizes at the end of each fiscal year
+shown the Company's cash and funds available from the bank line of credit:
+
+                                            ( in thousands)
+    -----------------------------------------------------------------
+                                        2006        2005         2004
+    -----------------------------------------------------------------
+    Cash and Cash Equivalents            $44         $34          $58
+    -----------------------------------------------------------------
+    Unused Bank Line of Credit         6,875       5,780        3,220
+    -----------------------------------------------------------------
+    Total                             $6,919      $5,814       $3,278
+    -----------------------------------------------------------------
+
+The following table summarizes the cash flow activities for the last three
+years:
+
+                                                (in thousands)
+    -------------------------------------------------------------------
+    Cash provided by (used in):        2006         2005          2004
+    -------------------------------------------------------------------
+    Operating activities             $2,365       $3,976       $(1,384)
+    -------------------------------------------------------------------
+    Investing activities               (498)      (1,497)       (2,066)
+    -------------------------------------------------------------------
+    Financing activities             (1,857)      (2,503)        3,375
+    -------------------------------------------------------------------
+    Net increase (decrease) in
+    cash and cash equivalents           $10        $(24)          $(75)
+    -------------------------------------------------------------------
+
+                                      -11-
+
+<PAGE>
+
+
+Operating Activities: In the 2006 fiscal year, cash provided by operations was
+$2,365,000. Net income of $746,000, depreciation of $1,337,000 and a $2,246,000
+decrease in inventories were the main operating sources of cash. The main uses
+of operating cash were a decrease of $1,196,000 in accounts payable, a decrease
+of $242,000 in accrued income taxes, a decrease of $257,000 in accrued
+compensation and an increase of $354,000 in accounts receivable.
+
+Investing Activities: For the 2006 fiscal year, purchases of machinery and other
+equipment was $498,000.
+
+Financing Activities: For the 2006 fiscal year, the Company's net cash used in
+financing activity totaled $1,857,000. The use of financing activities were
+$762,000 to pay quarterly dividend payments to stockholders and $1,095,000 was
+used to repay the line of credit borrowings.
+
+In 2005, cash provided by operations was $3,976,000. Net income of $1,907,000,
+depreciation of $1,277,000 and $2,865,000 decrease in accounts receivable were
+the main operating sources of cash. The main uses of operating cash were a
+decrease of $747,000 in accounts payable, a decrease of $676,000 in accrued
+income taxes, a decrease of $266,000 in accrued compensation and an increase of
+$594,000 in inventory. $58,000 of cash from the beginning of the fiscal year
+along with $317,000 from stock option exercises and cash provided by operations,
+provided the cash for purchases of equipment of $1,497,000, the payment of cash
+dividends of $760,000 and $2,060,000 was used to repay the line of credit
+borrowings.
+
+In 2004, cash used by operations was $1,384,000. Net income of $2,448,000 and
+depreciation of $1,100,000 was far short of providing the cash needs for an
+increase of $2,620,000 in accounts receivable and $4,062,000 in inventory. The
+increase in accounts receivable and inventory was primarily caused by surge and
+the new ICB contract. $133,000 of cash from the beginning of the fiscal year,
+along with $3,190,000 of borrowings from the line of credit and $730,000 from
+stock option exercises, provided the cash for purchases of equipment of
+$2,066,000 and the payment of cash dividends of $545,000.
+
+The following table shows aggregated information about contractual obligations
+as of July 1, 2006:
+
+                                            Payments Due by Period
+      --------------------------------------------------------------------------
+                             Total  Less Than 1                            After
+                                           Year   1-3 Years  4-5 Years   5 Years
+      --------------------------------------------------------------------------
+
+      Long -Term Debt     $300,000           -         -      $300,000       -
+      --------------------------------------------------------------------------
+      Building Lease       841,000     $271,000    $570,000       -          -
+      --------------------------------------------------------------------------
+      Total             $1,141,000     $271,000    $570,000   $300,000       -
+      --------------------------------------------------------------------------
+
+
+During fiscal year 2006, the Company had the following material cash payments
+for interest of $258,000, pension plans contributions of $371,000 and income
+taxes paid of $186,000. For fiscal year 2007, the Company expects future cash
+requirements for these disclosed items to approximate the historical amounts
+paid during the previous year.
+
+The Company has a commitment to purchase certain equipment of $350,000 during
+the first half of fiscal year 2007. Other than this, Wellco does not know of any
+other demands, commitments, uncertainties, or trends that will result in or that
+are reasonably likely to result in its liquidity increasing or decreasing in any
+material way.
+
+                                      -12-
+
+<PAGE>
+
+
+The bank line of credit of $7,500,000 will expire on December 31, 2006 and will
+then be subject to renewal at the discretion of the bank. Historically, the bank
+has always renewed the line of credit. Under conditions of substantial reduction
+in operations, with little basis for projecting a reversal of such reduction, it
+is possible that the bank would cancel or not renew the line of credit. Events
+that would cause a substantial reduction in operations include, but are not
+limited to, cancellation of existing government contracts or receiving
+government contracts that do not provide enough revenues to provide adequate
+liquidity.
+
+At July 1, 2006, $6,875,000 of additional borrowings was available under the
+bank line of credit and the Company was in compliance with the loan covenants on
+that date.
+
+Since the Company's first source of liquidity is cash from operations, a
+decrease in sales of the Company's products would reduce this source of
+liquidity and result in increased use of the bank line of credit. Based on
+information available to date, the Company believes that operations will
+continue to be a significant source of cash in fiscal year 2007.
+
+The Promissory Note, Loan Agreement and Security Agreement documenting the bank
+line of credit provide that:
+
+
+          o       All amounts borrowed shall become due and immediately payable
+                  upon demand of the bank.
+          o       The bank's obligation to make advances under the note shall
+                  terminate: if the bank makes a demand for payment; if a
+                  default under any loan document occurs; or, in any event, on
+                  December 31, 2006, unless the Note is extended by the bank
+                  under terms satisfactory to the bank.
+
+          o       All amounts borrowed shall become immediately payable if
+                  Wellco commences or has commenced against it a bankruptcy or
+                  insolvency proceeding, or in the event of default.
+
+Events of default include:
+
+
+          o        Having a current ratio less than that prescribed by the bank.
+          o        Having tangible net worth less than that prescribed by the
+                   bank.
+          o        Any failure to meet requirements under the Note, Loan
+                   Agreement or Security Agreement.
+
+
+           CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING INFORMATION
+
+Statements throughout this report that are not historical facts are
+forward-looking statements. These statements are based on current expectations
+and beliefs, and involve numerous risks and uncertainties. Many factors could
+affect the Company's actual results, causing results to differ materially from
+those expressed in any such forward-looking information.
+
+These factors include, but are not limited to, the receipt of contracts from the
+U. S. government and the performance thereunder; the ability to control costs
+under fixed price contracts; the cancellation of contracts; and other risks
+detailed from time to time in the Company's Securities and Exchange Commission
+filings, including Form 10-K for the year ended July 1, 2006. Those statements
+include, but may not be limited to, all statements regarding intent, beliefs,
+expectations, projections, forecasts, and plans of the Company and its
+management. Actual results may differ materially from management expectations.
+The Company assumes no obligation to update any forward-looking statements.
+
+                                      -13-
+
+<PAGE>
+
+
+
+
+
+                            WELLCO ENTERPRISES, INC.
+         CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME
+                           FOR THE FISCAL YEARS ENDED
+                   JULY 1, 2006, JULY 2, 2005 AND July 3, 2004
+                     (in thousands except per share amounts)
+
+                                                JULY 1,     JULY 2,      JULY 3,
+                                                   2006        2005         2004
+                                               ---------------------------------
+REVENUES (Notes  5 and 15) ................    $ 44,022    $ 50,467     $ 45,693
+                                               --------     -------     --------
+
+COSTS AND EXPENSES
+     Cost of sales and services ...........      40,400      45,232       39,438
+     General and administrative
+     expenses .............................       2,716       2,717        3,009
+                                               --------     -------     -------
+     Total ................................      43,116      47,949       42,447
+                                               --------     -------     --------
+
+GRANT INCOME (Note 17) ....................         174         135           80
+                                               --------     -------     --------
+
+OPERATING INCOME ..........................       1,080       2,653        3,326
+
+NET INTEREST EXPENSE ......................         264         253          196
+                                               --------     -------     --------
+
+INCOME BEFORE INCOME TAXES ................         816       2,400        3,130
+
+PROVISION FOR INCOME TAXES
+(Note 11) .................................          70         493          682
+                                               --------     -------     --------
+
+NET INCOME ................................         746       1,907        2,448
+
+OTHER COMPREHENSIVE INCOME (LOSS)
+(Note 9):
+     Decrease (increase) in additional
+     minimum pension liability ............         469        (157)         324
+                                               --------    --------     --------
+
+COMPREHENSIVE INCOME ......................    $  1,215    $  1,750     $  2,772
+                                               =======     ========     ========
+
+EARNINGS PER SHARE (Note 14):
+     Basic earnings per share .............    $   0.59    $   1.51     $   2.04
+
+     Diluted earnings per share ...........    $   0.58    $   1.47     $   1.97
+                                               ========    ========     ========
+
+
+DIVIDENDS DECLARED PER SHARE ..............    $   0.60    $   0.60     $   0.45
+                                               ========    ========     ========
+
+See Notes to Consolidated Financial Statements.
+
+
+                                      -14-
+
+<PAGE>
+
+
+                            WELLCO ENTERPRISES, INC.
+                           CONSOLIDATED BALANCE SHEETS
+                          JULY 1, 2006 AND JULY 2, 2005
+                                 (in thousands)
+
+                                     ASSETS
+
+
+                                                           JULY 1,       JULY 2,
+                                                              2006          2005
+                                                           ---------------------
+CURRENT ASSETS:
+      Cash and cash equivalents ....................       $    44       $    34
+      Receivables, net (Notes 3 and 7) .............         3,559         3,205
+      Inventories (Notes 4 and 7) ..................         9,411        11,657
+      Deferred taxes  (Note 11) ....................           184           266
+      Prepaid expenses .............................           455           304
+                                                           -------       -------
+      Total ........................................        13,653        15,466
+                                                           -------       -------
+
+MACHINERY LEASED TO LICENSEES, net
+      (Note 5) .....................................             5            11
+
+PROPERTY, PLANT AND EQUIPMENT, net
+      (Notes 6 and 7) ..............................         4,486         5,317
+
+INTANGIBLE ASSETS:
+      Intangible pension asset (Note 9) ............             6            10
+                                                           -------       -------
+
+TOTAL ..............................................       $18,150       $20,804
+                                                           =======       =======
+
+
+
+
+
+                            (continued on next page)
+
+                                      -15-
+
+<PAGE>
+
+                            WELLCO ENTERPRISES, INC.
+                           CONSOLIDATED BALANCE SHEETS
+                          JULY 1, 2006 AND JULY 2, 2005
+                        (in thousands except share data)
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+
+
+                                                          JULY 1,        JULY 2,
+                                                             2006           2005
+                                                          ----------------------
+
+CURRENT LIABILITIES:
+      Short-term borrowing from bank (Note 7) ......     $    625      $  1,720
+      Accounts payable .............................        1,716         2,912
+      Accrued compensation .........................          769         1,016
+      Accrued liabilities (Note 8) .................          366           285
+      Accrued income taxes (Note 11) ...............          407           649
+                                                         --------      --------
+          Total ....................................        3,883         6,582
+                                                         --------      --------
+
+LONG-TERM LIABILITIES:
+      Pension obligation (Note 9) ..................        1,013         1,485
+      Notes payable (Note 12) ......................          241           231
+      Other accrued liabilites
+      (Notes 9 and 10) .............................          363           425
+      Deferred grant income (Note 17) ..............          206           124
+      Deferred taxes  (Note 11) ....................          172           128
+      Deferred revenues (Note 12) ..................           59            69
+
+COMMITMENTS (Note 19)
+
+STOCKHOLDERS' EQUITY (Notes 9
+      and 13):
+      Common stock, $1.00
+          par value;
+          shares authorized -
+          2,000,000; shares issued
+          and outstanding - 1,270,746 ..............        1,271         1,271
+      Additional paid-in capital ...................        1,319         1,319
+      Retained earnings ............................       10,630        10,646
+      Accumulated other
+      comprehensive loss ...........................       (1,007)       (1,476)
+                                                         --------      --------
+          Total ....................................       12,213        11,760
+                                                         --------      --------
+
+TOTAL ..............................................     $ 18,150      $ 20,804
+                                                         ========      ========
+
+See Notes to Consolidated Financial Statements.
+
+
+
+
+                                      -16-
+
+<PAGE>
+
+
+
+
+                            WELLCO ENTERPRISES, INC.
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                           FOR THE FISCAL YEARS ENDED
+                   JULY 1, 2006, JULY 2, 2005 AND July 3, 2004
+                                 (in thousands)
+
+                                                  JULY 1,     JULY 2,    JULY 3,
+                                                     2006        2005       2004
+                                                  ------------------------------
+CASH FLOWS FROM OPERATING
+ACTIVITIES:
+      Net income ..............................   $   746    $ 1,907    $ 2,448
+                                                  -------    -------    -------
+      Adjustments to reconcile
+      net income to net cash provided
+      by (used in)operating activities:
+          Depreciation and amortization .......     1,335      1,277      1,100
+          Deferred income taxes ...............       126        131         (4)
+
+          Grant monies received (Non-cash
+          grant income) .......................        17        189        (80)
+          Non-cash interest expense ...........        10          9          9
+          Non-cash reduction in
+          deferred revenues ...................       (10)        (9)        (9)
+          (Increase) decrease in-
+              Receivables .....................      (354)     2,865     (2,620)
+              Inventories .....................     2,246       (594)    (4,062)
+              Prepaid expenses ................      (151)       (60)        25
+          Increase (decrease) in-
+              Accounts payable ................    (1,196)      (747)       521
+              Accrued compensation ............      (257)      (266)       564
+              Other accrued liabilities .......        95        (50)       102
+              Accrued income taxes ............      (242)      (676)       603
+              Pension obligation ..............      --         --           19
+                                                  -------    -------    -------
+      Total adjustments .......................     1,619      2,069     (3,832)
+                                                  -------    -------    -------
+NET CASH PROVIDED BY (USED IN)
+      OPERATING ACTIVITIES ....................     2,365      3,976     (1,384)
+                                                  -------    -------    -------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+      Purchases of equipment ..................      (498)    (1,497)    (2,066)
+                                                  -------    -------    -------
+
+NET CASH USED IN INVESTING ACTIVITIES .........      (498)    (1,497)    (2,066)
+                                                  -------    -------    -------
+
+
+
+                            (continued on next page)
+
+                                      -17-
+
+<PAGE>
+
+                            WELLCO ENTERPRISES, INC.
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                           FOR THE FISCAL YEARS ENDED
+                   JULY 1, 2006, JULY 2, 2005 AND July 3, 2004
+                                 (in thousands)
+                                                  JULY 1,     JULY 2,    JULY 3,
+                                                     2006        2005       2004
+                                                  ------------------------------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+      Net advances (repayments) of line
+      of credit borrowings ....................    (1,095)    (2,060)     3,190
+      Cash dividends paid .....................      (762)      (760)      (545)
+      Stock option exercise and tax benefit ...      --          317        730
+                                                  -------    -------    -------
+NET CASH PROVIDED BY (USED IN)
+      FINANCING ACTIVITIES ....................    (1,857)    (2,503)     3,375
+                                                  -------    -------    -------
+
+NET INCREASE (DECREASE) IN CASH AND
+      CASH EQUIVALENTS ........................        10        (24)       (75)
+
+CASH AND CASH EQUIVALENTS AT
+      BEGINNING OF YEAR .......................        34         58        133
+                                                  -------    -------    -------
+
+CASH AND CASH EQUIVALENTS AT
+      END OF YEAR .............................   $    44    $    34    $    58
+                                                  =======    =======    =======
+
+
+SUPPLEMENTAL DISCLOSURE OF CASH
+FLOW INFORMATION:
+Cash paid (received) for-
+          Interest ............................   $   258    $   247    $   191
+          Income taxes paid (refunded) ........       186        966        (22)
+
+NONCASH INVESTING AND FINANCING
+FLOW IACTIVITY:N:
+          Increase in leasehold improvements ..   $  --      $  --      $    38
+                                                  =======    =======    =======
+
+See Notes to Consolidated Financial Statements.
+
+
+
+                                      -18-
+
+<PAGE>
+
+
+
+                            WELLCO ENTERPRISES, INC.
+                 CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+                           FOR THE FISCAL YEARS ENDED
+                   JULY 1, 2006, JULY 2, 2005 AND July 3, 2004
+                        (in thousands except share data)
+
+
+                                                 JULY 1,    JULY 2,      JULY 3,
+                                                    2006       2005         2004
+                                                 -------------------------------
+COMMON STOCK :
+      Balance at beginning of year .........   $  1,271    $  1,245    $  1,186
+      Stock option exercise (Note 13) ......       --            26          59
+                                               --------    --------    --------
+      Balance at  end of year ..............      1,271       1,271       1,245
+                                               --------    --------    --------
+
+ADDITIONAL PAID-IN CAPITAL:
+      Balance at beginning of year .........      1,319       1,027         357
+      Stock option exercise (Note 13) ......       --           233         566
+      Tax benefit from stock option plans ..       --            59         104
+                                               --------    --------    --------
+      Balance at  end of year ..............      1,319       1,319       1,027
+                                               --------    --------    --------
+
+RETAINED EARNINGS:
+      Balance at beginning of year .........     10,646       9,499       7,596
+      Net income ...........................        746       1,907       2,448
+      Cash dividends (per share:
+      2006 - $.60, 2005 - $.60,
+      2004 - $.45) .........................       (762)       (760)       (545)
+                                               --------    --------    --------
+      Balance at end of year ...............     10,630      10,646       9,499
+                                               --------    --------    --------
+
+ACCUMULATED OTHER COMPREHENSIVE LOSS
+      Additional minimum pension
+      liability, net of tax (Note 9):
+      Balance at beginning of year .........     (1,476)     (1,319)     (1,643)
+      Change for the year ..................        469        (157)        324
+                                               --------    --------    --------
+      Balance at end of year ...............     (1,007)     (1,476)     (1,319)
+                                               --------    --------    --------
+
+TOTAL STOCKHOLDERS' EQUITY .................   $ 12,213    $ 11,760    $ 10,452
+                                               ========    ========    ========
+
+See Notes to Consolidated Financial Statements.
+
+
+                                      -19-
+
+<PAGE>
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended July 1, 2006, July 2, 2005, and July 3, 2003
+
+1. BUSINESS OPERATIONS:
+
+    Substantially all of the Company's operating activity is from the sale of
+    military and other rugged footwear, the sale of specialized machinery and
+    materials for the manufacture of this type of footwear and the rendering of
+    technical assistance and other services to licensees for the manufacture of
+    this type of footwear. The majority of revenues ($38,528,000 in 2006,
+    $44,249,000 in 2005, and $39,648,000 in 2004) were from sales to the U. S.
+    government, primarily the Defense Supply Center Philadelphia (DSCP), under
+    contracts for the supply of boots used by the U. S. Armed Forces. The loss
+    of this customer would have a material adverse effect on the Company.
+
+    Bidding on U. S. government boot solicitations is open to any qualified U.S.
+    manufacturer.  Bidding on contracts is very competitive.  U. S. footwear
+    manufacturers have been adversely affected by sales of footwear made in low
+    labor cost countries.  This has  significantly affected the competition for
+    contracts to supply boots to U. S. Armed Forces, which by law must be made
+    in the U. S.
+
+    Most boot contracts are for multi-year periods. Therefore, a bidder not
+    receiving an award from a significant solicitation could be adversely
+    affected for several years. In addition, current boot contracts contain
+    options for additional pairs that are exercisable at the government's
+    discretion. The Company cannot predict with certainty its success in
+    receiving a contract from any solicitation.
+
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+    Principles of Consolidation
+             The accompanying financial statements include the consolidated
+             accounts of the Company and its wholly-owned subsidiaries.
+             Appropriate eliminations have been made of all material
+             intercompany transactions and balances.
+
+    Cash and Cash Equivalents
+             Cash in excess of daily requirements is invested in short-term
+             interest earning instruments. The Company considers investments
+             with original maturities of three months or less to be cash
+             equivalents.
+
+         Receivables
+             Accounts receivable from the sale of products or services are
+             recorded at net realizable value and the Company grants credit to
+             customers on an unsecured basis. The Company provides an allowance
+             for doubtful collections that is based upon a review of outstanding
+             receivables, historical collections information, and existing
+             economic conditions. Normal trade receivables are due 30 days after
+             the issuance of the invoice. Receivables past due more than 120
+             days are considered delinquent. Delinquent receivables are written
+             off based on individual credit evaluations and specific
+             circumstances of the customer.
+
+         Inventories
+             Raw materials and supplies are valued at the lower of
+             first-in, first-out cost or market. Finished goods and work in
+             process are valued at the lower of actual cost, determined on a
+             specific identification basis, or market.
+
+                                      -20-
+
+<PAGE>
+
+
+
+         Income Taxes
+             The provision for income taxes is based on taxes currently
+             payable adjusted for the net change in the deferred tax asset or
+             liability during the current year. A deferred tax asset or
+             liability arises from temporary differences between the carrying
+             value of assets and liabilities for financial reporting and income
+             tax purposes. A valuation allowance is recorded to reduce the
+             carrying amounts of deferred tax assets unless it is more likely
+             than not that such assets will be realized.
+
+         Fair Value of Financial Instruments
+             The carrying values of cash, receivables and accounts payable at
+             July 1, 2006 and July 2, 2005 approximate fair value. The carrying
+             value of the notes payable (see Note 12 to the Consolidated
+             Financial Statements) is equal to the present value of estimated
+             future cash flows using a discount rate commensurate with the
+             uncertainties involved and thus approximates fair value.
+
+         Depreciation and Amortization
+             The Company uses the straight-line method to compute
+             depreciation and amortization on machinery leased to licensees and
+             property, plant and equipment used by the Company.
+
+         Machinery Leased to Licensees
+             Certain shoe-making machinery is leased to licensees under
+             cancelable operating leases. Such activity is accounted for by the
+             operating method whereby leased assets are capitalized and
+             depreciated over their estimated useful lives (5 to 10 years) and
+             rentals, based primarily on the volume of shoes produced or shipped
+             by the lessees, are recorded during the period earned.
+
+         Research and Development Costs
+             All research and development costs are expensed as incurred unless
+             subject to reimbursement. The amount charged against income was
+             approximately $83,000 in 2006, $78,000 in 2005 and $101,000 in
+             2004.
+
+         Revenue Recognition
+             Two of the Company's current boot contracts require a bill and hold
+             procedure. Under bill and hold, the government issues a specific
+             boot production order which, when completed and ready for shipment,
+             is inspected and accepted by the Quality Assurance Representative
+             (QAR), thereby transferring ownership to the government. Under the
+             bill and hold procedure, after inspection and acceptance by the
+             QAR, the boots become "government-owned property". Also, after QAR
+             inspection and acceptance, Wellco invoices and receives payment
+             from the government, and warehouses and distributes the related
+             boots against government-issued requisition orders, which Wellco
+             receives five days per week. Government-owned boots stored in
+             Wellco's warehouse are complete, including packaging and labeling.
+             The bill and hold procedure requires physical segregation and
+             specific identification of government-owned boots and, because they
+             are owned by the government, Wellco cannot use them to fill any
+             other customers' orders. Wellco has certain custodial
+             responsibilities for these boots, including loss or damage, which
+             Wellco insures. The related insurance policies specifically provide
+             that loss payment on finished stock and sold personal property
+             completed and awaiting delivery is based on Wellco's selling price.
+             The bill and hold procedure also provides that at the end of any
+             one-year term when an option is not exercised, the government is to
+             take final delivery of any and all of its remaining inventory
+             within six months. In accordance with guidance issued under
+             Securities and Exchange Commission Staff Accounting Bulletin No.
+             101, Revenue Recognition in Financial Statements, revenues from
+             bill and hold transactions are recognized at the time of acceptance
+             by the QAR.
+
+                                      -21-
+
+<PAGE>
+
+
+             Certain shoe-making machinery is leased to licensees under
+             twenty-year cancelable operating leases. Lease payments are
+             variable based on the quantity of boots manufactured and sold by
+             the lessee to its customers and the contractual rental fee per pair
+             of boots. There are no base rental amounts or contingent rentals
+             contained in the agreements. Rental income is recognized by the
+             Company when the lessee manufactures and sells boots to the
+             customer and is based upon the quantity of boots manufactured or
+             shipped by the lessee times the fixed rate per pair of boots
+             contained in the lease agreements.
+
+             The Company earns service fees for providing customers with
+             technical assistance in the manufacture of boots. The related
+             agreements under which these services are provided are for a fixed
+             term and expire in calendar year 2007. The Company records service
+             fee revenues at a fixed rate per pair of boots times the quantity
+             of boots manufactured and sold by the customer.
+
+             Revenues from the sale of machinery and materials are recorded at
+             the time of shipment from our factory (FOB factory) or at the time
+             of receipt by the customer (FOB destination). Other than a one-year
+             warranty, the Company does not have any continuing responsibility
+             related to machines sold. Warranty costs are diminimus.
+
+         Shipping and Handling Costs
+             Shipping and handling costs are charged to Cost of Sales and
+             Services in the period incurred. Any amounts paid by customers for
+             shipping and handling are included in Revenues.
+
+         Cost of Sales and Services
+             Cost of sales and services includes raw materials and freight-in on
+             raw materials, direct and indirect manufacturing labor, employee
+             fringe benefits on manufacturing labor, manufacturing supplies,
+             purchasing and receiving costs, material inspection costs,
+             warehousing costs, internal transfer costs, product distribution
+             costs including shipping and handling, repairs and maintenance,
+             supervisors salaries, depreciation on manufacturing equipment, and
+             other manufacturing overhead costs.
+
+         General and Administrative Expenses
+             General and Administrative Expenses include administrative
+             personnel compensation costs, legal and audit costs, depreciation
+             on administrative equipment, stock expense and director fees,
+             travel costs, office supplies, and other such costs not directly
+             related to the manufacture of the Company's products. Since the
+             majority of its products are sold to the U. S. government, the
+             Company does not incur significant selling costs, such as sales
+             commissions and advertising.
+
+         Impairment of Long-Lived Assets
+             The Company reviews its long-lived assets, including intangible
+             assets, for impairment whenever events or circumstances indicate
+             that the carrying amount of an asset may not be recoverable. If the
+             sum of the expected cash flows, undiscounted and without interest,
+             is less than the carrying amount of the asset, an impairment loss
+             is recognized as the amount by which the carrying amount of the
+             asset exceeds its fair value.
+
+         Self-Funded Group Health Insurance
+             The cost of employee group health insurance is recorded in the
+             period in which the health care costs are incurred including an
+             estimate of the incurred but not reported claims. Third party
+             administrator fees are recorded in the month to which they apply.
+             The cost of stop loss insurance is recorded in the month to which
+
+                                      -22-
+
+<PAGE>
+
+             it applies. The liability for incurred but not reported insurance
+             claims is accrued and included in the Accounts Payable caption in
+             the Consolidated Balance Sheets.
+
+         Fiscal Year
+             The Company's fiscal year ends on the Saturday closest to June
+             30. Consequently, the 2006 and 2005 fiscal years contained 52 weeks
+             each of operating results while the 2004 fiscal year contained 53
+             weeks.
+
+         Estimates
+             The preparation of financial statements in conformity with
+             accounting principles generally accepted in the United States of
+             America requires management to make estimates and assumptions.
+             These estimates and assumptions affect the reported amounts of
+             assets and liabilities, as well as the disclosure of contingent
+             assets and liabilities, at the date of the financial statements.
+             They also affect the reported amounts of revenues and expenses
+             during the reporting period. Actual results could differ from those
+             estimates.
+
+3. RECEIVABLES:
+
+    The majority of receivables at July 1, 2006 and July 2, 2005 are from the U.
+    S. Government. The Company's policy is to require either a confirmed
+    irrevocable bank letter of credit or advance payment on significant orders
+    from foreign customers. Allowances for doubtful accounts in 2006, 2005 and
+    2004 are not significant.
+
+4. INVENTORIES:
+
+         The components of inventories are:
+
+                                                      (in thousands)
+
+                                                     2006          2005
+                     --------------------------------------------------
+                     Finished Goods              $  4,470      $  4,853
+                     --------------------------------------------------
+                     Work in Process                1,509         2,880
+                     --------------------------------------------------
+                     Raw Materials and Supplies     3,432         3,924
+                     --------------------------------------------------
+                     Total                       $  9,411      $ 11,657
+                     --------------------------------------------------
+
+
+5. MACHINERY LEASED TO LICENSEES:
+
+    Accumulated depreciation netted against the cost of leased assets in the
+    Consolidated Balance Sheets at July 1, 2006 and July 2, 2005 is $1,555,000
+    and $1,549,000, respectively. Rental revenues for the fiscal years 2006,
+    2005, and 2004 were $259,000, $291,000 and $279,000, respectively, and vary
+    with lessees' production or shipments.
+
+6. PROPERTY, PLANT AND EQUIPMENT:
+
+         The components of property, plant and equipment are summarized as
+   follows:
+
+                                      -23-
+
+<PAGE>
+
+
+                                                    (in thousands)
+
+                                          2006      2005   Estimated Useful Life
+              ------------------------------------------------------------------
+              Land                     $  107     $  107              N/A
+              ------------------------------------------------------------------
+              Buildings                 1,439      1,439            40-45 Years
+              ------------------------------------------------------------------
+              Machinery & Equipment    11,239     10,846             2-20 Years
+              ------------------------------------------------------------------
+              Furniture & Fixtures      1,121       1059             2-10 years
+              ------------------------------------------------------------------
+              Leasehold Improvements      823        809              *
+              ------------------------------------------------------------------
+              Total Cost             $ 14,729   $ 14,260
+              ------------------------------------------------------------------
+              Total Accumulated
+              Depreciation and
+              Amortization           $ 10,243   $ 8,943
+              ------------------------------------------------------------------
+                  *Leasehold improvements are amortized using the straight-line
+                   method over the shorter of the estimated useful lives of
+                   the improvements or the period of the respective leases.
+
+7. LINES OF CREDIT:
+
+    The Company maintains a $7,500,000 bank line of credit. The line, which
+    expires on December 31, 2006, can be renewed annually at the bank's
+    discretion. At July 1, 2006, borrowings on this line of credit were $625,000
+    with $6,875,000 available in additional borrowings.
+
+    Interest is at the London Interbank Offered Rate (LIBOR) plus 2.25 points or
+    7.52% at July 1, 2006. The bank credit agreement contains, among other
+    provisions, defined levels of net worth and current ratio requirements. The
+    Company was in compliance with the loan covenants at July 1, 2006. The
+    covenants are subject to review at the end of each fiscal quarter. This line
+    of credit is secured by a blanket lien on all machinery and equipment,
+    receivables and inventory.
+
+    Historically, the bank has always renewed the line of credit. Under
+    conditions of substantial reduction in operations, with little basis for
+    projecting a reversal of such reduction, it is possible that the bank could
+    cancel the line of credit or not renew it when it expires. Events that would
+    cause a substantial reduction in operations include: cancellation of
+    existing government contracts that are being solicited; not receiving future
+    government contracts; and, receiving government contracts that do not
+    provide enough revenues to provide adequate liquidity.
+
+8. ACCRUED LIABILITIES:
+
+         The components of accrued liabilities are:
+                                                        (in thousands)
+
+                                                   2006         2005
+          ----------------------------------------------------------
+          Interest Expense                      $     2      $     2
+          ----------------------------------------------------------
+          Accrued Lease Payments                     56           56
+          ----------------------------------------------------------
+          Deferred Revenues (Note 18)               169            -
+          -----------------------------------------------------------
+          Deferred Grant Revenues (Note 17)          -            65
+          -----------------------------------------------------------
+
+                                      -24-
+
+<PAGE>
+
+          Accrued Payroll Taxes                      99          122
+          ----------------------------------------------------------
+          Accrued Property Taxes                     40           40
+          ----------------------------------------------------------
+          Total                                 $   366      $   285
+          ----------------------------------------------------------
+
+9. EMPLOYEE BENEFIT PLANS:
+
+             The Company has two non-contributory, defined benefit pension
+             plans. The components of pension expense, included in Cost of Sales
+             and Services in the Consolidated Statements of Operations and
+             Comprehensive Income are as follows:
+
+                                                        (in thousands)
+-----------------------------------------------------------------------------
+                                                     2006      2005      2004
+-----------------------------------------------------------------------------
+Benefits Earned for Service in the Current Year  $    186  $    146  $    129
+-----------------------------------------------------------------------------
+Interest on the Projected Benefit Obligation          317       348       355
+-----------------------------------------------------------------------------
+Expected Return on Plan Assets                      (325)     (312)     (297)
+-----------------------------------------------------------------------------
+Amortization of: Unrecognized Net Pension
+Obligation at July 1, 1987; Cost of Benefit
+Changes Since That Date; and Gains and Losses
+Against Actuarial  Assumptions                         94        61       116
+-----------------------------------------------------------------------------
+Pension Expense                                  $    272  $    243  $    303
+-----------------------------------------------------------------------------
+
+    Below are various analyses and other information relating to the Company's
+    pension liability, assets and expense as of July 2006 and July 2005, (all
+    amounts are in thousands except for those indicated as percent):
+    ---------------------------------------------------------------------
+    Change in Benefit Obligation:                       2006         2005
+    ---------------------------------------------------------------------
+    Benefit Obligation at Beginning of Year         $  6,595     $  5,817
+    ---------------------------------------------------------------------
+    Current Year Service Cost                            186          146
+    ---------------------------------------------------------------------
+    Interest Cost on Projected Liability                 317          348
+    ---------------------------------------------------------------------
+    Benefit Payments                                    (532)        (529)
+    ---------------------------------------------------------------------
+    Actuarial (Gain)Loss                                (814)         813
+    ---------------------------------------------------------------------
+    Benefit Obligation at End of Year               $  5,752     $  6,595
+    ---------------------------------------------------------------------
+
+                                      -25-
+
+<PAGE>
+
+    Change in Plan Assets:                              2006         2005
+    ---------------------------------------------------------------------
+    Fair Value of Plan Assets at Beginning of Year  $  4,842     $  4,704
+    ---------------------------------------------------------------------
+    Company Contributions                                371          284
+    ---------------------------------------------------------------------
+    Actual Return on Plan Assets                         421          383
+    ---------------------------------------------------------------------
+    Benefit Payments                                    (532)        (529)
+    ---------------------------------------------------------------------
+    Fair Value of Plan Assets at End of Year        $  5,102     $  4,842
+    ---------------------------------------------------------------------
+
+
+    Reconciliation of Funded Status:                    2006         2005
+    ---------------------------------------------------------------------
+    Funded Status                                   $   (650)    $ (1,752)
+    ---------------------------------------------------------------------
+    Unrecognized Actuarial Loss                        1,007        2,008
+    ---------------------------------------------------------------------
+    Unrecognized Prior Service Cost                        6           10
+    ---------------------------------------------------------------------
+    Net Amount Recognized                           $    363      $   266
+    ---------------------------------------------------------------------
+
+
+    Amounts Recognized in the Consolidated Balance
+    Sheets:                                             2006         2005
+    ---------------------------------------------------------------------
+    Intangible Pension Asset                        $      6        $  10
+    ---------------------------------------------------------------------
+    Accumulated Other Comprehensive Loss               1,007        1,476
+    ---------------------------------------------------------------------
+
+
+    Accrued Pension Liability:
+    ---------------------------------------------------------------------
+      Prepaid Benefit Cost                               617          521
+    ---------------------------------------------------------------------
+      Accrued Benefit Cost                              (254)        (256)
+    ---------------------------------------------------------------------
+      Additional Minimum Pension Liability            (1,013)      (1,485)
+    ---------------------------------------------------------------------
+    Net Amount Recognized in Financial Statements   $    363      $   266
+    ---------------------------------------------------------------------
+
+
+    Accumulated Benefit Obligation in Excess of Plan
+    Assets:                                             2006         2005
+    ---------------------------------------------------------------------
+    Projected Benefit Obligation                    $  5,752      $ 6,595
+    ---------------------------------------------------------------------
+    Accumulated Benefit Obligation                     5,343        6,062
+    ---------------------------------------------------------------------
+    Fair Value of Plan Assets                       $  5,102      $ 4,842
+    ---------------------------------------------------------------------
+
+                                      -26-
+
+<PAGE>
+
+
+
+                                                        2006         2005
+    ---------------------------------------------------------------------
+    Increase (Decrease) in Minimum Liability
+    Included in Other Comprehensive Income          $   (469)     $   157
+    ---------------------------------------------------------------------
+
+
+    Weighted-average assumptions used to determine
+    benefit obligations:                                2006         2005
+    ---------------------------------------------------------------------
+    Assumed Discount Rate                              6.00%        5.00%
+    ---------------------------------------------------------------------
+    Rate of Compensation Increase, For the Pay
+    Related Benefit Plan                               4.50%        5.50%
+    ---------------------------------------------------------------------
+
+
+    Weighted-average assumptions used to determine
+    net periodic benefit cost:                          2006         2005
+    ---------------------------------------------------------------------
+    Assumed Discount Rate                              5.00%        6.25%
+    ---------------------------------------------------------------------
+    Expected Long-Term Rate of Return on Plan Assets   6.75%        6.75%
+    ---------------------------------------------------------------------
+    Rate of Compensation Increase, For the Pay
+    Related Benefit Plan                               4.50%        5.50%
+    ---------------------------------------------------------------------
+
+
+
+    PLAN ASSETS:
+
+    Pension plan's weighted-average asset allocations
+    by asset category:                                  2006         2005
+    ---------------------------------------------------------------------
+    Equity Securities                                    45%          45%
+    ---------------------------------------------------------------------
+    Debt Securities                                       5%           5%
+    ---------------------------------------------------------------------
+    Real Estate                                           0%           0%
+    ---------------------------------------------------------------------
+    Other                                                50%          50%
+    ---------------------------------------------------------------------
+    Total                                               100%         100%
+    ---------------------------------------------------------------------
+
+    This allocation and investment funds was selected as one that limits risk
+    while providing higher returns on plan assets than guaranteed rate funds,
+    while still providing adequate liquidity to meet payments to retirees.
+
+    In developing the assumed weighted-average long-term rate of return on plan
+    assets, the Company used information from its third party pension plan
+    assets manager, including their review of asset class return expectations
+    and long-term inflation assumptions. Also considered in setting this rate is
+    the historical return on plan assets.
+
+                                      -27-
+
+<PAGE>
+
+
+
+    CASH FLOWS:
+
+    Contributions
+
+    Contributions to the pension plan for fiscal year 2007 are expected to be
+    $380,000.
+
+
+    Estimated Future Benefit Payments (In thousands)      Amount
+    ------------------------------------------------------------
+    2007                                                 $   459
+    ------------------------------------------------------------
+    2008                                                     455
+    ------------------------------------------------------------
+    2009                                                     447
+    ------------------------------------------------------------
+    2010                                                     436
+    ------------------------------------------------------------
+    2011                                                     482
+    ------------------------------------------------------------
+    2012-2016                                              2,159
+    ------------------------------------------------------------
+
+    At June 2006, one of the pension plans has a benefit obligation ($2,395,000)
+    that is greater than its plan assets ($2,325,000) resulting in the
+    additional liability of $70,683 and at June 2005, the plan had a benefit
+    obligation ($2,696,000) that was greater than its plan assets ($2,180,000)
+    resulting in the additional liability of $1,037,000. At June 2006, the other
+    pension plan has a benefit obligation ($3,357,000) that is greater than its
+    plan assets ($2,777,000) resulting in the additional liability of $580,324
+    and at June 2005, this plan had a benefit obligation ($3,367,000) that is
+    greater than its plan assets ($2,663,000) resulting in the additional
+    liability of $448,000.
+
+     A 1% increase in the assumed discount rate would decrease the benefit
+    obligation at June 2006 by $517,000. Conversely, a 1% decrease in the
+    assumed discount rate would increase the benefit obligation at June 2006 by
+    $621,000.
+
+     The Consolidated  Statements of Operations and  Comprehensive  Income shows
+     the amount included in Other Comprehensive Income (Loss) that resulted from
+     recording the additional  minimum pension liability which represents the
+     portion of the pension  liability that has not yet been charged  against
+     operations.  A valuation  allowance  is recorded for the  deferred  tax
+     asset ($342,000) that arises from the cumulative Other Comprehensive Income
+     (Loss). In addition,  the Company provides retirement benefits to certain
+     employees through deferred compensation contracts and the unfunded
+     liability associated with these contracts was $61,000 at July 1, 2006 and
+     $71,000 at July 2, 2005.
+
+     Benefit measurements for the pension plan is June 30.
+
+10. RETIREE HEALTH BENEFITS:
+
+    The Company accounts for the costs and liability of health care benefits for
+    retired employees using Statement of Financial Accounting Standards No. 106
+    (FAS 106), "Employers Accounting for Postretirement Benefits Other Than
+    Pensions". The liability at the date of adoption of FAS 106 (July 4, 1993)
+    is being recognized over employee future service lives.
+
+    Employees of the North Carolina plant who meet certain criteria and retire
+    early (age 62-64) or become disabled, receive for themselves, but not for
+    their dependents, the same health insurance benefits received by active
+    employees. All benefits terminate when the employee becomes eligible to
+
+                                      -28-
+
+
+    receive Medicare (usually age 65 or 30 months after disability date). This
+    benefit is provided at no cost to the employee and the Company does not fund
+    the cost of this benefit prior to costs actually being incurred.
+
+    The cost of retiree health benefits included in the accompanying Statements
+    of Operations and Comprehensive Income was:
+                                                       (in thousands)
+                                                   2006     2005     2004
+         ----------------------------------------------------------------
+         Benefits Earned for Current Service      $  24    $  35    $  36
+         ----------------------------------------------------------------
+         Interest Cost on Accumulated Liability      17       19       24
+         ----------------------------------------------------------------
+         Amortization of the July 4, 1993 Liability   4        4        4
+         ----------------------------------------------------------------
+         Change in Actuarial Assumptions            (97)      -       -
+         ----------------------------------------------------------------
+         Total Cost                               $ (52)   $  58    $  64
+         ----------------------------------------------------------------
+
+    An analysis of the total liability for the last two fiscal years, including
+    a reconciliation of the liability in the Consolidated Balance Sheets at July
+    1, 2006 and July 2, 2005 is as follows:
+
+                                                   (in thousands)
+                                                   2006     2005
+    ------------------------------------------------------------
+    Total Obligation at Beginning of Year         $ 383    $ 295
+    ------------------------------------------------------------
+    Liability for Current Service                    24       35
+    ------------------------------------------------------------
+    Interest on Liability                            17       19
+    ------------------------------------------------------------
+    Benefit Payments                                 -        -
+    ------------------------------------------------------------
+    Actuarial (Gain) Loss                          (122)      34
+    ------------------------------------------------------------
+    Total Obligation at End of Year                 302      383
+    ------------------------------------------------------------
+    Less Unamortized Liability at July 4, 1993      (33)     (37)
+    ------------------------------------------------------------
+    Unrecognized Loss                                33        8
+    ------------------------------------------------------------
+    Liability Recognized in the Consolidated
+    Balance Sheets                                $ 302    $ 354
+    ------------------------------------------------------------
+
+    The assumed health care cost trend rate used to project expected future cost
+    was 8% in 2006 and remaining at 8% thereafter and 12% in 2005, gradually
+    decreasing to 6% by 2010 and remaining at 6% thereafter. The assumed
+    discount rate used to determine the accumulated liability was 6% for 2006
+    and 5% for 2005.
+
+    A 1% increase in the assumed health care cost trend rate would increase the
+    benefit obligation at July 1, 2006 by $12,000.  Conversely, a 1% decrease in
+    the assumed health care cost trend rate would decrease the benefit
+    obligation at July 1, 2006 by $11,000.
+
+    A 1% increase in the assumed discount rate would decrease the benefit
+    obligation at July 1, 2006 by $22,000. Conversely, a 1% decrease in the
+
+                                      -29-
+<PAGE>
+
+    assumed discount rate would increase the benefit obligation at July 1, 2006
+    by $26,000.
+
+    Benefit measurements for the plan is June 30, 2006 and June 30, 2005.
+
+11. INCOME TAXES:
+
+    The Company accounts for the provision and liability for income taxes using
+    Statement of Financial Accounting Standards No. 109, "Accounting for Income
+    Taxes." The provision for income taxes consists of the following:
+
+                                                          (in thousands)
+
+                                                  2006      2005      2004
+       -------------------------------------------------------------------
+       Federal Provision:
+       -------------------------------------------------------------------
+         Currently Payable (Refundable)          $ (61)   $  354     $ 666
+       -------------------------------------------------------------------
+         Deferred                                  126       131       (4)
+       -------------------------------------------------------------------
+         Total Federal                              65       485       662
+       -------------------------------------------------------------------
+       State Provision Currently Payable             5         8        20
+       -------------------------------------------------------------------
+       Total Provision                           $  70    $  493     $ 682
+       -------------------------------------------------------------------
+
+    A reconciliation of the effective income tax rate for the 2006, 2005 and
+    2004 fiscal years is as follows:
+
+                                                  2006      2005      2004
+    ----------------------------------------------------------------------
+    Statutory Federal Income Tax Rate              34%       34%       34%
+    ----------------------------------------------------------------------
+    Current Period Income of Puerto Rico
+    Subsidiary Substantially Exempt From
+    Puerto Rican and Federal Income Taxes         (23)%     (13)%      (5)%
+    ----------------------------------------------------------------------
+    Deferred Tax Valuation Allowance
+    (Reversal of Previously Recorded
+    Valuation Allowance)                           (3)%      (2)%      (9)%
+    ----------------------------------------------------------------------
+    State Taxes, Net of Federal Tax Benefit         1%        -         1%
+    ----------------------------------------------------------------------
+    Other                                           -         1%        1%
+    ----------------------------------------------------------------------
+    Effective Income Tax Rate                       9%       20%       22%
+    ----------------------------------------------------------------------
+
+    Income earned in Puerto Rico by the Company's Puerto Rican wholly-owned
+    subsidiary was 90% exempt from Puerto Rican income tax through 2000.
+    Effective July 1, 2000, the Company received a new multi-year tax exemption
+    grant that provided for a flat income tax rate of 2% and eliminated the
+    withholding tax (5%) on dividends paid. Income earned in Puerto Rico by this
+    subsidiary has not been subject to United States federal income tax. The
+    Small Business Job Protection Act (Act) terminated the federal tax credit on
+    this income subject to a phase out for existing companies, for
+
+                                      -30-
+
+<PAGE>
+
+    tax years beginning after December 31, 1996. Under the phase out, the
+    Company received a full credit through fiscal year 2002. For fiscal years
+    2003 through 2006, the credit is limited, and will be completely eliminated
+    starting with the 2007 fiscal year.
+
+    The accumulated undistributed earnings ($2,848,000) through July 1, 2000 of
+    this subsidiary are subject to the 5% Puerto Rican withholding tax when
+    remitted to the parent Company as dividends. Accrued tax liabilities have
+    been provided for the withholding tax reasonably expected to be paid in the
+    future.
+
+    Significant components of the Company's deferred tax assets and liabilities
+    as of the end of fiscal 2006 and 2005 are as follows:
+
+                                                              (in thousands)
+
+      Deferred Tax Assets:                                   2006        2005
+      -----------------------------------------------------------------------
+      Tax Effect of Pension Liability Charged Against
+      Equity                                              $   342     $   502
+      -----------------------------------------------------------------------
+      Employee Compensation Charged Against Financial
+      Statement Income, Not Yet Deducted From Taxable
+      Income                                                  210         286
+      -----------------------------------------------------------------------
+      Additional Costs Inventoried for Tax Purposes            51          98
+      -----------------------------------------------------------------------
+      State NOL Carryforward                                   53          49
+      -----------------------------------------------------------------------
+      Alternative Minimum Tax Credit                          102         102
+      -----------------------------------------------------------------------
+      Other                                                   382         391
+      -----------------------------------------------------------------------
+      Deferred Tax Assets Before Valuation Allowance        1,140       1,428
+      -----------------------------------------------------------------------
+      Valuation Allowance                                    (956)     (1,162)
+      -----------------------------------------------------------------------
+      Total Deferred Tax Assets                               184         266
+      -----------------------------------------------------------------------
+      Deferred Tax Liabilities:
+      -----------------------------------------------------------------------
+      Depreciation and Prepaid Pension Costs Deducted
+      From Taxable Income Not Yet Charged Against
+      Financial Statement Income                              172         128
+      -----------------------------------------------------------------------
+      Net Deferred Tax Assets                             $    12     $   138
+      -----------------------------------------------------------------------
+    Deferred tax assets have been reduced by a valuation allowance because it is
+    more likely than not that certain of these assets will not be used to reduce
+    future tax payments.
+
+    The Company has state operating loss carryforwards of approximately
+    $770,000, which begin to expire in 2015, available to reduce future state
+    taxable income.
+
+12. NOTES PAYABLE:
+
+    As part of an agreement with a customer for which the Company provides
+    certain technology and equipment, in April, 2001 that customer loaned the
+    Company $300,000. The loan agreement provides for quarterly interest
+    payments at an annual rate of 3% with the $300,000 principal due in April
+    2011. Because this interest rate is less than the market rate, the Company
+    recorded the note payable discounted at a market rate of 8% ($196,000), and
+    is recording interest expense at this rate. The difference between interest
+
+                                      -31-
+
+<PAGE>
+
+    at the 8% and 3% rates ($104,000) was recorded as deferred service income,
+    which is being recognized over the 10-year life of the loan agreement. The
+    Company attributed the difference between the stated 3% rate and the market
+    rate of 8% as part of its compensation for technology and equipment provided
+    to the customer. The Consolidated Statements of Operations and Comprehensive
+    Income for the fiscal years 2006, 2005 and 2004 include service fee income
+    of $10,000, $9,000 and $9,000, respectively, and interest expense of
+    $19,000, $18,000 and $17,000, respectively. The Consolidated Balance Sheets
+    at July 1, 2006 and at July 2, 2005 includes $241,000 and $231,000,
+    respectively, for this note, and $59,000 and $69,000, respectively, as
+    deferred service income.
+
+13. STOCK OPTIONS:
+
+    Effective July 3, 2005, the Company adopted Statement of Financial
+    Accounting Standards No. 123R (revised 2004), "Share-Based Payment," ("SFAS
+    No. 123R") which was issued by the FASB in December 2004. SFAS No. 123R
+    revises SFAS No. 123 "Accounting for Stock Based Compensation," and
+    supersedes APB No. 25, "Accounting for Stock Issued to Employees," (APB No.
+    25) and its related interpretations. SFAS No.123R requires recognition of
+    the cost of employee services received in exchange for an award of equity
+    instruments in the financial statements over the period the employee is
+    required to perform the services in exchange for the award (presumptively
+    the vesting period). SFAS No. 123R also requires measurement of the cost of
+    employee services received in exchange for an award based on the grant-date
+    fair value of the award. SFAS No. 123R also amends SFAS No. 95 "Statement of
+    Cash Flows," to require that excess tax benefits be reported as financing
+    cash inflows, rather than as a reduction of taxes paid, which is included
+    within operating cash flows.
+
+    The Company adopted SFAS No. 123R using the modified prospective application
+    as permitted under SFAS No. 123R. Accordingly, prior period amounts have not
+    been restated. Under this application, the Company is required to record
+    compensation expense for all awards granted after the date of adoption and
+    for the unvested portion of previously granted awards that remain
+    outstanding at the date of adoption. As of the date of adoption, the Company
+    had no unvested previously granted awards and has not granted any awards
+    after July 2, 2005. There have been no options exercised during the fiscal
+    year ending July 1, 2006. Therefore, the new standard has had no impact on
+    the consolidated statements of operations and cash flows, or earnings per
+    share of the Company during the fiscal year ended July 1, 2006. There is no
+    unrecognized compensation cost related to non-vested share-based
+    compensation arrangements granted under all of the Company's stock benefit
+    plans.
+
+    Prior to the adoption of SFAS No. 123R, the Company used the intrinsic value
+    method as prescribed by APB No. 25 and thus recognized no compensation
+    expense for options granted with exercise prices equal to the fair market
+    value of the Company's common stock on the date of grant.
+
+    The Company anticipates providing for future exercises from authorized but
+    unissued shares and not through purchases of its own stock.
+
+    On July 12, 2000, the Company and its Chairman of the Board executed an
+    Agreement under which the Chairman was granted options to purchase up to
+    50,000 shares of the Company's common stock at an exercise price of $9.125
+    per share with such options vesting in 2005 or earlier if certain
+    performance targets were met. During fiscal year 2005, 6,000 of the 50,000
+    shares were exercised and the remaining 44,000 shares expired on June 30,
+    2006.
+
+                                      -32-
+
+<PAGE>
+
+
+    The 1999 Stock Option Plan for Key Employees (1999 Employee Plan) and the
+    1999 Stock Option Plan for Non-Employee Directors (1999 Director Plan)
+    provide for granting options to purchase 90,000 shares and 21,000 shares,
+    respectively. As of July 1, 2006 options had been granted for 65,000 shares
+    under the 1999 Employee Plan and 11,000 shares under the 1999 Director Plan.
+    The plan terminated on June 30, 2004 and no options could be granted after
+    June 30, 2004.
+
+    The1997 Stock Option Plan for Key Employees (1997 Employee Plan) and the
+    1997 Stock Option Plan for Non-Employee Directors (1997 Director Plan)
+    provide for granting options to purchase 99,000 shares and 16,000 shares,
+    respectively. As of July 1, 2006 options had been granted for 84,000 shares
+    under the 1999 Employee Plan and 10,000 shares under the 1999 Director Plan.
+    The plan terminated on June 30, 2002 and no options could be granted after
+    June 30, 2002.
+
+    Under all of the above Plans, option price is the market price on the date
+    granted, and options have a life of 10 years from the date granted. As of
+    July 1, 2006, all granted options are exercisable. Transactions involving
+    these Plans for the last fiscal year is summarized below:
+                                                          Weighted-
+                                              Weighted-    Average
+                                              Average     Remaining    Aggregate
+                                  No. of      Exercise   Contractual   Intrinsic
+               Option Shares:     Shares      Price        Term            Value
+    ---------------------------------------------------------------------------
+    Outstanding at July 2, 2005  111,500         $9.29
+    ----------------------------------------------------------------------------
+    Expired                      (59,000)        $8.08
+    ----------------------------------------------------------------------------
+    Outstanding at July 1, 2006   52,500        $10.65   1.9 years     $130,480
+    ----------------------------------------------------------------------------
+
+    Exercisable at July 1, 2006   52,500        $10.65   1.9 years     $130,480
+    ----------------------------------------------------------------------------
+
+     The intrinsic  value of options  exercised  during fiscal 2005 and 2004 was
+     approximately $206,000 and $317,000, respectively. The approximate fair
+     value of shares vested during the 2005 and 2004 fiscal years was $23,000
+     per fiscal year.
+
+    The following table summarizes information concerning options issued,
+    options available for future issuance and approval of plans by security
+    holders at July 1, 2006:
+
+                                      -33-
+
+
+<PAGE>
+
+                               (A) (B) (C)
+    ----------------------------------------------------------------------------
+
+                                                            Number of
+                                                            Securities
+                            Number of                       Remaining Available
+                            Securities to                   for Future Issuance
+                            be issued      Weighted-        Under Equity
+                            Upon           Average          Compensation Plans
+                            Exercise of    Exercise Price   (Excluding
+                            Outstanding    of Outstanding   Securities Reflected
+    Plan Category           Options        Options          in Column (A))
+    ----------------------------------------------------------------------------
+    Equity Compensation
+    Plans Approved by
+    Security Holders        52,500         $10.65                   -
+    ----------------------------------------------------------------------------
+    Equity Compensation
+    Plans Not Approved
+    by Security Holders       -               -                     -
+    ----------------------------------------------------------------------------
+    Total                   52,500         $10.65                   -
+    ----------------------------------------------------------------------------
+
+    The following illustrates the effect on net income available to common
+    stockholders if the Company had applied the fair value recognition
+    provisions of SFAS No. 123 to the 2005 and 2004 fiscal years ( in
+    thousands, except per share data):
+
+                                                       2005          2004
+    ---------------------------------------------------------------------
+    Net Income, As Reported (in thousands)          $ 1,907      $  2,448
+    ---------------------------------------------------------------------
+    Net Income, Pro Forma (in thousands)            $ 1,889      $  2,430
+    ---------------------------------------------------------------------
+    Basic Earnings Per Share, As Reported           $  1.51      $   2.04
+    ---------------------------------------------------------------------
+    Basic Earnings Per Share, Pro Forma             $  1.49      $   2.02
+    ---------------------------------------------------------------------
+    Diluted Earnings Per Share, As Reported         $  1.47      $   1.97
+    ---------------------------------------------------------------------
+    Diluted Earnings Per Share, Pro Forma           $  1.45      $   1.95
+    ---------------------------------------------------------------------
+
+
+14. EARNINGS PER SHARE:
+
+    The Company  computes its basic and diluted  earnings per share  amounts in
+    accordance with Statement of Financial  Accounting Standards No. 128 (SFAS
+    128),"Earnings  per Share."  Basic  earnings  per share is  computed by
+    dividing  net earnings by the weighted average number of common shares
+    outstanding during the period.  Diluted  earnings per share is computed by
+    dividing net earnings by the weighted average number of common shares
+    outstanding during the period plus the dilutive  potential  common  shares
+    that would have been  outstanding  upon the assumed exercise of dilutive
+    stock options.
+
+    The following is the reconciliation of the numerators and denominators of
+    the basic and diluted earnings per share computations:
+
+                                      -34-
+
+<PAGE>
+
+                                              For the Fiscal Year Ended 7/1/06
+                                            Net Income    Shares       Per-Share
+                                           (Numerator) (Denominator)     Amount
+     ---------------------------------------------------------------------------
+     Basic EPS Available to Shareholders     $746,000   1,270,746        $ 0.59
+     ---------------------------------------------------------------------------
+     Effect of Dilutive Stock-based
+     Compensation Arrangements                              6,858
+     ---------------------------------------------------------------------------
+     Diluted EPS Available to Shareholders   $746,000   1,277,604        $ 0.58
+     ---------------------------------------------------------------------------
+
+                                              For the Fiscal Year Ended 7/02/05
+                                            Net Income    Shares       Per-Share
+                                           (Numerator) (Denominator)     Amount
+    ----------------------------------------------------------------------------
+    Basic EPS Available to Shareholders    $1,907,000   1,263,938        $ 1.51
+    ----------------------------------------------------------------------------
+    Effect of Dilutive Stock-based
+    Compensation Arrangements                              34,362
+    ----------------------------------------------------------------------------
+    Diluted EPS Available to Shareholders  $1,907,000   1,298,300        $ 1.47
+    ----------------------------------------------------------------------------
+
+                                              For the Fiscal Year Ended 7/03/04
+                                            Net Income    Shares       Per-Share
+                                           (Numerator) (Denominator)     Amount
+    ----------------------------------------------------------------------------
+    Basic EPS Available to Shareholders    $2,448,000   1,200,937        $ 2.04
+    ----------------------------------------------------------------------------
+    Effect of Dilutive Stock-based
+    Compensation Arrangements                              43,017
+    ----------------------------------------------------------------------------
+    Diluted EPS Available to Shareholders  $2,448,000   1,243,954        $ 1.97
+    ----------------------------------------------------------------------------
+
+
+15. SEGMENT AND REVENUE INFORMATION:
+
+    The Company operates in one reportable segment. SFAS 131 requires disclosure
+    of financial and descriptive information about reportable operating
+    segments, revenues by products or services, and revenues and assets by
+    geographic areas. Substantially all of the Company's operating activity is
+    from the sale of military and other rugged footwear, the sale of specialized
+    machinery and materials for the manufacture of this type of footwear and the
+    rendering of technical assistance and other services to licensees for the
+    manufacture of this type of footwear. The Company identifies segments based
+    on the Company's organization under one management group. The Company's
+    operations are managed as one unit and resources are allocated without
+    regard to separate functions.
+
+         Information about the Company's revenues is as follows:
+
+                                      -35-
+<PAGE>
+
+                                                          (in thousands)
+                                                   2006       2005         2004
+    ----------------------------------------------------------------------------
+    Sales of Footwear and Related Items        $ 43,088   $ 49,530     $ 44,327
+    ----------------------------------------------------------------------------
+    Revenues from Licensees                         934        937        1,366
+    ----------------------------------------------------------------------------
+    Total Revenues by Major Product Group      $ 44,022   $ 50,467     $ 45,693
+    ----------------------------------------------------------------------------
+
+    ----------------------------------------------------------------------------
+    Revenues from U. S. Customers              $ 42,850   $ 49,108     $ 45,344
+    ----------------------------------------------------------------------------
+    Revenues from International Customers         1,172      1,359          349
+    ----------------------------------------------------------------------------
+    Total Revenues by Geographic Region        $ 44,022   $ 50,467     $ 45,693
+    ----------------------------------------------------------------------------
+
+    ----------------------------------------------------------------------------
+
+    Location of Major International Customers:
+    ----------------------------------------------------------------------------
+    Latin America                                $  152   $    116     $    153
+    ----------------------------------------------------------------------------
+    Canada                                            6         -            14
+    ----------------------------------------------------------------------------
+    Asia/Pacific                                    160         40          171
+    ----------------------------------------------------------------------------
+    Mexico / Spain                                  833        137            2
+    ----------------------------------------------------------------------------
+    United Kingdom/Europe/South Africa               21      1,066            9
+    ----------------------------------------------------------------------------
+
+    ----------------------------------------------------------------------------
+
+    Major Customer- U. S. Government           $ 38,528   $ 44,249     $ 39,648
+    ----------------------------------------------------------------------------
+
+    The Company does not have long-lived assets or operations in foreign
+    countries. The categorization of revenues as being from international
+    customers was based upon the final destination of products sold or services
+    rendered.
+
+16. GOVERNMENT BOOT CONTRACT REVENUES:
+
+    From time to time, the Company records estimates of revenues or costs
+    associated with certain contract actions before the amount of such actions
+    are settled with the DSCP. Any differences between these estimates and the
+    actual amounts agreed to are included in the period of settlement.
+
+17. GRANT MONEY RECEIVED:
+
+    During fiscal year 2005, the Company received $323,000 from the government
+    of Puerto Rico and another $171,000 during fiscal year 2006 under a Special
+    Incentives Contract related to creating new job opportunities in its boot
+    manufacturing operations in Puerto Rico. The grant is for a five year period
+    (fiscal years 2004 through 2008) and requires the Company to maintain a
+    certain level of employment in Puerto Rico over the grant period. If this
+    requirement is not met, the Company may be required to refund a pro-rata
+
+                                      -36-
+
+<PAGE>
+
+    portion of the total grant. The grant is for a maximum of $526,000 and
+    monies are disbursed based upon certain expenditures made by the Company.
+    The Company's policy is to recognize grant monies pro-rata over the five
+    year grant period, with grant income first recognized in the period in which
+    it is received. The Consolidated Statements of Operations and Comprehensive
+    Income for the fiscal year 2006 recognized $174,000 as grant income
+    including $80,000 that related to grant periods prior to fiscal year 2006.
+    The Consolidated Statements of Operations and Comprehensive Income for the
+    fiscal year 2005 recognized $135,000 as grant income including $70,000 that
+    related to grant periods prior to fiscal year 2005.
+
+    Under a grant issued in 1999, the remaining $80,000 of deferred grant income
+    was recognized in the Consolidated Statements of Operations and
+    Comprehensive Income for the fiscal year 2004.
+
+18. DEFERRED REVENUES:
+
+    In December 2005, the Company received a contract for approximately $930,000
+    to supply machinery and assistance for the upgrade of boot manufacturing
+    machinery to a factory in a foreign country. The deliveries began during the
+    third quarter of 2006 fiscal year and will continue until the end of
+    calendar year 2007. The customer paid a $200,000 deposit in January 2006 and
+    this amount was recorded as a deferred revenue. The Consolidated Balance
+    Sheet at July 1, 2006 included the unearned revenue from this contract of
+    $169,000 in accrued liabilities (See Note 8).
+
+19. COMMITMENTS:
+
+    The Company has a non-cancelable operating lease with a Puerto Rican
+    governmental agency for its manufacturing facility. The term of the lease is
+    for ten years, beginning July 1, 1999 with monthly payments that commenced
+    on January 1, 2000. Total lease payments for the period July 2, 2006 through
+    June 30, 2009 are $841,000. Lease payments for each of the Company's three
+    fiscal years ending after July 1, 2006 are: $271,000, $280,000 and $290,000.
+    Lease expense for the Company's current Puerto Rican facility in the 2006
+    fiscal year was $261,000. The Company leased more square footage during
+    fiscal year 2006. Lease expense for fiscal year 2005 was $216,000 and fiscal
+    year 2004 was $142,500.
+
+20. PUERTO RICAN GOVERNMENT REFUND:
+
+    The majority of the Company's boot manufacturing operations occur at the
+    factory of a wholly-owned subsidiary located in Puerto Rico. The Company is
+    participating in a Puerto Rican government program to assist manufacturers
+    in the training of new or expanded work force under which the Company is
+    reimbursed for part of the compensation paid to certain employees. The
+    Consolidated Statements of Operations for fiscal years 2006, 2005 and 2004
+    include $598,000, $1,385,000 and $321,000 respectively, as revenues from
+    this program.
+
+    The Company has filed a reimbursement claim for an additional $808,000 for
+    compensation paid employees and expensed through July 1, 2006. The Company's
+    policy is to recognize reimbursement as a revenue in the period that they
+    are received.
+
+                                      -37-
+
+
+<PAGE>
+
+
+
+
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+To The Board of Directors and Stockholders
+of Wellco Enterprises, Inc.
+Waynesville, North Carolina
+
+We have audited the accompanying consolidated balance sheets of Wellco
+Enterprises, Inc. and subsidiaries (the "Company") as of July 1, 2006 and July
+2, 2005, and the related consolidated statements of operations and comprehensive
+income, stockholders' equity, and cash flows for each of the three years in the
+period ended July 1, 2006. These consolidated financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these consolidated financial statements based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the
+consolidated financial statements are free of material misstatement. We were not
+engaged to perform an audit of the Company's internal control over financial
+reporting. Our audit included consideration of internal control over financial
+reporting as a basis for designing audit procedures that are appropriate in the
+circumstances, but not for the purpose of expressing an opinion on the
+effectiveness of the Company's internal control over financial reporting.
+Accordingly, we express no such opinion. An audit also includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the consolidated
+financial statements, assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of the Company as of
+July 1, 2006 and July 2, 2005 and the results of their operations and their cash
+flows for each of the three years in the period ended July 1, 2006 in conformity
+with accounting principles generally accepted in the United States of America.
+
+
+DIXON HUGHES PLLC
+
+Asheville, North Carolina
+September 28, 2006
+
+                                      -38-
+
+
+
+
+
+<PAGE>
+
+
+
+
+
+
+
+                            WELLCO ENTERPRISES, INC.
+                PRICE RANGE, DIVIDENDS AND MARKET OF COMMON STOCK
+
+                                            Fiscal Year 2006 Quarters
+
+                                       First    Second    Third    Fourth
+-------------------------------------------------------------------------
+Market Price Per Share-
+-------------------------------------------------------------------------
+High                                  $13.97    $12.56   $13.20    $13.45
+-------------------------------------------------------------------------
+Low                                   $10.15    $11.30   $11.95    $11.45
+-------------------------------------------------------------------------
+Per Share Cash Dividend Declared       $0.15     $0.15    $0.15     $0.15
+-------------------------------------------------------------------------
+
+                                            Fiscal Year 2005 Quarters
+
+                                       First    Second    Third    Fourth
+-------------------------------------------------------------------------
+Market Price Per Share-
+-------------------------------------------------------------------------
+High                                  $21.24    $21.00   $16.65    $13.81
+-------------------------------------------------------------------------
+Low                                   $16.60    $14.25   $13.71    $11.70
+-------------------------------------------------------------------------
+Per Share Cash Dividend Declared       $0.15     $0.15    $0.15     $0.15
+-------------------------------------------------------------------------
+
+
+The Company's Common Stock is traded on the American Stock Exchange.
+
+The number of holders of record of Wellco's Common Stock as of September 15,
+2006 was 176.
+
+
+
+
+Registrar and Transfer Agent
+Mellon Shareholders Services
+New York, N. Y.
+
+                                      -39-
+
+
+
+<PAGE>
+
+
+                            WELLCO ENTERPRISES, INC.
+                        SELECTED QUARTERLY FINANCIAL DATA
+                                   (Unaudited)
+                   (In Thousands Except for Per Share Amounts)
+
+
+                                            Fiscal Year 2006 Quarters
+
+                                       First    Second    Third    Fourth
+-------------------------------------------------------------------------
+Revenues                             $ 8,318   $11,041   $13,395  $11,268
+-------------------------------------------------------------------------
+Cost of Sales and Services             8,402    10,127    12,389    9,482
+-------------------------------------------------------------------------
+Net Income (Loss)                       (646)      225       162    1,005
+-------------------------------------------------------------------------
+Basic Earnings (Loss) Per Share        (0.51)     0.18      0.13     0.79
+-------------------------------------------------------------------------
+Fully Diluted Earnings (Loss)
+Per Share                             $(0.51)  $  0.17    $ 0.13   $ 0.79
+-------------------------------------------------------------------------
+
+                                            Fiscal Year 2005 Quarters
+
+                                       First    Second     Third   Fourth
+-------------------------------------------------------------------------
+Revenues                             $10,621   $13,974   $14,646  $11,226
+-------------------------------------------------------------------------
+Cost of Sales and Services             9,387    12,505    13,731    9,609
+-------------------------------------------------------------------------
+Net Income                               397       521       209      780
+-------------------------------------------------------------------------
+Basic Earnings Per Share                0.32      0.41      0.16     0.62
+-------------------------------------------------------------------------
+Fully Diluted Earnings
+Per Share                            $  0.31   $  0.40   $  0.16  $  0.60
+-------------------------------------------------------------------------
+
+                                      -40-
+
+<PAGE>
+
+
+
+Officers and Directors
+LEE FERGUSON
+Chief Executive Officer and President
+
+GEORGE HENSON
+Chairman, Board of Directors
+
+ROLF KAUFMAN
+Vice Chairman of the Board
+
+FRED K. WEBB, Jr.
+Vice President
+
+Officers
+RICHARD WOOD
+Secretary, Attorney, Retired Member of the law firm of McGuire,
+Wood & Bissette, P. A.
+
+TAMMY FRANCIS
+Treasurer, Assistant Secretary and Controller
+
+Neil Streeter
+Vice President of Sales
+
+Directors
+CLAUDE S.  ABERNETHY, Jr.
+Senior Vice President of IJL Wachovia
+
+KATHERINE J. EMERSON
+Information Systems Controller and CPA
+Master Gage and Tool Company
+
+R. DAVID KEMPER President of KemperStrategy, Inc.
+
+JOHN D. LOVELACE
+Vice President of Credit and Collections of United Leasing Corporation
+
+SARAH E. LOVELACE
+Executrix of the estate of James T. Emerson
+
+                                      -41-
+
+<PAGE>
+
+
+
+                                     PART II
+                                     -------
+Items 5, 6, 7, and 8.
+--------------------
+
+The information called for by the following items is in the Company's 2006
+Annual Report to Shareholders which is incorporated starting on the following
+page in this Form 10-K:
+
+                                                                   Annual Report
+                                                                        Page No.
+Item 5.          Market for the Registrant's
+                 Common Equity and Related
+                 Stockholder Matters                                       39
+Item 6.          Consolidated Selected Financial Data                       1
+Item 7.          Management's Discussion and Analysis
+                 of Results of Operations
+                 and Financial Condition                                  5-13
+Item 8.          Consolidated Financial Statements
+                 and Supplementary Data                              14-37, 40
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+-------  ----------------------------------------------------------
+
+We are exposed to interest rate changes primarily as a result of our line of
+credit which we use to maintain liquidity and to fund capital expenditures and
+expansion. Our market risk exposure with respect to this debt is to changes in
+LIBOR. Our line of credit provides for interest on outstanding borrowings at
+rates tied to LIBOR. A 1% increase in interest rates on our current average
+borrowings would have had approximately $ 31,500 impact on income before income
+taxes. We do not enter into derivative or interest rate transactions for
+speculative purposes.
+
+In the normal course of business and consistent with established policies and
+procedures we use the necessary financial instruments to manage the fluctuations
+in interest rates. The Company does not have any foreign currency risk.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+-----------------------------------------------------------------------
+Financial Disclosure.  (None)
+--------------------
+
+Item 9A.  Controls & Procedures
+-------   ---------------------
+
+(a) Evaluation of Disclosure Controls and Procedures
+
+Disclosure controls and procedures are controls and other procedures that are
+designed to ensure that information required to be disclosed in the reports that
+are filed or submitted under the Exchange Act is recorded, processed, summarized
+and reported, within the time periods specified in the Securities and Exchange
+Commission's rules and forms. Disclosure controls and procedures include,
+without limitation, controls and procedures designed to ensure that information
+required to be disclosed in the reports that are filed under the Exchange Act is
+accumulated and communicated to management, including the chief executive
+officer and chief financial officer, as appropriate to allow timely decisions
+regarding required disclosure. Under the supervision of and with the
+participation of management, including the chief executive officer and chief
+financial officer, the Company has evaluated the effectiveness of the design and
+operation of its disclosure controls and procedures as of July 1, 2006, and
+based on its evaluation, our chief executive officer and chief financial officer
+have concluded that these controls and procedures are effective.
+
+
+                                       -6-
+
+<PAGE>
+
+
+
+(b) Changes in Internal Controls
+
+There were no changes in the Company's internal control over financial reporting
+that occurred during the fourth quarter ended July 1, 2006 that have materially
+affected, or are reasonably likely to materially affect, the Company's internal
+control over financial reporting.
+
+
+
+                                    PART III
+                                    --------
+
+Responsive information called for by the following Items 10, 11, 12. 13 and 14,
+except for certain information about executive officers provided and the
+Registrant's Code of Ethics presented below, will be filed not later than 120
+days after the close of the fiscal year with the Securities and Exchange
+Commission in a Proxy Statement dated October 13, 2006, and is incorporated
+herein by reference. After each item and shown in parenthesis is the proxy
+heading for the section containing the responsive information.
+
+Item 10. Directors and Executive Officers of the Registrant.(Board of Directors)
+-------  ----------------------------------------------------
+
+The Proxy Statement will contain information disclosing delinquent filings of
+two Form 3 filers. Lee Ferguson was elected President and Chief Executive
+Officer and appointed a Director effective March 20, 2006 and he failed to file
+a Form 3 on a timely basis. Neil Streeter was elected Vice President of Sales on
+April 18, 2006 and he failed to file a Form 3 on a timely basis.
+
+     Identification of Executive Officers and Certain Significant Employees:
+     ----------------------------------------------------------------------
+
+
+Name                               Age      Office
+Lee Ferguson                        55      President and Chief Executive
+                                            Officer
+George Henson                       63      Chairman, Board of Directors
+Rolf Kaufman                        76      Vice Chairman, Board of Directors
+Neil Streeter                       44      Vice President of Sales
+Fred K. Webb, Jr.                   46      Vice President
+Richard A. Wood, Jr.                69      Secretary
+Tammy Francis, CPA                  47      Controller, Treasurer and
+                                            Assistant Secretary
+
+Effective  March 20,  2006,  Lee  Ferguson was  appointed  as  President,  Chief
+Executive  Officer,  and a Director of the Company.  Mr. Ferguson is 55 years of
+age. Mr.  Ferguson served as President of the Armor and Defense Group of Arotech
+Company, Inc., in Auburn, AL, from June, 2005 until December, 2005. He served as
+Chief Operating Officer of Specialty  Defense Systems in Dunmore,  PA from June,
+2002 to June 2005. Mr. Ferguson served as President and Chief Operating  Officer
+of BIKE Athletic Company, in Knoxville, TN, from August, 1994 to June, 2002.
+
+Effective  February 15, 2006, Mr. Henson was elected as Chairman of the Board of
+Directors. Also, Mr. Henson was elected as a director at the November 15, 2005
+
+                                       -7-
+
+<PAGE>
+
+
+
+Annual Stockholders meeting. From 1999 until 2000, he was Operations Senior Vice
+President at Blue Ridge Paper  Products,  Inc. From 2000 until his retirement in
+2002, he was President and Chief Executive Officer of Blue Ridge Paper Products,
+Inc.  From 1969 through  1999,  he was  employed  with  Weyerhaeuser  Company in
+various engineering and corporate management positions.
+
+Mr. Streeter was elected to Vice President of Sales in April 2006. He has been
+an employee with the Company since August 2003. From 1999 until August 2003, he
+was a North American sales manager for Kockner Desma, in Achim, Germany.
+
+Mr. Webb has been a director since 1996 and an employee with the Company since
+August 1998. In November 2005, Mr. Webb was elected to Vice President. In
+February 1999, Mr. Webb was elected Vice President of Marketing.
+
+Ms. Francis has been Controller since October, 1996 and was elected Treasurer in
+2003 and Assistant Secretary in 1998.
+
+Executive officers are elected by the Board of Directors to serve a term of one
+year. There are no arrangements or understandings pursuant to which any of the
+officers are elected, and all are elected to serve for one year terms.
+
+The Registrant has a Code of Conduct and Ethics that applies to, among others,
+its principal executive officer, principal financial officer and principal
+accounting officer or controller.
+
+Item 11. Executive Compensation.  (Executive Compensation)
+-------  ----------------------
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management.
+-------  --------------------------------------------------------------
+Security Ownership)
+
+Item 13. Certain Relationships and Related Transactions.
+-------  ----------------------------------------------
+(Board of Directors/Security Ownership)
+
+Since the beginning of the 2006 fiscal year, no executive officer of the
+Registrant or member of his immediate family or record or beneficial owner of
+more than 5% of the Company's stock has had any transaction or series of similar
+transactions with the Registrant or any of its subsidiaries exceeding $60,000,
+and there are no currently proposed transactions exceeding $60,000.
+
+Since the beginning of the 2006 fiscal year, no -
+         (1)      executive officer of the Registrant or member of his immediate
+                  family,
+         (2)      corporation or organization of which any such person is an
+                  executive officer, partner, owner or 10% or more beneficial
+                  owner, or
+         (3)      trust or other estate in which any such person has a
+                  substantial interest or as to which such person serves as
+                  trustee or in a similar capacity, was indebted to the
+                  Registrant or its subsidiaries in an amount exceeding $60,000.
+
+Item 14.  Principal Accountant Fees and Services.  (Independent Auditors Fees
+--------  --------------------------------------
+and Services)
+
+
+
+
+
+                                       -8-
+
+<PAGE>
+
+
+
+                                     PART IV
+                                     -------
+
+Item 15.  Exhibits and  Financial Statement Schedules.
+-------   -------------------------------------------
+
+(a) The following documents are filed as a part of this report:
+
+1. All Financial Statements
+---------------------------
+
+                                                                           Page
+                                                                         Number
+-------------------------------------------------------------------------------
+The following consolidated financial statements of Wellco
+Enterprises, Inc. are in the Registrant's 2006 Annual Report
+to Shareholders which is integrated into Part II of this
+Form 10-K immediately after page 5
+--------------------------------------------------------------------------------
+Consolidated Balance Sheets  - at July 1, 2006  and July 2, 2005          15-16*
+--------------------------------------------------------------------------------
+Consolidated Statements of Operations and Comprehensive Income -
+for the years ended July 1, 2006, July 2, 2005 and  July 3, 2004             14*
+--------------------------------------------------------------------------------
+Consolidated Statements of Cash Flows - for the years ended
+July 1, 2006, July 2, 2005 and July 3, 2004                               17-18*
+--------------------------------------------------------------------------------
+Consolidated Statements of Stockholders' Equity - for the years
+ended July 1, 2006, July 2, 2005 and July 3, 2004                            19*
+--------------------------------------------------------------------------------
+Report of Independent Registered Public Accounting Firm                      38*
+--------------------------------------------------------------------------------
+Notes to Consolidated Financial Statements                                20-37*
+--------------------------------------------------------------------------------
+
+* Page number in the 2006 Annual Report to Shareholders included in Part II of
+this Form 10-K.
+
+
+2. Financial Statement Schedules
+
+
+                                                                           Page
+                                                                         Number
+--------------------------------------------------------------------------------
+Schedule II       Valuation and Qualifying Accounts                         22
+--------------------------------------------------------------------------------
+All other schedules are omitted because they are not applicable or not required.
+
+
+3. Exhibits
+
+Exhibit                                                                    Page
+ Number          Description                                             Number
+--------------------------------------------------------------------------------
+    3            Articles of Incorporation and By-Laws                     (f)
+-------------------------------------------------------------------------------
+   10            Material Contracts:
+--------------------------------------------------------------------------------
+
+
+                                       -9-
+
+<PAGE>
+
+
+
+Exhibit                                                                    Page
+Number           Description                                             Number
+--------------------------------------------------------------------------------
+                 A. 1996 Stock Option Plan for Key Employees
+                 of Wellco Enterprises, Inc.*                               (a)
+--------------------------------------------------------------------------------
+                 B. 1997 Stock Option Plan for Key Employees
+                 of Wellco Enterprises, Inc.*                               (b)
+--------------------------------------------------------------------------------
+                 C. 1997 Stock Option Plan for Non-Employee
+                 Directors of Wellco Enterprises, Inc.*                     (c)
+--------------------------------------------------------------------------------
+                 D. 1999 Stock Option Plan for Key Employees
+                 of Wellco Enterprises, Inc.*                               (d)
+--------------------------------------------------------------------------------
+                 E. 1999 Stock Option Plan for Non-Employee
+                 Directors of Wellco Enterprises, Inc.*                     (e)
+--------------------------------------------------------------------------------
+                 F.  Exhibit was filed in Part IV of Form 10-K
+                 for the fiscal year ended July 3, 2004 and is
+                 incorporated herein by reference.                          (f)
+--------------------------------------------------------------------------------
+                 G.  Resignation Agreement and Release of Claims*           (h)
+--------------------------------------------------------------------------------
+                 H.  Employment Agreement*                                  (I)
+--------------------------------------------------------------------------------
+       14        Code of Conduct and Ethics                                 (g)
+--------------------------------------------------------------------------------
+       21        Subsidiaries of Registrant                                 14
+--------------------------------------------------------------------------------
+       23        Consent of Expert                                          15
+--------------------------------------------------------------------------------
+       31        Certifications of the Chief Executive Officer
+                 and Chief Financial Officer under Section 302
+                 of the Sarbanes-Oxley Act of 2002, filed herewith.    16 - 19
+--------------------------------------------------------------------------------
+       32        Certifications of the Chief Executive Officer
+                 and Chief Financial Officer under Section 906
+                 of the Sarbanes-Oxley Act of 2002, filed herewith.     20 -21
+--------------------------------------------------------------------------------
+
+
+* Management Compensation Arrangement/Plan.
+
+Copies of the below  listed  exhibits  may be  obtained  on  written  request to
+Corporate  Secretary,  Wellco  Enterprises,  Inc., Box 188,  Waynesville,  N. C.
+28786.
+
+         (a)      Exhibit was filed as Exhibit A to the Proxy Statement dated
+                  October 18, 1996, and is incorporated herein by reference.
+         (b)      Exhibit was filed as Exhibit A to the Proxy Statement dated
+                  October 17, 1997, and is incorporated herein by reference.
+         (C)      Exhibit was filed as Exhibit B to the Proxy Statement dated
+                  October 17, 1997, and is incorporated herein by reference.
+         (d)      Exhibit was filed as Exhibit A to the Proxy Statement dated
+                  October 13, 2000, and is incorporated herein by reference.
+         (e)      Exhibit was filed as Exhibit B to the Proxy Statement dated
+                  October 13, 2000, and is incorporated herein by reference.
+
+                                      -10-
+
+<PAGE>
+
+
+
+         (f)      Exhibit was filed in Part IV of Form 10-K for the fiscal year
+                  ended July 3, 2004, and is incorporated herein by reference.
+         (g)      Exhibit was filed in Part IV of Form 10-K for the fiscal year
+                  ended July 3, 2004, and is incorporated herein by reference.
+         (h)      Exhibit was filed in Form 8-K dated April 25, 2006, and is
+                  incorporated herein by reference.
+         (i)      Exhibit was filed in Form 8-K dated March 17, 2006, and is
+                  incorporated herein by reference.
+
+
+
+
+
+
+                                      -11-
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, Wellco Enterprises, Inc. has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+WELLCO ENTERPRISES, INC.
+
+
+
+/s/ Lee Ferguson
+By: Lee Ferguson, Chief Executive Officer, President
+(Chief Executive Officer)
+
+
+/s/ Tammy Francis
+By: Tammy Francis, Controller and Treasurer
+ (Chief Financial Officer)
+
+
+Date: September 28, 2006
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the Registrant and
+in the capacities and on the dates indicated:
+
+
+/s/ George Henson                                         /s/ Rolf Kaufman
+George Henson, Director                                   Rolf Kaufman, Director
+
+
+/s/ Lee Ferguson                                  /s/ Claude Abernethy, Jr.
+Lee Ferguson, Director                            Claude Abernethy, Jr. Director
+
+
+/s/ Fred K. Webb, Jr.
+Fred K. Webb, Jr.,  Director
+
+
+
+Date: September 28, 2006
+
+
+
+
+
+
+
+
+
+                                      -12-
+
+<PAGE>
+
+
+
+
+
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+To The Board of Directors and Stockholders
+ of Wellco Enterprises, Inc.
+Waynesville, North Carolina
+
+We have audited the accompanying consolidated balance sheets of Wellco
+Enterprises, Inc. and subsidiaries (the "Company") as of July 1, 2006 and July
+2, 2005 and the related consolidated statements of operations and comprehensive
+income, stockholders' equity, and cash flows for each of the three years in the
+period ended July 1, 2006. Our audits also included the financial statement
+schedule listed in the Index at Item 15(a)(2).These consolidated financial
+statements and the financial statement schedule are the responsibility of the
+Company's management. Our responsibility is to express an opinion on these
+consolidated financial statements and the schedule based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the
+consolidated financial statements and schedule are free of material
+misstatement. We were not engaged to perform an audit of the Company's internal
+control over financial reporting. Our audit included consideration of internal
+control over financial reporting as a basis for designing audit procedures that
+are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Company's internal control over financial
+reporting. Accordingly, we express no such opinion. An audit also includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the consolidated financial statements, assessing the accounting principles used
+and significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of the Company as of
+July 1, 2006 and July 2, 2005 and the results of their operations and their cash
+flows for each of the three years in the period ended July 1, 2006 in conformity
+with accounting principles generally accepted in the United States of America.
+Also, in our opinion, such financial statement schedule, when considered in
+relation to the basic consolidated financial statements taken as a whole
+presents fairly, in all material respects, the information set forth therein.
+
+
+
+
+
+DIXON HUGHES PLLC
+
+Asheville, North Carolina
+September 28, 2006
+
+
+
+
+
+
+                                      -13-
+
+<PAGE>
+
+
+
+                                                                     Exhibit 21
+                            WELLCO ENTERPRISES, INC.
+                         SUBSIDIARIES OF THE REGISTRANT
+
+
+                                                            Percentage of Voting
+                                 Jurisdiction of             Securities Owned by
+Name of Company                  Incorporation                  Immediate Parent
+--------------------------------------------------------------------------------
+Wellco Enterprises, Inc.         North Carolina                    Registrant
+--------------------------------------------------------------------------------
+Wholly-Owned Subsidiaries:
+--------------------------------------------------------------------------------
+Ro-Search, Incorporated          North Carolina                       100%
+--------------------------------------------------------------------------------
+Mo-Ka Shoe Corporation           Delaware                             100%
+--------------------------------------------------------------------------------
+All of the Registrant's wholly-owned subsidiaries are included in the
+consolidated financial statements.
+
+
+
+
+
+
+
+
+
+                                      -14-
+
+<PAGE>
+
+
+
+                                                                    Exhibit 23
+
+                            WELLCO ENTERPRISES, INC.
+            CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+We consent to the  incorporation by reference in the Registration  Statement No.
+1-333-72824  of  Wellco  Enterprises,  Inc.  on  Form  S-8 of our  report  dated
+September  28,  2006  appearing  in this  Annual  Report  on Form 10-K of Wellco
+Enterprises, Inc. for the fiscal year ended July 1, 2006.
+
+
+
+DIXON HUGHES PLLC
+
+Asheville, North Carolina
+September 28, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -15-
+
+<PAGE>
+
+
+
+                                                                     Exhibit 31
+                            WELLCO ENTERPRISES, INC.
+                FORM 10-K FOR THE FISCAL YEAR ENDED JULY 1, 2006
+              CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO
+           18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 302
+                        OF THE SARBANES-OXLEY ACT OF 2002
+
+
+
+I, Lee Ferguson, certify that:
+
+1.       I have reviewed this annual report on Form 10-K of Wellco Enterprises,
+         Inc.(the registrant);
+
+2.       Based on my knowledge, this annual report does not contain any untrue
+         statement of a material fact or omit to state a material fact necessary
+         to make the statements made, in light of the circumstances under which
+         such statements were made, not misleading with respect to the period
+         covered by this annual report;
+
+3        Based on my knowledge, the financial statements, and other financial
+         information included in this annual report, fairly present in all
+         material respects the financial condition, results of operations and
+         cash flows of the registrant as of, and for, the periods presented in
+         this annual report;
+
+4.       The registrant's other certifying officer and I are responsible for
+         establishing and maintaining disclosure controls and procedures (as
+         defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+         registrant and have:
+
+                  (a) Designed such disclosure controls and procedures, or
+                  caused such disclosure controls and procedures to be designed
+                  under our supervision, to ensure that material information
+                  relating to the registrant, including its consolidated
+                  subsidiaries, is made known to us by others within those
+                  entities, particularly during the period in which this report
+                  is being prepared;
+
+                  (b) Evaluated the effectiveness of the registrant's disclosure
+                  controls and procedures and presented in this report our
+                  conclusions about the effectiveness of the disclosure controls
+                  and procedures, as of the end of the period covered by this
+                  report based on such evaluation; and
+
+                  (C) Disclosed in this report any change in the registrant's
+                  internal controls over financial reporting that occurred
+                  during the registrant's fourth fiscal quarter that has
+                  materially affected, or is reasonably likely to materially
+                  affect, the registrant's internal control over financial
+                  reporting; and
+
+5.       The registrant's other certifying officer and I have disclosed, based
+         on our most recent evaluation of internal control over financial
+         reporting, to the registrant's auditors and the audit committee of the
+         registrant's board of directors (or persons performing the equivalent
+         functions):
+
+                  (a) All significant deficiencies and material weaknesses in
+                  the design or operation of internal control over financial
+                  reporting which are reasonably likely to adversely affect the
+                  registrant's ability to record, process, summarize and report
+                  financial information; and
+
+                                      -16-
+
+<PAGE>
+
+
+
+                  (b) Any fraud, whether or not material, that involves
+                  management or other employees who have a significant role in
+                  the registrant's internal control over financial reporting.
+
+
+Date: September 28, 2006
+
+/s/ Lee Ferguson
+By: Lee Ferguson, Chief Executive Officer and President
+(Chief Executive Officer)
+
+
+
+
+
+
+
+
+                                      -17-
+
+<PAGE>
+
+
+
+
+                                                                     Exhibit 31
+
+                            WELLCO ENTERPRISES, INC.
+                FORM 10-K FOR THE FISCAL YEAR ENDED JULY 1, 2006
+              CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO
+           18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 302
+                        OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Tammy Francis, certify that:
+
+1.       I have reviewed this annual report on Form 10-K of Wellco Enterprises,
+         Inc.(the registrant);
+
+2.       Based on my knowledge, this annual report does not contain any untrue
+         statement of a material fact or omit to state a material fact necessary
+         to make the statements made, in light of the circumstances under which
+         such statements were made, not misleading with respect to the period
+         covered by this annual report;
+
+3        Based on my knowledge, the financial statements, and other financial
+         information included in this annual report, fairly present in all
+         material respects the financial condition, results of operations and
+         cash flows of the registrant as of, and for, the periods presented in
+         this annual report;
+
+4.       The registrant's other certifying officer and I are responsible for
+         establishing and maintaining disclosure controls and procedures (as
+         defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+         registrant and have:
+
+                  (a) Designed such disclosure controls and procedures, or
+                  caused such disclosure controls and procedures to be designed
+                  under our supervision, to ensure that material information
+                  relating to the registrant, including its consolidated
+                  subsidiaries, is made known to us by others within those
+                  entities, particularly during the period in which this report
+                  is being prepared;
+
+                  (b) Evaluated the effectiveness of the registrant's disclosure
+                  controls and procedures and presented in this report our
+                  conclusions about the effectiveness of the disclosure controls
+                  and procedures, as of the end of the period covered by this
+                  report based on such evaluation; and
+
+                  (c) Disclosed in this report any change in the registrant's
+                  internal controls over financial reporting that occurred
+                  during the registrant's fourth fiscal quarter that has
+                  materially affected, or is reasonably likely to materially
+                  affect, the registrant's internal control over financial
+                  reporting; and
+
+5.       The registrant's other certifying officer and I have disclosed, based
+         on our most recent evaluation of internal control over financial
+         reporting, to the registrant's auditors and the audit committee of the
+         registrant's board of directors (or persons performing the equivalent
+         functions):
+
+                  (a) All significant deficiencies and material weaknesses in
+                  the design or operation of internal
+
+                                      -18-
+
+<PAGE>
+
+
+
+                  control over financial reporting which are reasonably likely
+                  to adversely affect the registrant's ability to record,
+                  process, summarize and report financial information; and
+
+                  (b) Any fraud, whether or not material, that involves
+                  management or other employees who have a significant role in
+                  the registrant's internal control over financial reporting.
+
+
+Date: September 28, 2006
+
+         /s/ Tammy Francis
+By: Tammy Francis, Controller and Treasurer
+ (Chief Financial Officer)
+
+
+
+
+                                      -19-
+
+<PAGE>
+
+
+
+
+                                                                    Exhibit 32
+
+                            WELLCO ENTERPRISES, INC.
+                FORM 10-K FOR THE FISCAL YEAR ENDED JULY 1, 2006
+              CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO
+           18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906
+                        OF THE SARBANES-OXLEYACT OF 2002
+
+
+I, Lee Ferguson, certify that:
+
+1.       I am the chief executive officer of Wellco Enterprises, Inc.
+
+2.       Attached to this certification is Form 10-K for the fiscal year ended
+         July 1, 2006, a periodic report (the "periodic report") filed by the
+         issuer with the Securities Exchange Commission pursuant to Section
+         13(a) or 15(d) of the Securities Exchange Act of 1934 (the "Exchange
+         Act:), which contains financial statements.
+
+3        I hereby certify, pursuant to 18 U.S.C.  Section 1350, as adopted
+         pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that
+                  o        the periodic report containing the financial
+                           statements fully complies with the requirements of
+                           Section 13(a) or 15(d) of the Exchange Act, and
+                  o        the information in the periodic report fairly
+                           presents, in all material respects, the financial
+                           condition and results of operations of the issuer for
+                           the periods presented.
+
+
+Date: September 28, 2006
+
+/s/ Lee Ferguson
+By: Lee Ferguson, Chief Executive Officer and President
+(Chief Executive Officer)
+
+A signed original of this written statement required by Section 906 has been
+provided to the Company and will be retained by Wellco Enterprises Inc. and
+furnished to the Securities and Exchange Commission or its staff upon request.
+
+This certification will not be deemed "filed" for purposes of Section 18 of the
+Securities Exchange Act of 1934, or otherwise subject to the liability of that
+section. This certification will not be deemed to be incorporated by reference
+into any filing under the Securities Act of 1933 or the Securities Exchange Act
+of 1934 even if the document with which it is submitted to the Securities and
+Exchange Commission is so incorporated by reference.
+
+
+
+                                      -20-
+
+<PAGE>
+
+
+
+
+
+                                                                    Exhibit 32
+
+                            WELLCO ENTERPRISES, INC.
+                FORM 10-K FOR THE FISCAL YEAR ENDED JULY 1, 2006
+              CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO
+           18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906
+                       OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Tammy Francis, certify that:
+
+1.       I am the chief financial officer of Wellco Enterprises, Inc.
+
+2.       Attached to this certification is Form 10-K for the fiscal year ended
+         July 1, 2006, a periodic report (the "periodic report") filed by the
+         issuer with the Securities Exchange Commission pursuant to Section
+         13(a) or 15(d) of the Securities Exchange Act of 1934 (the "Exchange
+         Act:), which contains financial statements.
+
+3        I hereby certify, pursuant to 18 U.S.C.  Section 1350, as adopted
+         pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that
+
+                  o        the periodic report containing the financial
+                           statements fully complies with the requirements of
+                           Section 13(a) or 15(d) of the Exchange Act, and
+                  o        the information in the periodic report fairly
+                           presents, in all material respects, the financial
+                           condition and results of operations of the issuer for
+                           the periods presented.
+
+Date: September 28, 2006
+
+
+/s/ Tammy Francis
+By: Tammy Francis, Controller and Treasurer
+(Chief Financial Officer)
+
+A signed original of this written statement required by Section 906 has been
+provided to the Company and will be retained by Wellco Enterprises Inc. and
+furnished to the Securities and Exchange Commission or its staff upon request.
+
+This certification will not be deemed "filed" for purposes of Section 18 of the
+Securities Exchange Act of 1934, or otherwise subject to the liability of that
+section. This certification will not be deemed to be incorporated by reference
+into any filing under the Securities Act of 1933 or the Securities Exchange Act
+of 1934 even if the document with which it is submitted to the Securities and
+Exchange Commission is so incorporated by reference.
+
+
+
+                                      -21-
+
+<PAGE>
+
+
+
+                                                                    SCHEDULE II
+
+             WELLCO ENTERPRISES, INC. AND WHOLLY-OWNED SUBSIDIARIES
+    VALUATION ACCOUNTS FOR THE FISCAL YEARS ENDED July 1, 2006, JULY 2, 2005
+                                AND JULY 3, 2004
+
+
+                       Balance at    Additions
+                     Beginning of   Charged to                   Balance at End
+Description                  Year   Income (A)   Deductions(B)          of Year
+Allowance for
+Doubtful Accounts-
+--------------------------------------------------------------------------------
+2006                         $37         10           -                  $47
+--------------------------------------------------------------------------------
+2005                         $37         -            -                  $37
+--------------------------------------------------------------------------------
+2004                         $28         10           1                  $37
+--------------------------------------------------------------------------------
+
+(A) Additions for allowance for doubtful accounts. (B) Write-off of
+uncollectible accounts.
+
+
+
+                                      -22-
+
+<PAGE>
+
+
+
+
+</TEXT>
+</DOCUMENT>
+

@@ -1,0 +1,2082 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>form10k05.txt
+<TEXT>
+
+
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+            [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+     For the fiscal year ended June 30, 2005Commission file number: 1-10434
+
+                      The Reader's Digest Association, Inc.
+             (Exact name of registrant as specified in its charter)
+
+                     Delaware                       13-1726769
+         (State or other jurisdiction of         (I.R.S. Employer
+          incorporation or organization)        Identification No.)
+
+             Pleasantville, New York                  10570
+     (Address of principal executive offices)       (Zip Code)
+
+
+      Registrant's telephone number, including area code: (914) 238-1000
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                            Name of each exchange
+            Title of each class              on which registered
+                Common Stock               New York Stock Exchange
+          par value $.01 per share
+
+
+
+Securities registered pursuant to Section 12(g) of the Act:    None
+
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.  Yes [X]  No [   ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to
+the best of the registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.  [  ]
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act).  Yes [X]  No [   ]
+
+Indicate by check mark whether the registrant is a shell company (as defined
+in Rule 12b-2 of the Act).  Yes [   ]  No [X]
+
+The aggregate market value of registrant's voting and non-voting equity held
+by non-affiliates of registrant, as of December 31, 2004, the last business
+day of the registrant's most recently completed second fiscal quarter, was
+approximately $1,384,670,000 based on the closing price of registrant's
+Common Stock on the New York Stock Exchange--Composite Transactions on such
+date.
+
+At July 31, 2005, 99,146,516 shares of the registrant's Common Stock were
+outstanding.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+Annual Report to Stockholders of The Reader's Digest Association, Inc. for
+the fiscal year ended June 30, 2005.  Certain information therein is
+incorporated by reference into Part I and Part II hereof.
+
+Proxy Statement for the Annual Meeting of Stockholders of The Reader's Digest
+Association, Inc. to be held on November 18, 2005.  Certain information
+therein is incorporated by reference into Part III hereof.
+
+
+
+<PAGE>
+
+
+
+                               TABLE OF CONTENTS
+
+                                                                         Page
+PART I
+
+    ITEM 1.BUSINESS....................................................    1
+      Reportable Segments..............................................    1
+        Reader's Digest North America..................................    1
+        Reader's Digest International..................................    1
+        Consumer Business Services.....................................    2
+      Books and Home Entertainment and Reiman Books....................    2
+        Select Editions................................................    2
+        Reader's Digest Young Families.................................    2
+        Series Books...................................................    3
+        General Books..................................................    3
+        Reiman Books...................................................    3
+        Music..........................................................    3
+        Video..........................................................    4
+        Production and Fulfillment.....................................    4
+      Reader's Digest Magazine, Reiman Magazines and Special
+       Interest Magazines..............................................    5
+        Circulation and Advertising....................................    6
+        Reader's Digest and Reiman Magazine Editorial..................    7
+        Internet Initiatives...........................................    7
+        Complementary Reiman Businesses................................    7
+        Reader's Digest Trade Publishing...............................    8
+        Production and Fulfillment.....................................    8
+      Consumer Business Services.......................................    9
+        Books Are Fun, Ltd.............................................    9
+        QSP............................................................   10
+      Marketing........................................................   10
+      Information Technology and Customer Database Enhancement.........   11
+      Competition and Trademarks.......................................   12
+      Employees........................................................   12
+      Executive Officers...............................................   13
+      Available Information............................................   14
+
+    ITEM 2.PROPERTIES..................................................   15
+
+    ITEM 3.LEGAL PROCEEDINGS...........................................   15
+
+    ITEM 4.SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.........   15
+
+
+PART II
+
+    ITEM 5.MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED
+           STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY
+           SECURITIES..................................................   16
+      Purchases of Equity Securities by the Issuer and
+       Affiliated Purchasers...........................................   16
+      Recent Sales of Unregistered Securities..........................   16
+
+    ITEM 6.SELECTED FINANCIAL DATA.....................................   16
+
+    ITEM 7.MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+           CONDITION AND RESULTS OF OPERATION..........................   17
+
+
+<PAGE>
+
+
+                               TABLE OF CONTENTS
+                                  (Continued)
+
+                                                                        Page
+
+    ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT
+             MARKET RISK..............................................   18
+
+    ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA..............   18
+
+    ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+             ON ACCOUNTING AND FINANCIAL DISCLOSURE...................   18
+
+    ITEM 9A. CONTROLS AND PROCEDURES..................................   19
+      Disclosure Controls and Procedures..............................   19
+      Internal Control Over Financial Reporting.......................   19
+
+    ITEM 9B. OTHER INFORMATION........................................   19
+
+PART III
+
+    ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.......   20
+      Code of Ethics..................................................   20
+
+    ITEM 11. EXECUTIVE COMPENSATION...................................   20
+
+    ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+             AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS...........   21
+      Equity Compensation Plan Information............................   21
+      Security Ownership Information..................................   21
+
+    ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS...........   21
+
+    ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES...................   21
+
+
+PART IV
+
+    ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES...............   22
+
+    SIGNATURES........................................................   28
+
+    INDEX TO CONSOLIDATED FINANCIAL STATEMENTS........................   29
+
+
+  Unless the context otherwise requires, references in this Annual Report on
+   Form 10-K to "Reader's Digest," "we," "us" and "our" are to The Reader's
+                Digest Association, Inc. and its subsidiaries.
+
+
+<PAGE>
+
+
+
+                                    PART I
+ITEM 1. BUSINESS
+
+      We are a global leader in publishing and direct marketing, and we create
+and deliver products that inform, enrich, entertain and inspire, including
+magazines, books, recorded music collections and home videos.
+
+      We are a Delaware corporation, originally incorporated in New York in
+1926 and then reincorporated in Delaware in 1951.  The mailing address of our
+principal executive offices is Pleasantville, New York 10570, and our
+telephone number is (914) 238-1000.
+
+      We are best known for publishing our flagship, Reader's Digest
+magazine.  DeWitt and Lila Acheson Wallace founded Reader's Digest magazine
+in 1922.  Today, Reader's Digest has a worldwide circulation of about 19
+million and about 80 million readers each month.  Reader's Digest is
+published in 48 editions and 19 languages.
+
+
+Reportable Segments
+
+      Our internal management organization reflects three reportable segments:
+Reader's Digest North America, Reader's Digest International and Consumer
+Business Services.
+
+   Reader's Digest North America
+
+      This segment comprises our operations in the United States and Canada
+that:
+
+   -  publish and market (primarily through direct marketing) Reader's Digest
+      magazine, Our Canada magazine and several special interest magazines
+   -  publish and market (primarily through direct marketing) the magazines
+      and books of, and operate the complementary businesses of, our Reiman
+      Media Group, Inc. subsidiary
+   -  publish and market (primarily through direct marketing) books and home
+      entertainment products, which include Select Editions, Reader's Digest
+      Young Families, music and video products, and  series and general books
+      related to some or all of the following affinities: reading, home and
+      health, and entertainment
+   -  publish and market (primarily through retail and direct marketing
+      channels) books and home entertainment products of Children's Publishing
+
+   Reader's Digest International
+
+      This segment comprises our operations outside of the United States and
+Canada that:
+
+   -  publish and market (primarily through direct marketing) books and home
+      entertainment products (described above), Reader's Digest magazine in
+      numerous editions and languages and special interest magazines, and
+      include the results of financial services marketing alliances
+   -  establish and develop the operations of other new business development
+      initiatives, including entering new geographic markets, developing new
+      products, acquiring customers through new channels and expanding U.S.
+      business models into markets outside North America
+
+
+
+<PAGE>
+
+
+
+
+   Consumer Business Services
+
+      This segment comprises our operations that:
+
+   -  sell books and gift items by display marketing products on-site through
+      independent sales representatives at schools and businesses through
+      Books Are Fun, Ltd. in the United States and Canada
+   -  sell our magazines and other publishers' magazines and other products
+      through youth fundraising campaigns of QSP, Inc. in the United States
+      and Quality Service Programs, Inc. in Canada (QSP Canada)
+
+      Financial information about each of our reportable segments is included
+in Note 14 to our consolidated financial statements, which are incorporated
+by reference into this report.
+
+
+Books and Home Entertainment and Reiman Books
+
+      Our books and home entertainment products consist of Reader's Digest
+Select Editions, Reader's Digest Young Families, series books, general books,
+recorded music collections and series, and home video products and series.
+We market these products principally by direct mail through our Reader's
+Digest North America and Reader's Digest International reportable segments.
+Consumer Business Services also sells Reader's Digest books and home
+entertainment products by display marketing those products on-site at schools
+and businesses through Books Are Fun and through the youth fundraising
+campaigns of QSP, Inc.  For more information about how we market our books
+and home entertainment products, please refer to the section of this report
+captioned "Marketing."
+
+
+   Select Editions
+
+      Reader's Digest Select Editions, which were formerly called "Condensed
+Books" in many markets, are a continuing series of condensed versions of
+current popular fiction.  A condensed work reduces the length of an existing
+text while retaining the author's style, integrity and purpose.  We publish
+Select Editions in 14 languages and sell them in the United States, Canada
+and 27 other countries.  We generally publish six volumes of Select Editions
+a year.  Some of our international subsidiaries publish four or five volumes
+a year.
+
+      International editions of Select Editions generally include some
+material from the U.S. edition or from other international editions,
+translated and edited as appropriate.  International editions also include
+some condensed versions of locally published works.  Each local editorial
+staff determines whether existing Select Editions selections are appropriate
+for their local market.
+
+
+   Reader's Digest Young Families
+
+      Reader's Digest Young Families sells products for children up to age
+eight, primarily through direct mail and telemarketing.  The division's
+products include interactive books, such as Sesame Street ABCs, and videos,
+such as The Country Mouse and the City Mouse.  Young Families sells its
+products principally in the United States.
+
+
+
+
+<PAGE>
+
+
+
+   Series Books
+
+      We market two types of series books--reading series and illustrated
+series.  These book series may be either open-ended and continuing or
+closed-ended, consisting of a limited number of volumes.  We publish reading
+series books in four languages and sell them in the United States, Canada and
+10 other countries.  One of our reading series is The World's Best Reading,
+which consists of full-length editions of classic works of literature.  We
+publish six volumes of The World's Best Reading each year in the United
+States, Canada and two other countries and in two languages.  We publish
+illustrated series, which are generally closed-ended, in six languages and
+sell them in 11 countries.
+
+
+   General Books
+
+      Our general books consist primarily of reference books, cookbooks,
+"how-to" and "do-it-yourself" books, and children's books, some of which we
+publish in series.  We also publish books on subjects such as history,
+travel, religion, health, nature, home, computers and puzzles.  We publish
+general books in 21 languages and sell them in the United States, Canada and
+39 other countries.
+
+      New general books are usually original Reader's Digest books, but may
+also be books acquired from other publishers.  During the development period
+for an original Reader's Digest book, we conduct extensive research and
+prepare an appropriate marketing strategy for the book.
+
+      We sell most copies of general books through initial bulk promotional
+mailings.  We also sell substantial additional copies through subsequent
+promotions, through catalog sales and through the use of sales inserts in
+mailings for other Reader's Digest products.  We also distribute our general
+books for retail sale in stores through independent distributors and through
+Books Are Fun and QSP.
+
+
+   Reiman Books
+
+        Reiman leverages its magazine brand equity, reader loyalty and
+editorial capability by publishing and marketing books that complement its
+magazines.  Reiman principally markets annual editions of books, which are
+created primarily from magazine content from the prior year, and single sales
+products.  In fiscal 2005, Reiman published and sold 4.0 million books.
+Reiman has 13 annual book programs (including one program that was launched
+in fiscal 2005) that are marketed on a continuity basis, with customers
+agreeing to receive future editions of the books unless they respond to an
+annual prepublication notice.  Annual books constitute about 90% of unit
+volume, of which about 63% are renewals.  Reiman markets most of its books
+through solo direct mail in which Reiman sends a promotion featuring one book
+to names from its customer database and outside lists.  Reiman sells its
+books by offering a free preview period during which the customer agrees to
+examine the book before purchasing it.  If they do not wish to purchase the
+book, they can return it without further obligation.
+
+
+   Music
+
+      Our music collections, released on compact discs and cassettes in the
+United States and 34 other countries, span a broad range of musical styles,
+ranging from classical to pop and from local folk to "relaxation" music.  We
+offer both international and local repertoires, which reflect our customers'
+tastes and expectations.  In most markets, we also sell music series in
+various musical genres.
+
+      We license existing recordings from major record companies and sponsor
+our own recordings with the world's most renowned orchestras and with
+international and local artists.  We also continue to acquire rights to
+master recordings.  Our music vault consists of approximately 10,000
+selections, which we use in our music collections around the world.  We have
+digitized a major part of these selections for online access.  We also
+license our selections to third parties for retail sales or for movie
+synchronization.
+
+      We are a member of the Recording Industry Association of America in the
+United States, and we have been recognized with 51 gold, platinum and
+multi-platinum certificates.  In several other countries, we are a member of
+the International Federation of the Phonographic Industry.
+
+
+   Video
+
+      Our single sales and series home video products reflect the core
+interests of our global customers--travel, natural history, history and
+children's animated programs.  We market a range of video products through
+direct response channels in the United States and 25 other countries.  In
+some countries, we also sell our home video products through retail outlets.
+
+      We are working with award-winning production companies in the United
+States, Europe and Australia to create original programs with very high
+editorial and production standards--programs that are intended to stand out in
+a competitive marketplace.  Most of our original documentary programs are
+also being licensed to broadcasters worldwide.  We are creating an archive of
+valuable footage for potential use in future productions and are creating
+multi-lingual DVDs of our programs for customers in markets worldwide.
+
+
+   Production and Fulfillment
+
+      We hire independent contractors to print and bind the various editions
+of Select Editions.  We have an agreement through 2007 with a printing
+company for printing the English-language Select Editions distributed in the
+United States and Canada.  The majority of all other U.S. book products we
+produce are printed by several independent contractors.  We usually hire
+independent contractors to produce and manufacture our music and video
+products.
+
+      Paper is the principal raw material necessary for production of our
+Select Editions, series books and general books.  Our exclusive agreement
+with a major supplier to supply paper for Select Editions globally expires in
+December 2006.  We purchase paper for series books and general books for each
+printing.  We believe that our existing contractual arrangements and other
+available sources of paper provide us with an adequate supply of paper at
+competitive prices.  We use independent contractors in arranging for us to
+acquire some of the necessary raw materials to manufacture music and video
+products.
+
+      We hire independent contractors to handle our fulfillment, warehousing,
+customer service and payment processing.  We have an agreement with a single
+independent contractor to handle order and payment processing for most of our
+U.S. Books and Home Entertainment business.  That agreement expires in August
+2006.  The printers or suppliers of our products generally package and
+deliver those products directly to the postal service.  For information about
+postal rates and postal services, please refer to the section of this report
+captioned "Marketing."
+
+      Our European operations use several manufacturing companies for the
+production of books.  The majority of our Home Entertainment products are
+produced throughout Europe by three major manufacturers.
+
+      It is our direct marketing policy that a customer may return any book or
+home entertainment product to us, either before or after payment, and receive
+a refund of the amount paid.  We believe that our returned goods policy is
+essential to our reputation and that it elicits a greater number of orders.
+Many of those orders are not returned because a high number of consumers are
+satisfied with our products.
+
+      Sales of books and home entertainment products are seasonal.  In the
+direct marketing industry as a whole, more consumers respond in the fall and
+winter months than during the rest of the year.  Also, sales are typically
+higher during the pre-Christmas season than in spring and summer.
+
+
+Reader's Digest Magazine, Reiman Magazines and Special Interest Magazines
+
+      Reader's Digest magazine is a monthly, general interest magazine
+consisting of original articles, previously published articles in condensed
+form, and a condensed version of a previously published or soon-to-be
+published full-length book.  Reader's Digest also contains monthly humor
+columns, such as "Laughter, The Best Medicine(R)," "Life in These United
+States(R)" and "All In A Day's Work(R)," and other regular features, including
+"Quotable Quotes(R)," "Word Power(R)," "Only in America," "Everyday Heroes,"
+"That's Outrageous!(R)" and "RD Living."  The international editions of Reader's
+Digest include similar features.
+
+      We publish Reader's Digest in the United States and Canada.  Globally,
+Reader's Digest is published in 48 editions and 19 languages.  We license
+independent contractors to publish Reader's Digest in India, Italy, Korea,
+Denmark, Norway, South Africa and Indonesia.  These magazines are sold
+primarily through direct marketing.  In addition, we sell Reader's Digest and
+other publishers' magazines and products in the United States and in Canada
+through youth fundraising campaigns of our subsidiaries, QSP, Inc. in the
+United States and Quality Service Programs, Inc. in Canada.
+
+      We publish Reader's Digest in several editions in the United States,
+including an English-language edition, a Spanish-language edition entitled
+Selecciones and Reader's Digest Large Print for Easier Reading.  We license
+independent contractors to publish a braille edition and a recorded edition
+in the United States.
+
+      Reiman publishes 13 bi-monthly magazines and 1 quarterly magazine in the
+United States and Canada, including Cooking for 2, launched in the third
+quarter of fiscal 2005, and Birds and Blooms Extra, launched in the fourth
+quarter of fiscal 2005.
+
+      We publish several special interest magazines that we believe are
+consistent with our image, editorial philosophy and market expertise.  In the
+United States, we publish The Family Handyman(R) and American Woodworker(R). The
+Family Handyman provides instructions and guidance for "do-it-yourself" home
+improvement projects.  American Woodworker(R) provides information, instruction
+and guidance for professional and serious amateur woodworkers.
+Internationally, we publish Receptar, a leading Czech do-it-yourself and
+gardening monthly magazine, The Family Handyman in Australia and Our Canada,
+a bi-monthly general interest magazine with principally reader-contributed
+content.
+
+      We promote our special interest magazines to our Reader's Digest
+customer list.  We also promote other products to each magazine's customer
+list, as appropriate.  This strategy helps us to expand the customer base for
+all of our products.  Reiman markets its magazines principally through direct
+mail and cross-promotion of titles within its magazine group.  Reiman markets
+products to its customer database of approximately 40 million current and
+former customers, combined with selective rental of outside customer lists.
+Through reader involvement, Reiman seeks to identify and address customer
+interest in existing and new publications.  New magazine ideas and titles,
+also created using reader-submitted editorial content, are test marketed to
+subscribers of existing magazines and selected outside lists.  This has
+enabled Reiman to more accurately measure the potential for new products and
+launch new magazines at relatively low start-up costs.  Reiman does not use
+cash-prize sweepstakes in connection with its marketing.
+
+      We also publish other limited-edition special interest publications in
+the United States and internationally.  These include a special homeowners'
+edition of The Family Handyman that is used by real estate brokers in the
+United States and special holiday-themed editions of Reader's Digest in
+Mexico.  In addition, we publish a series of monthly check-out counter
+magazines branded as RD Specials that consist primarily of repurposed content
+from our books and magazines relating to the topics of home, health and food.
+
+
+   Circulation and Advertising
+
+      The following table shows fiscal 2005 circulation and advertising
+information for our portfolio of magazines in our reportable segments (this
+includes Reader's Digest magazine, Reiman magazines and our special interest
+magazines):
+
+<TABLE>
+
+                                                                       Advertising
+                                                                          Pages
+            Reportable Segment                         Circulation       Carried
+
+<S>                                                     <C>                <C>
+Reader's Digest North America
+  Reader's Digest magazine - U.S. and Canada(1) ....    11,183,000         2,630
+  Reiman magazines(2) ..............................    13,972,466            --
+  Special interest magazines - U.S. and Canada .....     2,575,000         1,653
+
+Reader's Digest International
+  Reader's Digest magazine(1) ......................     7,491,689         7,731
+  Special interest magazines .......................       157,000           521
+</TABLE>
+
+(1)   In Canada and international markets, Reader's Digest magazine is
+      published in multiple editions and languages.  Circulation for these
+      editions constitutes a rate base.
+(2)   Reiman magazines do not have a guaranteed circulation rate base and are
+      not audited by the Audit Bureau of Circulation.  The amount indicated
+      in the table above represents their average circulation for the year
+      for all of their publications.
+
+      Approximately 70% of total U.S. fiscal 2005 revenues for Reader's Digest
+were generated by circulation and 30% by advertising.  Circulation levels for
+all Reiman titles fluctuate throughout the year.  The overall circulation
+level is managed in total to maximize the profitability of the entire
+portfolio, which may cause year-over-year increases or decreases in the
+average circulation for individual titles.  Reiman magazines do not accept
+on-page advertising and rely on subscriptions for over 90% of their revenue,
+with newsstand sales supplying the balance.  "Savings Packs" of coupons are
+poly-bagged with the food magazines.
+
+      We have determined that the U.S. edition of Reader's Digest has the
+largest paid circulation of any U.S. magazine, other than those automatically
+distributed to all members of the American Association of Retired Persons.
+Our determination is based on the most recent audit report issued by the
+Audit Bureau of Circulation, Inc., a not-for-profit organization that
+monitors circulation in the United States and Canada.  Approximately 95% of
+the U.S. paid circulation of Reader's Digest consists of subscriptions.  The
+balance consists of single copy sales at newsstands and in supermarkets and
+similar retail establishments.  We also sell our special interest magazines
+by subscription and at newsstands.
+
+      We maintain the circulation rate base for Reader's Digest through annual
+subscription renewals and new subscriptions.  In fiscal 2005, we sold
+approximately 3.9 million new subscriptions in the United States and
+approximately 1.8 million new international Reader's Digest subscriptions to
+maintain the current circulation rate base.  We sell new subscriptions in the
+United States through a variety of direct response marketing techniques, and
+we sell new subscriptions in international markets primarily by direct mail.
+We sell the largest percentage of subscriptions between July and January of
+each fiscal year.  Subscribers to Reader's Digest may cancel their
+subscriptions at any time and we will refund the unused balance of the
+subscription price.  For additional information regarding direct marketing of
+subscriptions, please refer to the section of this report captioned
+"Marketing."
+
+      We believe that many international editions of Reader's Digest have the
+largest paid circulation for monthly magazines both in the individual
+countries and in the regions in which they are published.  For most
+international editions of Reader's Digest, subscriptions comprise over 90% of
+circulation.  The balance is attributable to newsstand and other retail
+sales.  Approximately 80% of total international fiscal 2005 revenues for
+Reader's Digest were generated by circulation revenues and 20% by advertising
+revenues.
+
+      The U.S. editions and the larger international editions of Reader's
+Digest offer advertisers different regional editions, major market editions
+and demographic editions.  These editions, which usually contain the same
+editorial material, permit advertisers to concentrate their advertising in
+specific markets or to target specific audiences.  Reader's Digest sells
+advertising principally through an internal advertising sales force.  We sell
+advertisements in multiple Reader's Digest editions worldwide and offer
+discounts for placing advertisements in more than one edition.
+
+
+   Reader's Digest and Reiman Magazine Editorial
+
+      Reader's Digest is a reader-driven, family magazine.  Its editorial
+content is, therefore, crucial to the loyal subscriber base that constitutes
+the cornerstone of our operations.  The editorial mission of Reader's Digest
+is to inform, enrich, entertain and inspire.  The articles, book section and
+features included in Reader's Digest cover a broad range of contemporary
+issues and reflect an awareness of traditional values.
+
+      A substantial portion of the selections in Reader's Digest are original
+articles written by freelance writers or staff writers.  The balance is
+selected from existing published sources and is condensed or excerpted by
+Reader's Digest editors.  We employ a professional staff to research and
+fact-check all published pieces.
+
+      The international editions of Reader's Digest contain content and follow
+editorial procedures similar to the U.S. editions.  Each international
+edition has a local editorial staff responsible for the editorial content of
+the edition.  The mix of locally generated editorial material, material taken
+from the U.S. edition and material taken from other international editions
+varies greatly among editions.  In general, our larger international
+editions, for example, those in France, Germany, Mexico and the United
+Kingdom, carry more original or locally adapted material than do smaller
+editions.
+
+      Reiman editorial philosophy includes the following core principles: (1)
+concentration on positive aspects of people and their lifestyles; (2)
+encouragement of reader involvement; (3) maintenance of low editorial costs;
+and (4) emphasis on product quality.  As a result, about 80% of the editorial
+content of Reiman magazines is contributed by readers.
+
+
+   Internet Initiatives
+
+      We have created our rd.com website to extend the experience of reading
+Reader's Digest through audio, graphic, text and video enhancements,
+interactive discussions and reader involvement, and additional content
+relating to Reader's Digest.  We are also utilizing rd.com to market our
+products through e-mail and the Internet, as well as to communicate with and
+service our customers online.  For more information about rd.com, please
+refer to the section of this report captioned "Marketing."
+
+
+   Complementary Reiman Businesses
+
+      Reiman operates four businesses that complement its core magazine and
+book publishing operations:
+
+           Country Store sells a broad selection of products, including Reiman
+      books, calendars, collectors' items, memorabilia, small kitchen
+      appliances, gardening tools, apparel and other country lifestyle
+      products, through a catalog that is distributed to those who request and
+      to those who have purchased in the past.
+
+           World Wide Country Tours offers motor coach and river barge tours
+      to experience the lives of people in various parts of the United States
+      and the world.  World Wide Country Tours utilizes direct marketing
+      through Reiman magazines and its own stand-alone brochures to attract
+      potential travelers.
+
+           Reiman Advertising & Promotion offers Savings Packs of coupons and
+      promotional advertising to subscribers in conjunction with recipes and
+      other information.  Its customers are primarily food and consumer
+      product companies, which purchase advertising space in the Savings Packs.
+
+           Taste of Home Cooking Schools provide cooking school demonstrations
+      by professional home economists in small- and medium-size communities
+      throughout the United States.  Revenues are generated from attendance
+      fees paid by local news media that sponsor individual shows and from
+      portions of fees that Reiman Advertising & Promotion receives from
+      national sponsors of the Taste of Home Cooking Schools.
+
+
+   Reader's Digest Trade Publishing
+
+      This division sells books and products for both children and adults and
+is comprised of two divisions: Reader's Digest Children's Publishing and
+Adult Trade Publishing.  Reader's Digest Children's Publishing produces
+books, games and other products under the Reader's Digest Children's
+Publishing imprint for children up to age 12.  Its products are sold through
+retail channels as well as through our other businesses (including display
+marketing and catalogs) and other channels, including the Internet.  The
+products represent such popular brands as Barbie, Disney (classic Disney and
+Pixar characters), Nickelodeon, Hasbro, Fisher-Price and NASCAR.  The book
+products have been translated into 29 languages and are marketed in the
+United States, Canada, Europe, South America, Australia and Asia.
+
+      Our Adult Trade Publishing group originates books in many illustrated
+reference categories, including gardening, crafts, do-it-yourself, history,
+and family reference.  These books are sold through retail channels,
+catalogs, book clubs, Books Are Fun, QSP, television, and through our
+domestic and international divisions.
+
+
+   Production and Fulfillment
+
+      We hire independent contractors to print all editions of Reader's Digest
+and our special interest magazines.  We have an exclusive contract with a
+U.S. printer to print the U.S. editions of Reader's Digest.  The contract is
+scheduled to expire in December 2008.  We have two printers to print our
+Reiman magazines under contracts expiring in 2008.  We believe that,
+generally, there is an adequate supply of alternative printing services
+available to us at competitive prices should the need arise.  Nevertheless,
+significant short-term disruption could occur.  We have contingency plans to
+minimize recovery time should our current contract printers be unable to meet
+our production requirements.
+
+      Lightweight coated and uncoated papers are the principal raw materials
+used in the production of Reader's Digest and special interest magazines.
+Our global paper supply contract for Reader's Digest and Reiman magazines
+expired in June 2005.  We are currently negotiating a multi-year contract
+with this provider to continue to supply paper at competitive prices.  Until
+a new contract is signed, we continue to operate under the terms of the
+previous contract with this provider.  We believe that our supply contracts
+will continue to provide an adequate supply of paper for our needs and that,
+in any event, alternative sources are available at competitive prices.  A
+variety of factors affect paper prices, including demand, capacity, pulp
+supply and general economic conditions.
+
+      We have agreements with a single independent contractor to handle order
+and payment processing for Reader's Digest, the U.S. special interest
+magazines and the Reiman magazines.  The agreement for Reader's Digest
+expires in August 2006.  The agreement for the Reiman magazines expires in
+December 2005 and the agreement for the U.S. special interest magazines
+expired in June 2005.  We are currently negotiating a new contract with this
+provider.  Until a new contract is signed, we continue to operate under the
+terms of the previous agreement.  The same contractor also handles these
+matters for most of our U.S. Books and Home Entertainment operations.
+
+      We deliver subscription copies of the U.S. edition of Reader's Digest,
+the special interest magazines and the Reiman magazines through the United
+States Postal Service as "periodicals" class mail.  Subscription copies of
+international editions of Reader's Digest are delivered through the postal
+service in each country of publication.  For additional information about
+postal rates and service, please refer to the section of this report
+captioned "Marketing."
+
+      In the United States, a distribution network handles newsstand and other
+retail distribution.  We have also contracted in each country with a
+newsstand magazine distributor for the distribution of Reader's Digest.
+
+      In Europe, we have several multi-country agreements with independent
+contractors as well as in-country independent contractors to handle our
+fulfillment, warehousing, customer service, and payment and order
+processing.  We have two primary printing companies for printing Reader's
+Digest magazine in Europe.
+
+
+Consumer Business Services
+
+   Books Are Fun, Ltd.
+
+      Our Books Are Fun, Ltd. subsidiary sells premium-quality books and gift
+items, including Reader's Digest books and home entertainment products, at
+discount prices.  It display markets those products on-site at schools and
+businesses in all 50 states of the United States and across Canada through
+book fairs and other displays.  Book categories sold by Books Are Fun include
+best-selling novels, cookbooks, children's books and education, sports,
+hobby, nature, travel and self-help titles.  Non-book categories include bath
+and beauty products, music, videos and gift items, such as jewelry and art.
+Books Are Fun's products are sold by more than 800 independent sales
+representatives, who service approximately 70,000 schools, 15,000 large
+corporations and institutions, 14,000 daycare centers and 50,000 small
+businesses.  Since many individuals purchase these products for gift giving,
+Books Are Fun's sales cycle is largely seasonal, reflecting substantial
+volume in the second quarter of our fiscal year.
+
+      Books Are Fun purchases book titles, gifts and other products from more
+than 500 publishers and vendors worldwide.  Many of its top titles are
+purchased in quantities exceeding 100,000 copies, affording Books Are Fun
+substantial purchasing power.  Most products are test marketed by the
+purchase of a modest number of units in advance of purchasing larger
+quantities.  Books Are Fun uses an extensive network of independent public
+warehousing facilities and carriers to store and transport products.
+
+      The Books Are Fun business model is being rolled out in a number of
+international markets.  Commercial operations are under way in Mexico and
+Spain, and the concept is in market testing and early development phases in
+Italy and Germany.
+
+
+
+
+<PAGE>
+
+
+   QSP
+
+      QSP markets and sells subscriptions to Reader's Digest, the Reiman
+magazines, the special interest magazines and other publishers' magazines in
+the United States, as well as music and video products, books, food and
+gifts.  QSP works directly with schools and youth groups on fundraising
+campaigns in which participants sell those products.  QSP derives its
+revenues through services rendered in connection with fundraising events.  A
+substantial majority of QSP's sales occurs during the first half of our
+fiscal year, which coincides with the fall school semester.  QSP currently
+has approximately 440 sales representatives.
+
+      QSP is party to a licensing agreement with World's Finest Chocolate,
+Inc. that requires QSP to purchase annual minimum amounts of World's Finest
+Chocolate products and gives QSP the exclusive right to sell those products
+for fundraising purposes and through other channels, under specified
+circumstances, through 2020.
+
+      Quality Service Programs, Inc., our Canadian subsidiary, conducts
+operations substantially similar to those conducted by QSP in the United
+States.
+
+      In the United States, operations at QSP, Inc. are supplemented by
+eFundraising.com, which uses the Internet to enhance fundraising activities.
+eFundraising.com uses proprietary software that enables e-mail messages to be
+sent on behalf of students about their school or youth group's fundraising
+activities to family and friends.  The e-mail directs the recipients to the
+school or youth group's website, where they may purchase magazine
+subscriptions and a variety of gift and food products.  eFundraising.com also
+provides fundraising products, mainly scratch cards and chocolate, to
+organizations conducting fundraisers.
+
+      Several hundred other publishers make magazine subscriptions available
+to QSP at competitive discounted prices.  QSP also obtains music products
+from a large music publisher.  A substantial portion of QSP's chocolate food
+products are obtained from World's Finest Chocolate.  QSP engages an
+independent contractor to process gift, food, magazine, music and book
+orders.
+
+
+Marketing
+
+      We sell magazine subscriptions, Select Editions, series books, general
+books, music and video products, and certain other products principally
+through direct mail solicitations to households on our customer lists, as
+well as to customer lists rented or purchased from third parties.  Our books
+and home entertainment products and product offers and many international
+magazine subscription offers are often accompanied by sweepstakes entries
+and, in some cases, premium merchandise offers.
+
+      As part of our growth strategy and to better manage distribution and
+customer acquisition costs, we are increasing the sale of our products
+through direct-response channels other than direct mail.  These other
+distribution channels include direct-response television, package inserts,
+telemarketing, the Internet, display marketing and other direct sales, and
+catalogs.  Reader's Digest magazine obtains the vast majority of its new
+subscribers in the United States from non-sweepstakes sources.  Moreover,
+since the acquisition of our Reiman operations, we have significantly reduced
+our reliance on large cash-prize sweepstakes marketing throughout the
+remainder of our direct marketing businesses.
+
+      We are adapting the editorial content and the marketing methods of our
+magazines and books and home entertainment products to new technologies.  Our
+website--rd.com--links to our many international and domestic web sites and to
+our multiple online stores for shopping and information about our products.
+In fiscal 2005, rd.com, including changeone.com, had over 15.8 million
+visitors from around the world.  We are using rd.com and our local
+international websites to market subscriptions to our products.  We are also
+utilizing electronic direct marketing to offer magazine subscriptions through
+one-click e-mail.
+
+      To promote the sale of our books and home entertainment products in the
+United States, we usually offer a sweepstakes in our promotional mailings.
+Prizes totaled about $2.9 million for the 2005 edition of the sweepstakes.
+Generally, each of our international subsidiaries sponsors its own
+sweepstakes.  The mechanics of the sweepstakes vary from jurisdiction to
+jurisdiction, depending upon local law.
+
+      From time to time we are involved in legal, regulatory and investigative
+proceedings concerning our sweepstakes and other direct marketing practices.
+Also, from time to time jurisdictions in which we do business consider more
+restrictive laws or regulations governing sweepstakes or direct marketing.
+Although some of these proceedings may have negatively affected our direct
+marketing business, we do not believe that these proceedings or proposed laws
+and regulations will have a material adverse effect on our direct marketing
+business.
+
+      In 2001, we entered into a voluntary comprehensive agreement with
+attorneys general for 32 states (and subsequently with four additional
+states) and the District of Columbia regarding standards for direct mail
+sweepstakes promotions.  Pursuant to the agreement, we are promoting consumer
+education and have adopted standards for promotions in the United States
+similar to those agreed to by other direct marketing and publishing companies.
+
+      We are subject to postal rate increases, which affect our product
+deliveries, promotional mailings and billings.  Postage is one of the largest
+expenses in our promotional and billing activities.  In the past, we have had
+sufficient advance notice of most increases in postal rates so that we could
+factor the higher rates into our pricing strategies and operating plans.
+Higher postal rates or other delivery charges usually increase the total cost
+to the customer, which may have a negative effect on sales.  As a result, we
+may strategically determine the extent, if any, to which we will pass these
+cost increases on to our customers.
+
+      We rely on postal delivery service for timely delivery of most of our
+products and promotional mailings.  In the United States and most
+international markets, delivery service is generally satisfactory.  Some
+international jurisdictions, however, experience periodic work stoppages in
+postal delivery service or less than adequate postal efficiency.
+
+      In some states in the United States and in some international
+jurisdictions, some or all of our products are subject to sales tax or value
+added tax.  Taxes, like delivery costs, are generally stated separately on
+bills, where permitted by applicable law.  Higher taxes increase the total
+cost to the customer, which may have a negative effect on sales.  In
+jurisdictions where applicable tax must be included in the purchase price, we
+may be unable to fully recover from customers the amount of any tax increase
+or new tax.
+
+
+Information Technology and Customer Database Enhancement
+
+      The size and quality of our computerized customer database of current
+and prospective customers in each country where we operate contributes
+significantly to our business.  We are constantly striving to improve our
+customer databases.  We believe that our U.S. database of over 70 million
+households--over half the total number of households in the country--is one of
+the largest direct response databases in the United States.  Our
+international databases include a total of almost 50 million households.
+
+      We continue to make significant investments in our database management
+and related information technology to improve our operating efficiencies, to
+increase the level of service we provide to our customer base and to
+facilitate globalization of our operations.
+
+      Some international jurisdictions, particularly in Europe, have data
+protection laws or regulations prohibiting or limiting the exchange of
+information of the type that we maintain.  Some jurisdictions also prohibit
+the retention of information, other than certain basic facts, about
+noncurrent customers.  Although these regulations may hinder our ability to
+collect, retain and use customer information, we believe that current laws
+and regulations do not prevent us from engaging in activities necessary to
+operate our current businesses.
+
+
+Competition and Trademarks
+
+      Although Reader's Digest is a unique and well-established institution in
+the magazine publishing industry, it competes with other magazines for
+subscribers and with magazines and all other media, including television,
+radio and the Internet, for advertising.  We believe that the extensive and
+longstanding international operations of Reader's Digest provide us with a
+significant advantage over competitors seeking to establish a global
+publication.
+
+      We own numerous trademarks that we use in our businesses worldwide.  Two
+of our most important trademarks are "Reader's Digest" and the "Pegasus"
+logo.  In addition, our significant trademarks include "QSP", "Books Are
+Fun", "Taste of Home" and the names of many of our magazines, features and
+other products.  We believe that the name recognition, reputation and image
+that we have developed in each of our markets significantly enhance customer
+response to our direct marketing sales promotions.  For these reasons,
+trademarks are important to our business, and we aggressively defend our
+trademarks.
+
+      We believe that our company names, image and reputation, as well as the
+quality of our customer databases, provide a significant competitive
+advantage over many other direct marketers.  However, our books and home
+entertainment businesses and Books Are Fun compete with companies selling
+similar products at retail as well as by direct marketing through various
+channels, including display marketing and the Internet.  Because tests show
+that consumers' responses to direct marketing promotions can be adversely
+affected by the overall volume of direct marketing promotions, we also
+compete with all other direct marketers, regardless of whether their products
+are similar to our products.  Our books and home entertainment businesses
+compete principally on the basis of direct marketing customer service,
+product popularity and price.
+
+      Reader's Digest magazine and our special interest magazines compete with
+other magazines of similar respective genres for readers and advertising and
+our Reiman magazines compete for readers in their respective genres.  QSP
+competes with other sellers of products similar to those sold by QSP, whether
+through fundraising services, direct marketing or retail.  Nearly all of our
+products are in competition with other products and services that compete for
+a potential purchaser's leisure activity time and disposable income.
+
+
+Employees
+
+      As of June 30, 2005, we employed about 4,200 people worldwide.  We
+employed about 2,300 in the United States and about 1,900 in our
+international subsidiaries.  Our relationship with our employees is generally
+satisfactory.
+
+
+
+
+<PAGE>
+
+
+Executive Officers
+
+      The following is information about our executive officers.
+
+Name and Age                 Positions With Reader's Digest and Recent
+                             Business Experience
+
+Thomas O. Ryder (61)         Mr. Ryder has been Chairman of the Board
+                             and Chief Executive Officer and a Director
+                             of Reader's Digest since he joined
+                             Reader's Digest in April 1998.
+
+Michael A. Brennan (58)      Mr. Brennan has been President, Latin
+                             America and Asia-Pacific, and a Senior
+                             Vice President of Reader's Digest since
+                             March 2002.  He was Vice President and
+                             General Manager, Developing Markets,
+                             before March 2002.  Mr. Brennan joined
+                             Reader's Digest in January 1990.
+
+Michael A. Brizel (48)       Mr. Brizel has been Senior Vice President
+                             and General Counsel of Reader's Digest
+                             since July 2002.  Before July 2002, he was
+                             Vice President and General Counsel of
+                             Reader's Digest.  Mr. Brizel joined
+                             Reader's Digest in July 1989.
+
+Richard E. Clark (41)        Mr. Clark has been Senior Vice President,
+                             Investor Relations and Global
+                             Communications, since November 2004.  He
+                             joined Reader's Digest as Vice President,
+                             Investor Relations, in March 2000.
+
+Giovanni di Vaio (51)        Mr. di Vaio became Vice President, Human
+                             Resources International, of Reader's
+                             Digest and a chief human resources officer
+                             with responsibility for international
+                             operations, as well as global compensation
+                             and benefits, leadership and management
+                             development, in January 2004.  Prior to
+                             January 2004, he was Vice President,
+                             International Human Resources.  Mr. di
+                             Vaio joined Reader's Digest in May 1999.
+
+Clifford H.R. DuPree (54)    Mr. DuPree has been Vice President,
+                             Corporate Secretary and Associate General
+                             Counsel of Reader's Digest since July
+                             1998.  He joined Reader's Digest in May
+                             1992.
+
+Thomas D. Gardner (47)       Mr. Gardner has been President, Reader's
+                             Digest International, since February 2003
+                             and has been a Senior Vice President of
+                             Reader's Digest since July 1998.  He was
+                             also President, North America Books and
+                             Home Entertainment, from January 2001 to
+                             February 2003 and was Senior Vice
+                             President, U.S. New Business Development,
+                             of Reader's Digest prior to January 2001.
+                             Mr. Gardner joined Reader's Digest in
+                             February 1992.
+
+Michael S. Geltzeiler (46)   Mr. Geltzeiler joined Reader's Digest as
+                             Senior Vice President and Chief Financial
+                             Officer in September 2001.  In August 2004
+                             Mr. Geltzeiler's responsibilities were
+                             expanded to include oversight of Global
+                             Operations and Information Technology.
+
+
+
+<PAGE>
+
+
+
+Name and Age                 Positions With Reader's Digest and Recent
+                             Business Experience
+
+Francoise Hanonik (45)       Ms. Hanonik has been Vice President, Human
+                             Resources North America of Reader's Digest
+                             and a chief human resources officer with
+                             responsibility for North American
+                             operations and global talent review and
+                             organization, since January 2004.  She
+                             joined Reader's Digest as Vice President,
+                             Human Resources, in January 2000.
+
+Albert L. Perruzza (57)      Mr. Perruzza has been Senior Vice
+                             President, Global Operations and Business
+                             Redesign, since February 2002.  He was
+                             Senior Vice President, Global Operations,
+                             of Reader's Digest before February 2002
+                             and was Vice President, Database
+                             Management Operations, before October
+                             1999.  Mr. Perruzza joined Reader's Digest
+                             in 1972.
+
+Gary S. Rich (44)            Mr. Rich has been President, Global QSP,
+                             and a Senior Vice President since February
+                             2002.  He was Senior Vice President, Human
+                             Resources of Reader's Digest from August
+                             1998, when he joined Reader's Digest, to
+                             February 2002.
+
+Eric W. Schrier (53)         Mr. Schrier has been President, Reader's
+                             Digest North America, since February
+                             2003.  He has also been Senior Vice
+                             President and Global Editor-in-Chief since
+                             joining Reader's Digest in January 2000
+                             and served as President, U.S. Magazines,
+                             from February 2002 to February 2003.
+
+Jeffrey S. Spar (40)         Mr. Spar has been Senior Vice President
+                             and Chief Information Officer of Reader's
+                             Digest since July 2002.  He was Vice
+                             President and Chief Information Officer
+                             from November 1998, when he joined
+                             Reader's Digest, to July 2002.
+
+
+      Our By-Laws state that officers serve at the pleasure of our board of
+directors. We elect our officers annually and they serve until their
+successors are elected and qualified.
+
+Available Information
+
+      We file annual reports on Form 10-K, quarterly reports on Form 10-Q,
+current reports on Form 8-K, proxy statements and other documents with the
+U.S. Securities and Exchange Commission (the "SEC").  The public may read and
+copy any materials we file with the SEC at the SEC's Public Reference Room at
+450 Fifth Street, NW, Washington, DC 20549.  The public may obtain
+information on the operation of the Public Reference Room by calling the SEC
+at 1-800-SEC-0330.  The SEC maintains an Internet site at http://www.sec.gov
+that contains reports, proxy and information statements, and other
+information regarding issuers that file electronically with the SEC.
+
+      We make available free of charge on or through our Internet
+website--http://www.rd.com--our annual report on Form 10-K, quarterly reports on
+Form 10-Q, current reports on Form 8-K, and amendments to those reports filed
+or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange
+Act of 1934 as soon as reasonably practicable after we electronically file
+such material with, or furnish it to, the SEC.
+
+
+
+<PAGE>
+
+
+      Copies of the following Reader's Digest documents are also available on
+our website.
+
+      Corporate Governance Guidelines
+      Audit Committee Charter
+      Compensation and Nominating Committee Charter
+      Corporate Governance Committee Charter
+      Finance Committee Charter
+      Ethical, Legal and Business Conduct Policies
+
+      Information contained on our website and the SEC's website is not a part
+of this report.
+
+      Copies of any of the information referred to above are also available in
+print to any stockholder who requests.  Requests for printed or electronic
+copies should be addressed to The Reader's Digest Association, Inc.,
+Attention: Investor Relations, Reader's Digest Road, Pleasantville, NY
+10570-7000 or via e-mail to: carlos_jimenez@rd.com.
+
+ITEM 2. PROPERTIES
+
+      The table below shows our headquarters and other properties that we own
+or lease.  These locations house our executive, administrative, editorial,
+advertising sales and operational offices and warehouse and other facilities.
+
+Location                   Area (sq. ft.)
+
+Westchester County, NY     445,193 leased
+Greendale, WI              164,800 owned
+Fairfield, IA              105,393 owned
+New York, NY               99,200 leased
+Various U.S. cities        45,358 leased
+International              369,440 owned; 458,941 leased
+
+      In December 2004, we completed the sale and partial leaseback of our
+headquarters in Westchester County, New York.  Also, during fiscal 2005 we
+sold buildings in Australia and Portugal.
+
+      We believe that our current facilities, together with expansions and
+upgrades of facilities presently underway or planned, are adequate to meet
+our present and reasonably foreseeable needs.  We also believe that adequate
+space will be available to replace any leases that expire in the near future.
+
+
+ITEM 3. LEGAL PROCEEDINGS
+
+      We and our subsidiaries are defendants in various lawsuits and claims
+arising in the regular course of business.  Based on the opinions of
+management and counsel for these matters, we believe that recoveries, if any,
+by plaintiffs and claimants would not materially affect our financial
+position or results of operations.
+
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+      No matter was submitted to a vote of our security holders during the
+fourth quarter of the fiscal year ended June 30, 2005.
+
+
+<PAGE>
+
+
+                                    PART II
+
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND
+        ISSUER PURCHASES OF EQUITY SECURITIES
+
+      The information contained under the captions "Selected Quarterly
+Financial Data and Dividend and Market Information" and "Corporate and
+Shareholder Information" in Exhibit 13 to this report is incorporated into
+this Item by reference.
+
+Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+
+<TABLE>
+
+                                                    (c) Total Number of
+                     (a) Total                        Shares (or Units)      (d) Approximate Dollar
+                     Number of       (b) Average      Purchased as Part        Value of Shares that
+                     Shares (or       Price Paid        of Publicly            May Yet Be Purchased
+                       Units)          per Share       Announced Plans          Under the Plans or
+   Period            Purchased         (or Unit)         or Programs                 Programs
+
+<S>                   <C>                <C>               <C>                     <C>
+April 1-30, 2005      1,447 (1)          16.95                  --                 $100,000,000
+May 1-31, 2005           -- (1)             --             130,000                  $97,769,832
+June 1-30, 2005       4,284 (1)          17.18             280,000                  $93,010,861
+                      -----                                -------
+        Total         5,731                                410,000
+</TABLE>
+
+(1)   The shares purchased in April, May and June 2005 include 1,447, zero and
+      4,284 shares, respectively, of the Company's Common Stock surrendered to
+      the Company by employees in order to fulfill tax withholding obligations
+      of employees upon vesting of restricted stock.
+
+Recent Sales of Unregistered Securities
+
+      Shown in the table below are securities of the registrant that were not
+registered under the Securities Act of 1933 and were sold by the registrant
+during the fiscal year ended June 30, 2005.  The securities were sold to
+employees of subsidiaries of the Company located outside of the United States
+pursuant to international employee stock purchase plans that permitted the
+participants to purchase shares of the Company's Common Stock, generally at a
+purchase price of 85% of the lower of the fair market value of the stock on
+the first or the last day of a six-month period.  These sales were made
+outside of the United States in reliance on the safe harbor under Regulation
+S under the Securities Act of 1933.
+
+<TABLE>
+
+Class of security      Date of sale      Number of shares sold      Aggregate purchase price
+
+<S>                 <C>                         <C>                       <C>
+Common Stock        December 31, 2004           114,608                   $1,362,540
+Common Stock        June 30, 2005                82,098                     $971,705
+
+</TABLE>
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+      The information contained under the caption "Selected Quarterly
+Financial Data and Dividend and Market Information" and "Selected Financial
+Data" in Exhibit 13 to this report is incorporated into this Item by
+reference.
+
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+        RESULTS OF OPERATION
+
+      The information contained under the caption "Management's Discussion and
+Analysis" in Exhibit 13 to this report is incorporated into this Item by
+reference.
+
+      This report contains or incorporates by reference "forward-looking
+statements" within the meaning of the U.S. federal securities laws.
+Forward-looking statements include any statements that address future results
+or occurrences.  These forward-looking statements inherently involve risks
+and uncertainties that could cause actual future results and occurrences to
+differ materially from the forward-looking statements.  Some of these risks
+and uncertainties include factors relating to:
+
+-  the effects of potentially more restrictive privacy and other
+   governmental regulation relating to our marketing methods;
+
+-  the effects of modified and varied promotions;
+
+-  our ability to identify customer trends;
+
+-  our ability to continue to create and acquire a broadly appealing mix of
+   new products;
+
+-  our ability to attract and retain new and younger magazine subscribers
+   and product customers in view of the maturing of an important portion of
+   our customer base;
+
+-  our ability to attract and retain subscribers and customers in an
+   economically efficient manner;
+
+-  the effects of selective adjustments in pricing;
+
+-  our ability to expand and more effectively utilize our customer database;
+
+-  our ability to expand into new international markets and to introduce
+   new product lines into new and existing markets;
+
+-  our ability to expand into new channels of distribution;
+
+-  our ability to negotiate and implement productive acquisitions,
+   strategic alliances and joint ventures;
+
+-  our ability to successfully integrate newly acquired and newly formed
+   businesses;
+
+-  the strength of relationships of newly acquired and newly formed
+   businesses with their employees, suppliers and customers;
+
+-  the accuracy of the basis of forecasts relating to newly acquired and
+   newly formed businesses;
+
+-  our ability to achieve financial savings related to restructuring
+   programs;
+
+-  our ability to contain and reduce costs, especially through global
+   efficiencies;
+
+-  the cost and effectiveness of our reengineering of business processes
+   and operations;
+
+-  the accuracy of our management's assessment of the current status of our
+   business;
+
+-  the evolution of our organizational and structural capabilities;
+
+-  our ability to respond to competitive pressures within and outside the
+   direct marketing and direct sales industries, including the Internet;
+
+-  our ability to recruit, train and retain effective sales personnel;
+
+-  the effects of worldwide paper and postage costs;
+
+-  the effects of possible postal disruptions on deliveries of promotions,
+   products and payments;
+
+-  the effects of foreign currency fluctuations;
+
+-  the accuracy of our management's assessment of the future effective tax
+   rate and the effects of initiatives to reduce the rate;
+
+-  the adequacy of our financial resources;
+
+-  the effects of the terms of, and increased leverage resulting from
+   additional borrowings under, our credit facilities;
+
+-  the effects of interest rate fluctuations;
+
+-  the effects of downgrades of our credit ratings;
+
+-  the effects of economic and political changes in the markets where we
+   compete;
+
+-  the effects of weather in limiting access to consumers; and
+
+-  the economic effects of terrorist activity and related events,
+   especially those limiting access to consumers and otherwise affecting the
+   direct marketing and direct sales industries.
+
+We do not undertake to update any forward-looking statements.
+
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT
+         MARKET RISK
+
+      The information contained under the caption "Management's Discussion and
+Analysis" in the section entitled "Currency Risk Management" in Exhibit 13 to
+this report is incorporated into this Item by reference.
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+      Our Consolidated Financial Statements, together with the reports of KPMG
+LLP in Exhibit 13 to this report, are incorporated into this Item by
+reference.
+
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+      None.
+
+
+
+
+<PAGE>
+
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+Disclosure Controls and Procedures
+
+      Our management evaluated, with the participation of our principal
+executive officer and principal financial officer, the effectiveness of our
+disclosure controls and procedures (as defined in rules 13a-15(e) and
+15d-15(e) under the Securities Exchange Act of 1934) as of June 30, 2005.
+Based on that evaluation, our Chief Executive Officer and Chief Financial
+Officer concluded that our disclosure controls and procedures were sufficient
+to provide reasonable assurances that the information required to be
+disclosed by us in the reports that we file or submit under the Securities
+Exchange Act of 1934 is recorded, processed, summarized and reported within
+the time periods specified in the Securities and Exchange Commission's rules
+and forms.
+
+Internal Control Over Financial Reporting
+
+      The information contained under the captions "Report of Management" and
+"Reports of Independent Registered Public Accounting Firm" in Exhibit 13 to
+this report is incorporated into this Item by reference. There has been no
+change in the Company's internal control over financial reporting during the
+fiscal quarter ended June 30, 2005, that has materially affected, or is
+reasonably likely to materially affect, the Company's internal control over
+financial reporting.
+
+
+ITEM 9B. OTHER INFORMATION
+
+      None.
+
+
+
+
+
+
+<PAGE>
+
+
+                                   PART III
+
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+      Certain information required by this Item with respect to our directors
+under the captions "Proposal 1: Election of Directors" and "Governance
+Information" in the Proxy Statement for our Annual Meeting of Stockholders to
+be held on November 18, 2005, is incorporated into this Item by reference.
+
+      Information with respect to our executive officers appears under the
+caption "Executive Officers" in Item 1 of Part I of this report and is
+incorporated into this Item by reference.
+
+      Information with respect to compliance with Section 16 of the Securities
+Exchange Act of 1934 appears under the caption "Section 16(a) Beneficial
+Ownership Reporting Compliance" in the Proxy Statement for our Annual Meeting
+of Stockholders to be held on November 18, 2005, and is incorporated into
+this Item by reference.
+
+Code of Ethics
+
+      Our Ethical, Legal and Business Conduct Policies, which are a "code of
+ethics" within the meaning of Item 406 of the Securities and Exchange
+Commission's Regulation S-K, apply to all of our Directors and employees,
+including our principal executive officer, principal financial officer and
+principal accounting officer, or persons performing similar functions.  These
+Policies are available on our Internet website at www.rd.com.  We intend to
+post on our website (or disclose by any other means permitted under SEC
+rules) any amendment to, or waiver from, any provision of the Policies that
+applies to our principal executive officer, principal financial officer or
+principal accounting officer, or persons performing similar functions.
+
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+      Information with respect to executive compensation under the captions
+"Executive Compensation," "Report of the Compensation and Nominating
+Committee" and "Performance Graph" in the Proxy Statement for our Annual
+Meeting of Stockholders to be held on November 18, 2005, is incorporated into
+this Item by reference.
+
+
+
+
+<PAGE>
+
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+         RELATED STOCKHOLDER MATTERS
+
+Equity Compensation Plan Information
+
+      The following  table sets forth  information  as of June 30,  2005,  with
+respect to  compensation  plans  under  which  equity  securities  of  Reader's
+Digest may be issued.  The equity  securities  to be issued under the plans are
+Reader's Digest Common Stock.
+
+<TABLE>
+
+                                                                          Number of securities
+                       Number of securities     Weighted-average     remaining available for future
+                        to be issued upon       exercise price of        issuance under equity
+                           exercise of             outstanding             compensation plans
+                       outstanding options,     options, warrants    (excluding securities reflected
+                        warrants and rights        and rights                in column (a))
+   Plan category                (a)                    (b)                        (c)
+
+<S>                          <C>                     <C>                      <C>
+Equity compensation
+  plans approved by
+  security holders           15,170,282              $19.99                   2,552,206(1)
+Equity compensation
+  plans not approved
+  by security holders                --                  --                          --
+                             ----------              ------                   ---------
+        Total                15,170,282              $19.99                   2,552,206
+</TABLE>
+
+(1) Includes 1,894,340 shares available for future grants under the
+    Company's 2002 Key Employee Long Term Incentive Plan.  This plan provides
+    for the grant of stock options, stock appreciation rights, restricted
+    stock, performance shares, performance units and other stock-based awards.
+    Includes 123,400 shares available for future grant under the Company's
+    Director Compensation Program.  Includes 345,730 shares available for
+    issuance under the Company's Employee Stock Purchase Plan, which permits
+    U.S. employees to purchase shares from Reader's Digest at a discount.
+    Includes 188,736 shares available for issuance under the Company's
+    International Employee Stock Ownership Plan, which comprises our
+    international employee stock purchase plans for non-U.S. employees and our
+    U.K. Share Incentive Plan, which provides for compensatory share awards to
+    U.K. employees.
+
+Security Ownership Information
+
+      Information with respect to security ownership of certain beneficial
+owners and management under the caption "Equity Security Ownership" in the
+Proxy Statement for our Annual Meeting of Stockholders to be held on November
+18, 2005, is incorporated into this Item by reference.
+
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+           Information with respect to certain relationships and related
+transactions under the caption "Transactions with Management and Other
+Related Parties" in the Proxy Statement for our Annual Meeting of
+Stockholders to be held on November 18, 2005, is incorporated into this Item
+by reference.
+
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+      Information with respect to principal accountant fees and services under
+the captions "Audit Committee Report" and "Ratification of Independent
+Registered Public Accounting Firm" in the Proxy Statement for our Annual
+Meeting of Stockholders to be held on November 18, 2005, is incorporated into
+this Item by reference.
+
+
+
+<PAGE>
+
+
+                                    PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+(a) 1 Financial Statements
+      An index of our Consolidated Financial Statements appears on page 29 of
+      this report.
+
+    2 Financial Statement Schedules
+      All schedules have been omitted since the information required to be
+      submitted has been included in the Consolidated Financial Statements or
+      Notes thereto or has been omitted as not applicable or not required.
+
+    3 Exhibits
+
+3.1   Restated Certificate of Incorporation of The Reader's Digest
+      Association, Inc. filed with the State of Delaware on July 8, 2003,
+      filed as Exhibit 4.1 to our Registration Statement on Form S-3
+      (Registration No. 333-107278) filed on July 23, 2003, is incorporated
+      herein by reference.
+
+3.2   Amended and Restated By-Laws of The Reader's Digest Association, Inc.,
+      effective December 13, 2002, filed as Exhibit 3.2 to Amendment No. 1 to
+      our Registration Statement on Form 8-A/A (Registration No. 001-10434)
+      filed on December 13, 2002, is incorporated herein by reference.*
+
+10.1  The Reader's Digest Association, Inc. Management Incentive Compensation
+      Plan (Amendment and Restatement as of July 1, 1994), filed as Exhibit
+      10.1 to our Annual Report on Form 10-K for the year ended June 30, 1994,
+      is incorporated herein by reference.*
+
+10.2  The Reader's Digest Association, Inc. 1989 Key Employee Long Term
+      Incentive Plan, as amended effective April 13, 2001, filed as Exhibit
+      10.29 to our Quarterly Report on Form 10-Q for the quarter ended March
+      31, 2001, is incorporated herein by reference.*
+
+10.3  The Reader's Digest Association, Inc. Deferred Compensation Plan
+      (Amendment and Restatement as of July 8, 1994) filed as Exhibit 10.4 to
+      our Annual Report on Form 10-K for the year ended June 30, 1994, is
+      incorporated herein by reference.*
+
+10.4  Excess Benefit Retirement Plan of The Reader's Digest Association, Inc.
+      (Amendment and Restatement as of July 1, 1994), filed as Exhibit 10.7 to
+      our Annual Report on Form 10-K for the year ended June 30, 1994, is
+      incorporated herein by reference.*
+
+10.5  The Reader's Digest 1992 Executive Retirement Plan (Amendment and
+      Restatement as of October 10, 1996), filed as Exhibit 10.12 to our
+      Annual Report on Form 10-K for the year ended June 30, 1997, is
+      incorporated herein by reference.*
+
+10.6  The Reader's Digest Association, Inc. Executive Cash Balance Retirement
+      Plan, filed as Exhibit 10.7 to our Annual Report on Form 10-K for the
+      year ended June 30, 2000, is incorporated herein by reference.*
+
+10.7  Amendment No. 1 to The Reader's Digest Association, Inc. Management
+      Incentive Compensation Plan (effective as of April 11, 1996) filed as
+      Exhibit 10.1.1 to our Quarterly Report on Form 10-Q for the quarter
+      ended March 31, 1996, is incorporated herein by reference.*
+
+
+      *Management contract or compensatory contract, plan or arrangement.
+
+
+<PAGE>
+
+
+10.8  Amended and Restated Five-Year Revolving Credit and Competitive Advance
+      Facility Agreement dated as of May 20, 2002, among The Reader's Digest
+      Association, Inc., the Borrowing Subsidiaries, and the Lenders (as
+      defined therein), etc., filed as Exhibit 10.2 to our Current Report on
+      Form 8-K dated June 3, 2002, is incorporated herein by reference.
+
+10.9  Amended and Restated Term Loan Agreement, dated as of May 21, 2004,
+      among The Reader's Digest Association, Inc., the Borrowing Subsidiaries,
+      and the Lenders (as defined therein), etc., filed as Exhibit 10.37 to
+      our Current Report on Form 8-K dated May 24, 2004, is incorporated
+      herein by reference.
+
+10.10 The Reader's Digest Association, Inc. Deferred Compensation Plan for
+      Directors, amended and restated as of January 1, 2003 filed as Exhibit
+      10.10 to our Annual Report on Form 10-K for the year ended June 30,
+      2003, is incorporated herein by reference.*
+
+10.11 Employment Agreement dated as of April 28, 1998, between The Reader's
+      Digest Association, Inc. and Thomas O. Ryder, filed as Exhibit 10.33 to
+      our Quarterly Report on Form 10-Q for the quarter ended March 31, 1998,
+      is incorporated herein by reference.*
+
+10.12 The Reader's Digest Association, Inc. 2001 Income Continuation Plan for
+      Senior Management, filed as Exhibit 10.21 to our Quarterly Report on
+      Form 10-Q for the quarter ended March 31, 2001, is incorporated herein
+      by reference.*
+
+10.13 Termination Agreement dated as of April 23, 2001, between The Reader's
+      Digest Association, Inc. and Eric W. Schrier, filed as Exhibit 10.18 to
+      our Annual Report on Form 10-K for the year ended June 30, 2001, is
+      incorporated by reference.*
+
+10.14 Termination Agreement dated as of December 18, 2001, between The
+      Reader's Digest Association, Inc. and Michael S. Geltzeiler filed as
+      Exhibit 10.14 to our Annual Report on Form 10-K for the year ended June
+      30, 2003, is incorporated herein by reference.*
+
+10.15 Termination Agreement dated as of April 23, 2001, between The Reader's
+      Digest Association, Inc. and Thomas D. Gardner, filed as Exhibit 10.17
+      to our Annual Report on Form 10-K for the year ended June 30, 2002, is
+      incorporated herein by reference.*
+
+10.16 Termination Agreement dated as of April 23, 2001, between The Reader's
+      Digest Association, Inc. and Gary S. Rich filed as Exhibit 10.16 to our
+      Annual Report on Form 10-K for the year ended June 30, 2003, is
+      incorporated herein by reference.*
+
+10.17 The Reader's Digest Association, Inc. Senior Management Incentive Plan,
+      filed as Exhibit 10.27 to our Annual Report on Form 10-K for the year
+      ended June 30, 1999, is incorporated herein by reference.*
+
+10.18 Assurance of Voluntary Compliance or Discontinuance dated February 26,
+      2001, by and among the State Attorneys General and the registrant, filed
+      as Exhibit 99.2 to our Current Report on Form 8-K dated March 9, 2001,
+      is incorporated herein by reference.
+
+10.19 The Reader's Digest Association, Inc. 1994 Key Employee Long Term
+      Incentive Plan, amended and restated as of September 18, 2002, filed as
+      Exhibit 10.24 to our Annual Report on Form 10-K for the year ended June
+      30, 2002, is incorporated herein by reference.*
+
+10.20 The Reader's Digest Association, Inc. 2002 Key Employee Long Term
+      Incentive Plan, filed as Exhibit 10.25 to our Annual Report on Form 10-K
+      for the year ended June 30, 2002, is incorporated herein by reference.*
+
+      *Management contract or compensatory contract, plan or arrangement.
+
+
+<PAGE>
+
+
+
+10.21 The Reader's Digest Association, Inc. Director Compensation Program,
+      amended and restated as of January 1, 2003 filed as Exhibit 10.23 to our
+      Annual Report on Form 10-K for the year ended June 30, 2003, is
+      incorporated herein by reference.*
+
+10.22 Form of Indemnification Agreement between The Reader's Digest
+      Association, Inc. and individual directors and officers of The Reader's
+      Digest Association, Inc., filed as Exhibit 10.27 to our Quarterly Report
+      on Form 10-Q for the quarter ended March 31, 2003, is incorporated
+      herein by reference.*
+
+10.23 Form of First Amendment, dated as of June 26, 2003, to the Term Loan
+      Agreement dated as of May 20, 2002, among The Reader's Digest
+      Association, Inc., the Borrowing Subsidiaries and the Lenders (as
+      defined therein), etc., filed as Exhibit 10.29 to our Current Report on
+      Form 8-K dated June 26, 2003, is incorporated herein by reference.
+
+10.24 Form of First Amendment, dated as of June 26, 2003, to the Amended and
+      Restated Five-Year Revolving Credit and Competitive Advance Facility
+      Agreement dated as of May 20, 2002, among The Reader's Digest
+      Association, Inc., the Borrowing Subsidiaries, and the Lenders (as
+      defined therein), etc., filed as Exhibit 10.30 to our Current Report on
+      Form 8-K dated June 26, 2003, is incorporated herein by reference.
+
+10.25 FlexNet Program summary description filed as Exhibit 10.28 to our Annual
+      Report on Form 10-K for the year ended June 30, 2003, is incorporated
+      herein by reference.*
+
+10.26 Financial counseling plan summary description filed as Exhibit 10.29 to
+      our Annual Report on Form 10-K for the year ended June 30, 2003, is
+      incorporated herein by reference.*
+
+10.27 Form of Second Amendment, dated as of January 27, 2004, to the Amended
+      and Restated Five-Year Revolving Credit and Competitive Advance Facility
+      Agreement dated as of May 20, 2002, among The Reader's Digest
+      Association, Inc., the Borrowing Subsidiaries, and the Lenders (as
+      defined therein), etc., filed as Exhibit 10.33 to our Current Report on
+      Form 8-K dated March 3, 2004, is incorporated herein by reference.
+
+10.28 Form of Third Amendment, dated as of February 12, 2004, to the
+      Amended and Restated Five-Year Revolving Credit and Competitive Advance
+      Facility Agreement dated as of May 20, 2002, among The Reader's Digest
+      Association, Inc., the Borrowing Subsidiaries, and the Lenders (as
+      defined therein), etc., filed as Exhibit 10.35 to our Current Report on
+      Form 8-K dated March 3, 2004, is incorporated herein by reference.
+
+10.29 Form of Amendment Agreement, dated as of May 24, 2004, among The
+      Reader's Digest Association, Inc., the Borrowing Subsidiaries, and the
+      Lenders (as defined therein), etc., filed as Exhibit 10.33 to our
+      Current Report on Form 8-K dated March 3, 2004, is incorporated herein
+      by reference.
+
+10.30 Form of Fourth Amendment, dated as of May 24, 2004, to the Amended and
+      Restated Five-Year Revolving Credit and Competitive Advance Facility
+      Agreement dated as of May 20, 2002, among The Reader's Digest
+      Association, Inc., the Borrowing Subsidiaries, and the Lenders (as
+      defined therein), etc., filed as Exhibit 10.38 to our Current Report on
+      Form 8-K dated May 24, 2004, is incorporated herein by reference.
+
+10.31 Amendment to Employment Agreement dated as of November 21, 2003, between
+      The Reader's Digest Association, Inc. and Thomas O. Ryder, filed as
+      Exhibit 10.31 to our Quarterly Report on Form 10-Q for the quarter ended
+      December 31, 2003, is incorporated herein by reference.*
+
+      *Management contract or compensatory contract, plan or arrangement.
+
+
+<PAGE>
+
+
+
+10.32 Form of stock option award terms and conditions under The Reader's
+      Digest Association, Inc. 1994 and 2002 Key Employee Long Term Incentive
+      Plans, filed as Exhibit 10.34 to our Quarterly Report on Form 10-Q for
+      the quarter ended September 30, 2004, is incorporated herein by
+      reference.*
+
+10.33 Form of restricted stock award terms and conditions under The Reader's
+      Digest Association, Inc. 1994 and 2002 Key Employee Long Term Incentive
+      Plans, filed as Exhibit 10.35 to our Quarterly Report on Form 10-Q for
+      the quarter ended September 30, 2004, is incorporated herein by
+      reference.*
+
+10.34 Form of performance share award letter under The Reader's Digest
+      Association, Inc. 1994 and 2002 Key Employee Long Term Incentive Plans,
+      filed as Exhibit 10.36 to our Quarterly Report on Form 10-Q for the
+      quarter ended September 30, 2004, is incorporated herein by reference.*
+
+10.35 Form of deferred stock award terms and conditions under The Reader's
+      Digest Association, Inc. Director Compensation Program, filed as Exhibit
+      10.37 to our Quarterly Report on Form 10-Q for the quarter ended
+      September 30, 2004, is incorporated herein by reference.*
+
+10.36 Form of First Amendment, dated as of September 9, 2004, to the Amended
+      and Restated Term Loan Agreement dated as of May 24, 2004, among The
+      Reader's Digest Association, Inc., the Borrowing Subsidiaries, and the
+      Lenders (as defined therein), etc., filed as Exhibit 10.38 to our
+      Quarterly Report on Form 10-Q for the quarter ended September 30, 2004,
+      is incorporated herein by reference.
+
+10.37 Form of Fifth Amendment, dated as of September 9, 2004, to the Amended
+      and Restated Five-Year Revolving and Competitive Advance Facility
+      Agreement dated as of May 20, 2002, among The Reader's Digest
+      Association, Inc., the Borrowing Subsidiaries, and the Lenders (as
+      defined therein), etc., filed as Exhibit 10.39 to our Quarterly Report
+      on Form 10-Q for the quarter ended September 30, 2004, is incorporated
+      herein by reference.
+
+10.38 Addendum effective January 1, 2005 to The Reader's Digest Association,
+      Inc. Director Compensation Program, filed as Exhibit 10.34 to our
+      Current Report on Form 8-K dated November 18, 2004, is incorporated
+      herein by reference.*
+
+10.39 Amended and Restated Sale Purchase Agreement between The Reader's Digest
+      Association, Inc. and GAP III Properties LLC and Summit Development, LLC
+      dated as of November 18, 2004, but effective as of September 10, 2004,
+      filed as Exhibit 10.35 to our Current Report on Form 8-K dated November
+      18, 2004, is incorporated herein by reference.
+
+10.40 Description of operation of the executive incentive program of The
+      Reader's Digest Association, Inc., including the Senior Management
+      Incentive Plan (fiscal 2006 awards), the Management Incentive
+      Compensation Plan (fiscal 2006 awards) and the 2002 Key Employee Long
+      Term Incentive Plan (fiscal 2005 and 2006 awards), included in Item 1.01
+      of our Current Report on Form 8-K dated March 11, 2005, is incorporated
+      herein by reference.*
+
+10.41 Five-Year Revolving Credit Agreement, dated as of April 14, 2005, among
+      The Reader's Digest Association, Inc., as Borrower and Guarantor, Books
+      Are Fun, Ltd., QSP, Inc. and Reiman Media Group, Inc., as Borrowing
+      Subsidiaries and Subsidiary Guarantors, the Lenders party thereto, filed
+      as Exhibit 10.1 to our Current Report on Form 8-K dated April 14, 2005,
+      is incorporated herein by reference.
+
+      *Management contract or compensatory contract, plan or arrangement.
+
+
+<PAGE>
+
+
+
+10.42 Description of operation of the Senior Management Incentive Plan (Fiscal
+      2005), the Management Incentive Compensation Plan (Fiscal 2005) and the
+      Long-Term Incentive Plan (Fiscal 2004-2005 Performance Shares) of The
+      Reader's Digest Association, Inc, filed as Exhibit 10.44 to our
+      Quarterly Report on Form 10-Q for the quarter ended March 31, 2005, is
+      incorporated herein by reference.*
+
+10.43 Salary compensation information, included in Item 1.01 of our Current
+      Report on Form 8-K dated August 12, 2005, is incorporated herein by
+      reference.*
+
+10.44 The Reader's Digest Association, Inc. 2005 Key Employee Long Term
+      Incentive Plan, filed as Exhibit 10.6 to our Current Report on
+      Form 8-K dated August 12, 2005, is incorporated herein by reference.*
+
+10.45 Director Phantom Stock Option Plan.*
+
+10.46 Form of award letter and terms and conditions of fiscal 2006 stock
+      option grants under The Reader's Digest Association, Inc. 2002 Key
+      Employee Long Term Incentive Plan (including amendments to previous
+      awards under The Reader's Digest Association, Inc. 1989 and 1994 Key
+      Employee Long Term Incentive Plans), filed as Exhibit 10.1 to our
+      Current Report on Form 8-K dated August 12, 2005, is incorporated herein
+      by reference.*
+
+10.47 Form of award letter and terms and conditions of fiscal 2006 restricted
+      stock grants under The Reader's Digest Association, Inc. 2002 Key
+      Employee Long Term Incentive Plan (including amendments to previous
+      awards under The Reader's Digest Association, Inc. 1989 and 1994 Key
+      Employee Long Term Incentive Plans), filed as Exhibit 10.2 to our
+      Current Report on Form 8-K dated August 12, 2005, is incorporated herein
+      by reference.*
+
+10.48 Form of award letter and terms and conditions of fiscal 2006 deferred
+      stock grants under The Reader's Digest Association, Inc. 2002 Key
+      Employee Long Term Incentive Plan (including amendments to previous
+      awards under The Reader's Digest Association, Inc. 1989 and 1994 Key
+      Employee Long Term Incentive Plans), filed as Exhibit 10.3 to our
+      Current Report on Form 8-K dated August 12, 2005, is incorporated herein
+      by reference.*
+
+10.49 Form of award letter and terms and conditions of fiscal 2005-2007
+      restricted stock unit grants under The Reader's Digest Association, Inc.
+      2002 Key Employee Long Term Incentive Plan, filed as Exhibit 10.4 to our
+      Current Report on Form 8-K dated August 12, 2005, is incorporated herein
+      by reference.*
+
+10.50 Form of award letter and terms and conditions of fiscal 2006-2008
+      restricted stock unit grants to under The Reader's Digest Association,
+      Inc. 2002 Key Employee Long Term Incentive Plan, filed as Exhibit 10.5
+      to our Current Report on Form 8-K dated August 12, 2005, is incorporated
+      herein by reference.*
+
+10.51 Description of performance criteria for fiscal 2005-2007 and 2006-2008
+      restricted stock units awarded to executive officers of The Reader's
+      Digest Association, Inc., included in Item 1.01 of our Current Report on
+      Form 8-K dated August 12, 2005, is incorporated herein by reference.*
+
+10.52 Description of funding of bonus pools for fiscal 2006 under The Reader's
+      Digest Association, Inc. Senior Management Incentive Plan and Management
+      Incentive Compensation Plan, included in our Current Report on Form 8-K
+      dated August 12, 2005, is incorporated herein by reference.*
+
+
+      *Management contract or compensatory contract, plan or arrangement.
+
+
+<PAGE>
+
+
+
+13    Financial information to be included in our 2005 Annual Report to
+      Stockholders (furnished for the information of the Securities and
+      Exchange Commission only and not to be deemed filed as part of this
+      Annual Report on Form 10-K, except for the portions thereof that are
+      specifically incorporated herein by reference).
+
+14    Ethical, Legal and Business Conduct Policies, effective September 30,
+      2004, filed as Exhibit 14 to our Quarterly Report on Form 10-Q for the
+      quarter ended September 30, 2004, is incorporated herein by reference.
+
+16.1  Letter of KPMG LLP to the Securities and Exchange Commission dated
+      August 29, 2005, filed as Exhibit 16.1 to our Current Report on
+      Form 8-K dated August 23, 2005, is incorporated herein by reference.
+
+21    Subsidiaries of The Reader's Digest Association, Inc.
+
+23    Consent of independent registered public accounting firm.
+
+24    Power of attorney.
+
+31.1  Certification of Chief Executive Officer of registrant pursuant to rule
+      13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934.
+
+31.2  Certification of Chief Financial Officer of registrant pursuant to rule
+      13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934.
+
+32    Certifications of Chief Executive Officer and Chief Financial Officer of
+      registrant pursuant to rule 13a-14(b)/15d-14(b) of the Securities
+      Exchange Act of 1934.
+
+
+
+<PAGE>
+
+
+                                  SIGNATURES
+
+      Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+                                          THE READER'S DIGEST ASSOCIATION, INC.
+
+                                             By:    /s/THOMAS O. RYDER
+                                                     (Thomas O. Ryder)
+                                           Chairman and Chief Executive Officer
+Date:  August 29, 2005
+
+      Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+          Signature                     Title                          Date
+
+    /s/THOMAS O. RYDER          Chairman and Chief Executive    August 29, 2005
+       Thomas O. Ryder          Officer and a Director
+
+    /s/MICHAEL S. GELTZEILER    Senior Vice President and       August 29, 2005
+       Michael S. Geltzeiler    Chief Financial Officer
+
+    /s/THOMAS D. BARRY          Vice President and Corporate    August 29, 2005
+       Thomas D. Barry          Controller (chief accounting
+                                officer)
+
+    /s/JONATHAN B. BULKELEY*    Director                        August 29, 2005
+       Jonathan B. Bulkeley
+
+    /s/ HERMAN CAIN*            Director                        August 29, 2005
+       Herman Cain
+
+    /s/ LEE CAUDILL*            Director                        August 29, 2005
+       Lee Caudill
+
+    /s/WALTER ISAACSON*         Director                        August 29, 2005
+       Walter Isaacson
+
+    /s/WILLIAM E. MAYER*        Director                        August 29, 2005
+       William E. Mayer
+
+    /s/JAMES E. PRESTON*        Director                        August 29, 2005
+       James E. Preston
+
+    /s/JOHN T. REID*           Director                        August 29, 2005
+       John T. Reid
+
+    /s/LAWRENCE R. RICCIARDI*   Director                        August 29, 2005
+       Lawrence R. Ricciardi
+
+    /s/WILLIAM J. WHITE*        Director                        August 29, 2005
+       William J. White
+
+    /s/ED ZSCHAU*               Director                        August 29, 2005
+       Ed Zschau
+
+*By:   /s/ C.H.R. DUPREE
+       (C.H.R. DuPree)
+       Attorney in Fact
+
+
+<PAGE>
+
+
+                     THE READER'S DIGEST ASSOCIATION, INC.
+
+                  INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+                                                                       Page
+
+
+Management's Discussion and Analysis..................................   *
+
+Financial Statements:
+
+      Consolidated Statements of Operations--For the Years Ended
+         June 30, 2005, 2004 and 2003.................................   *
+
+      Consolidated Balance Sheets--June 30, 2005 and 2004.............   *
+
+      Consolidated Statements of Cash Flows--For the Years Ended
+         June 30, 2005, 2004 and 2003.................................   *
+
+      Consolidated Statements of Changes in Stockholders' Equity--For
+         the Years Ended June 30, 2005, 2004 and  2003................   *
+
+Notes to Consolidated Financial Statements............................   *
+
+Reports of Independent Registered Public Accounting Firm..............   *
+
+Report of Management..................................................   *
+
+Changes in Registrant's Certifying Accountant.........................   *
+
+Selected Financial Data...............................................   *
+
+Selected  Quarterly  Financial  Data and  Dividend  and Market
+Information (Unaudited)...............................................   *
+
+
+
+      *This financial information is incorporated by reference to our 2005
+Annual Report to Stockholders.  For additional information, please refer to
+Item 8 of this report.
+
+
+
+</TEXT>
+</DOCUMENT>
+

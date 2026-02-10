@@ -1,0 +1,3642 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>k91956e10vk.txt
+<DESCRIPTION>ANNUAL REPORT FOR FISCAL YEAR ENDED 12/31/04
+<TEXT>
+<PAGE>
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   ----------
+
+                                    FORM 10-K
+                  FOR ANNUAL AND TRANSITION REPORTS PURSUANT TO
+           SECTIONS 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+                   For the fiscal year ended December 31, 2004
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+      For the transition period from _________________ to _________________
+
+                        Commission File Number: 2-98277C
+
+                       SPORTS RESORTS INTERNATIONAL, INC.
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                         <C>
+                 MICHIGAN                                38-3262264
+     (State or other jurisdiction of        (I.R.S. employer identification no.)
+      incorporation or organization)
+</TABLE>
+
+<TABLE>
+<S>                                                      <C>
+    951 AIKEN ROAD, OWOSSO, MICHIGAN                        48867
+(Address of principal executive offices)                 (Zip code)
+</TABLE>
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (989) 725-8354
+
+        Securities registered pursuant to Section 12(b) of the Act: None
+
+          Securities registered pursuant to Section 12(g) of the Act:
+
+<TABLE>
+<CAPTION>
+                                                           Name of each exchange
+     Title of each class                                    on which registered
+     -------------------                                   ---------------------
+<S>                                                       <C>
+Common Stock, $0.01 par value                             Nasdaq SmallCap Market
+</TABLE>
+
+Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes  X   No
+                                             -----   -----
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.   X
+           -----
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in the Rule 12b-2 of the Act). Yes [ ] No [X]
+
+The aggregate market value of common stock held by non-affiliates of the
+registrant as of June 30, 2004 was $6,753,238.
+
+Number of shares outstanding of the registrant's Common Stock, $0.01 par value
+(excluding shares of treasury stock) as of March 2, 2005: 48,399,771. The
+aggregate market value of the registrant's voting stock held by non-affiliates
+of the registrant based on the closing price on the Nasdaq SmallCap Market on
+March 2, 2005: $6,291,175.
+
+Documents and information incorporated by reference: None.
+
+================================================================================
+<PAGE>
+                                     PART I
+
+FORWARD-LOOKING STATEMENTS
+
+Some of the statements in this report are forward-looking statements. These
+forward-looking statements include statements relating to our performance. In
+addition, we may make forward-looking statements in future filings with the
+Securities and Exchange Commission and in written material, press releases and
+oral statements issued by us or on our behalf. Forward-looking statements
+include statements regarding the intent, belief or current expectations of us or
+our officers, including statements preceded by, "should," "believe," "may,"
+"will," "expect," "anticipate," "estimate," "continue," "predict," "propose," or
+similar expressions.
+
+It is important to note that our actual results could differ materially from
+those anticipated in our forward-looking statements depending on various "risk
+factors." Such risk factors include: concentration of stock ownership,
+relationships with race sanctioning bodies, competition for leisure dollars,
+reliance on key personnel, potential liabilities for personal injuries, need for
+additional financing, limited trading market for our stock, dependence on the
+North American new truck industry, variability of raw material and labor costs,
+failure to manage mergers, acquisitions, dispositions and diversification into
+other lines of business, the need to effectively manage a large sports and
+entertainment development project and other factors discussed under the caption
+"Risk Factors."
+
+All forward-looking statements in this report are based on information available
+to us on the date of this report. We do not undertake to update any
+forward-looking statements that may be made by us or on our behalf in this
+report or otherwise. In addition please note that the matters discussed under
+the caption "Risk Factors" constitute cautionary statements identifying
+important factors with respect to the forward-looking statements, including
+certain risks and uncertainties, that could cause actual results to differ
+materially from those in such forward-looking statements.
+
+ITEM 1. BUSINESS
+
+INTRODUCTION
+
+We are a Michigan corporation and a holding company with three active wholly
+owned subsidiaries. We have no independent operations of our own, however, we
+provide various administrative functions for our operating subsidiaries. Rugged
+Liner, Inc. ("RL") (formerly The Colonel's Truck Accessories, Inc.), Brainerd
+International Raceway & Resort, Inc., ("BIR") (formerly the Colonel's Brainerd
+International Raceway, Inc.) and Raceway 66, Inc. ("Raceway 66") are our three
+operating subsidiaries. The Colonel's, Inc. ("The Colonel's") is an inactive
+subsidiary, having sold all of its assets except for certain land in December
+1998. Our active subsidiaries operate in two segments, truck accessories and
+sports and entertainment.
+
+SALE OF MOTOR SPORTS FACILITY. In November 2004, we announced our intent to sell
+our multi-purpose motor sports facility located near Brainerd, Minnesota in an
+effort to concentrate on our manufacturing operations located in Michigan. The
+facility which hosts various spectator events such as drag and road races for
+cars and motorcycles includes a one-quarter mile drag strip and three-mile race
+course and consists of approximately 530 acres of land. The facility also
+includes Raceway 66, a combined convenience store and gas station adjacent to
+the property. We expect to continue to operate the facility during 2005 until we
+locate a qualified purchaser.
+
+NAME CHANGE. In March 2001, in order to reflect the increasing prominence of the
+sports and leisure segment of our business we began doing business under the
+assumed name of Sports Resorts
+
+
+                                       2
+<PAGE>
+International, Inc. and changed our ticker symbol on the Nasdaq SmallCap Market
+from "COLO" to "SPRI". We changed our name on April 16, 2001.
+
+DEVELOPMENT OF SPORTS AND ENTERTAINMENT COMPLEX. During 2001, we proposed the
+development of a new sports and entertainment complex (the "Complex") to be
+located on approximately 340 acres northeast of I-75 and Mount Morris Road in
+Mount Morris Township, Genesee County, Michigan. This project is in the
+development stage. We have received zoning and site plan approval for
+development of the site. The Complex could eventually include a coliseum, domed
+stadium, hotel, theme restaurant, and a combined gas station, convenience and
+souvenir store, along with 130 acres of parking. To date, we have not been able
+to obtain the necessary funding for this project and are currently evaluating
+our options. Potential alternatives for the project include sale of the land we
+own and a release of the options we hold to purchase the land. If we cannot
+obtain sufficient capital to develop the complex we will need to consider an
+alternative plan.
+
+RUGGED LINER, INC. ("RL")
+
+GENERAL
+
+RL was formed in 1995 to meet the demand in the new and used vehicle accessories
+market for a high quality pickup truck bedliner. RL began to manufacture its
+products in May of 1996 and began to market and distribute them during the third
+quarter of 1996.
+
+PRODUCTS
+
+Truck bedliners are plastic inserts that are placed into the rear beds of pickup
+trucks. Pickup truck owners purchase bedliners to protect the paint and
+structural integrity of their truck beds. There are a number of
+manufacturers/distributors of bedliners in the marketplace and their products
+range in quality from very poor to excellent. Poor bedliners have bad fit and
+finish, may require special drilling into the vehicle to support mounting
+attachments and are of thinner gauge plastic. Excellent products do not have
+these deficiencies. Other differentiating features of better products include
+sidewall reinforcements, drainage channels and other features. In our opinion,
+RL makes a highly competitive product.
+
+RL manufactures approximately 90 different bedliners that are made to fit a
+number of different vehicle models. RL produces both under-the-rail and
+over-the-rail products.
+
+MANUFACTURING
+
+RL uses plastic sheet extrusion machines and rotary vacuum formers to produce
+bedliners from polyethylene resin. Raw materials are maintained in large vessels
+in RL's Owosso, Michigan plant. Keeping these materials inside the plant to
+avoid temperature and humidity changes that affect the extrusion process and the
+quality of the plastic sheet reduces variations in the quality of RL's extruded
+sheets. We believe that our present sources and adequate replacement sources of
+polyethylene resin are available to meet our demand. However, polyethylene resin
+can be subject to significant price fluctuation. For example, the cost of
+polyethylene resin was 31% higher in December 2004 as compared to December of
+2003.
+
+We believe that RL is unique among all United States bedliner manufacturers
+based on RL's ability to control every element of production, from raw materials
+to finished product. We believe this production control makes RL's operation
+highly competitive.
+
+Total annual production capacity in the Owosso plant is estimated at over
+400,000 units, assuming three shifts of operation. The facility currently runs
+two shifts per day, and produced approximately 240,000 units in 2004.
+
+
+                                       3
+<PAGE>
+DISTRIBUTION AND SALES
+
+RL sells bedliners to a wide network of distributors and dealers across North
+America. Sales are directed from RL's Owosso, Michigan facility by its sales
+manager to district sales people.
+
+MARKET
+
+The market for bedliners is estimated at approximately 50% of the total volume
+of new pickup trucks sold in the United States, both foreign and domestic, and
+is estimated to be 3 million units per year. The pickup truck market constitutes
+a substantial percentage of all vehicles sold. RL's truck accessories target
+this market.
+
+COMPETITION
+
+RL believes that there are only two other major manufacturers of drop-in
+bedliners in the United States. Durakon Industries, Inc. and Penda Corporation
+manufacture and sell the majority of all bedliners in the United States with RL
+currently the third largest manufacturer in this market. The drop-in bedliner
+industry itself is experiencing increased competition from alternative products
+such as sprayed-on polyurethane truck bedliners, which are available in the
+aftermarket and on a limited basis on certain original equipment manufacturers
+("OEM") offerings. Additionally, certain OEM's have considered and are pursuing
+the development of composite pickup truck boxes, which could eventually replace
+conventional stamped-steel cargo beds.
+
+EMPLOYEES
+
+RL employs approximately 130 people including approximately 125 employees
+through a contractual arrangement with a professional employment organization
+("PEO"). By using a PEO, we develop a seamless relationship between the Company,
+the PEO and our employees. The PEO assumes responsibility for the administrative
+obligations related to human resources, workers compensation, payroll and
+benefits administration, labor law compliance and employment taxes. Under this
+contractual relationship, we continue to direct the day to day duties of our
+employees. The use of a PEO allows us to cost effectively outsource
+administrative functions while continuing to manage our own workforce.
+
+RL's management team includes employees with manufacturing and sales experience
+in this industry sector. We believe that RL has a strong management team.
+
+PROPERTIES
+
+RL manufactures bedliners at its Owosso, Michigan plant, which is leased from a
+company owned by Donald J. Williamson, the majority shareholder of our Company,
+and his wife, Patsy Williamson. The plant has 240,000 square feet of space. This
+facility, which also houses our headquarters, is located at 951 Aiken Road,
+Owosso, Michigan. We believe that this facility is satisfactory for our current
+and future needs.
+
+BRAINERD INTERNATIONAL RACEWAY & RESORT, INC. ("BIR")
+
+GENERAL
+
+BIR and its predecessors have operated the Brainerd International Raceway, which
+is located at 5523 Birchdale Road, Brainerd, Minnesota (the "Raceway"), since
+June 1973. At the Raceway, BIR organizes and promotes various spectator events
+such as road and drag races, including races for sports cars and motorcycles,
+and derives a substantial portion of its revenues from ticket sales and
+spectator attendance.
+
+
+                                       4
+<PAGE>
+A drag race is generally conducted between two vehicles from a standing start
+over a one- quarter mile track, using sophisticated starting and timing systems.
+
+In addition, BIR permits the use of the Raceway by others who organize and
+promote racing events and by individuals or commercial organizations that may
+use the Raceway for automobile road testing or filming. The raceway operates
+from May through October. Typically, racing events, whether or not organized by
+BIR, are conducted over a two to four-day period, usually encompassing a
+weekend.
+
+SOURCES OF REVENUE
+
+BIR derives its revenues from four principal sources: (1) admissions; (2)
+camping fees, concession sales, and track rentals; (3) entry fees; and (4)
+sponsorship and signage fees.
+
+Tickets are available, in advance or at the gate at the time of events, through
+BIR's ticket office in Brainerd, Minnesota. BIR permits overnight camping during
+racing events on the Raceway grounds. Camping revenues were received by BIR for
+only eight spectator events in 2004. BIR rents the Raceway to other
+organizations to conduct races, hold driving schools or to test or film motor
+vehicle operations. The fee charged for such uses varies and is negotiated in
+each case. Entry fees are received from race participants usually at the start
+of each race event. Sponsors promote their names and products at and in
+connection with the racing events. Sponsorship fees are contracted for and often
+paid in whole or in part several months prior to the commencement of each racing
+season.
+
+EVENTS AND ACTIVITIES
+
+During 2004, BIR organized and promoted several major spectator events,
+including three drag races ("Thunder at the Lakes", "The Lucas Oil Products Drag
+Racing Series" and the National Hot Rod Association ("NHRA") "Lucas Oil
+Nationals"), two special events ("The Show & Go" and "The Muscle Car
+Shoot-Out"), a regional road racing event ("The Cellular One Nascar 300"), and
+two motorcycle races (the "AMA Chevy Trucks Superbike Classic" and "The ADHRA
+Nationals/Big Race").
+
+Thunder at the Lakes was a four day drag racing event primarily for
+non-professional drivers held over Memorial Day weekend, May 28 through May 31,
+2004. This event was sanctioned by the NHRA.
+
+The Lucas Oil Products Drag Racing Series held on June 3 through June 6, 2004,
+was a drag racing event sponsored nationally by Lucas Oil Products. The Lucas
+Oil Products Series was sanctioned by the NHRA and was one of a series of five
+events in the Central States Division of the NHRA. The Lucas Oil Products Drag
+Racing Series was organized and promoted jointly by BIR and the NHRA, and
+included both professional and amateur drivers who paid BIR an entry fee. A
+similarly sponsored event has been held at the Raceway annually since 1977, with
+the exception of 1984, when there was a scheduling conflict. Lucas Oil Products
+is sponsoring this series through the 2005 season.
+
+The Lucas Oil Nationals event, held August 12 through August 15, 2004, was
+sponsored by Lucas Oil under an agreement with the NHRA. This event features
+professional and sportsman drivers, most of whom have national reputations, and
+was one of a series of drag races conducted throughout the United States under
+the national sponsorship of PowerAde and the sanction of the NHRA. The four-day
+event features a series of drag races in the following classes: Top Fuel
+Dragster, Top Fuel Funny Car, Pro Stock, Pro Stock Motorcycle, Alcohol Drag,
+Alcohol Funny, all Sportsman's categories and Muscle Sled Snowmobile Drags. The
+Lucas Oil Nationals were organized jointly by BIR and promoted by the NHRA. The
+NHRA sanctions the Raceway for a fixed fee, as determined in the sanction
+agreement. Profits are earned primarily through the receipt of promotional fees
+and ticket sales. BIR's responsibilities in this event are, among other things,
+to provide the Raceway, ticket takers and security personnel, and to assist in
+the management and operation of the event. The agreement with the NHRA is for
+one year with three
+
+
+                                       5
+<PAGE>
+three-year extensions (10 years total). In 2002, BIR and the NHRA extended the
+original agreement for a second time, through 2005. Under the sanction
+agreement, BIR is not permitted to conduct any drag races at the Raceway that
+are not sanctioned by the NHRA.
+
+The Show & Go event was held on July 2 through July 4, 2004. This event featured
+"street rods," "street machines," antiques and other classic cars that
+participated in both a car show and drag races emphasizing a
+"back-to-the-fifties" style. The drag racing portion of the event was sanctioned
+by the NHRA. The Muscle Car Shoot-Out was held on September 2 through September
+5, 2004. As with the Show & Go event, this event is both a car show and a drag
+race. The Muscle Car Shoot-Out involves classic and late model year vehicles.
+
+The AMA Chevy Truck Superbike Classic, held on June 25 through June 27, 2004,
+was one of a series of nine races conducted throughout the United States
+pursuant to the sanction of the American Motorcyclist Association (the "AMA").
+The event featured six races of motorcycles operating on the road course. The
+races involved motorcycles of 250cc, 600cc, 750cc and the Harley Davidson Twin
+Sport and Superbike classes.
+
+The ADHRA Nationals/Big Race was a four day drag racing event for all makes and
+classes of motorcycles held on July 29 through August 1, 2004.
+
+In 2004, BIR added the Cellular One Nascar 300, a regional road racing event
+held on August 19 through August 22, 2004.
+
+BIR also organized and sponsored five weekend drag racing "bracket" events in
+2004, primarily for non-professional drivers from Minnesota and surrounding
+states. In bracket racing, each driver attempts to predict his car's
+performance; whether he wins or loses a particular race will depend partially on
+how much his actual time over a one-quarter mile distance exceeds his predicted
+time. While spectators are encouraged to attend these drag racing events and BIR
+receives revenues from ticket sales, camping fees and concessions, they are not
+highly promoted.
+
+In addition to the spectator events and the bracket races discussed above, there
+are racing events conducted on approximately 20 other weekends that are
+primarily for nonprofessional drivers and are often organized and sponsored by
+local and regional racing clubs, some of which may be members of or affiliated
+with national sanctioning organizations. While spectators attend these events,
+BIR does not receive any revenues from ticket sales or engage in any significant
+promotion of these events.
+
+During 2004, four motorcycle racing events were held, each of which was
+sponsored by the Central Roadracing Association; a club located in the
+Minneapolis/St. Paul, Minnesota area and associated with the AMA. The Nord Stern
+Regional Porsche Club of America also organized four weekend racing
+events in 2004 for Porsche cars.
+
+In addition to continuing to schedule events similar to those discussed above,
+BIR is also seeking to establish additional advertising and sponsorship, and the
+rental of 18 condominium units.
+
+SANCTIONING ORGANIZATIONS
+
+Most racing events conducted at the Raceway, including the principal spectator
+events held by BIR during 2004, are sanctioned by an organization which
+establishes, publishes and enforces rules relating to a specific class or type
+of participating vehicle. These rules generally relate to the specifications
+that each class of car or other vehicle must meet to be eligible to race, to
+driver conduct and to other racing matters. BIR enters into agreements annually
+with the various applicable sanctioning bodies with respect to each race it
+organizes and promotes. These agreements provide that the appropriate
+sanctioning organization
+
+
+                                       6
+<PAGE>
+will sanction the race and provide personnel to interpret and enforce its rules.
+The sanctioning bodies include the National Hot Rod Association ("NHRA")
+(governing drag racing) and the American Motorcyclist Association ("AMA")
+(governing motorcycles). In 2004, the All Harley Drag Racing Association
+("AHDRA") (governing Harley drag motorcycles), and the National Association of
+Stock Car Auto Racing ("NASCAR") (governing road course racing) were added as
+sanctioning organizations.
+
+COMPETITION
+
+The closest comparable race track which conducts road racing events similar to
+those conducted by BIR is located at Elkhart Lake, Wisconsin, which is
+approximately 75 miles northwest of Milwaukee, Wisconsin, approximately 475
+miles from the Raceway and approximately 350 miles from Minneapolis/St. Paul,
+Minnesota. While there are drag race strips in Fargo, North Dakota, and Eau
+Claire, Wisconsin, the closest drag race strips that own equipment and conduct
+major drag race events comparable with that owned or conducted by BIR are
+located in Indianapolis, Indiana and Chicago, Illinois. While other regional
+racetracks are not generally considered competitive with BIR, other events in
+BIR's market area, such as sporting events, festivals and concerts, may tend to
+attract persons who might otherwise attend BIR's racing events. BIR does not
+generally consider the schedules of other spectator events when scheduling its
+own events.
+
+SEASONAL BUSINESS/WEATHER
+
+Substantially all of BIR's revenues arise from operation of the Raceway during
+the period of May through October of each year. BIR's revenues are derived
+primarily from ticket sales for racing events, and adverse weather could
+materially diminish the revenues that might otherwise be received by BIR. While
+sports car, stock car and motorcycle races may be conducted in many different
+weather conditions, spectator attendance is significantly reduced when it rains.
+A drag racing event cannot be held in rain and adverse weather could require the
+rescheduling of such events or the cancellation of the event and the return of
+ticket sale proceeds to ticket buyers. A substantial majority of BIR's revenues
+arise from drag racing events. In addition to adversely affecting attendance and
+concession sales, adverse weather requires rescheduling of events, which results
+in increased operating costs for the events. Bad weather was not a significant
+factor in 2004.
+
+EMPLOYEES
+
+BIR has 10 full-time employees who are leased through a professional employment
+organization. From April through October, BIR employs 10 additional full-time
+grounds and track maintenance personnel. In addition, BIR engages various
+independent contractors and part time help to handle matters such as public
+relations, drag racing events, perimeter and grounds security, ticket sales and
+ticket handling, emergency medical service, concessions and camping.
+
+PROPERTIES
+
+BIR owns and operates a three-mile race track, including a one-quarter mile drag
+strip, located approximately six miles northwest of Brainerd, Minnesota. The
+Raceway was initially constructed and first utilized for competitive racing in
+1968. The site of the Raceway consists of approximately 530 acres.
+
+The Raceway is enclosed by an eight-foot chain link fence. The site provides
+full service camping facilities and parking for approximately 17,500 vehicles.
+The Raceway contains several buildings, including a four-story tower containing
+eleven executive viewing suites, a control tower, three enclosed racing
+maintenance buildings divided into stalls for participant repairs and various
+single story buildings containing concession stands, restrooms and storage and
+service facilities located throughout the property.
+
+
+                                       7
+<PAGE>
+The buildings are concrete or wood frame construction. Grandstand bleachers for
+approximately 27,000 spectators are primarily located along the dragstrip.
+
+BIR's executive offices and ticket sales are located at 5523 Birchdale Road,
+Brainerd, Minnesota.
+
+RACEWAY 66, INC. ("RACEWAY 66")
+
+Raceway 66 is a combined convenience store and gas station adjacent to our BIR
+facility.
+
+THE COLONEL'S, INC. ("THE COLONEL'S")
+
+The Colonel's is an inactive subsidiary, holding certain real estate including
+100 acres to be used in connection with the proposed sports and entertainment
+complex.
+
+PROPERTIES
+
+The Colonel's owns approximately 100 acres on I-75 in Mount Morris Township,
+Michigan, along with options to purchase adjacent parcels in Mount Morris
+Township, Michigan totaling approximately 72 acres. This property would be used
+for the Sports and Entertainment facility if adequate construction funding can
+be obtained.
+
+The Colonel's owns various other properties totaling approximately 20 acres on
+Clio Road located in Mount Morris Township, Michigan.
+
+ITEM 2. PROPERTIES
+
+We are a holding company with no independent operations. Significant properties
+leased or owned through our subsidiaries are as follows:
+
+     -    951 Aiken Road, Owosso, Michigan
+          240,000 square foot manufacturing facility and corporate headquarters
+          (leased) See Item 13, "Certain Relationships and Related Transactions"
+          for terms
+
+     -    5523 Birchdale Road, Brainerd, Minnesota
+          Racetrack and supporting facilities on approximately 530 acres (owned)
+
+     -    I-75, Mount Morris Township, Michigan
+          100 acres (owned)
+
+     -    I-75, Mount Morris Township, Michigan
+          Options to purchase an additional 72 acres adjacent to the property
+          described above
+
+     -    Coldwater Road, Mount Morris Township, Michigan
+          20 acres (owned)
+
+ITEM 3. LEGAL PROCEEDINGS
+
+None
+
+The Company from time to time is involved in litigation and various other legal
+matters that arise in the ordinary course of business. We do not believe that
+the ultimate resolution of these routine matters will have a material adverse
+effect on our financial condition, results of operations or cash flows.
+
+
+                                       8
+<PAGE>
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+On November 15, 2004 the Company held its 2004 Annual Meeting of Shareholders at
+its corporate offices in Owosso, Michigan. The purposes of the meeting were to
+elect three Directors to the Board of Directors and to ratify the appointment of
+Grant Thornton LLP as the Company's independent auditors for the current fiscal
+year.
+
+Two candidates nominated by management were elected by the shareholders to serve
+as Directors of the Company with terms ending in 2007. The following sets forth
+the results of the voting with respect to each candidate (there were no broker
+non-votes on this matter):
+
+<TABLE>
+<CAPTION>
+                       Shares Voted   Shares Voted   Authority
+  Name of Candidate         For          Against      Withheld
+  -----------------    ------------   ------------   ---------
+<S>                    <C>            <C>            <C>
+Ted M. Gans             46,715,892          0         218,037
+Donald J. Williamson    46,715,892          0         218,037
+</TABLE>
+
+Ronald J. Rolak remained as Director with a term ending in 2005. Maureen C.
+Cronin, Eric Hipple and Craig B. Parr remained as Directors with terms ending in
+2006. Thus, the expiration dates of the Directors' current terms of office are
+as follows:
+
+<TABLE>
+<CAPTION>
+Director               Year Term Expires
+--------               -----------------
+<S>                    <C>
+Maureen C. Cronin            2006
+Ted M. Gans                  2007
+Eric Hipple                  2006
+Criag B. Parr                2006
+Ronald J. Rolak              2005
+Donald J. Williamson         2007
+</TABLE>
+
+The following sets forth the results of the voting with respect to the proposal
+to confirm the appointment of Grant Thornton LLP as the Company's independent
+auditors for the current fiscal year (there were no broker non-votes on this
+proposal):
+
+<TABLE>
+<S>                    <C>
+Shares Voted For       46,930,597
+                       ----------
+Shares Voted Against        3,332
+                       ----------
+Authority Withheld              0
+                       ----------
+</TABLE>
+
+
+                                       9
+<PAGE>
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED SHAREHOLDER MATTERS
+
+Our Common Stock has been traded on The Nasdaq SmallCap Market since January 2,
+1996. The number of holders of record on March 2, 2005 was 232.
+
+The table below sets forth the high and low sales prices by calendar quarter for
+our Common Stock for 2004 and 2003:
+
+<TABLE>
+<CAPTION>
+                          2004            2003
+                     -------------   -------------
+                      High    Low     High    Low
+                     -----   -----   -----   -----
+<S>                  <C>     <C>     <C>     <C>
+January - March      $5.05   $3.80   $8.21   $5.01
+April - June         $5.91   $3.51   $7.30   $3.90
+July - September     $4.75   $3.65   $6.10   $3.86
+October - December   $3.74   $2.57   $6.03   $4.40
+</TABLE>
+
+During 2004 and 2003 we did not declare or pay any cash dividends on our Common
+Stock. We do not anticipate declaring or paying any dividends in the foreseeable
+future, rather we intend to apply earnings, if any, to the development of the
+business of our subsidiaries
+
+We made no unregistered sales of our securities in 2004.
+
+
+                                       10
+<PAGE>
+ITEM 6. SELECTED FINANCIAL DATA.
+
+The selected financial data shown below for each of the five years in the period
+ended December 31, 2004 has been derived from our consolidated financial
+statements. The following data should be read in conjunction with the
+consolidated financial statements and related notes thereto included in Appendix
+A and "Item 7--Management's Discussion and Analysis of Financial Condition and
+Results of Operations."
+
+<TABLE>
+<CAPTION>
+                                   2004        2003 (1)      2002 (2)      2001 (3)      2000 (4)
+                               -----------   -----------   -----------   -----------   -----------
+<S>                            <C>           <C>           <C>           <C>           <C>
+Operations:
+Operating revenues             $20,524,756   $22,741,823   $19,614,297   $16,956,657   $21,839,715
+Net (loss) income              $(1,730,941)  $ 1,189,415   $  (263,144)  $(3,979,891)  $(1,875,046)
+Basic and diluted
+   (loss) earnings per share   $     (0.04)  $      0.02   $     (0.01)  $     (0.08)  $     (0.04)
+
+Financial Condition:
+Current assets                 $ 8,210,821   $ 5,100,585   $ 4,448,442   $ 4,908,035   $ 7,110,406
+Current liabilities            $ 1,559,746   $ 1,959,873   $ 4,306,840   $ 3,851,186   $ 3,937,688
+Total assets                   $20,267,205   $22,497,608   $22,683,934   $22,190,241   $27,801,442
+Long-term debt                 $   573,028   $   791,194   $   531,123   $   608,002   $ 1,878,785
+</TABLE>
+
+1.   Net income for 2003 includes an income tax benefit of $1,408,000. See Note
+     10 in the accompanying Consolidated Financial Statements included in
+     Appendix A.
+
+2.   Net loss for 2002 includes an income tax benefit of $1,042,000. See Note 10
+     in the accompanying Consolidated Financial Statements included in Appendix
+     A. It also includes the cumulative effect of an accounting change of
+     $1,131,000 for an impairment loss on goodwill. See Cumulative Effect of
+     Accounting Change for Goodwill in Item 7.
+
+3.   Net loss for 2001 includes a write down of impaired assets of $1,859,000.
+
+4.   Operating revenues for 2000 and 1999 include revenues from retail store
+     operations of $5,346,000 and $16,784,000 respectively. RL discontinued
+     retail store operations in 1999 and 2000 to focus on its core business
+     activity of bedliner manufacturing in Owosso, Michigan.
+
+
+                                       11
+<PAGE>
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+Some of the statements in this report are forward-looking statements. These
+forward-looking statements include statements relating to our performance. In
+addition, we may make forward-looking statements in future filings with the
+Securities and Exchange Commission and in written material, press releases and
+oral statements issued by us or on our behalf. Forward-looking statements
+include statements regarding the intent, belief or current expectations of us or
+our officers, including statements preceded by, "should," "believe," "may,"
+"will," "expect," "anticipate," "estimate," "continue," "predict," "propose," or
+similar expressions.
+
+It is important to note that our actual results could differ materially from
+those anticipated in our forward-looking statements depending on various "risk
+factors." Such risk factors include: concentration of stock ownership,
+relationships with race sanctioning bodies, competition for leisure dollars,
+reliance on key personnel, potential liabilities for personal injuries, need for
+additional financing, limited trading market for our stock, dependence on the
+North American new truck industry, variability of raw material and labor costs,
+failure to manage mergers, acquisitions, dispositions and diversification into
+other lines of business, the need to effectively manage a large sports and
+entertainment development project and other factors discussed under the caption
+"Risk Factors."
+
+All forward-looking statements in this report are based on information available
+to us on the date of this report. We do not undertake to update any
+forward-looking statements that may be made by us or on our behalf in this
+report or otherwise. In addition please note that the matters discussed under
+the caption "Risk Factors" constitute cautionary statements identifying
+important factors with respect to the forward-looking statements, including
+certain risks and uncertainties, that could cause actual results to differ
+materially from those in such forward-looking statements.
+
+CRITICAL ACCOUNTING POLICIES
+
+Our consolidated financial statements are prepared in conformity with accounting
+principles generally accepted in the United States of America. As such, we are
+required to make certain estimates, judgments and assumptions that we believe
+are reasonable based upon information available. These estimates and assumptions
+affect the reported amounts of assets and liabilities and the disclosures of
+contingent assets and liabilities at the dates of the consolidated financial
+statements and the reported amounts of revenue and expenses during the reporting
+periods. The significant accounting policies which we believe are the most
+critical to aid in fully understanding and evaluating our reported consolidated
+financial results include the following:
+
+REVENUE RECOGNITION - For sales of products, we recognize revenue at the time
+the product is shipped and title is passed to our customers. We offer customers
+a discount for prompt payment. We maintain a provision for discounts and monitor
+discounts taken. For BIR, revenue is recognized when earned at the time of the
+related event. Advance sales and event related revenues for future events are
+deferred until earned.
+
+ACCOUNTING FOR CERTAIN LONG-LIVED ASSETS - Our consolidated balance sheets
+include significant amounts of long-lived assets. We evaluate long-lived assets
+and certain identifiable intangibles for impairment whenever events or changes
+in circumstances indicate that the carrying amount of an asset may not be
+recoverable. When it is probable that undiscounted future cash flows will not be
+sufficient to recover an asset's carrying amount, the asset is written down to
+its estimated fair value. Long-lived assets to be disposed of are reported at
+the lower of carrying amount or fair value less cost to sell. Assumptions
+regarding our future business outlook affect our evaluation. We continue to
+review and analyze many factors that can impact our business prospects in the
+future. Our analyses are subjective and are based on conditions existing at and
+trends leading up to the time the assumptions are made. Actual results could
+
+
+                                       12
+<PAGE>
+differ materially from these assumptions. Our judgments with regard to our
+future business prospects could impact whether or not an impairment is deemed to
+have occurred, as well as the timing of the recognition of such an impairment
+charge.
+
+BACKGROUND AND SUBSIDIARIES
+
+We have three active subsidiaries: Rugged Liner, Inc. ("RL"), Brainerd
+International Raceway & Resort, Inc. ("BIR") and Raceway 66, Inc. ("Raceway
+66"). The operations of Raceway 66 are included with BIR as discussed herein.
+The Colonel's Inc. ("The Colonel's") is an inactive subsidiary, having sold
+substantially all of its assets except for certain land. Information about the
+businesses of these subsidiaries is set forth in Item 1.
+
+FINANCIAL CONDITION
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Our consolidated current assets increased from $5,101,000 at December 31, 2003
+to $8,211,000 at December 31, 2004. This increase is primarily related to the
+reclassification from long term to current, the majority of the balance owed on
+a related party note-receivable offset by the receipt of Federal income taxes
+receivable of $1,570,000. Our consolidated current liabilities decreased from
+$1,960,000 at December 31, 2003 to $1,560,000 at December 31, 2004. This
+decrease primarily relates to decreases in accounts payable and accrued expenses
+of $183,000 and $179,000, respectively.
+
+Cash increased by approximately $191,000 from $482,000 at December 31, 2003 to
+$673,000 at December 31, 2004 primarily due to the receipt of Federal income tax
+refunds of $1,570,000 and $414,000 received upon the disposal of an unused
+warehouse building in the second quarter of 2004, offset by the purchase of 40
+acres of vacant land in Mt. Morris Township, Michigan for $752,000 as part of
+our proposed sports and entertainment complex, capital expenditures of
+$428,000 and principal payments on long-term debt of $256,000.
+
+Accounts receivable-trade remained relatively consistent and were $833,000 and
+$821,000 at December 31, 2004 and 2003, respectively.
+
+Note receivable - related party is comprised of a note, which is secured by a
+subordinated mortgage and personal guarantee from our majority shareholder. The
+note requires monthly principal and interest payments through February 2005, at
+which time the unpaid balance is due. The current portion of the note increased
+by $4,269,000, from $161,000 at December 31, 2003 to $4,430,000 at December 31,
+2004 primarily due to the reclassification of amounts from long-term. As of
+December 31, 2004, the note was being paid in accordance with its terms.
+However, subsequent to December 31, 2004, the related party failed to pay the
+unpaid balance on the due date in February 2005. The Company has sent a default
+letter demanding payment and intends to pursue collection of this obligation
+aggressively. The Company believes that its has adequate collateral to secure
+the obligation.
+
+Federal income taxes receivable of $1,570,000 at December 31, 2003 relates to
+net operating losses available for carryback. During 2003, we completed a cost
+segregation study during which we reclassified certain assets originally
+classified as real property into other more appropriate asset categories, which
+allowed for shorter more accelerated methods of depreciation as allowed by the
+Internal Revenue Service. As a result of the cost segregation study, we were
+able to accelerate our deductions for depreciation and increase the carryback of
+net operating losses during the completion of our 2002 consolidated Federal
+income tax return. During the second quarter of 2004 we received a refund of
+$1,570,000 from the amendment of certain prior year returns.
+
+
+                                       13
+<PAGE>
+Inventory increased by $65,000 from $1,535,000 at December 31, 2003 to
+$1,600,000 at December 31, 2004 primarily due to higher product costs for RL
+caused by higher raw material costs and less favorable production volumes
+partially offset by lower inventory levels.
+
+Other assets-current remained consistent and were $675,000 and $532,000 at
+December 31, 2004 and 2003, respectively.
+
+Net property, plant and equipment decreased by approximately $1,649,000 from
+$11,673,000 at December 31, 2003 to $10,024,000 at December 31, 2004 primarily
+due to fixed asset additions of $428,000 offset by depreciation for the period
+of $1,751,000 and the disposal of an unused warehouse building with a carrying
+value of $230,000. Tooling comprised the majority of additions during the
+period.
+
+Other assets - long term increased from $1,294,000 at December 31, 2003 to
+$2,032,000 at December 31, 2004 due to the purchase of 40 acres of vacant land
+in connection with our proposed complex in Mt. Morris Township, Michigan
+
+LIABILITIES AND EQUITY
+
+Accounts payable decreased by approximately $183,000 from $1,136,000 at December
+31, 2003 to $953,000 at December 31, 2004 primarily due to a reduction in raw
+material purchases corresponding to lower sales and production volumes by RL.
+
+Accrued expenses decreased by $179,000 from $567,000 at December 31, 2003 to
+$388,000 December 31, 2004, primarily due to the payment of accrued amounts
+provided for.
+
+During the first six months of 2002, we paid certain expenses on behalf of
+affiliated entities controlled by Donald J. Williamson, our majority
+shareholder. These expenses were predominately for the use of a common payroll
+processing service as well as a pro rata share of general insurance coverage.
+Additionally, we had advanced $1,036,000 on behalf of Mr. Williamson for
+construction costs related to a convenience store and gas station built adjacent
+to our BIR facility in Brainerd, Minnesota. Construction of the convenience
+store was completed in the second quarter of 2002. Effective September 1, 2002,
+Mr. Williamson transferred the facility to us, at which time the construction
+advances were offset based on net book value, which was determined using
+historic cost data accumulated during the construction of the facility.
+Additionally, in June of 2003, we received $711,000 from affiliated entities
+toward amounts previously advanced. The total amount outstanding at December 31,
+2004 and 2003 was $396,000, which is to be reimbursed to us by the affiliated
+entities. In accordance with the Sarbanes-Oxley Act of 2002, we discontinued
+making any additional advances, or any modifications to existing credit
+arrangements to or on behalf of affiliated entities effective September 30,
+2002.
+
+OUTSTANDING LOANS AND CONTRACTUAL COMMITMENTS
+
+We entered into a term loan in August 1999 in the amount of $403,000. This loan
+was secured by a permanent grandstand addition and required annual principal
+payments of $100,675, plus 9% interest, through August 2003 at which time this
+loan was paid in full. We also had a term loan, which was secured by property
+and required quarterly interest payments at 2% above the prime rate, subject to
+a minimum rate of 8%. In August of 2004 the loan was paid in full.
+
+In 1995, we leased $2,689,000 of equipment under a lease agreement that included
+an option to purchase the equipment for $1.00 upon expiration of the lease term.
+The payment amounts under the lease represented principal payments, with
+interest at rates between 8% and 8.5%. In 1996, we leased
+
+
+                                       14
+<PAGE>
+additional equipment in the amount of $3,744,000 structured in the same manner.
+In May of 2003, these capital leases were paid in full.
+
+In 2002 we entered into term loans in the amount of $595,237. These loans are
+secured by transportation equipment and require monthly payments including
+interest at rates approximating 8% through November 2007.
+
+In February 2003, we entered into a note payable with a bank in the amount of
+$500,000. This note was secured by a mortgage on BIR's facilities and required
+monthly payments of interest at 7.5%. In October 2003, we extended this note
+with monthly principal and interest payments at 2.5% above prime (effective rate
+of 7.75% at December 31, 2004) through October 2008.
+
+We lease our Owosso, Michigan facility from an affiliated entity controlled by
+Donald J. and Patsy L. Williamson, our majority shareholders. We are also
+responsible for all taxes, insurance and maintenance expenses related to the
+facility.
+
+Summarized below are our obligations and commitments to make future payments
+under debt obligations and lease agreements as of December 31, 2004:
+
+<TABLE>
+<CAPTION>
+                     2005       2006       2007       2008       2009
+                   --------   --------   --------   --------   --------
+<S>                <C>        <C>        <C>        <C>        <C>
+Debt obligations   $219,000   $235,000   $239,000   $ 99,000   $     --
+Lease agreements    610,000    608,000    605,000    604,000    550,000
+                   --------   --------   --------   --------   --------
+   Total           $829,000   $843,000   $844,000   $703,000   $550,000
+                   ========   ========   ========   ========   ========
+</TABLE>
+
+We believe that we will be able to satisfy our ongoing cash requirements for
+operating activities in the next twelve months and thereafter with available
+cash, cash flows from operations and the collection of advances and notes
+receivable outstanding from our majority shareholder and related entities.
+Borrowing arrangements or additional public capital will be necessary to fund
+the proposed sports and entertainment complex, which we have been unable to
+obtain to date.
+
+MARKET RISK - SENSITIVE INSTRUMENTS AND POSITIONS
+
+We do not invest in or hold derivative contracts and are not exposed to foreign
+currency risk.
+
+
+                                       15
+<PAGE>
+RESULTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+                                             Year Ending
+                                             December 31
+                                         ------------------
+                                         2004   2003   2002
+                                         ----   ----   ----
+<S>                                      <C>    <C>    <C>
+Sales                                    100%   100%   100%
+Cost of Sales                             88     82     78
+Selling, General and
+   Administrative Expenses                21     19     24
+Land Development Costs                     2      1      1
+Net Gain on Disposal of Assets             1     --     --
+(Loss) Income from Operations            (10)    (2)    (2)
+Other Income                               2      1      2
+Income Tax Benefit                        --      6      5
+Cumulation Effect of Accounting Change    --     --     (6)
+Net (Loss) Income                         (8)     5     (1)
+</TABLE>
+
+Our revenues were $20,525,000, $22,742,000 and $19,614,000 for the years ended
+December 31, 2004, 2003 and 2002 respectively. Revenues attributable to RL were
+$16,053,000, $18,618,000 and $16,281,000 for the years ended December 31, 2004,
+2003 and 2002 respectively. The decrease in RL's sales from 2003 to 2004 is
+attributable to a softening in demand for its bedliner products. The $2,337,000
+increase in RL's revenues from 2002 to 2003 was primarily attributable to the
+addition of new distributors. BIR's revenues were $4,472,000, $4,124,000 and
+$3,333,000 for the years ended December 31, 2004, 2003 and 2002 respectively.
+The increase in BIR's revenue from 2003 to 2004 is primarily due to additional
+signage ad sponsorship revenue received in 2004. The $791,000 increase in BIR's
+revenues from 2002 to 2003 is primarily due to the inclusion of Raceway 66's
+operations, a combined convenience store and gas station, which we acquired in
+September 2002, for a full year in 2003. Revenues for Raceway 66, were $613,000
+in fiscal 2003 as compared to $131,000 for fiscal 2002. Additionally, ticket
+sale revenues for BIR increased $146,000 from 2002 to 2003.
+
+Cost of sales were $18,007,000, $18,657,000 and $15,201,000 for the years ended
+December 31, 2004, 2003, 2002 respectively or 88% for 2004, 82% for 2003 and 78%
+for 2002 as a percentage of revenue. Cost of sales attributable to RL were
+$13,002,000, $13,828,000 and $10,956,000 for the years ended December 31, 2004,
+2003 and 2002 respectively or 81%, 74% and 67% as a percentage of revenue. RL's
+cost of sales increased as a percentage of sales from 2003 to 2004 due to less
+favorable material costs as well as the reduction in sales described above and
+fixed manufacturing and overhead costs. The increase in RL's cost of sales as a
+percentage of revenue from 2002 to 2003 is primarily attributed to less
+favorable material costs, partially offset by efficiencies experienced with
+higher production volumes. Gross profit for RL was 19% of sales in 2004, 26% of
+sales in 2003 and 33% of sales for 2002. Cost of sales attributable to BIR were
+$5,005,000, $4,829,000 and $4,245,000 for the years ended December 31, 2004,
+2003 and 2002 respectively. The increase in BIR's cost of sales from 2003 to
+2004 is primarily due to higher costs for fuel sold at our Raceway 66
+convenience store operation. The increase in BIR's cost of sales from 2002 to
+2003 is primarily attributable to the inclusion of Raceway 66's operations as
+described above.
+
+Selling, general and administrative expenses were $4,307,000, $4,288,000 and
+$4,672,000 in 2004, 2003 and 2002 respectively, or as a percentage of revenues,
+21% for 2004, 19% for 2003 and 24% for 2002. Selling, general and administrative
+expenses attributable to RL were $3,499,000, $3,369,000 and $3,849,000 for the
+years ended December 31, 2004, 2003 and 2002 respectively. RL's selling, general
+and administrative expenses in 2004 were relatively fixed overall and remained
+consistent with 2003. RL's selling general and administrative expenses for 2003
+decreased in total from 2002 due to activities
+
+
+                                       16
+<PAGE>
+associated with higher sales levels offset by a reduction in amounts
+attributable to certain non-recurring selling expenses, property taxes and
+professional fees.
+
+Selling, general and administrative expenses for BIR were $808,000, $919,000 and
+$823,000 for the years ended December 31, 2004, 2003 and 2002 respectively. The
+decrease in selling, general and administrative expenses for BIR from 2003 to
+2004 is primarily due to a reduction in administrative staff. The increase in
+selling, general and administrative expenses for BIR from 2002 to 2003 is
+primarily due to the inclusion of the operations of the combined convenience
+store and gas station as described above.
+
+Land development costs were $364,000, $294,000 and $261,000 for the years ending
+December 31, 2004, 2003 and 2002 respectively. Land development costs are
+comprised principally of professional fees and non-refundable deposits to extend
+various agreements to purchase land in Mount Morris Township, Michigan in
+connection with our proposed sports and entertainment complex. Since financing
+for development of the project was not in place at December 2004 these amounts
+have been expensed.
+
+Net gain on disposal of assets was $108,000 for the year ended December 31, 2004
+and relates principally to the sale of an unused warehouse facility. There was
+no significant net gain (loss) on disposal of fixed assets in the years ended
+December 31, 2003 and 2002.
+
+Interest expense was $65,000, $93,000 and $113,000 for the years ending December
+31, 2004, 2003 and 2002, respectively. The decrease in interest expense is due
+to the reduction of outstanding debt.
+
+Interest income was $379,000, $387,000 and $409,000 for the years ending
+December 31, 2004, 2003 and 2002 respectively. Changes in interest income are
+attributable to excess cash available for investment purposes at prevailing
+rates and interest earned on notes receivable-related party.
+
+CUMULATIVE EFFECT OF ACCOUNTING CHANGE FOR GOODWILL
+
+In June 2001, the Financial Accounting Standard Board ("FASB") issued Statement
+of Financial Accounting Standards ("SFAS") No. 142, "Goodwill and Other
+Intangible Assets". SFAS 142 requires goodwill to be subject to annual
+impairment testing instead of amortization. We adopted this standard effective
+January 1, 2002. If the carrying value of goodwill or an intangible exceeds it
+fair value, an impairment loss is recognized. We engaged an independent
+appraisal company who used a discounted cash flow model to determine the fair
+value of our businesses for purposes of testing goodwill for impairment as of
+the date of adoption of SFAS 142. The discount rate used was based on a
+risk-adjusted weighted average cost of capital for each business. The effect of
+adopting this new standard resulted in a cumulative effect of an accounting
+change of approximately $1,131,000 or $.02 per basic and diluted share for an
+impairment loss on goodwill. $1,069,000 of the impairment loss was attributable
+to our truck accessories business and $62,000 was associated with our racetrack
+operations. In addition, the adoption eliminated annual amortization expense of
+approximately $387,000 or $.01 per share. See Note 2 to the consolidated
+financial statements included in Appendix A.
+
+RISK FACTORS
+
+GENERAL
+
+OWNERSHIP OF OUR COMMON STOCK IS CONCENTRATED IN ONE SHAREHOLDER, WHO IS ABLE TO
+EXERCISE CONTROL AND MAKE DECISIONS THAT MAY NOT BE IN THE BEST INTEREST OF ALL
+OF OUR SHAREHOLDERS
+
+Donald J. Williamson, our majority shareholder and his wife, Patsy Williamson,
+own approximately 96% of our issued and outstanding shares of common stock.
+Accordingly, Donald and Patsy Williamson are able to control the election of
+directors and all other matters which are subject to a vote of shareholders.
+
+
+                                       17
+<PAGE>
+This concentration of ownership may have the effect of delaying or preventing a
+change of control of Sports Resorts International, Inc. even if this change of
+control would benefit all shareholders.
+
+OUR FUTURE SUCCESS WILL BE DEPENDENT ON THE SKILL OF OUR KEY PERSONNEL
+
+Our success depends upon the availability and performance of our officers and
+senior management and other key personnel. We rely heavily upon the expertise of
+a relatively small core of executives. We do not have employment agreements with
+any of our key personnel. The loss of the services of one or more of our key
+executives could have a material adverse effect on our operations.
+
+OUR COMMON STOCK HAS A LIMITED TRADING MARKET, WHICH MAY MAKE IT DIFFICULT TO
+SELL OR OBTAIN AN ADEQUATE PRICE FOR YOUR SHARES
+
+There is a limited public market for our common stock and there is no assurance
+that an active trading market will develop or be sustained. Because of this lack
+of liquidity, our stock price may be highly volatile.
+
+FLUCTUATIONS IN INTEREST RATES COULD INCREASE OUR BORROWING COSTS AND ADVERSELY
+AFFECT OUR FINANCIAL RESULTS
+
+In the event we borrow money in the future, we may be exposed to changes in
+interest rates. Our credit facilities are usually based on the prime rate of
+interest and may not necessarily be the lowest rate of interest. If the interest
+rates charged by our lenders increase, there could be an adverse effect on our
+financial results.
+
+TRUCK ACCESSORIES SEGMENT
+
+OUR PROFITABILITY IS DEPENDENT ON CONTROL OF OUR COSTS, IN THE EVENT WE ARE
+UNABLE TO CONTROL OUR COSTS, OUR FINANCIAL RESULTS COULD BE ADVERSELY AFFECTED
+
+In order to manufacture our truck accessories we require plastic resin as a raw
+material. The cost of plastic resin is directly dependent upon fluctuations in
+natural gas feedstock prices. We do not have any long-term supply contracts and
+do not use any hedging techniques to manage the costs of plastic resin. In the
+event raw material prices increase, we may be unable to pass the increased costs
+on to our customers which could adversely affect our results of operations. In
+addition, we attempt to control our labor costs. In the event that the cost of
+labor increases and we are unable to pass such increased labor costs to our
+customers, our results of operations could be adversely affected.
+
+OUR TRUCK ACCESSORIES BUSINESS FACES STRONG COMPETITION WHICH COULD AFFECT OUR
+SALES AND PROFIT MARGINS
+
+We compete for sales of bedliners and other truck accessories against a number
+of companies. Many of these companies are larger, have greater market
+recognition and substantially greater financial, technical, marketing,
+distribution and other resources than we have. Additionally, new and alternative
+product offerings are increasingly available. While product quality is an
+important factor, price and features are also very important to our customers.
+We attempt to manufacture high quality, full featured products, which are cost
+competitive. We have faced and will continue to face additional competition from
+new entrants and alternative products into our markets. We cannot be certain
+that we will be able to compete successfully with existing or new competitors or
+products.
+
+
+                                       18
+<PAGE>
+THE EFFECTS OF INFLATION COULD ADVERSELY AFFECT OUR FINANCIAL RESULTS IF OUR
+COSTS INCREASE FASTER THAN WE CAN PASS THEM ON TO OUR CUSTOMERS
+
+The relatively moderate rate of inflation experienced during the last decade has
+not had a significant impact on our results of operations. However, there can be
+no assurance that a moderate rate of inflation will continue. In the event the
+rate of inflation increases more dramatically in the future, our costs may
+increase faster than we can pass them on to our customers which would have an
+adverse effect on our financial results.
+
+OUR TRUCK ACCESSORY BUSINESS IS TIED TO THE NORTH AMERICAN VEHICLE INDUSTRY,
+WHICH IS HIGHLY CYCLICAL AND DEPENDENT ON CONSUMER SPENDING AND GENERAL ECONOMIC
+CONDITIONS IN NORTH AMERICA
+
+Sales of our truck accessories including bedliners is tied to the North American
+vehicle industry. The truck industry is highly cyclical and dependent on
+consumer spending and general economic conditions in North America. We only sell
+our truck accessories in the United States and as result we are solely dependent
+on the health and vitality of the U. S. economy for our success. There can be no
+assurance that production of pickup trucks will not decline in the future or
+that we will be able to fully utilize our manufacturing capacity. Economic
+factors adversely affecting truck sales and production and consumer spending
+could adversely impact our sales and operating results.
+
+SPORTS AND ENTERTAINMENT SEGMENT
+
+WE NEED TO MAINTAIN AND ENHANCE OUR WORKING RELATIONSHIP WITH THE NHRA
+
+In order to be successful, our raceway operation needs to maintain a good
+relationship with the primary sanctioning body of our racing events, The
+National Hot Rod Association ("NHRA"). While we believe that we have a good
+relationship with the NHRA, and the current term of our sanctioning agreement
+extends to December 31, 2005, it is likely that the loss of the national race
+with the NHRA would adversely affect the results of our operations.
+
+OUR RACEWAY OPERATIONS FACE COMPETITION FOR TICKET SALES AND MARKETING AND
+ADVERTISING DOLLARS
+
+We compete for marketing, advertising and ticket sales with other sports and
+with other entertainment and recreational activities. In the event fan interest
+in racing declines, it is likely that our results of operations would be
+adversely affected. We compete with well-established raceway operations some of
+which have greater market recognition and substantially greater financial,
+technical, marketing, distribution and other resources than we have. Our ability
+to compete successfully depends on a number of factors, which are primarily
+outside our control including our ability to develop and maintain effective
+marketing programs, the number and location of our competitors and general
+market and economic conditions.
+
+WE MAY INCUR LIABILITY FOR PERSONAL INJURIES
+
+Racing events can be dangerous to participants and to spectators. We maintain
+insurance policies that provide coverage within limits that in our judgement are
+sufficient to protect us from material financial loss due to liability for
+personal injuries sustained by or death of, spectators in the ordinary course of
+our business. Our insurance may not be adequate or available at all times and in
+all circumstances. In the event damages for injuries sustained by our spectators
+exceed our liability coverage or our insurance company denies coverage, our
+financial condition, results of operations and cash flows could be adversely
+affected to the extent claims and associated expenses exceed our insurance
+recoveries.
+
+
+                                       19
+<PAGE>
+WE WILL NEED ADDITIONAL FINANCING WHICH MAY OR MAY NOT BE AVAILABLE OR WHICH MAY
+DILUTE THE OWNERSHIP INTEREST OF CURRENT SHAREHOLDERS
+
+We have previously announced plans to develop a large sports and entertainment
+complex in Mount Morris Township, Michigan. To date, we have been unable to
+obtain the necessary funding for this project and are currently evaluating our
+options. If we cannot obtain sufficient capital to develop the complex we will
+need to consider an alternative plan.
+
+OUR RACEWAY OPERATIONS ARE SEASONAL AND THEREFORE ADVERSE WEATHER CAN AFFECT OUR
+RESULTS OF OPERATIONS
+
+Our raceway operations primarily operate on the weekends from May through
+October. In the event that adverse weather conditions curtail attendance at any
+of our races, it could have a material adverse affect on our results of
+operations.
+
+OUR FAILURE TO PROPERLY MANAGE MERGERS, ACQUISITIONS, DISPOSITIONS AND
+DIVERSIFICATION INTO OTHER LINES OF BUSINESS COULD ADVERSELY AFFECT OUR BUSINESS
+
+Recently, we announced that we have decided to expand the sports and
+entertainment aspects of our business. In the future we may expand or contract
+our operations through mergers, acquisitions, dispositions and diversification.
+These activities expose us to a number of special risks, including diversion of
+management's attention, failure to retain key personnel or customers of an
+acquired business, difficulties transitioning operations to accommodate new
+businesses or activities and limited experience in managing a large sports and
+entertainment enterprise. There can be no assurance that we will be able to
+effectively manage these special risks.
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+In January 2003, the Financial Accounting Standards Board ("FASB") issued FASB
+Interpretation No. 46 ("FIN 46"), "Consolidation of Variable Interest Entities."
+FIN 46 provides guidance on how to identify a variable interest entity ("VIE")
+and determine when the assets, liabilities, noncontrolling interests, and
+results of operations of a VIE are to be included in an entity's Consolidated
+Financial Statements. A VIE exists when either the total equity investment at
+risk is not sufficient to permit the entity to finance its activities by itself,
+or the equity investors lack one of three characteristics associated with owning
+a controlling financial interest. Those characteristics include the direct or
+indirect ability to make decisions about an entity's activities through voting
+rights or similar rights, the obligation to absorb the expected losses of an
+entity if they occur, and the right to receive the expected residual returns of
+the entity if they occur. In December 2003, the FASB reissued Fin 46 ("FIN 46
+(R)") with certain modifications and clarifications. Application of this
+guidance was effective for interests in certain VIE's commonly referred to as
+special-purpose entities ("SPEs") as of December 31, 2003. Application for all
+other types of entities is required for periods ending after March 15, 2004,
+unless previously applied. The provisions of FIN 46 (R) have not had an impact
+on our financial position or results of operations.
+
+In December 2004, the FASB issued SFAS No. 123 (revised 2004), "Share-Based
+Payment" (SFAS 123(R)). It requires that the costs of employee share-based
+payments be measured at fair value on the awards grant date using an
+option-pricing model and recognized in the financial statements over the
+requisite service period. SFAS 123(R) does not change the accounting for stock
+ownership plans, which are subject to American Institute of Certified Public
+Accountants SOP 93-6, "Employer's Accounting for Employee Stock Ownership
+Plans." SFAS 123(R) supersedes Opinion 25, "Accounting for Stock Issued to
+Employees" and its related interpretations, and eliminates the alternative to
+use Opinion 25's intrinsic value method of accounting, which we are currently
+using. SFAS 123(R) allows for two alternative transition methods. We are
+currently determining which transition method we will adopt and are
+
+
+                                       20
+<PAGE>
+evaluating the impact SFAS 123(R) will have on our financial position, results
+of operations, EPS and cash flows when it is adopted.
+
+In November 2004, FASB issued SFAS No. 151, "Inventory Cost," and amendment of
+ARB No. 43, Chapter 4, which is effective for inventory costs incurred during
+fiscal years beginning after June 15, 2005. The amendments made by SFAS 151 will
+improve financial reporting by clarifying that abnormal amounts of idle facility
+expense, freight, handling costs, and wasted materials (spoilage) should be
+recognized as current-period charges and by requiring the allocation of fixed
+production overheads to inventory based on the normal capacity of the production
+facilities. We do not believe that the adoption of SFAS 151 will have a
+significant effect on our financial statements.
+
+SEGMENT REPORTING
+
+For a discussion of our business segments, see Note 13 to the consolidated
+financial statements included in Appendix A.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+See the discussion under the heading "Market Risk Disclosure" in Item 7 above,
+which is herein incorporated by reference.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+The financial statements and supplementary data required under Item 8 are set
+forth in Appendix A to this Report on Form 10-K and are herein incorporated by
+reference.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+None.
+
+ITEM 9A. CONTROLS AND PROCEDURES.
+
+Disclosures Controls and Procedures
+
+The Company maintains controls and procedures designed to ensure that it is able
+to collect the information that is required to be disclosed in the reports it
+files with the SEC, and to process, summarize and disclose this information
+within the time period specified in the rules of the SEC. The Company's Chief
+Executive and Chief Financial Officers are responsible for establishing,
+maintaining and enhancing these procedures. They are also responsible, as
+required by the rules established by the SEC, for the evaluation of the
+effectiveness of these procedures.
+
+Based on their evaluation of the Company's disclosure controls and procedures
+which took place as of the end of the period covered by this report, the Chief
+Executive Officer and the Chief Financial Officer believe that these procedures
+are effective to ensure that the Company is able to collect, process and
+disclose the information it is required to disclose in the reports it files with
+the SEC within the required time period.
+
+Internal Controls
+
+The Company maintains a system of internal controls designed to provide
+reasonable assurance that transactions are executed in accordance with
+management's general or specific authorization; transactions are recorded as
+necessary to (1) permit preparation of financial statements in conformity with
+generally
+
+
+                                       21
+<PAGE>
+accepted accounting principles, and (2) maintain accountability for assets.
+Access to assets is permitted only in accordance with management's general or
+specific authorization.
+
+Since the date of the most recent evaluation of the Company's internal controls
+by the Chief Executive and Chief Financial Officers, there have been no
+significant changes in such controls or in other factors that could have
+significantly affected those controls, including any corrective actions with
+regard to significant deficiencies and material weaknesses.
+
+In February 2005, management was notified that Grant Thornton LLP had identified
+three material weaknesses in its internal controls under the standards
+established by the Public Company Accounting Oversight Board. A material
+weakness is a control deficiency, or a combination of control deficiencies that
+results in a more than remote likelihood that a material misstatement will not
+be prevented or detected. Grant Thornton identified the following as material
+weaknesses:
+
+     -    documentation of policies and controls;
+
+     -    segregation of duties;
+
+     -    security access within software applications.
+
+The Company is working on a remediation plan to correct the cited material
+weaknesses.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+BOARD OF DIRECTORS. As of December 31, 2004 our Board of Directors currently
+consists of six members (in alphabetical order): Maureen C. Cronin, Ted M. Gans,
+Eric Hipple, Craig B. Parr (resigned February 28, 2005), Ronald J. Rolak, and
+Donald J. Williamson.
+
+MAUREEN C. CRONIN (60). Ms. Cronin is a Director of the Company. Ms. Cronin is a
+realtor/associate with Corcoran Group Real Estate in Palm Beach, Florida. She
+has held this position since January 2005. She is also an Investment Relations
+Manager with Steinberg Global Asset Management, Ltd. in Boca Raton, Florida, a
+position she has held since April of 2002. Additionally, Ms. Cronin also became
+event coordinator for the Robert F. Kennedy Foundation in Washington, D. C. in
+2002. Previously, Ms. Cronin was an Investment Specialist with Charles Schwab &
+Company in West Palm Beach, Florida from 1995 to 2000. From 1994 to 1995, she
+served as Vice President of Ted Williams Family Enterprises in Citrus Hills,
+Florida. From 1991 to 1994, she served as a Financial Consultant and Broker with
+Salomon Smith Barney/Dean Witter, in Boston, Massachusetts. Ms. Cronin serves as
+the Chairperson of the Audit Committee. Ms. Cronin has served as a Director
+since September 2000. Her current term as a Director expires in 2006.
+
+TED M. GANS (70). Mr. Gans is a Director of the Company and a Director of Rugged
+Liner, Inc. Mr. Gans' principal occupation since 1965 has been as the President
+and Director of Ted M. Gans, P.C., a law firm in Bloomfield Hills, Michigan, of
+which he is the sole owner. Mr. Gans also serves as a Director of Patsy Lou
+Buick-GMC, Inc., a company wholly owned by Patsy L. Williamson, the wife of
+Donald J. Williamson. Mr. Gans serves on the Audit Committee, the Executive
+Committee, the Compensation Committee and the Nominating Committee of the Board
+of Directors. He has served as a Director of the Company since 1995. His current
+term as a Director of the Company expires in 2007.
+
+ERIC HIPPLE (47). Mr. Hipple is a Director of the Company. Mr. Hipple is Senior
+Account Representative with Rho-Mar Agency, an insurance agency located in
+Farmington Hills, Michigan. Mr. Hipple has been an independent consultant to the
+Clio Agency, Inc., a company wholly owned by Donald
+
+
+                                       22
+<PAGE>
+J. Williamson and also to Patsy Lou Buick-GMC, Inc. a company wholly owned by
+Patsy L. Williamson, the wife of Donald J. Williamson. Mr. Hipple is a former
+quarterback for the Detroit Lions. He finished his career in the National
+Football League in 1989. From 1990 to 1997, he was the President and owner of
+Hipple & Associates, an insurance agency in Brighton, Michigan. Mr. Hipple has
+served as a local radio and television football analyst for the Detroit Lions.
+Mr. Hipple serves as a director of a number of charitable organizations in
+Michigan. Mr. Hipple serves on the Executive Committee of the Board of
+Directors. He has served as a Director of the Company since September 2000. His
+current term as a Director of the Company expires in 2006.
+
+CRAIG B. PARR (62). Mr. Parr was named Chief Executive Officer elected to the
+Board of Directors and appointed Chairman of the Board of the Company in March
+2003. He is also President of the Company's Rugged Liner, Inc. subsidiary. Mr.
+Parr has been involved in the automobile industry for nearly four decades. He
+was Executive VP of Operations of Durakon Industries, a Lapeer, Michigan
+manufacturer of truck bedliners from 1996 to 2001. Additionally, Mr. Parr was
+employed by General Motors for twenty-eight years where he managed various
+vehicle assembly and component operations. His current term as a Director of the
+Company expires in 2006.
+
+RONALD J. ROLAK (57). Mr. Rolak is a Director of the Company. Mr. Rolak was the
+Development Director for the Powers Catholic High School Educational Trust Fund,
+in Flint, Michigan from 1986 to June 2003. From 1973 to 1986, Mr. Rolak was a
+high school instructor and a varsity football coach at Powers Catholic High
+School. Mr. Rolak also serves as a director of a number of charitable
+organizations in Genesee County, Michigan. Mr. Rolak serves on the Audit
+Committee, the Compensation Committee and the Nominating Committee of the Board
+of Directors. He has served as a Director of the Company since 1999. His current
+term as a Director of the Company expires in 2005.
+
+DONALD J. WILLIAMSON (71). Mr. Williamson was elected Mayor of the City of
+Flint, Michigan for a four-year term in November of 2003. Mr. Williamson is the
+founder and a Director and the President of the Company. He is also a director
+and officer of each of the Company's subsidiaries. Mr. Williamson was Chairman
+of the Board and Chief Executive Officer of the Company until March 2003. Mr.
+Williamson serves on the Executive Committee of the Board of Directors. He has
+served as a Director of the Company since 1995. His current term as a Director
+of the Company expires in 2007.
+
+EXECUTIVE OFFICERS. As mentioned above, Mr. Parr is the Chairman of the Board
+and Chief Executive Officer of the Company. An additional executive officer is:
+
+GREGORY T. STRZYNSKI (46). Mr. Strzynski is the Chief Financial Officer of the
+Company. He joined the Company in August 1999. Mr. Strzynski was the Corporate
+Controller of Kitty Hawk International, Inc., formerly known as American
+International Airways, Inc., from 1993 to 1999. From 1990 to 1993, he served as
+Corporate Controller for United Solar Systems Corp., a joint venture research
+and development company between Energy Conversion Devices, Inc. and Canon, Inc.
+of Japan. From 1988 to 1989 he was Corporate Controller for Armada Products
+Company, an automotive supplier.
+
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE. Section 16(a) of the
+Securities Exchange Act of 1934, as amended, requires the Company's Directors,
+officers and persons who own more than 10% of the Company's Common Stock to file
+reports of ownership and changes in ownership with the Securities and Exchange
+Commission and Nasdaq. Directors, officers and greater than 10% beneficial
+owners are required by Securities and Exchange Commission regulations to furnish
+the Company with copies of all Section 16(a) forms they file.
+
+To the best of the Company's knowledge, no Director, officer or beneficial owner
+of more than 10% of the Company's outstanding Common Stock failed to file on a
+timely basis any report required by Section 16(a) of the Exchange Act with
+respect to the year ended December 31, 2004.
+
+
+                                       23
+<PAGE>
+AUDIT COMMITTEE FINANCIAL EXPERT
+
+The Board of Directors has determined that Maureen C. Cronin is an audit
+committee financial expert as defined by Item 404(h) of Regulation S-K of the
+Securities Exchange Act of 1934, as amended (the "Exchange Act") and is
+independent within the meaning of Item 7(d)(3)(iv) of Schedule 14A of the
+Exchange Act.
+
+AUDIT COMMITTEE
+
+The Company has a separately-designated standing Audit Committee established in
+accordance with Section 3(a)(58)(A) of the Exchange Act. The members of the
+Audit Committee are Maureen C. Cronin, Ted M. Gans and Ronald J. Rolak.
+
+AUDIT COMMITTEE REPORT
+
+The Audit Committee of the Board of Directors is comprised of three independent
+directors and operates under a written charter adopted by the Board. The
+Committee is appointed by the Board and is directly responsible for the
+appointment, compensation and oversight of the Company's independent auditors.
+It also monitors, among other things, the Company's financial reporting process
+and the independence and performance of the Company's independent auditors. It
+is the responsibility of management of the Company to prepare financial
+statements in accordance with accounting principles generally accepted in the
+United States of America and of the Company's independent auditors to audit
+those financial statements.
+
+Throughout the year, the Committee has met and held discussions with management
+and the independent auditors. Management represented to the Committee that the
+Company's consolidated financial statements were prepared in accordance with
+accounting principles generally accepted in the United States of America and the
+Committee has reviewed and discussed the consolidated financial statements with
+management and the independent auditors. The Committee discussed with the
+independent auditors matters required to be discussed by Statement on Auditing
+Standards No. 61 (Communications with Audit Committees).
+
+The Committee has been advised by the Company that the total fees and expenses
+billed for fiscal 2004 by Grant Thornton LLP, the Company's principal accounting
+firm were $306,000. Of that amount, an aggregate of $215,000 was for audit
+services and the review of financial statements included in the Company's
+Quarterly Reports on Form 10Q and $91,000 was for tax services. Grant Thornton
+LLP was not engaged by the Company in fiscal 2004 to perform any information
+technology services relating to financial information systems design and
+implementation.
+
+In addition, the Committee has discussed with the independent auditors, the
+auditor's independence from the Company and its management, including the
+matters in the written disclosures required by the Independence Standards Board
+Standard No. 1 (Independence Discussions with Audit Committees). Further, the
+Committee has considered whether the provision of non-audit services by the
+independent auditors is compatible with maintaining the auditor's independence.
+
+Further, the Committee meets with the independent auditors, with and without
+management present, to discuss the results of their examinations, the
+evaluations of the Company's internal controls, and the overall quality of the
+Company's financial reporting.
+
+Based on the reviews and discussions referred to above, the Committee
+recommended to the Board that the audited financial statements be included in
+the Company's Annual Report on Form 10-K for the year ended December 31, 2004,
+for filing with the Securities and Exchange Commission.
+
+
+                                       24
+<PAGE>
+Each member of the Audit Committee is independent as defined under the listing
+standards of the Nasdaq National Market.
+
+Respectfully Submitted,
+
+Maureen C. Cronin
+Ted M. Gans
+Ronald J. Rolak
+
+                        FEES BILLED BY GRANT THORNTON LLP
+
+The following table presents fees for professional audit services rendered by
+Grant Thornton LLP for the audit of the Company's annual financial statements
+for the years ended December 31, 2004 and 2003 and fees rendered by Grant
+Thornton LLP during those periods:
+
+<TABLE>
+<CAPTION>
+               2004       2003
+             --------   --------
+<S>          <C>        <C>
+Audit Fees   $215,000   $145,000
+Tax Fees       91,000    102,000
+             --------   --------
+   Total     $306,000   $247,000
+             ========   ========
+</TABLE>
+
+The Audit Committee has concluded that providing non-audit fee services listed
+above is compatible with maintaining the independence of Grant Thornton LLP.
+
+CODE OF ETHICS FOR FINANCIAL MANAGERS
+
+We have adopted a Code of Ethics that applies to our directors, officers and
+employees, including our principal executive officer and principal financial and
+accounting officer or person performing similar functions (collectively, the
+"Selected Officers"). The Code of Ethics for Financial Managers is included as
+Exhibit 10.14 in the Index to Exhibits on page 35. We intend to post the Code of
+Ethics for Financial Managers and any changes in or waivers from its code
+applicable to any Selected Officer on our website at
+"www.sportsresortsinternational.com".
+
+ITEM 11. EXECUTIVE COMPENSATION.
+
+Compensation Summary. The following Summary Compensation Table shows certain
+information concerning the compensation earned during each of the three fiscal
+years in the period ended December 31, 2004, of the Chief Executive Officer of
+the Company and each executive officer of the Company whose cash compensation in
+2004 exceeded $100,000.
+
+
+                                       25
+<PAGE>
+                           SUMMARY COMPENSATION TABLE
+
+<TABLE>
+<CAPTION>
+                                                                            LONG-TERM
+                                                                          COMPENSATION
+                                           ANNUAL COMPENSATION               AWARDS
+                                 --------------------------------------   ------------
+                                                               OTHER
+                                                              ANNUAL       SECURITIES
+NAME AND                                                   COMPENSATION    UNDERLYING
+PRINCIPAL POSITION               YEAR    SALARY    BONUS        (2)          OPTIONS
+------------------               ----   --------   -----   ------------   ------------
+<S>                              <C>    <C>        <C>     <C>            <C>
+Craig B. Parr (1)                2004   $127,404     $0         $0              0
+Chairman of the Board,           2003    100,161      0          0              0
+Chief Executive Officer and
+Director
+
+Donald J. Williamson (1)         2004   $167,970     $0         $0              0
+President and Director           2003    164,800      0          0              0
+                                 2002    164,338      0          0              0
+
+William H. Singleterry (3)       2004   $166,860     $0         $0              0
+President and Director of BIR/   2003    171,353      0          0              0
+Vice President of Development    2002    175,739      0          0              0
+
+Gregory T. Strzynski             2004   $141,179     $0         $0              0
+Chief Financial Officer          2003    128,030      0          0              0
+                                 2002    126,010      0          0              0
+</TABLE>
+
+----------
+(1)  Mr. Williamson was Chairman of the Board and Chief Executive Officer of the
+     Company until March 2003 at which time Craig B. Parr assumed these
+     positions and Mr. Williamson became President. Accordingly, compensation
+     for Mr. Parr for 2003 represents approximately ten months. Compensation for
+     Mr. Williamson represents a full year.
+
+(2)  The aggregate value of all perquisites and personal benefits did not exceed
+     the lesser of either $50,000 or 10% of the total annual salary and bonus
+     reported for any named executive officer.
+
+(3)  Mr. Singleterry left BIR in November of 2004. Accordingly, compensation for
+     Mr. Singleterry represents approximately eleven months in 2004.
+
+STOCK OPTIONS
+
+There were no options granted to or exercised by executive officers or Director
+in 2004.
+
+
+                                       26
+<PAGE>
+                          FISCAL YEAR-END OPTION VALUES
+
+<TABLE>
+<CAPTION>
+                                   Number of                   Value of Unexercised
+                       Securities Underlying Unexercised     In-the-Money Options at
+                           Options at Fiscal Year-End          Fiscal Year-End (1)
+                       ---------------------------------   ---------------------------
+        Name              Exercisable   Unexercisable      Exercisable   Unexercisable
+--------------------      -----------   -------------      -----------   -------------
+<S>                    <C>              <C>                <C>           <C>
+Donald J. Williamson         20,000           0                 $0             $0
+Gregory T. Strzynski         20,000           0                  0              0
+</TABLE>
+
+----------
+(1)  Based on the market value of the Company's Common Stock as of December 31,
+     2004 ($2.88 per share), minus the exercise price, multiplied by the number
+     of options.
+
+COMPENSATION OF DIRECTORS
+
+Directors receive an annual fee of $4,500 plus $1,000 for each Board meeting
+attended. Additionally, Directors are reimbursed for expenses incurred in
+attending meetings of the Board of Directors and committees thereof.
+
+PENSION PLAN
+
+The Company does not provide a retirement plan.
+
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+
+Messrs. Gans and Rolak are members of the Compensation Committee of the Board of
+Directors. No other Directors or executive officers of the Company took part in
+deliberations concerning the compensation of executive officers of the Company
+during fiscal 2004. None of Messrs. Gans or Rolak has any employment
+relationship with the Company nor any of its subsidiaries. However, Mr. Gans is
+a Director of the Company and practices law with Ted M. Gans, P.C. During the
+past year, as well as the current year, the Company and its subsidiaries
+retained Ted M. Gans, P.C. for certain legal services. Fees paid for 2004 were
+approximately $4,000.
+
+COMPENSATION COMMITTEE REPORT ON EXECUTIVE COMPENSATION
+
+The Compensation Committee of the Board of Directors currently consists of
+Messrs. Gans and Rolak.
+
+The basic compensation philosophy of the Company is to provide competitive
+salaries. The Company's executive compensation policies are designed to achieve
+two primary objectives:
+
+     -    Attract and retain well-qualified executives who will lead the Company
+          and achieve and inspire superior performance;
+
+     -    Provide incentives for the achievement of long-term financial goals.
+
+Executive compensation consists primarily of two components: base salary and
+benefits; and amounts paid (if any) under the Company's LTIP. Each component of
+compensation is designed to accomplish one or both of the compensation
+objectives.
+
+
+                                       27
+<PAGE>
+The participation of specific executive officers and other key employees in the
+Company's LTIP is recommended by the Board's Compensation Committee and all
+recommendations (including the level of participation) are reviewed, modified
+(to the extent appropriate) and approved by the Board.
+
+BASE SALARY
+
+To attract and retain well-qualified executives, it is the Compensation
+Committee's policy to establish base salaries at levels and provide benefit
+packages that are considered to be competitive. Base salaries of executive
+officers are determined by the Board of Directors on an individual basis. In
+determining the base salary for an executive officer, the Compensation Committee
+will recommend to the full Board for approval a base salary for the officer
+determined by the Compensation Committee taking into consideration factors
+including: (1) the individual's performance, (2) the individual's contributions
+to the Company's success, (3) the level and scope of the individual's
+responsibilities, (4) the individual's tenure with the Company and in his or her
+position and (5) pay practices for similar positions by comparable companies.
+
+LONG-TERM INCENTIVE PLAN
+
+The LTIP is used primarily to grant stock options. However, the LTIP also
+permits grants of restricted stock, stock awards, stock appreciation rights and
+tax benefit rights if determined to be desirable to advance the purposes of the
+LTIP. These grants and awards are referred to as "Incentive Awards." By
+combining in a single plan many types of incentives commonly used in long-term
+incentive compensation programs, the LTIP provides significant flexibility to
+the Compensation Committee to tailor specific long-term incentives that would
+best promote the objectives of the LTIP and in turn promote the interests of the
+Company's shareholders.
+
+Directors, executive officers and other key employees of the Company and its
+subsidiaries are eligible to receive Incentive Awards under the LTIP. A maximum
+of 2,000,000 shares of Common Stock (subject to certain antidilution
+adjustments) are available for Incentive Awards under the LTIP. Of the 2,000,000
+shares authorized for Incentive Awards under the LTIP, only one-half can be
+awarded as restricted stock.
+
+The LTIP is administered by the Compensation Committee, which is comprised of
+non-employee Directors, none of whom participates or is eligible to participate
+in any long-term incentive plan of the Company or its subsidiaries, except for
+nondiscretionary stock option grants based upon a specified formula, and if the
+Board so determines, each of whom must be an "outside director" as defined in
+the rules issued pursuant to Section 162(m) of the Internal Revenue Code. The
+Compensation Committee makes determinations, subject to the terms of the LTIP,
+as to the persons to receive Incentive Awards, the amount of Incentive Awards to
+be granted to each person, the terms of each grant and all other determinations
+necessary or advisable for administration of the LTIP.
+
+The LTIP was approved by the shareholders of Brainerd International, Inc., the
+Company's predecessor, on November 21, 1995. There were no options granted to or
+exercised by executive officers or Directors in 2004.
+
+SECTION 162(M)
+
+Section 162(m) of the Internal Revenue Code provides that publicly held
+corporations may not deduct compensation paid to certain executive officers in
+excess of $1 million annually, with certain exemptions. The Company has examined
+its executive compensation policies in light of Section 162(m) and the
+regulations adopted by the Internal Revenue Service to implement that section.
+It is not expected that any portion of the Company's deduction for employee
+remuneration will be disallowed in 2004 or in future years by reason of actions
+expected to be taken in 2005.
+
+
+                                       28
+<PAGE>
+                                        Respectfully submitted,
+
+                                        Ted M. Gans
+                                        Ronald Rolak
+
+STOCK PRICE PERFORMANCE GRAPH
+
+The following graph compares the cumulative total stockholder return on the
+Company's Common Stock to the Nasdaq Domestic Index and an index of peer
+companies that produce automobile replacement parts or own and operate motor
+sports entertainment facilities, assuming an investment of $100.00 at the
+beginning of the period indicated.
+
+The Nasdaq Domestic Index is a broad equity market index consisting of certain
+domestic companies traded on the Nasdaq Stock Market. The index of peer
+companies was constructed by the Company and includes the companies listed in
+the footnote to the graph below. In constructing the peer index, the return of
+each peer group company was weighted according to its respective stock market
+capitalization at the beginning of each period indicated. Cumulative total
+stockholder return is measured by dividing: (1) the sum of (a) the cumulative
+amount of dividends for the measurement period, assuming dividend reinvestment,
+and (b) the difference between the share price at the end and the beginning of
+the measurement period; by (2) the share price at the beginning of the
+measurement period.
+
+
+                                       29
+<PAGE>
+                  COMPARISON OF 5 YEAR CUMULATIVE TOTAL RETURN
+                       ASSUMES INITIAL INVESTMENT OF $100
+                                 DECEMBER 2004
+
+                              (PERFORMANCE GRAPH)
+
+
+(1)  The index of peer companies consists of American Axle and Manufacturing
+     Holdings, Inc; Dana Corp.; Dura Automotive Systems, Inc.; Eaton
+     Corporation; Johnson Controls, Inc.; and International Speedway Corporation
+
+The dollar values for total stockholder return plotted in the graph above are
+shown in the table below:
+
+<TABLE>
+<CAPTION>
+                                      NASDAQ         Peer
+       Date         The Company   Domestic Index    Index
+-----------------   -----------   --------------   -------
+<S>                 <C>           <C>              <C>
+December 31, 1999     $100.00         $100.00      $100.00
+December 31, 2000      104.24           60.82        82.11
+December 31, 2001      209.10           48.18       105.60
+December 31, 2002      159.22           33.13       106.37
+December 31, 2003      140.21           49.95       153.70
+December 31, 2004       78.11           54.53       176.96
+</TABLE>
+
+
+
+                                       30
+<PAGE>
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+
+The following table sets forth information concerning the number of shares of
+Common Stock held by each shareholder who is known to the Company's management
+to be the beneficial owner of more than 5% of the outstanding shares as of March
+2, 2005:
+
+<TABLE>
+<CAPTION>
+   Name and Address        Amount of                 Nature of
+    Of Beneficial         Beneficial                Beneficial              Percent of
+Owner of Common Stock      Ownership                 Ownership               Class(1)
+---------------------     ----------                ----------              ----------
+<S>                     <C>              <C>                                <C>
+Patsy L. Williamson*    176,900 shares   Sole voting and investment power      .4 %
+951 Aiken Road
+Owosso, MI 48867
+</TABLE>
+
+*    Wife of Donald J. Williamson, Chairman of the Board and Chief Executive
+     Officer until March 2003.
+
+SECURITY OWNERSHIP OF MANAGEMENT
+
+The following table shows the beneficial ownership of shares of Common Stock,
+held as of March 2, 2005 by each director, each of the named executive officers
+and by all directors and executive officers of the Company as a group:
+
+<TABLE>
+<CAPTION>
+               Name                      Amount of                   Nature of
+          Of Beneficial                 Beneficial                  Beneficial              Percent of
+      Owner of Common Stock              Ownership                   Ownership               Class (1)
+      ---------------------             ----------                  ----------              ----------
+<S>                              <C>                    <C>                                 <C>
+Maureen C. Cronin (3)                   20,670 shares   Sole voting and investment power           *
+
+Ted M. Gans (3)                         50,477 shares   Sole voting and investment power           *
+
+Eric Hipple (3)                         28,947 shares   Sole voting and investment power           *
+
+Ronald J. Rolak (3)                     33,357 shares   Sole voting and investment power           *
+                                         6,300 shares   Shared voting or investment power          *
+
+Gregory T. Strzynski(3)                 20,000 shares   Sole voting and investment power           *
+
+Donald J. Williamson(2)(3)          46,456,060 shares   Sole voting and investment power       95.6%
+
+Directors and Officers as a group   46,609,511 shares   Sole voting and investment power       96.0%
+(2)(3)                                   6,300 shares   Shared voting or investment power          *
+</TABLE>
+
+----------
+*    Does not exceed 1%.
+
+
+
+                                       31
+<PAGE>
+
+(1)  Percentages: The percentages set forth in this column were calculated on
+     the basis of 48,399,771 shares of Common Stock outstanding as of March 2,
+     2005, plus shares of Common Stock subject to options held by the listed
+     persons that were exercisable on March 2, 2005 or that will become
+     exercisable within 60 days after March 2, 2005. Shares subject to such
+     options are considered to be outstanding for purposes of this chart. The
+     number of shares subject to such options for each listed person is set
+     forth below:
+
+<TABLE>
+<CAPTION>
+                                                            Weighted Average
+Director/Officer                                  Options    Exercise Price
+----------------                                  -------   ----------------
+<S>                                                <C>            <C>
+Maureen C. Cronin                                  17,327         $6.01
+Ted M. Gans                                        50,477          4.13
+Eric Hipple                                        28,947          4.80
+Ronald J. Rolak                                    33,357          4.55
+Gregory T. Strzynski                               20,000          4.82
+Donald J. Williamson                               20,000          4.82
+                                                  -------         -----
+All directors and executive officers as a group   170,108         $4.68
+                                                  =======         =====
+</TABLE>
+
+(2)  Total Stock Ownership: Excludes the 176,900 shares of Common Stock owned by
+     Patsy Williamson, the wife of Donald J. Williamson. See "Security Ownership
+     of Certain Beneficial Owners" above.
+
+(3)  Includes shares covered by exercisable options.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+The Company and its subsidiaries are parties to certain transactions with
+related parties, which are summarized below. Many of the transactions described
+below involve Donald and Patsy Williamson, husband and wife. Mr. Williamson is
+the President and a Director of the Company. He was the Chairman of the Board
+and Chief Executive Officer of the Company until March 2003. Together, Mr. and
+Mrs. Williamson own approximately 96% of the outstanding shares of the Company's
+Common Stock. The Company believes that all of its related party transactions
+are on commercially reasonable terms. In accordance with the Sarbanes-Oxley Act
+of 2002, the Company discontinued making advances, or any modifications to
+existing credit arrangements to or on behalf of affiliated entities effective
+June 30, 2002.
+
+In February 1999, the Company loaned $5,200,000 to South Saginaw, L.L.C., a
+limited liability company owned by Mr. Williamson. To evidence this loan, Mr.
+Williamson signed a subordinated mortgage providing for interest at the annual
+rate of 8% and calling for monthly payments of principal and interest of $43,496
+beginning April 1, 1999. Mr. Williamson used the proceeds of this loan to
+purchase real property in Davison, Michigan. As of December 31, 2004, the note
+was being paid in accordance with its terms. However,
+
+
+                                       32
+<PAGE>
+subsequent to December 31, 2004, the related party failed to pay the unpaid
+balance on the due date in February 2005. The Company has sent a default letter
+demanding payment and intends to pursue collection of this obligation
+aggressively. The Company believes that is has adequate collateral to secure the
+obligation.
+
+Lease of Owosso, Michigan Facility. RL leases its Owosso, Michigan facility from
+620 Platt Road, L.L.C. Donald and Patsy Lou Williamson are the sole members of
+620 Platt Road L.L.C. The lease agreement requires monthly payments of $50,000
+through December 2009. RL pays all taxes, insurance and maintenance expenses
+related to the facility. Rent expense on this lease was $600,000 for both years
+ending December 31, 2004 and 2003.
+
+Lease of Flint, Michigan Ticket Office. BIR leased its executive and ticket
+offices from Donald J. Williamson through October 2002, at which time the lease
+was terminated. BIR paid all taxes, insurance and maintenance expenses related
+to the facility. Rent expense on this lease was $40,500 for the year ending
+December 31, 2002.
+
+During the first six months of 2002, we paid certain expenses on behalf of
+affiliated entities controlled by Donald J. Williamson, our majority
+shareholder. These expenses were predominately for the use of a common payroll
+processing service as well as a pro rata share of general insurance coverage.
+Additionally, we had advanced $1,036,000 on behalf of Mr. Williamson for
+construction costs related to a convenience store and gas station built adjacent
+to our BIR facility in Brainerd, Minnesota. Construction of the convenience
+store was completed in the second quarter of 2002. Effective September 1, 2002,
+Mr. Williamson transferred the facility to us, at which time the construction
+advances were offset based on net book value, which was determined using
+historic cost data accumulated during the construction of the facility.
+Additionally, in June of 2003, we received $711,000 from affiliated entities
+toward amounts previously advanced. The total amount outstanding at December 31,
+2004 and December 31, 2003 was $396,000, which is to be reimbursed to us by the
+affiliated entities. In accordance with the Sarbanes-Oxley Act of 2002, we
+discontinued making any additional advances, or any modifications to existing
+credit arrangements to or on behalf of affiliated entities effective September
+30, 2002.
+
+Patsy Lou Buick-GMC, Inc. Mrs. Williamson owns an automobile dealership. The
+Company engages in certain transactions with this dealership, including the
+purchase of automobiles, parts, and automotive services. During 2004, purchases
+of automobiles, parts and services by the Company from the dealership was
+approximately $10,000. RL sold approximately $67,000 worth of bedliners and
+truck accessories to the dealership in 2004.
+
+Transactions with Directors. Ted M. Gans is a Director of the Company and
+practices law with Ted M. Gans, P.C. During the past year and the current year,
+the Company retained Ted M. Gans, P.C. for certain legal services and it is
+anticipated that the Company will continue to do so. Fees paid for 2004 were
+approximately $4,000.
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES.
+
+The total fees and expenses billed for fiscal 2004 by Grant Thornton LLP, the
+Company's principal accounting firm were $306,000. Of that amount, an aggregate
+of $215,000 was for audit services and the review of financial statements
+included in the Company's Quarterly Reports on Form 10Q and $91,000 was for tax
+services. Grant Thornton LLP was not engaged by the Company in fiscal 2004 to
+perform any information technology services relating to financial information
+systems design and implementation.
+
+
+                                       33
+<PAGE>
+                                    PART F/S
+
+Attached as Appendix A.
+
+The following consolidated financial statements of Sports Resorts International,
+Inc. and subsidiaries are filed as a part of this report:
+
+     *    Report of Registered Public Accounting Firm
+
+     *    Consolidated Balance Sheets as of December 31, 2004 and 2003
+
+     *    Consolidated Statements of Operations for the years ended December 31,
+          2004, 2003 and 2002
+
+     *    Consolidated Statements of Shareholders' Equity for the years ended
+          December 31, 2004, 2003 and 2002
+
+     *    Consolidated Statements of Cash Flows for the years ended December 31,
+          2004, 2003 and 2002
+
+     *    Notes to Consolidated Financial Statements for the years ended
+          December 31, 2004, 2003 and 2002
+
+     *    Schedule II - Valuation and Qualifying Accounts
+
+Financial statement schedules other than Schedule II have not been filed because
+such schedules are either not applicable or full disclosure has been made in the
+financial statements and notes thereto.
+
+
+                                       34
+<PAGE>
+ITEM 13 AND INDEX TO EXHIBITS.
+
+The following exhibits are filed as part of this report.
+
+<TABLE>
+<CAPTION>
+Exhibit
+ Number   Description
+-------   -----------
+<S>       <C>
+2.1       Amended and Restated Asset Purchase Agreement by and between Colonel's
+          Acquisition Corp. (later renamed AutoLign Manufacturing Group, Inc.),
+          The Colonel's International, Inc., The Colonel's, Inc. and Donald J.
+          Williamson dated November 23, 1998. Incorporated by reference to
+          Appendix A to the Company's Definitive Proxy Statement filed with the
+          Securities and Exchange Commission on December 7, 1998.
+
+2.2       First Amendment to Amended and Restated Asset Purchase Agreement by
+          and between AutoLign Manufacturing Group, Inc. (formerly known as
+          Colonel's Acquisition Corp.), The Colonel's International, The
+          Colonel's, Inc. and Donald J. Williamson dated December 17, 1998.
+          Incorporated by reference to Exhibit 2(b) to the Company's Report on
+          Form 8-K filed with the Securities and Exchange Commission on December
+          30, 1998.
+
+2.3       Agreement and Plan of Merger by and among The Colonel's International,
+          Inc., The Colonel's Rugged Liner, Inc., Rugged Liner, Inc., Triad
+          Management Group, Inc., Aerocover, Inc., Ground Force, Inc., and
+          certain shareholders of the foregoing, dated March 13, 1998.
+          Incorporated by reference to Exhibit 2(a) to the Registrant's Current
+          Report on Form 8-K dated May 8, 1998.
+
+2.4       First Amendment to Agreement and Plan of Merger, by and among The
+          Colonel's International, Inc., The Colonel's Rugged Liner, Inc.,
+          Rugged Liner, Inc., Triad Management Group, Inc., Aerocover, Inc.,
+          Ground Force, Inc., and certain shareholders of the foregoing, dated
+          April 23, 1998. Incorporated by reference to Exhibit 2(b) to the
+          Registrant's Current Report on Form 8-K dated May 8, 1998.
+
+3.1       Articles of Incorporation of the Company, as amended. Incorporated by
+          reference from the Company's report on Form 10-K for the year ended
+          December 31, 2002.
+
+3.2       Bylaws of the Company, as amended. Incorporated by reference from
+          Exhibit 3.2 to the Company's Report on Form 10-Q for the period ended
+          March 31, 1997.
+
+10.1      Sports Resorts International, Inc. 1995 Long-Term Incentive Plan, as
+          amended to date. Incorporated by reference from the Company's Report
+          on Form 10-K for the year ended December 31, 2001.
+
+10.2      June 22, 1992 Title Rights Sponsorship Agreement between Champion Auto
+          Stores, Inc. and National Hot Rod Association, Inc. Incorporated by
+          reference from Brainerd International, Inc.'s Registration Statement
+          on Form S-1 (Registration No. 33-055876).
+</TABLE>
+
+
+                                       35
+<PAGE>
+<TABLE>
+<S>       <C>
+10.3      Sanction agreement between the Company and National Hot Rod
+          Association. Incorporated by reference from the Company's Report on
+          Form 10-K for the year ended December 31, 2000.
+
+10.4      Amendment to sanction agreement between Brainerd International Raceway
+          and National Hot Rod Association dated October 27, 1999. Incorporated
+          by reference from the Company's Report on Form 10-K for the year ended
+          December 31, 2002
+
+10.5      Extension of sanction agreement between Brainerd International Raceway
+          and National Hot Rod Association dated April 19, 2002. Incorporated by
+          reference from the Company's Report on Form 10-K for the year ended
+          December 31, 2002.
+
+10.6      Lease agreement between 620 Platt Road LLC and The Colonels Truck
+          Accessories, Inc. Incorporated by reference from the Company's Report
+          on Form 10-K for the year ended December 31, 2001.
+
+10.7      Lease schedule and agreement between The Colonel's Inc. and Comerica
+          Leasing Corporation dated December 27, 1995. Incorporated by reference
+          from the Company's Report on Form 10-K for the year ended December 31,
+          1997.
+
+10.8      Lease schedule and agreement between The Colonel's Inc. and Comerica
+          Leasing Corporation dated May 31, 1996. Incorporated by reference from
+          the Company's Report on Form 10-K for the year ended December 31,
+          1997.
+
+10.9      Lease schedule and agreement between The Colonel's, Inc. and Comerica
+          Leasing Corporation dated November 15, 1996. Incorporated by reference
+          from the Company's Report on Form 10-K for the year ended December 31,
+          1997.
+
+10.10     Agreement between Rugged Liner, Inc. and PACCAR Financial Corp. dated
+          November 8, 2002. Incorporated by reference from the Company's Report
+          on Form 10-K for the year ended December 31, 2002.
+
+10.11     Agreement between Rugged Liner, Inc. and PACCAR Financial Corp. dated
+          November 11, 2002. Incorporated by reference from the Company's Report
+          on Form 10-K for the year ended December 31, 2002.
+
+10.12     Agreement between First National Bank of Deerwood and Brainerd
+          International Raceway & Resort, Inc. dated February 14, 2003.
+          Incorporated by reference from the Company's report on From 10-Q for
+          the quarter ended March 31, 2003.
+
+10.13     Agreement between First National Bank of Deerwood and Brainerd
+          International Raceway & Resort, Inc. dated October 31, 2003.
+          Incorporated by reference from the Company's report on Form 10-K for
+          the year ended December 31, 2003
+
+10.14     Code of Ethics for Financial Managers. (Incorporated by reference from
+          the Company's report on Form 10-K for the year ended December 31,
+          2003).
+
+21        Subsidiaries of the Registrant. (Filed herewith).
+
+23        Consent of Grant Thornton LLP. (Filed herewith).
+</TABLE>
+
+
+                                       36
+<PAGE>
+<TABLE>
+<S>       <C>
+31.1      Certification of Chief Executive Officer pursuant to Section 302 of
+          the Sarbanes-Oxley Act of 2002. (Filed herewith).
+
+31.2      Certification of Chief Financial Officer pursuant to Section 302 of
+          the Sarbanes-Oxley Act of 2002. (Filed herewith).
+
+32.1      Certification of Chief Executive Officer pursuant to 18 U.S.C. Section
+          1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+          2002. (Filed herewith).
+
+32.2      Certification of Chief Financial Officer pursuant to 18 U.S.C. Section
+          1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+          2002. (Filed herewith).
+</TABLE>
+
+*    Commission file number for reports filed pursuant to the Securities
+     Exchange Act of 1934 is 2-98277 (c).
+
+
+                                       37
+<PAGE>
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                        SPORTS RESORTS INTERNATIONAL, INC.
+
+
+Dated: March 29, 2005                   By: /s/ Eric Hipple
+                                            ------------------------------------
+                                            Eric Hipple
+                                            Chairman of the Board, Chief
+                                            Executive Officer and Director
+                                            (Principal Executive Officer)
+
+
+Dated: March 29, 2005                   By: /s/ Gregory T. Strzynski
+                                            ------------------------------------
+                                            Gregory T. Strzynski
+                                            Chief Financial Officer
+                                            (Principal Accounting and Financial
+                                            Officer)
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the Registrant and
+in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+           Signature                          Title                    Date
+           ---------                          -----                    ----
+<S>                              <C>                              <C>
+
+
+/s/ Eric Hipple                  Chairman of the Board, Chief     March 29, 2005
+------------------------------   Executive Officer and Director
+Eric Hipple
+
+
+/s/ Maureen C. Cronin            Director                         March 29, 2005
+------------------------------
+Maureen C. Cronin
+
+
+/s/ Ted M. Gans                  Director                         March 29, 2005
+------------------------------
+Ted M. Gans
+
+
+/s/ Ronald J. Rolak              Director                         March 29, 2005
+------------------------------
+Ronald J. Rolak
+
+
+/s/ Donald J. Williamson         Director                         March 29, 2005
+------------------------------
+Donald J. Williamson
+</TABLE>
+
+
+                                       38
+<PAGE>
+                                   APPENDIX A
+                              FINANCIAL STATEMENTS
+
+SPORTS RESORTS INTERNATIONAL, INC.
+
+Consolidated Financial Statements as of December 31, 2004 and 2003 and for the
+three years in the period ended December 31, 2004 and Independent Auditors'
+Report
+
+
+                                      A-1
+<PAGE>
+REPORT OF REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+To the Shareholders of
+Sports Resorts International, Inc.
+
+We have audited the accompanying consolidated balance sheets of Sports Resorts
+International, Inc. (a Michigan corporation) and Subsidiaries (the "Company") as
+of December 31, 2004 and 2003, and the related statements of operations,
+shareholders' equity and cash flows for each of the three years in the period
+ended December 31, 2004. These financial statements are the responsibility of
+the Company's management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. The Company is not required to
+have, nor were we engaged to perform an audit of its internal control over
+financial reporting. Our audit included consideration of internal control over
+financial reporting as a basis for designing audit procedures that are
+appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Company's internal control over financial
+reporting. Accordingly, we express no such opinion. An audit also includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements, assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of Sports Resorts
+International, Inc. and Subsidiaries as of December 31, 2004 and 2003 and the
+results of its operations and its cash flows for each of the three years in the
+period ended December 31, 2004, in conformity with accounting principles
+generally accepted in the United States of America.
+
+Our audit was conducted for the purpose of forming an opinion on the basic
+financial statements taken as a whole. Schedule II is presented for the purpose
+of additional analysis and is not required as part of the basic financial
+statements. This schedule has been subjected to the auditing procedures applied
+in the audit of the basic financial statements and, in our opinion, is fairly
+stated in all material respects in relation to the basic financial statements
+taken as a whole.
+
+As discussed in Note 2 to the consolidated financial statements, the Company
+adopted Statement of Financial Accounting Standards No. 142 "Goodwill and Other
+Intangible Assets" on January 1, 2002.
+
+
+
+/s/ Grant Thornton LLP
+Southfield, Michigan
+March 25, 2005
+
+
+                                      A-2
+<PAGE>
+SPORTS RESORTS INTERNATIONAL, INC.
+
+CONSOLIDATED BALANCE SHEETS
+DECEMBER 31, 2004 AND 2003
+
+<TABLE>
+<CAPTION>
+                                                         2004          2003
+                                                     -----------   -----------
+<S>                                                  <C>           <C>
+ASSETS
+CURRENT ASSETS
+   Cash                                              $   673,314   $   482,128
+   Accounts receivable:
+      Trade (net of allowance for doubtful
+         accounts and cash discounts of $184,000
+         and $181,000 at December 31, 2004
+         and 2003, respectively)                         833,099       820,873
+   Note receivable - related party (Notes 3 and 15)    4,429,654       160,538
+   Federal income taxes receivable (Note 10)                  --     1,570,234
+   Inventories (Note 4)                                1,599,738     1,534,779
+   Other (Note 5)                                        675,016       532,033
+                                                     -----------   -----------
+      Total current assets                             8,210,821     5,100,585
+
+PROPERTY, PLANT AND EQUIPMENT - Net
+   (Note 6)                                           10,024,340    11,673,250
+
+OTHER ASSETS:
+   Note receivable - related party (Note 3)                   --     4,429,654
+   Other (Note 7)                                      2,032,044     1,294,119
+                                                     -----------   -----------
+      Total other assets                               2,032,044     5,723,773
+                                                     -----------   -----------
+TOTAL ASSETS                                         $20,267,205   $22,497,608
+                                                     ===========   ===========
+</TABLE>
+
+See notes to consolidated financial statements.
+
+
+                                      A-3
+<PAGE>
+SPORTS RESORTS INTERNATIONAL, INC.
+
+CONSOLIDATED BALANCE SHEETS
+DECEMBER 31, 2004 AND 2003
+
+<TABLE>
+<CAPTION>
+                                                    2004          2003
+                                                -----------   -----------
+<S>                                             <C>           <C>
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+   Current portion of long-term debt (Note 8)   $   219,058   $   256,578
+   Accounts payable                                 952,792     1,135,813
+   Accrued expenses (Note 9)                        387,896       567,482
+                                                -----------   -----------
+      Total current liabilities                   1,559,746     1,959,873
+
+LONG-TERM DEBT (Note 8)                             573,028       791,194
+
+Commitments and Contingencies (Note 11)
+
+SHAREHOLDERS' EQUITY:
+
+   Common stock; 70,000,000 shares authorized
+      at $.01 par value, 48,399,771 and
+      48,362,953 shares issued and
+      outstanding at December 31, 2004 and
+      2003, respectively                            483,997       483,629
+   Additional paid-in capital                     5,775,068     5,656,605
+   Net advances to related parties (Note 3)        (396,292)     (396,292)
+   Retained earnings                             12,271,658    14,002,599
+                                                -----------   -----------
+      Total shareholders' equity                 18,134,431    19,746,541
+                                                -----------   -----------
+TOTAL LIABILITIES AND SHAREHOLDERS'
+   EQUITY                                       $20,267,205   $22,497,608
+                                                ===========   ===========
+</TABLE>
+
+See notes to consolidated financial statements.
+
+
+                                      A-4
+<PAGE>
+SPORTS RESORTS INTERNATIONAL, INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+YEARS ENDED DECEMBER 31, 2004, 2003 AND 2002
+
+<TABLE>
+<CAPTION>
+                                             2004          2003          2002
+                                         -----------   -----------   -----------
+<S>                                      <C>           <C>           <C>
+SALES (Note 3)                           $20,524,756   $22,741,823   $19,614,297
+COST OF SALES (Note 3)                    18,007,485    18,656,514    15,200,768
+                                         -----------   -----------   -----------
+GROSS PROFIT                               2,517,271     4,085,309     4,413,529
+SELLING, GENERAL AND ADMINISTRATIVE
+   EXPENSES                                4,306,569     4,288,243     4,672,035
+LAND DEVELOPMENT COSTS (Note 7)              364,225       293,795       260,500
+NET GAIN (LOSS) ON DISPOSAL OF ASSETS        108,199       (18,587)       40,550
+                                         -----------   -----------   -----------
+LOSS FROM OPERATIONS                      (2,045,324)     (515,316)     (478,456)
+OTHER INCOME (EXPENSE):
+   Interest expense                          (65,100)      (93,152)     (113,239)
+   Interest income (Note 3)                  378,643       386,556       408,847
+   Other                                         840         2,870         9,020
+                                         -----------   -----------   -----------
+      Other income, net                      314,383       296,274       304,628
+                                         -----------   -----------   -----------
+LOSS FROM OPERATIONS BEFORE
+   INCOME TAX BENEFIT AND
+   CUMULATIVE EFFECT OF ACCOUNTING
+   CHANGE                                 (1,730,941)     (219,042)     (173,828)
+INCOME TAX BENEFIT (Note 10)                      --     1,408,457     1,041,595
+                                         -----------   -----------   -----------
+(LOSS) INCOME BEFORE ACCOUNTING CHANGE    (1,730,941)    1,189,415       867,767
+CUMULATIVE EFFECT OF ACCOUNTING CHANGE
+   FOR GOODWILL (NOTE 2)                          --            --    (1,130,911)
+                                         -----------   -----------   -----------
+NET (LOSS) INCOME                        $(1,730,941)  $ 1,189,415   $  (263,144)
+                                         ===========   ===========   ===========
+</TABLE>
+
+                                                                     (continued)
+
+See notes to consolidated financial statements.
+
+
+                                      A-5
+<PAGE>
+SPORTS RESORTS INTERNATIONAL, INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+YEARS ENDED DECEMBER 31, 2004, 2003 AND 2002
+
+<TABLE>
+<CAPTION>
+                                                                   2004          2003          2002
+                                                               -----------   -----------   -----------
+<S>                                                            <C>           <C>           <C>
+BASIC AND DILUTED
+   (LOSS) EARNINGS PER SHARE (Note 2)
+   (Loss) income before accounting change                      $     (0.04)  $      0.02   $      0.01
+   Cumulative effect of accounting change                               --            --         (0.02)
+                                                               -----------   -----------   -----------
+   Net (Loss) Income per share                                 $     (0.04)  $      0.02   $     (0.01)
+                                                               ===========   ===========   ===========
+WEIGHTED AVERGE COMMON SHARES
+   Basic                                                        48,389,313    48,362,953    48,362,953
+   Effect of dilutive securities:
+      Common share equivalents, common shares
+         issuable upon exercise of outstanding stock options            --        84,912        77,400
+                                                               -----------   -----------   -----------
+   Diluted                                                      48,389,313    48,447,865    48,440,353
+                                                               ===========   ===========   ===========
+</TABLE>
+
+                                                                     (concluded)
+
+See notes to consolidated financial statements
+
+
+                                      A-6
+<PAGE>
+SPORTS RESORTS INTERNATIONAL, INC.
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+YEARS ENDED DECEMBER 31, 2004, 2003 AND 2002
+
+<TABLE>
+<CAPTION>
+                                                                              NET
+                                          COMMON STOCK       ADDITIONAL   ADVANCES TO
+                                     ---------------------     PAID-IN      RELATED       RETAINED
+                                       SHARES      AMOUNT      CAPITAL      PARTIES       EARNINGS       TOTAL
+                                     ----------   --------   ----------   -----------   -----------   -----------
+<S>                                  <C>          <C>        <C>          <C>           <C>           <C>
+BALANCE, JANUARY 1, 2002             48,362,953   $483,629   $5,656,605   $(1,495,909)  $13,076,328   $17,720,653
+Net repayment from related parties
+   (Note 3)                                  --         --           --       388,462            --       388,462
+Net loss                                     --         --           --            --      (263,144)     (263,144)
+                                     ----------   --------   ----------   -----------   -----------   -----------
+BALANCE, DECEMBER 31, 2002           48,362,953    483,629    5,656,605    (1,107,447)   12,813,184    17,845,971
+Net repayment from related parties
+   (Note 3)                                  --         --           --       711,155            --       711,155
+Net income                                   --         --           --            --     1,189,415     1,189,415
+                                     ----------   --------   ----------   -----------   -----------   -----------
+BALANCE, DECEMBER 31, 2003           48,362,953    483,629    5,656,605      (396,292)   14,002,599    19,746,541
+Issuance of Shares
+   Stock options exercised               36,818        368      118,463            --            --       118,831
+Net Loss                                     --         --           --            --    (1,730,941)   (1,730,941)
+                                     ----------   --------   ----------   -----------   -----------   -----------
+BALANCE, DECEMBER 31, 2004           48,399,771   $483,997   $5,775,068   $  (396,292)  $12,271,658   $18,134,431
+                                     ==========   ========   ==========   ===========   ===========   ===========
+</TABLE>
+
+See notes to consolidated financial statements.
+
+
+                                      A-7
+<PAGE>
+SPORTS RESORTS INTERNATIONAL, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+YEARS ENDED DECEMBER 31, 2004, 2003 AND 2002
+
+<TABLE>
+<CAPTION>
+                                                                     2004          2003          2002
+                                                                 -----------   -----------   -----------
+<S>                                                              <C>           <C>           <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net (loss) income                                                $(1,730,941)  $ 1,189,415   $  (263,144)
+   Adjustments to reconcile net (loss) income to net cash
+      provided by operating activities:
+      Depreciation and amortization                                1,751,411     1,963,052     2,062,400
+      Cumulative effect of change in accounting
+         principle (Note 2)                                               --            --     1,130,911
+      (Gain) loss on disposal of property, plant and equipment      (108,199)       18,587       (40,550)
+      Changes in assets and liabilities that provided
+         (used) cash
+         Accounts receivable                                         (12,226)      108,197       (54,138)
+         Inventories                                                 (64,959)      (11,779)     (372,827)
+         Accounts payable                                           (183,021)   (1,462,816)    1,329,317
+         Accrued expenses                                           (179,586)     (478,097)     (265,512)
+         Income taxes receivable/payable                           1,570,234    (1,409,476)      752,863
+         Other                                                      (880,908)      432,585       (54,435)
+                                                                 -----------   -----------   -----------
+Net cash provided by operating activities                            161,805       349,668     4,224,885
+                                                                 -----------   -----------   -----------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Capital expenditures                                             (427,958)   (1,439,314)   (4,630,116)
+   Proceeds from disposal of property and equipment                  433,656       122,733        68,376
+   Payments received on notes receivable - related party             160,538       191,731        93,378
+                                                                 -----------   -----------   -----------
+Net cash provided by (used in) investing activities                  166,236    (1,124,850)   (4,468,362)
+                                                                 -----------   -----------   -----------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+   Proceeds from long-term obligations                                    --       535,621       595,237
+   Principal payments on long-term debt                             (255,686)     (274,278)     (159,618)
+   Principal payments on obligations under capital leases                 --      (407,326)   (1,120,649)
+   Net repayment from related parties                                     --       711,155       388,462
+   Proceeds from issuance of common stock                            118,831            --            --
+                                                                 -----------   -----------   -----------
+Net cash (used in) provided by financing activities                 (136,855)      565,172      (296,568)
+                                                                 -----------   -----------   -----------
+
+NET INCREASE (DECREASE) IN CASH                                      191,186      (210,010)     (540,045)
+
+CASH, BEGINNING OF YEAR                                              482,128       692,138     1,232,183
+                                                                 -----------   -----------   -----------
+CASH, END OF YEAR                                                $   673,314   $   482,128   $   692,138
+                                                                 ===========   ===========   ===========
+</TABLE>
+
+                                                                     (continued)
+
+
+                                      A-8
+<PAGE>
+SPORTS RESORTS INTERNATIONAL, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+YEARS ENDED DECEMBER 31, 2004, 2003 AND 2002
+
+<TABLE>
+<CAPTION>
+                                                      2004      2003      2002
+                                                    -------   -------   --------
+<S>                                                 <C>       <C>       <C>
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+
+Cash paid during the year for interest              $67,165   $96,881   $168,491
+                                                    =======   =======   ========
+Cash paid during the year for taxes                 $    --   $ 1,019   $     --
+                                                    =======   =======   ========
+</TABLE>
+
+                                                                     (concluded)
+
+See notes to consolidated financial statements.
+
+
+                                       A-9
+<PAGE>
+SPORTS RESORTS INTERNATIONAL, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED DECEMBER 31, 2004, 2003 AND 2002
+
+1.   ORGANIZATION
+
+     Sports Resorts International, Inc. (formerly The Colonel's International,
+     Inc. or the "Company") is a holding company for three active wholly owned
+     subsidiaries, Rugged Liner, Inc. ("RL") (formerly The Colonel's Truck
+     Accessories, Inc.), Brainerd International Raceway & Resort, Inc. ("BIR")
+     (formerly The Colonel's Brainerd International Raceway, Inc.) and Raceway
+     66, Inc. ("Raceway 66"). The Colonel's, Inc. ("The Colonel's") is an
+     inactive subsidiary, holding certain land. RL began operations on January
+     1, 1996 and was subsequently incorporated in Michigan in 1997. RL produces
+     truck bedliners for sale to original equipment manufacturers ("OEM") and
+     the automotive aftermarket. BIR was incorporated in Minnesota in 1982 and
+     operates a multi-purpose motor sports facility in Brainerd, Minnesota. BIR
+     organizes and promotes various spectator events relating to road and drag
+     races. Raceway 66 is a combined convenience store and gas station adjacent
+     to BIR's facility. Ownership of Raceway 66 was transferred to the Company
+     by Donald J. Williamson, its majority shareholder and affiliated entities
+     in September of 2002.
+
+2.   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     CONSOLIDATION - The consolidated financial statements include the accounts
+     of the Company and its subsidiaries, RL, BIR, Raceway 66 and The Colonel's.
+     All significant intercompany accounts and transactions have been
+     eliminated.
+
+     INVENTORIES are stated at the lower of cost or market, cost determined by
+     the first-in, first-out (FIFO) method.
+
+     CASH AND CASH EQUIVALENTS - The Company considers all highly liquid
+     investments purchased with a maturity of three months or less to be cash
+     equivalents.
+
+     ACCOUNTS RECEIVABLE - The majority of the Company's accounts receivable are
+     due from companies in the automotive parts distribution industry. Credit is
+     extended based on evaluation of a customer's financial condition and,
+     generally, collateral is not required. Accounts receivable are due within
+     30 days and are stated at amounts due from customers net of an allowance
+     for doubtful accounts and cash discounts for prompt payment. Accounts
+     outstanding longer than the contractual payment terms are considered past
+     due. The Company determines its allowance by considering a number of
+     factors, including the length of time trade accounts receivable are past
+     due, the Company's previous history of losses and discounts taken, the
+     customer's current ability to pay its obligation to the Company, and the
+     condition of the general economy and the industry as a whole. The Company
+     writes-off accounts receivable when they become uncollectible, and payments
+     subsequently received on such receivables are credited to the allowance for
+     doubtful accounts.
+
+
+                                      A-10
+<PAGE>
+     PROPERTY, PLANT AND EQUIPMENT is stated at cost or net realizable value.
+     Depreciation is computed using the straight-line method over the estimated
+     useful lives of the assets as follows:
+
+<TABLE>
+<S>                          <C>
+Vehicles                       3-7 Years
+Furniture and fixtures        3-10
+Bleachers and fencing            5
+Tooling                        5-7
+Equipment                     5-10
+Track                           20
+Leasehold improvements       10-25
+Buildings and condominiums      15
+</TABLE>
+
+     Leasehold improvements are amortized over the shorter of the life of the
+     lease or their estimated useful life.
+
+     Expenditures for major renewals and betterments that extend the useful life
+     of the related asset are capitalized. Expenditures for maintenance and
+     repairs are charged to expense as incurred. When properties are retired or
+     sold, the related cost and accumulated depreciation are removed from the
+     accounts and any gain or loss on disposition is recognized.
+
+     REVENUE RECOGNITION - For sales of products, revenue is recognized at the
+     time the product is shipped to customers. For BIR, revenue is recognized
+     when earned at the time of the related event.
+
+     GOODWILL is no longer amortized in accordance with Statement of Financial
+     Accounting Standards No. 142 "Goodwill and Other Intangible Assets,"
+     effective January 1, 2002. Goodwill was being amortized using the
+     straight-line method over 7 years. The carrying value of goodwill is
+     assessed annually for recoverability using an undiscounted cash flow
+     approach based on cash flows which benefit directly from the goodwill. The
+     Company adopted this standard effective January 1, 2002. If the carrying
+     value of goodwill or an intangible exceeds its fair value, an impairment
+     loss is recognized. The Company engaged an independent appraisal company
+     who used a discounted cash flow model to determine the fair value of the
+     Company's business segments for purposes of testing goodwill for impairment
+     as of the date of adoption of SFAS 142. The discount rate used was based on
+     a risk-adjusted weighted average cost of capital for each business segment.
+     The effect of adopting this new standard resulted in a cumulative effect of
+     an accounting change of approximately $1,131,000 or $.02 per basic and
+     diluted share for an impairment loss on goodwill. $1,069,000 of the
+     impairment loss was attributable to RL and $62,000 was associated with BIR.
+     In addition, the adoption eliminates annual amortization expense of
+     approximately $387,000 or $.01 per share.
+
+     ACCOUNTING FOR CERTAIN LONG-LIVED ASSETS - The Company evaluates long-lived
+     assets and certain identifiable intangibles for impairment whenever events
+     or changes in circumstances indicate that the carrying amount of an asset
+     may not be recoverable. When it is probable that undiscounted future cash
+     flows will not be sufficient to recover an asset's carrying amount, the
+     asset is written down to its estimated fair value. Long-lived assets to be
+     disposed of are reported at the lower of carrying amount or fair value less
+     cost to sell.
+
+
+                                      A-11
+<PAGE>
+     INCOME TAXES - The Company provides for deferred income taxes under the
+     asset and liability method, whereby deferred income taxes result from
+     temporary differences between the tax bases of assets and liabilities and
+     their reported amounts in the financial statements that will result in
+     taxable or deductible amounts in the future. Such deferred income tax asset
+     and liability computations are based on enacted tax laws and rates
+     applicable to periods in which the differences are expected to affect
+     taxable income. A valuation allowance is established to reduce deferred
+     income tax assets to the amount expected to be realized.
+
+     FAIR VALUE OF FINANCIAL INSTRUMENTS - The carrying value of accounts
+     receivable, accounts payable and long-term debt approximate fair value.
+
+     USE OF ESTIMATES - The preparation of financial statements in conformity
+     with accounting principles generally accepted in the United States of
+     America requires management to make estimates and assumptions that affect
+     the reported amounts of assets and liabilities and disclosure of contingent
+     assets and liabilities at the date of the financial statements and the
+     reported amounts of revenues and expenses during the operating period.
+     Actual results could differ from those estimates.
+
+     (LOSS) EARNINGS PER SHARE - Basic (loss) earnings per share is based upon
+     the weighted average number of shares outstanding during each year. Diluted
+     earnings per share assumes the exercise of common stock options when
+     dilutive.
+
+     STOCK BASED COMPENSATION - The Company applies the recognition and
+     measurement principles of Accounting Principles Board Opinion No. 25 to its
+     stock-based compensation awards. Since stock options are granted at prices
+     equal to fair market value, no compensation expense is recognized in
+     connection with stock options granted to employees. The following
+     illustrates the effect on net (loss) income and (loss) earnings per share
+     if the Company applied the fair value recognition provisions of SFAS No.
+     123, "Accounting for Stock Based Compensation."
+
+<TABLE>
+<CAPTION>
+                                                       2004         2003         2002
+                                                   -----------   ----------   ---------
+<S>                                                <C>           <C>          <C>
+Net (loss) income  as reported                     $(1,730,941)  $1,189,415   $(263,144)
+Deduct: Total stock-based employee
+   compensation expense determined under fair
+   value based method for all awards, net of tax            --       (9,014)   (288,389)
+                                                   -----------   ----------   ---------
+Pro forma (loss) net income                        $(1,730,941)  $1,180,401   $(551,533)
+                                                   ===========   ==========   =========
+Basic and diluted (loss) earnings per share:
+   As reported                                     $     (0.04)  $     0.02   $   (0.01)
+   Pro forma                                       $     (0.04)  $     0.02   $   (0.01)
+</TABLE>
+
+     NEW ACCOUNTING PRONOUNCEMENTS - In January 2003, the Financial Accounting
+     Standards Board ("FASB") issued FASB Interpretation No. 46 ("FIN 46"),
+     "Consolidation of Variable Interest Entities." FIN 46 provides guidance on
+     how to identify a variable interest entity ("VIE") and determine when the
+     assets, liabilities, noncontrolling interests, and results of operations of
+     a VIE are to be included in an entity's Consolidated Financial Statements.
+     A VIE exists when either the
+
+
+                                      A-12
+<PAGE>
+     total equity investment at risk is not sufficient to permit the entity to
+     finance its activities by itself, or the equity investors lack one of three
+     characteristics associated with owning a controlling financial interest.
+     Those characteristics include the direct or indirect ability to make
+     decisions about an entity's activities through voting rights or similar
+     rights, the obligation to absorb the expected losses of an entity if they
+     occur, and the right to receive the expected residual returns of the entity
+     if they occur. In December 2003, the FASB reissued Fin 46 ("FIN46 (R)")
+     with certain modifications and clarifications. Application of this guidance
+     was effective for interests in certain VIE's commonly referred to as
+     special-purpose entities ("SPEs") as of December 31, 2003. Application for
+     all other types of entities is required for periods ending after March 15,
+     2004, unless previously applied. The provisions of FIN 46 (R) have not had
+     an impact on the Company's financial position or results of operations.
+
+     In December 2004, the FASB issued SFAS No. 123 (revised 2004), "Share-Based
+     Payment" (SFAS 123(R)). It requires that the costs of employee share-based
+     payments be measured at fair value on the awards grant date using an
+     option-pricing model and recognized in the financial statements over the
+     requisite service period. SFAS 123(R) does not change the accounting for
+     stock ownership plans, which are subject to American Institute of Certified
+     Public Accountants SOP 93-6, "Employer's Accounting for Employee Stock
+     Ownership Plans." SFAS 123(R) supersedes Opinion 25, "Accounting for Stock
+     Issued to Employees" and its related interpretations, and eliminates the
+     alternative to use Opinion 25's intrinsic value method of accounting, which
+     the Company is currently using. SFAS 123(R) allows for two alternative
+     transition methods. The Company is currently determining which transition
+     method it will adopt and is evaluating the impact SFAS 123(R) will have on
+     its financial position, results of operations, EPS and cash flows when it
+     is adopted.
+
+     In November 2004, FASB issued SFAS No. 151, "Inventory Cost," and amendment
+     of ARB No. 43, Chapter 4, which is effective for inventory costs incurred
+     during fiscal years beginning after June 15, 2005. The amendments made by
+     SFAS 151 will improve financial reporting by clarifying that abnormal
+     amounts of idle facility expense, freight, handling costs, and wasted
+     materials (spoilage) should be recognized as current-period charges and by
+     requiring the allocation of fixed production overheads to inventory based
+     on the normal capacity of the production facilities. The Company does not
+     believe that the adoption of SFAS 151 will have a significant effect its
+     financial statements.
+
+     RECLASSIFICATIONS - Certain amounts from prior periods have been
+     reclassified to conform to the current presentation.
+
+3.   RELATED PARTY TRANSACTIONS
+
+     NOTE RECEIVABLE - During the first quarter of 1999, a note receivable from
+     South Saginaw LLC, a company owned by Donald J. Williamson, the Company's
+     Chief Executive Officer and majority shareholder, of $5,200,000 was
+     established. The note requires monthly payments of $43,496, including
+     interest at 8.0%, through February 2005, at which time the unpaid balance
+     is due. The note is secured by a subordinated mortgage and personal
+     guarantee. As of December 31, 2004 the note was being paid in accordance
+     with its terms. However, subsequent to December 31, 2004 the unpaid note
+     balance was not paid and the note is in default. See Subsequent Events Note
+     15.
+
+
+                                      A-13
+<PAGE>
+     NET ADVANCES TO RELATED PARTIES - From 1999 through the first six months of
+     2002, the Company paid certain expenses on behalf of affiliated entities
+     controlled by Donald J. Williamson. These expenses were predominately for
+     the use of a common payroll processing service as well as a pro rata share
+     of general insurance coverage. Additionally, the Company had advanced
+     $1,036,000 on behalf of Mr. Williamson for construction costs related to a
+     convenience store and gas station being built adjacent to BIR's facility in
+     Brainerd, Minnesota. Construction of the convenience store was completed in
+     the second quarter of 2002. Effective September 1, 2002, Mr. Williamson
+     transferred the facility to the Company, at which time the advances were
+     offset based on net book value which was determined using historic cost
+     data accumulated during the construction of the facility. Additionally, in
+     June of 2003, the Company received $711,000 from affiliated entities toward
+     amounts previously advanced. The total amount outstanding at December 31,
+     2004 and 2003 was $396,000, which is to be reimbursed to the Company by the
+     affiliated entities. These advances to related parties are recorded as a
+     reduction to shareholders' equity. In accordance with the Sarbanes-Oxley
+     Act of 2002, the Company discontinued making any additional advances, or
+     any modifications to existing credit arrangements to or on behalf of
+     affiliated entities effective September 30, 2002.
+
+     The primary parties related to the Company are as follows:
+
+     -    The majority shareholder, Donald J. Williamson, and his wife, Patsy
+          Lou Williamson, with whom various transactions are made. BIR leased
+          approximately 5,000 square feet of space from Donald J. Williamson for
+          its executive and ticket sales office through October 2002.
+
+     -    620 Platt Road LLC ("Platt"), a company owned by Donald J. and Patsy
+          Lou Williamson, to which rental payments are made for the Owosso
+          facility.
+
+     -    South Saginaw LLC ("Saginaw"), a company owned by Donald J. and Patsy
+          Lou Williamson, to which a loan was made in 1999.
+
+     -    Patsy Lou Buick-GMC, Inc. a company owned by Patsy Lou Williamson,
+          from which automobiles, parts and service are purchased and sold.
+
+
+                                      A-14
+<PAGE>
+     A summary of transactions with these related parties as of and for the
+     years ended December 31 is as follows:
+
+<TABLE>
+<CAPTION>
+                                                    2004       2003       2002
+                                                  --------   --------   --------
+<S>                                               <C>        <C>        <C>
+Majority shareholder:
+
+   Net repayment by various related parties       $     --   $711,155   $388,462
+   Rental payments                                      --         --     40,500
+
+Platt:
+   Rental payments                                 600,000    600,000    600,000
+
+Saginaw:
+   Collection on note receivable                   160,538    191,731    125,047
+   Interest income on note receivable              361,414    373,718    353,409
+
+Patsy Lou Buick - GMC, Inc.:
+   Purchases of automobiles, parts and services     10,209     60,519    152,794
+   Sales of inventory                               67,051     63,948     18,808
+</TABLE>
+
+4.   INVENTORIES
+
+     Inventories at December 31 are summarized as follows:
+
+<TABLE>
+<CAPTION>
+                       2004         2003
+                    ----------   ----------
+<S>                 <C>          <C>
+Finished products   $  803,651   $1,030,140
+Raw materials          764,340      451,280
+Other                   31,747       53,359
+                    ----------   ----------
+Total inventories   $1,599,738   $1,534,779
+                    ==========   ==========
+</TABLE>
+
+5.   OTHER ASSETS, CURRENT
+
+     Other assets, current at December 31 is summarized as follows:
+
+<TABLE>
+<CAPTION>
+                      2004       2003
+                    --------   --------
+<S>                 <C>        <C>
+Prepaids:
+   Sanction fees    $250,000   $250,000
+   Insurance          88,641     71,733
+   Rent               52,474     52,474
+   Property taxes    139,589    133,636
+Deposits              66,577     11,296
+Other                 77,735     12,894
+                    --------   --------
+Total               $675,016   $532,033
+                    ========   ========
+</TABLE>
+
+
+                                      A-15
+<PAGE>
+6.   PROPERTY, PLANT AND EQUIPMENT
+
+     Property, plant and equipment at December 31 is summarized as follows:
+
+<TABLE>
+<CAPTION>
+                                                     2004           2003
+                                                 ------------   ------------
+<S>                                              <C>            <C>
+Land and improvements                            $  3,757,629   $  3,760,857
+Track                                               1,560,300      1,560,300
+Buildings                                           2,928,442      3,278,442
+Condominium units                                     466,000        466,000
+Leasehold improvements                                319,899        319,899
+Bleachers and fencing                               1,656,266      1,656,266
+Equipment                                           7,488,466      7,451,805
+Transportation equipment                            2,022,204      2,078,672
+Furniture and fixtures                                684,758        695,372
+Tooling                                             4,257,384      3,985,798
+                                                 ------------   ------------
+  Total                                            25,141,348     25,253,411
+Less accumulated depreciation and amortization    (15,117,008)   (13,580,161)
+                                                 ------------   ------------
+Property, plant and equipment, net               $ 10,024,340   $ 11,673,250
+                                                 ============   ============
+</TABLE>
+
+
+7.   OTHER ASSETS, LONG-TERM
+
+     Other assets, long-term at December 31 is summarized as follows:
+
+<TABLE>
+<CAPTION>
+                               2004         2003
+                            ----------   ----------
+<S>                         <C>          <C>
+Rental property             $   75,000   $   75,000
+Land held for development    1,889,349    1,137,460
+Land contract receivable        63,495       77,458
+Other                            4,200        4,201
+                            ----------   ----------
+Total                       $2,032,044   $1,294,119
+                            ==========   ==========
+</TABLE>
+
+     The Company made non-refundable deposits during the years ending December
+     31, 2004, 2003 and 2002 and entered into various agreements to purchase
+     land in Mount Morris Township, Michigan in connection with a proposed plan
+     to develop a sports and entertainment complex. Since financing for
+     development of the project is not in place, these deposits have been
+     expensed.
+
+     In the third quarter of 2004 the Company purchased approximately 40 acres
+     of land in Mount Morris Township for $752,000. Land which is part of the
+     Company's proposed sports and entertainment complex is included in land
+     held for development.
+
+
+                                      A-16
+<PAGE>
+8.   LONG-TERM DEBT
+
+     Long-term obligations at December 31 consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                                          2004        2003
+                                                                       ---------   ----------
+<S>                                                                    <C>         <C>
+Note payable to a bank, monthly installments of interest at 7.5%
+   through October 2003, and monthly payments of principal and
+   interest at 2.5% above prime (effective rate of 7.75% and 6.5% at
+   December 31, 2004 and 2003, respectively) through October 2008;
+   secured by a mortgage on related property                           $ 398,463   $  485,770
+Mortgage payable to a bank, paid in full in August 2004                       --       50,000
+Term loans, payable to finance companies, monthly installments
+   include interest approximating 8% through November 2007,
+   collateralized by the related transportation equipment                393,623      512,002
+                                                                       ---------   ----------
+      Total                                                              792,086    1,047,772
+Less current portion                                                    (219,058)    (256,578)
+                                                                       ---------   ----------
+Long-term                                                              $ 573,028   $  791,194
+                                                                       =========   ==========
+</TABLE>
+
+     The scheduled future repayments of long-term obligations at December 31,
+     2004 are as follows:
+
+<TABLE>
+<S>     <C>
+2005    $219,058
+2006     234,978
+2007     238,737
+2008      99,313
+        --------
+Total   $792,086
+        ========
+</TABLE>
+
+9.   ACCRUED EXPENSES
+
+     Accrued expenses at December 31 consist of the following:
+
+<TABLE>
+<CAPTION>
+                                          2004       2003
+                                        --------   --------
+<S>                                     <C>        <C>
+Accrued settlements                     $     --   $ 78,329
+Accrued interest                           1,326      3,387
+Royalties                                     --    151,053
+Professional fees                        162,706    180,000
+Advance ticket sales/deferred revenue     12,821         --
+Payroll and taxes                         81,843     87,225
+Other                                    129,200     67,488
+                                        --------   --------
+Total                                   $387,896   $567,482
+                                        ========   ========
+</TABLE>
+
+
+                                      A-17
+<PAGE>
+10.  INCOME TAXES
+
+     For the years ended December 31, the Company's benefit provision for income
+     taxes consists of the following:
+
+<TABLE>
+<CAPTION>
+                                   2004         2003         2002
+                                ----------   ----------   ----------
+<S>                             <C>          <C>          <C>
+Current:
+   Federal                      $       --   $1,408,457   $1,041,595
+   State                                --           --           --
+                                ----------   ----------   ----------
+Total current                           --    1,408,457    1,041,595
+
+Deferred
+   Federal                              --           --           --
+   State                                --           --           --
+                                ----------   ----------   ----------
+Total deferred                          --           --           --
+
+Income tax benefit              $       --   $1,408,457   $1,041,595
+                                ==========   ==========   ==========
+</TABLE>
+
+     The temporary differences which give rise to deferred tax assets and
+     liabilities at December 31 are as follows:
+
+<TABLE>
+<CAPTION>
+                                        2004            2003
+                                     -----------    -----------
+<S>                                  <C>            <C>
+Deferred tax assets:
+   Goodwill                          $   850,591    $   955,363
+   Net operating loss carryforwards      954,797        118,747
+   Allowance for doubtful accounts        62,560         61,492
+   Inventory obsolescence                  8,500         18,139
+   Accrued settlements                        --         26,632
+   Other                                 486,885        377,170
+                                     -----------    -----------
+                                       2,363,333      1,557,543
+   Valuation allowance                (1,648,515)    (1,091,254)
+                                     -----------    -----------
+Total deferred tax assets                714,818        466,289
+                                     -----------    -----------
+Deferred tax liabilities:
+   Fixed asset basis differential       (714,818)      (466,289)
+                                     -----------    -----------
+Deferred tax assets (net)            $        --    $        --
+                                     ===========    ===========
+
+</Table>
+
+                                      A-18
+<PAGE>
+     The consolidated income tax provision differs from the amount computed on
+     pretax income using the U.S. statutory income tax rate for the years ended
+     December 31, for the following reasons:
+
+<TABLE>
+<CAPTION>
+                                            2004          2003         2002
+                                         ----------    ----------   ----------
+<S>                                      <C>           <C>          <C>
+Expected benefit at the statutory rate   $  588,520    $   74,474   $   59,102
+Permanent differences & other items           2,739         2,766       (5,825)
+Change in valuation allowance              (557,260)    1,098,800      710,334
+Adjustment to prior years provision         (33,999)      232,417      285,446
+Other                                            --            --       (7,462)
+                                          ---------    ----------   ----------
+Income tax benefit                        $      --    $1,408,457   $1,041,595
+                                          =========    ==========   ==========
+Effective tax rate                               --%          643%         600%
+                                          =========    ==========   ==========
+</TABLE>
+
+     On March 9, 2002, the Job Creation and Worker Assistance Act of 2002 (the
+     "Act") was enacted which extends the carryback period for net operating
+     losses from two years to five years. Based on this new legislation, the
+     Company carried back net operating losses for which there was a valuation
+     allowance. In addition, the Company realized the tax benefit of certain
+     deferred taxes for which there was a valuation allowance. The tax benefit
+     of the carryback and change in the valuation allowance was recorded in the
+     first quarter of fiscal 2002 as SFAS No. 109, "Accounting for Income
+     Taxes", requires the impact of new tax legislation to be recorded in the
+     period in which the legislation is enacted. In 2003 the Company performed a
+     cost segregation study. A cost segregation study reclassifies assets
+     originally classified as real property into other more appropriate asset
+     categories which allow for shorter, more accelerated methods of
+     depreciation as allowed by the Internal Revenue Service. Accordingly, the
+     Company was able to accelerate its depreciation deduction for Federal
+     income tax reporting purposes and increase the carry back allowed under the
+     Act in connection with the completion of its 2002 consolidated Federal
+     income tax return. As a result, the valuation reserve on deferred tax
+     assets was reduced by $1,098,800 during year ending December 31, 2003. In
+     connection with the passage of this legislation and the performance of the
+     cost segregation study, the Company amended certain of its prior year
+     returns. The effect of these amendments was to increase refunds receivable
+     by approximately $171,000 for the year ended December 31, 2002, which is
+     included in the adjustment to prior years provision. The remaining balance
+     of adjustment to prior years provision for all years presented
+     predominantly results from the carry back of losses to prior periods which
+     previously had taxable income subject to graduated tax rates. The ultimate
+     tax rates applied to these periods was lower than the initial rates
+     applied. The Company received a refund of $1,570,234 in the second quarter
+     of 2004 from its amended returns.
+
+     At December 31, 2004, the Company has net operating loss carryforwards for
+     federal income tax purposes of $2,808,226, the last of which expire in 2024
+     if not utilized.
+
+11.  COMMITMENTS AND CONTINGENCIES
+
+     The Company leases its principal operating facility from a related party
+     (Note 3). The operating lease requires the Company to pay the taxes,
+     insurance and maintenance expense related to the
+
+
+                                      A-19
+<PAGE>
+     leased property. Minimum future lease payments under noncancelable leases
+     at December 31, 2004 are summarized as follows:
+
+<TABLE>
+<CAPTION>
+                             OPERATING
+                              LEASES
+                            ----------
+<S>                         <C>
+Years ending December 31:
+   2005                     $  609,887
+   2006                        607,517
+   2007                        605,147
+   2008                        603,860
+   2009                        550,000
+                            ----------
+      Total                 $2,976,411
+                            ==========
+</TABLE>
+
+     Rent expense, including month to month rentals, was approximately $605,000,
+     $601,000 and $641,000 for the years ended December 31, 2004, 2003 and 2002,
+     respectively.
+
+12.  STOCK OPTIONS
+
+     The fair value of the options granted included in the pro forma calculation
+     in Note 2 is estimated on the date of the grant using the Black-Scholes
+     option-pricing model with the following weighted average assumptions used
+     for the years ended December 31,
+
+<TABLE>
+<CAPTION>
+                                                                     2002
+                                                                   ---------
+<S>                                                                <C>
+Risk free interest rate                                                 5.03%
+Expected life                                                       10 years
+Expected volatility                                                      101%
+Dividend yield                                                             0%
+Weighted average grant date fair value                             $    4.88
+</TABLE>
+
+     The Company's 1995 Long-Term Incentive Plan allows the issuance of up to
+     2,000,000 shares of Common Stock options to key employees, executive
+     officers and outside directors, and also permits the grant or award of
+     restricted stock, stock appreciation rights or stock awards. Option
+     exercise prices are 100% of fair market value on the date of grant and
+     options generally expire 10 years from the date of grant. The vesting
+     period for the options is 6 months from the date of grant.
+
+
+                                      A-20
+<PAGE>
+     Information with respect to options granted and cancelled for the years
+     ended December 31, is as follows:
+
+<TABLE>
+<CAPTION>
+                                                               WEIGHTED
+                                                               AVERAGE
+                                                                PRICE
+                                                     SHARES   PER SHARE
+                                                    -------   ---------
+<S>                                                 <C>       <C>
+Options Outstanding at January 1, 2002              289,260     $4.34
+   Options granted                                   23,052     $5.34
+                                                    -------
+
+Options Outstanding at December 31, 2002 and 2003   312,312     $4.42
+   Options exercised                                (36,818)    $3.23
+   Options cancelled                                (45,059)    $4.88
+                                                    -------
+
+Options Outstanding at December 31, 2004            230,435     $4.50
+                                                    =======
+
+Options Exercisable at December 31, 2004            230,435     $4.50
+                                                    =======
+</TABLE>
+
+     Summary information about the Company's stock options outstanding at
+     December 31, 2004 is as follows:
+
+<TABLE>
+<CAPTION>
+                                        Weighted
+                      Options      Average Remaining      Weighted                       Weighted
+    Range of      Outstanding at    Contractual Life       Average        Options         Average
+Exercise Prices      12/31/04           (Years)        Exercise Price   Exercisable   Exercise Price
+---------------   --------------   -----------------   --------------   -----------   --------------
+<S>               <C>              <C>                 <C>              <C>           <C>
+$2.00-$3.49           114,320             4.44              $3.03         114,320          $3.03
+$3.50-$4.99            27,820             5.92              $3.89          27,820          $3.89
+$5.00-$6.98            88,295             6.83              $6.59          88,295          $6.59
+-----------           -------             ----              -----         -------          -----
+$2.00-$6.98           230,435             5.53              $4.50         230,435          $4.50
+===========           =======             ====              =====         =======          =====
+</TABLE>
+
+13.  SEGMENTS OF BUSINESS
+
+     The Company's reportable segments are strategic business units that offer
+     different products and services. The business units have been divided into
+     two reportable segments; the manufacture and sale of bedliners and other
+     truck accessories ("Truck Accessories"), and operation of a multi-purpose
+     motor sports facility in Brainerd, Minnesota ("Raceway").
+
+     The accounting policies of the segments are the same as those described in
+     Note 2. The Company evaluates performance based on stand-alone segment
+     operating income. Intersegment sales and transfers, interest income and
+     expense are not significant. Financial information segregated by reportable
+     segments is as follows:
+
+
+                                      A-21
+<PAGE>
+<TABLE>
+<CAPTION>
+                                     2004          2003          2002
+                                 -----------   -----------   -----------
+<S>                              <C>           <C>           <C>
+SALES:
+   Truck Accessories             $16,053,021   $18,618,115   $16,281,095
+   Raceway                         4,471,735     4,123,708     3,333,202
+                                 -----------   -----------   -----------
+Total                            $20,524,756   $22,741,823   $19,614,297
+                                 ===========   ===========   ===========
+
+(LOSS) INCOME FROM OPERATIONS:
+   Truck Accessories             $  (710,949)  $ 1,135,912   $ 1,256,434
+   Raceway                        (1,334,375)   (1,651,228)   (1,734,890)
+                                 -----------   -----------   -----------
+Total                            $(2,045,324)  $  (515,316)  $  (478,456)
+                                 ===========   ===========   ===========
+
+IDENTIFIABLE ASSETS:
+   Truck Accessories             $12,747,963   $14,264,153   $13,781,238
+   Raceway                         7,519,242     8,233,455     8,902,696
+                                 -----------   -----------   -----------
+Total                            $20,267,205   $22,497,608   $22,683,934
+                                 ===========   ===========   ===========
+
+CAPITAL EXPENDITURES:
+   Truck Accessories             $   410,232   $ 1,111,627   $ 1,166,064
+   Raceway                            17,726       327,687     3,464,052
+                                 -----------   -----------   -----------
+Total                            $   427,958   $ 1,439,314   $ 4,630,116
+                                 ===========   ===========   ===========
+
+DEPRECIATION AND AMORTIZATION:
+   Truck Accessories             $   992,743   $ 1,221,019   $ 1,335,066
+   Raceway                           758,668       742,033       727,334
+                                 -----------   -----------   -----------
+Total                            $ 1,751,411   $ 1,963,052   $ 2,062,400
+                                 ===========   ===========   ===========
+</TABLE>
+
+     All of the Company's identifiable assets are located within the United
+     States. Net sales are attributed to the geographic areas based on the
+     location of the customer. The geographic distribution of the Company's
+     sales is set forth below:
+
+<TABLE>
+<CAPTION>
+                    2004          2003          2002
+                -----------   -----------   -----------
+<S>             <C>           <C>           <C>
+United States   $19,158,052   $21,643,661   $18,270,843
+Foreign           1,366,704     1,098,162     1,343,454
+                -----------   -----------   -----------
+Consolidated    $20,524,756   $22,741,823   $19,614,297
+                ===========   ===========   ===========
+</TABLE>
+
+Sales to one customer represented 8% of the Company's sales in 2003 and 11% in
+2002. No other customer comprised 10 percent or more of the Company's sales in
+the three years ended December 31, 2004.
+
+
+                                      A-22
+<PAGE>
+14.  QUARTERLY FINANCIAL INFORMATION (UNAUDITED)
+
+     The following is a condensed summary of the Company's unaudited quarterly
+     results of operations for fiscal 2004 and 2003:
+
+<TABLE>
+<CAPTION>
+                                               2004 Fiscal Quarters
+                         ----------------------------------------------------------------
+                            First       Second        Third        Fourth        Total
+                         ----------   ----------   ----------   -----------   -----------
+<S>                      <C>          <C>          <C>          <C>           <C>
+Sales                    $4,722,101   $5,719,714   $7,078,487   $ 3,004,454   $20,524,756
+Cost of Sales            $3,936,920   $4,838,395   $6,185,515   $ 3,046,655   $18,007,485
+Net (loss) income        $ (397,808)  $  (48,816)  $ (199,769)  $(1,084,548)  $(1,730,941)
+Basic and diluted
+   (loss) earnings per
+   share                 $    (0.01)  $    (0.00)  $    (0.00)  $     (0.03)  $     (0.04)
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                               2003 Fiscal Quarters
+                         ---------------------------------------------------------------
+                            First       Second        Third       Fourth       Total
+                         ----------   ----------   ----------   ----------   -----------
+<S>                      <C>          <C>          <C>          <C>          <C>
+Sales                    $4,439,167   $5,771,851   $8,018,169   $4,512,636   $22,741,823
+Cost of Sales            $3,600,235   $4,783,946   $6,610,950   $3,661,383   $18,656,514
+Net (loss) income        $ (207,856)  $ (119,019)  $  943,767   $  572,523   $ 1,189,415
+Basic and diluted
+   (loss) earnings per
+   share                 $    (0.00)  $    (0.00)  $     0.02   $     0.00   $      0.02
+</TABLE>
+
+15.  SUBSEQUENT EVENTS
+
+In February 2005, a note receivable from the Company's majority shareholder went
+into default. The note required monthly payments of principal and interest
+through February, 2005 at which time the unpaid balance was due. The Company has
+sent a default letter demanding payment and intends to pursue collection of this
+obligation aggressively. Management has assessed the collateral supporting the
+note and does not believe the default will have a material impact on the
+financial statements of the Company. See Related Party Transactions Note 3.
+
+
+
+                                     ******
+
+
+                                      A-23
+<PAGE>
+SPORTS RESORTS INTERNATIONAL, INC.
+SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+<TABLE>
+<CAPTION>
+                                               ADDITIONS   DEDUCTIONS   RECOVERIES
+                                              CHARGED TO   CHARGED TO   WRITE-OFFS
+                                   BALANCE     COSTS AND    TO OTHER        AND        BALANCE
+                                  JANUARY 1    EXPENSES     ACCOUNTS     DISPOSALS   DECEMBER 31
+                                  ---------   ----------   ----------   ----------   -----------
+<S>                               <C>         <C>          <C>          <C>          <C>
+DOUBTFUL ACCOUNTS AND CASH
+DISCOUNTS RESERVES
+
+For the year ended December 31:
+2004                                181,000      3,000         --               --      184,000
+2003                                210,000     10,000                     (39,000)     181,000
+2002                                598,000     70,000         --         (458,000)     210,000
+
+INVENTORY RESERVES
+
+For the year ended December 31:
+2004                                 53,350         --         --          (28,350)      25,000
+2003                                 40,000     13,350         --               --       53,350
+2002                                 40,000         --         --               --       40,000
+
+TAX VALUATION ALLOWANCE
+
+For the year ended December 31:
+2004                              1,091,000    557,000         --               --    1,648,000
+2003                              2,190,000         --         --       (1,099,000)   1,091,000
+2002                              2,900,000         --         --         (710,000)   2,190,000
+</TABLE>
+
+
+                                      A-24
+<PAGE>
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+Exhibit
+ Number   Description
+-------   -----------
+<S>       <C>
+ 2.1      Amended and Restated Asset Purchase Agreement by and between Colonel's
+          Acquisition Corp. (later renamed AutoLign Manufacturing Group, Inc.),
+          The Colonel's International, Inc., The Colonel's, Inc. and Donald J.
+          Williamson dated November 23, 1998. Incorporated by reference to
+          Appendix A to the Company's Definitive Proxy Statement filed with the
+          Securities and Exchange Commission on December 7, 1998.
+
+ 2.2      First Amendment to Amended and Restated Asset Purchase Agreement by
+          and between AutoLign Manufacturing Group, Inc. (formerly known as
+          Colonel's Acquisition Corp.), The Colonel's International, The
+          Colonel's, Inc. and Donald J. Williamson dated December 17, 1998.
+          Incorporated by reference to Exhibit 2(b) to the Company's Report on
+          Form 8-K filed with the Securities and Exchange Commission on December
+          30, 1998.
+
+ 2.3      Agreement and Plan of Merger by and among The Colonel's International,
+          Inc., The Colonel's Rugged Liner, Inc., Rugged Liner, Inc., Triad
+          Management Group, Inc., Aerocover, Inc., Ground Force, Inc., and
+          certain shareholders of the foregoing, dated March 13, 1998.
+          Incorporated by reference to Exhibit 2(a) to the Registrant's Current
+          Report on Form 8-K dated May 8, 1998.
+
+ 2.4      First Amendment to Agreement and Plan of Merger, by and among The
+          Colonel's International, Inc., The Colonel's Rugged Liner, Inc.,
+          Rugged Liner, Inc., Triad Management Group, Inc., Aerocover, Inc.,
+          Ground Force, Inc., and certain shareholders of the foregoing, dated
+          April 23, 1998. Incorporated by reference to Exhibit 2(b) to the
+          Registrant's Current Report on Form 8-K dated May 8, 1998.
+
+ 3.1      Articles of Incorporation of the Company, as amended. Incorporated by
+          reference from the Company's report on Form 10-K for the year ended
+          December 31, 2002.
+
+ 3.2      Bylaws of the Company, as amended. Incorporated by reference from
+          Exhibit 3.2 to the Company's Report on Form 10-Q for the period ended
+          March 31, 1997.
+
+ 10.1     Sports Resorts International, Inc. 1995 Long-Term Incentive Plan, as
+          amended to date. Incorporated by reference from the Company's Report
+          on Form 10-K for the year ended December 31, 2001.
+
+ 10.2     June 22, 1992 Title Rights Sponsorship Agreement between Champion Auto
+          Stores, Inc. and National Hot Rod Association, Inc. Incorporated by
+          reference from Brainerd International, Inc.'s Registration Statement
+          on Form S-1 (Registration No. 33-055876).
+
+ 10.3     Sanction agreement between the Company and National Hot Rod
+          Association. Incorporated by reference from the Company's Report on
+          Form 10-K for the year ended December 31, 2000.
+
+ 10.4     Amendment to sanction agreement between Brainerd International Raceway
+          and National Hot Rod Association dated October 27, 1999. Incorporated
+          by reference from the Company's report on Form 10-K for the year ended
+          December 31, 2002.
+</TABLE>
+<PAGE>
+<TABLE>
+<S>       <C>
+ 10.5     Extension of sanction agreement between Brainerd International Raceway
+          and National Hot Rod Association dated April 19, 2002. Incorporated by
+          reference from the Company's report on Form 10-K for the year ended
+          December 31, 2002.
+
+ 10.6     Lease agreement between 620 Platt Road LLC and The Colonel's Truck
+          Accessories, Inc. Incorporated by reference from the Company's Report
+          on Form 10-K for the year ended December 31, 2001.
+
+ 10.7     Lease schedule and agreement between The Colonel's, Inc. and Comerica
+          Leasing Corporation dated December 27, 1995. Incorporated by reference
+          from the Company's Report on Form 10-K for the year ended December 31,
+          1997.
+
+ 10.8     Lease schedule and agreement between The Colonel's, Inc. and Comerica
+          Leasing Corporation dated May 31, 1996. Incorporated by reference from
+          the Company's Report on Form 10-K for the year ended December 31,
+          1997.
+
+ 10.9     Lease schedule and agreement between The Colonel's, Inc. and Comerica
+          Leasing Corporation dated November 15, 1996. Incorporated by reference
+          from the Company's Report on Form 10-K for the year ended December 31,
+          1997.
+
+ 10.10    Agreement between Rugged Liner, Inc. and PACCAR Financial Corp. dated
+          November 8, 2002. Incorporated by reference from the Company's report
+          on Form 10-K for the year ended December 31, 2002.
+
+ 10.11    Agreement between Rugged Liner, Inc. and PACCAR Financial Corp. dated
+          November 11, 2002. Incorporated by reference from the Company's report
+          on Form 10-K for the year ended December 31, 2002.
+
+ 10.12    Agreement between First National Bank of Deerwood and Brainerd
+          International Raceway & Resort, Inc. dated February 14, 2003.
+          Incorporated by reference from the Company's report on Form 10-Q for
+          the quarter ended March 31, 2003.
+
+ 10.13    Agreement between First National Bank of Deerwood and Brainerd
+          International Raceway & Resort, Inc. dated October 31, 2003.
+          Incorporated by reference from the Company's report on Form 10-K for
+          the year ended December 31, 2003.
+
+ 10.14    Code of Ethics for Financial Managers. (Incorporated by reference from
+          the Company's report on Form 10-K for the year ended December 31,
+          2003).
+
+ 21       Subsidiaries of the Registrant. (Filed herewith).
+
+ 23       Consent of Grant Thornton LLP. (Filed herewith).
+
+ 31.1     Certification of Chief Executive Officer pursuant to Section 302 of
+          the Sarbanes-Oxley Act of 2002. (Filed herewith).
+
+ 31.2     Certification of Chief Financial Officer pursuant to Section 302 of
+          the Sarbanes-Oxley Act of 2002. (Filed herewith).
+</TABLE>
+<PAGE>
+<TABLE>
+<S>       <C>
+ 32.1     Certification of Chief Executive Officer pursuant to 18 U.S.C. Section
+          1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+          2002. (Filed herewith).
+
+ 32.2     Certification of Chief Financial Officer pursuant to 18 U.S.C. Section
+          1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+          2002. (Filed herewith).
+</TABLE>
+
+*    Commission file number for reports filed pursuant to the Securities
+     Exchange Act of 1934 is 2-98277 (c).
+</TEXT>
+</DOCUMENT>
+

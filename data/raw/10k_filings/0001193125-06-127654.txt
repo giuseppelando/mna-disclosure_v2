@@ -1,0 +1,1939 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d10k.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 10-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:3px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="5"><B>FORM 10-K </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>(Mark One) </B></FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="3"><B><FONT FACE="WINGDINGS">&#120;</FONT><B></B></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="3"><B>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 </B></FONT></TD></TR></TABLE> <P
+STYLE="margin-top:12px;margin-bottom:0px; margin-left:5%"><FONT FACE="Times New Roman" SIZE="2"><B>For the fiscal year ended March&nbsp;31, 2006 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="2"><B>OR </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="3"><B></B></FONT><FONT FACE="WINGDINGS" SIZE="3" COLOR="#000000"><B>&#168;</B></FONT><FONT FACE="Times New Roman" SIZE="3"><B><B></B></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="3"><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 </B></FONT></TD></TR></TABLE> <P
+STYLE="margin-top:12px;margin-bottom:0px; margin-left:5%"><FONT FACE="Times New Roman" SIZE="2"><B>For the transition period from <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> to
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Commission File Number 000-24373 </B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>GLOBAL IMAGING SYSTEMS, INC.
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>59-3247752</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction of</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>incorporation or organization)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>3820 Northdale Boulevard, Suite 200A</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>Tampa, Florida</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>33624</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Registrant&#146;s telephone number, including area code: (813)&nbsp;960-5508 </B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Securities registered pursuant
+to Section&nbsp;12(b) of the Act: </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Title of each class</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Name of each exchange on which registered</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>None </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>Securities registered pursuant to Section&nbsp;12(g) of the Act: </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Common Stock, $.01 par value
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Title of class) </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1"
+NOSHADE COLOR="#000000"> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by a check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT FACE="WINGDINGS">&#120;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"> </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by a check mark if the registrant is not required to file reports pursuant to Section&nbsp;13 or Section&nbsp;15(d) of the
+Act.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT FACE="WINGDINGS">&#120;</FONT> </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark whether the registrant: (1)&nbsp;has filed all reports required to be filed by Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter periods that the registrant was required to file such report(s)) and (2)&nbsp;has been subject to such filing requirements for the past 90 days.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT
+FACE="WINGDINGS">&#120;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Indicate by check mark if disclosure of delinquent filers pursuant to Item&nbsp;405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant&#146;s knowledge, in definitive proxy
+or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.&nbsp;&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"> </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark whether registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer. See definition of &#147;accelerated filer
+and large accelerated filer&#148; in Rule 12b-2 of the Exchange Act. (Check one): Large accelerated filer&nbsp;&nbsp;<FONT FACE="WINGDINGS">&#120;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;Accelerated filer&nbsp;&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2"
+COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;Non-accelerated filer&nbsp;&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"> </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act.).&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;</FONT><FONT
+FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT FACE="WINGDINGS">&#120;</FONT> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">On September&nbsp;30, 2005 (the last business day of the registrant&#146;s most recently completed second fiscal quarter), the aggregate market value of the shares of the registrant&#146;s common stock held by
+non-affiliates of the registrant was $759,602,280 based on the closing sale price of $34.05 of the common stock as reported on the Nasdaq National Market on such date. (For this computation, the registrant has excluded the market value of all shares
+of its common stock reported as beneficially owned by executive officers and directors of the registrant and their affiliates; such exclusion shall not be deemed to constitute an admission that any such person is an &#147;affiliate&#148; of the
+registrant.) </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2">As of June&nbsp;2, 2006, the registrant had 23,900,855 shares of common stock outstanding. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">DOCUMENTS INCORPORATED BY REFERENCE </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Portions of the annual
+report to stockholders for the year ended March&nbsp;31, 2006 are incorporated by reference into Part II of this annual report. Portions of the proxy statement for the annual stockholders meeting to be held on August&nbsp;7, 2006 are incorporated by
+reference into Part III of this annual report. </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left">
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">
+<A NAME="toc"></A>GLOBAL IMAGING SYSTEMS, INC. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Annual Report on Form 10-K </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">March&nbsp;31, 2006 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">TABLE OF CONTENTS </FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="91%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom">&nbsp;<FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Page</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_1">PART I </A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item&nbsp;1.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_2">Business</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item&nbsp;1A.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_3">Risk Factors</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 1B.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_4">Unresolved Staff Comments</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">12</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 2.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_5">Properties</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">12</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 3.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_6">Legal Proceedings</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">12</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 4.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_7">Submission of Matters to a Vote of Security Holders</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">12</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_8">PART II </A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">13</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 5.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_9">Market for Registrant&#146;s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">13</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 6.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_10">Selected Financial Data</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">13</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 7.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_11">Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">13</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 7A.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_12">Quantitative and Qualitative Disclosures about Market Risk</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">13</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 8.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_13">Financial Statements and Supplementary Data</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">14</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 9.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_14">Changes in and Disagreements with Accountants on Accounting and Financial Disclosure</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">14</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 9A.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_15">Controls and Procedures</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">14</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 9B.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_16">Other Information</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">17</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_17">PART III </A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">17</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 10.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_18">Directors and Executive Officers of the Registrant</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">17</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 11.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_19">Executive Compensation</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">17</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 12.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_20">Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">17</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 13.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_21">Certain Relationships and Related Transactions</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">17</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 14.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_22">Principal Accounting Fees and Services</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">17</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_23">PART IV </A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">18</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Item 15.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_24">Exhibits and Financial Statement Schedules </A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">18</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#toc25336_25">SIGNATURES </A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">19</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_1"></A>PART I </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_2"></A>Item&nbsp;1. Business </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Unless the context otherwise requires, as used in this annual report, the terms
+&#147;Global,&#148; &#147;Company,&#148; &#147;our,&#148; or &#147;we&#148; refer to Global Imaging Systems, Inc. and its subsidiaries. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>General
+</B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">We are one of the leading providers of office technology solutions to middle-market businesses in the United States, selling and
+providing primarily contract services for automated office equipment, including copiers, multi-function products (MFPs), facsimile machines and printers, network integration solutions and electronic presentation systems. Incorporating products from
+the Ricoh family of products, Konica Minolta, Sharp, Canon, Toshiba, Hewlett-Packard, IBM, Microsoft, NEC, Hitachi, InFocus, and other leading companies, we offer solutions for our customers from a network of over 180 locations in 32 states and the
+District of Columbia. The contractual nature of our service and supply business, tailored lease financing programs, high level of repeat equipment purchases and our emphasis on superior customer service are designed to generate stable and recurring
+revenue streams. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">We principally target businesses with fewer than 1,000 employees, which we refer to as the middle-market. We believe
+these businesses typically base their purchasing decisions on personal relationships and loyalty inspired by customized solutions and high-quality service rather than basing their purchasing decisions strictly on price. Our localized operations
+enable our sales and service teams to focus exclusively on the needs of their local middle-market customers and to deliver our products and services in an effective and responsive manner. We believe the middle-market will continue to provide us with
+attractive revenue opportunities as these businesses continue to demand more sophisticated, integrated office technology solutions. We also target companies with more than 1,000 employees if the companies are geographically centralized. Such
+centralization provides for more efficient and profitable customer service. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Our competitive marketplace is highly fragmented,
+characterized by small local competitors and a few large national competitors. The small local competitors usually lack our product range, sales organization, financial stability and efficient operating model. The rapid pace of technological change,
+including the resulting expansion of product offerings and increase in product support costs, has outpaced the technical, managerial and financial resources of many smaller distributors and service providers, causing many of these businesses to seek
+larger partners. The large, national providers of office technology solutions focus primarily on serving the needs of large national corporations. We provide our middle-market customers with the economies of scale, professional management and
+financial stability of a large national organization while preserving the long-standing relationships and customer service focus of a small local company. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">Since our founding in June 1994, we have acquired more than 80 businesses, all within the United States, that we have organized as a network of 19 core companies with corresponding satellite businesses. We primarily
+enter new geographic markets by acquiring additional core businesses. We expand our core markets through acquisitions of satellite businesses, that are typically smaller than, but in close geographic proximity to, our core companies. Administrative
+functions at satellite businesses are integrated into our core companies, allowing local management teams to focus on delivering superior products and services. Core companies and satellite businesses typically continue to operate under their
+pre-acquisition names and with their pre-acquisition management teams, thus helping to preserve existing customer relationships. We believe a large number of potential core and satellite acquisition targets exist in the United States, representing
+additional opportunities to expand our geographic presence and continue our disciplined acquisition strategy. We believe our core and satellite operating model has contributed to our success in the middle-market. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">News and information about us is available on our websites, www.gisx.com or www.global-imaging.com. In addition to news and other information about our
+company, we provide access, free of charge, through these sites to our annual report on Form 10-K, our quarterly reports on Form 10-Q, our current reports on Form 8-K, forms disclosing changes in beneficial ownership, and all amendments to those
+reports as soon as reasonably practicable after we file or furnish them electronically with the Securities and Exchange Commission. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">1 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>2006 Highlights </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT
+FACE="Times New Roman" SIZE="2">During the fiscal year ended March&nbsp;31, 2006, we acquired six additional businesses that provide office-imaging solutions and related services. Those six businesses represent approximately $28 million in acquired
+annualized revenues. Aggregate consideration, net of cash acquired, for these acquisitions was approximately $19.9 million, consisting of cash paid to the sellers, acquisition related expenses, and 26,690 shares of our common stock (valued at $0.9
+million). </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">For the fiscal year ended March&nbsp;31, 2006, we reported record-high revenues, operating income, net income and earnings per
+share. Compared to prior year results, revenues were up 11.2 percent to $1.0 billion versus $926.5 million, operating income increased 8.2 percent to $114.1 million from $105.4 million, net income was up 8.7 percent to $61.9 million from $57.0
+million, and diluted earnings per share were $2.45 versus $2.26 a year ago. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">On May&nbsp;9, 2006, our Board of Directors authorized the
+redemption of our 4% convertible senior subordinated notes due 2008, with a principal balance of $57.5 million. As of June 8, 2006, all of the notes have been converted to common stock of the Company. Additionally, the Board of Directors also
+approved a stock repurchase agreement which allows us to repurchase up to $150 million of our outstanding common stock over a three-year period. The Board also authorized a plan for recasting the company&#146;s senior credit facility, and we have
+agreed upon a term sheet for a new senior credit facility with our agent bank. We expect this new financing will provide us with enhanced strategic flexibility, permit us to execute substantial share repurchases, permit us to pay dividends (if
+appropriate), extend the maturity of our debt from 2009 to 2011, and lower the overall cost of our debt. We anticipate closing the new credit facility by the end of June 2006. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>Our Industry </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B></B>We are part of the large and growing office technology solutions industry. We
+believe advances in technology have driven the growing demand for providers that offer a comprehensive range of automated office products and integrated solutions. We compete in three converging sectors: automated office equipment, network
+integration solutions and electronic presentation systems. <B> </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B></B><I>Automated Office Equipment. </I>Dealers in the automated
+office equipment market, sell and service digital black and white copiers, multi-function products (MFPs), color copiers, &#147;business color&#148; copiers, duplicators, facsimile equipment, printers and scanners. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Network Integration Solutions. </I>Dealers in the network integration solutions market design, install, service and support computer networks and
+related equipment. Competency in network integration is an important component of a well-coordinated office technology solutions offering. As organizations seek to take advantage of productivity-enhancing computer network technology, they face
+complex and costly issues relating to network design, selection, implementation and management. Among other challenges, organizations must select from an expanding number of product options with shortening life cycles, integrate diverse and often
+incompatible hardware and software environments and operate with a limited staff of qualified information technology service personnel. As a result, many organizations seek to outsource installation, upgrades, support and training, network
+improvement functions and the evaluation of new products. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Electronic Presentation Systems. </I>Dealers in the electronic presentation
+systems market sell and service data and video projectors, interactive whiteboards, distance learning systems and video conferencing systems and equipment. As in the automated office equipment market, many customers desire a single source for all of
+their electronic presentation systems. Multi-vendor providers in this market have an advantage over manufacturers selling directly and single-vendor dealers because strong competition among manufacturers and technological innovation results in the
+frequent introduction of new products and multi-vendor providers are better positioned to offer customers the best products among multiple brands. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>Industry Trends </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The office technology solutions industry continues to be impacted by technological change and the increased
+participation of large volume sellers. We believe a majority of independent dealers and service providers have not </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">developed the product range or skill set necessary to offer comprehensive office technology solutions, nor do they have
+an efficient operating model with the necessary economies of scale to cost-effectively sell to and service the middle-market with one-stop office technology solutions. We believe it is increasingly difficult for smaller dealers and service providers
+to compete effectively with better capitalized competitors, including manufacturers, dealers and service providers, that sell and service a broad range of products, including mid- and high-range products, that require sophisticated support and
+service. Larger companies continue to primarily focus on large corporate customers and national accounts. We believe that, because of this focus, these companies have not effectively positioned themselves to address the needs of the middle-market.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Technological Change is Driving a Convergence of Office Equipment Solutions</I>. The technology of our industry continues to develop
+rapidly. Digital technology, which allows images to be captured, transmitted, reproduced and stored using networks of personal computers, has in recent years, been incorporated into copiers and electronic presentation systems, leading businesses to
+demand more comprehensive network integration solutions. We believe the rapid pace of technological change, including the resulting expansion of product offerings, such as &#147;business color&#148; machines, and increase in product support costs,
+has outpaced the technical, managerial and financial resources of many smaller distributors and service providers, causing some of these businesses to seek larger partners. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Increased Participation of Large Volume Sellers Offering Minimal Service. </I>Office superstores and consumer electronics chains have entered the
+automated office equipment market, forcing some smaller dealers to either reduce prices or reduce their focus on the middle-market. We believe office superstores and consumer electronics chains, as well as smaller dealers, face difficulty competing
+in the middle-market because they are not as well equipped to provide the sophisticated support services required to offer mid- and high-range office equipment. Similarly, information technology direct marketers are offering multi-branded hardware
+and software and original equipment manufacturers are now directly offering their hardware and software products by phone, fax and the Internet. Companies employing these direct selling models typically do not provide the full range of service
+offerings that are increasingly critical to businesses in the middle-market. We have competed successfully in the middle-market by providing a one-stop solution for our customers&#146; office technology needs that includes local equipment sales and
+local support services at a competitive price. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Our Competitive Strengths </B></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Middle-Market Focus</I>. We offer multi-branded solutions at competitive prices in an effort to provide our middle-market customers one-stop shopping
+for their office technology requirements and network integration needs. We believe middle-market businesses typically base their purchasing decisions on personal relationships and loyalty inspired by customized solutions and high-quality service,
+rather than relying solely on a competitive bidding processes. We believe that our primary focus on the middle-market customer will continue to provide us with attractive revenue opportunities as these businesses demand more sophisticated,
+integrated office technology solutions. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Large and Diverse Customer Base</I>. We are not dependent on a few large customers.
+Approximately 185,000 customers purchased goods or services from us during the fiscal year ended March&nbsp;31, 2006. Our largest customers account for a low percentage of our revenues. During the fiscal year ended March&nbsp;31, 2006, our top five
+customers collectively accounted for less than 5% of our total revenues and no single customer accounted for more than 2% of our total revenues. In addition, our customer base spans virtually every industry from manufacturing, distribution,
+financial services, healthcare and retail to educational institutions, local and state governments and not-for-profit organizations. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2"><I>Recurring Revenue Stream</I>. The contractual nature of our service and supply business, our rental programs and our emphasis on superior customer service generate a significant recurring revenue stream. We estimate that over 90% of our
+automated office equipment sales are accompanied by service contracts. Our high level of repeat equipment sales and our tailored third-party lease financing programs also contribute to a stable revenue stream. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Effective Business Model for the Middle-Market</I>. We operate with a localized structure, allowing us to effectively serve and penetrate the
+middle-market. We believe our experienced local management teams possess a valuable understanding of their specific markets and customer bases. These local management teams are able to </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">focus on delivering superior product and service solutions to their local customer bases because many of the
+administrative functions of operating their businesses are performed at our headquarters. Local management is supported by our consolidated financial strength and senior corporate management, who focuses on strategy, planning, operational
+improvements and financial reporting. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Efficient Low Cost Operating Model.</I> Our localized operating structure allows us to better
+leverage our administrative personnel and create significant operating efficiencies. We strive to generate efficiencies by consolidating the back-office functions of our satellite businesses into our core company operations, by standardizing
+financial reporting, cash and inventory management, payroll, billing, collections, insurance and employee benefit programs, and by negotiating advantageous relationships with equipment manufacturers and distributors, other suppliers and lessors.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Important Sales Channel for Many of Our Office Technology Manufacturers.</I> Manufacturers historically have had relatively limited
+ability to reach and service the middle-market efficiently, instead relying on independent dealers to market and sell their products. Our network of core companies and satellite businesses historically has generated a large sales volume for
+manufacturers in this market. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Product Offerings from Multiple Vendors</I>. We sell products made by a wide array of leading vendors,
+including Ricoh and its family of products, Konica Minolta, Sharp, Canon, Toshiba, Hewlett-Packard, IBM, Microsoft, NEC, Hitachi and InFocus. During the fiscal year ended March&nbsp;31, 2006, we purchased approximately 20%, 19%, and 11% of our
+equipment, parts and supplies from Ricoh and its family of products, Konica Minolta, and Sharp, respectively. No other single vendor represented in excess of 10% of our purchases. As we are not limited to a single vendor, or even a few vendors, we
+are able to offer our customers a wide variety of quality office technology solutions. Our wide array of vendors also limits the risks we may face if one of our vendors experiences financial instability or fails to keep pace with the rapid
+technological development and introduction of new products. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Lease Financing Programs Tailored to the Middle-Market. </I>Our ability to
+offer customized, third-party lease financing programs and our relationships with leasing companies such as General Electric (GE), Citicapital, US Bancorp and DeLageLanden (DLL), differentiates us from smaller local dealers in our industry. We
+believe this provides us with a competitive edge in winning business from middle-market businesses where financing is central to equipment purchasing decisions. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2"><I>Highly Incentivized and Motivated Workforce</I>. We believe we have a highly incentivized and motivated workforce, not only because of our competitive compensation packages, training programs and advancement
+opportunities, but also because we foster an environment of friendly competition among our sales teams and core company presidents. Our sales personnel are compensated primarily on a commission basis, with local management ultimately determining the
+structure of sales compensation and commissions within the parameters of our management benchmarking model. We grant stock options to purchase our common stock to employees at levels from our executive officers to our local managers. Additionally,
+we offer training for employees at all levels of the Company, underscoring our commitment to our employees&#146; development. Finally, our culture permits and encourages our core company presidents to share information with each other, which
+furthers the competitive advantage they have over their local competition. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Our Growth Strategies </B></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Capitalize on Cross-Selling and Recurring Revenue Opportunities</I>. We constantly seek to deliver the highest level of service to our customers.
+Effective and responsive servicing of our customers has created strong loyalty and the opportunity to cross-sell additional products and services. By leveraging our existing customer base, our cross-selling activities have historically increased our
+operating efficiency and our margins. Our service and supply activities generally provide us with a recurring source of revenue and increased visibility with our customers. By taking advantage of the after-market opportunities generated by our sales
+of office technology equipment, we are able to derive a substantial amount of recurring revenue from our installed base through service and supply contracts. During the year, we continued to further develop the print management program, which
+assists our customers with multiple printers in their workplace to efficiently manage print volumes. This program provides customers with on-site printer management, maintenance support, supplies, desktop support and a custom web-based view of
+assets, volumes and program performance. These services are effective in creating strong loyalty among existing customers and in providing opportunities to expand our customer base. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Further Penetrate the Middle-Market.</I> The office technology solutions industry is characterized by
+rapid technological change and growth in product offerings such as &#147;business color&#148; machines. This rapid change and the increasing availability of integrated office solutions present middle-market businesses with opportunities to enhance
+their financial and operational efficiency. As more middle-market businesses move to take full advantage of these opportunities, we expect to sell more complete office technology solutions. We believe our position as a leading provider of office
+technology solutions to the middle-market will allow us to meet the needs of these customers and expand our customer base. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Selectively
+Pursue Strategic Acquisitions. </I>We intend to continue to pursue strategic acquisitions that extend the Company into new geographic markets, broaden our product offerings, increase our market share within the markets we currently serve and further
+exploit the economies of scale of our core and satellite structure. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Optimize Our Product Sales and Service Mix Using Our Benchmarking
+Model</I>. Our executives have developed a comprehensive set of performance benchmarks to enable our businesses to optimize product sales and service mix as well as increase operating efficiency and profitability. These benchmarks, which are the
+focus of internal reporting from our core companies to headquarters, allow our senior and local management teams to monitor and improve virtually every measurable aspect of the operations of each of our companies. Using these criteria, we train our
+core and satellite business managers to continually optimize their business mix and improve financial performance. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Utilize Our
+Consolidated Financial Strength to Facilitate Local Sales</I>. Our status as a publicly held company with significant financial resources facilitates sales by our core companies in several ways. First, our size, financial resources and the volume of
+equipment we purchase frequently permit us to negotiate favorable purchasing terms from our vendors. Second, our third-party lease financing relationships provide our customers with cost-effective access to equipment. Third, our purchasing volume
+enables us to better negotiate for co-marketing incentives from our major vendors and manufacturers. Finally, our geographic presence and successful operating history reassure customers who want their source of office technology solutions to be
+stable and reliable. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Our Acquisition Strategy </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">Since our founding in June 1994, we have acquired more than 80 businesses, all within the United States, that we have organized as a network of 19 core companies with corresponding satellite businesses. We primarily enter new geographic
+markets by acquiring additional core companies. We expand our core companies&#146; markets through the acquisition of satellite businesses, which are typically in close geographic proximity to core companies. Core companies and satellite businesses
+typically continue to operate under their pre-acquisition names and with their pre-acquisition management teams, thus helping to preserve existing client relationships. Administrative functions at satellite businesses are integrated into our core
+companies, allowing local management teams to focus on delivering superior products and services. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Core Company Acquisitions. </I>We
+look for core company acquisition candidates that are led by an experienced management team who will continue to manage the company after we acquire it, have a strong regional market share and can grow internally and through the acquisition of
+satellite businesses. Historically, we have been successful in retaining the management teams of our core companies. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Satellite Business
+Acquisitions</I>. A key component of our growth strategy is to acquire satellite businesses in or near our core companies&#146; markets. Core company management frequently identifies appropriate satellite business acquisition candidates. In
+evaluating potential satellite business acquisitions, we consider, among other factors, the potential satellite&#146;s proximity to a core company, the fit between the potential satellite&#146;s product lines and those of the nearby core company and
+the potential satellite&#146;s management, employee base and service base under contract. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><I>Integration and Transformation.</I> We have
+substantial experience integrating acquired businesses successfully, and typically integrate acquired businesses into our reporting systems, policies and procedures within 90 days of acquisition. Centralizing back office functions helps us realize
+synergies and cost savings. Conversely, our </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">5 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">localized management structure minimizes many of the issues that typically arise in conjunction with the integration of
+acquired companies. Finally, our benchmarking model assists our local management teams in monitoring and improving the operations and financial performance of their core company and satellite businesses. </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Our Products and Services </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">We currently sell and
+service a variety of automated office equipment, network integration solutions and electronic presentation systems. We provide a number of office technology solutions, including the following: </FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Automated</B></FONT></P> <P
+STYLE="margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Office Equipment</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Network</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Integration Solutions</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Electronic</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Presentation Systems</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Digital black and white copiers</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Multi-function products (MFPs)</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Color copiers, including business color copiers</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Duplicators</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT
+FACE="Times New Roman" SIZE="2">Facsimile machines</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Printers</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Related supply and service contracts</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Print management</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px; margin-left:1.00em; text-indent:-1.00em"><FONT
+FACE="Times New Roman" SIZE="2">Training and support</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Network design</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman"
+SIZE="2">Network installation</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Network software and hardware</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Technical support contracts</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT
+FACE="Times New Roman" SIZE="2">Network support contracts</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Internet services</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Wireless network systems</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT
+FACE="Times New Roman" SIZE="2">Training and support</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Enterprise storage solutions</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Document management systems</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT
+FACE="Times New Roman" SIZE="2">IP communications</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Security solutions</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Data and video projectors</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Interactive whiteboards</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT
+FACE="Times New Roman" SIZE="2">Video conferencing systems</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Audio/visual equipment</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Related supply and service contracts</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Training and support</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px; margin-left:1.00em; text-indent:-1.00em"><FONT
+FACE="Times New Roman" SIZE="2">Control systems</FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">We believe effective and responsive service is essential in obtaining repeat business and in
+developing new business. We also believe that superior service is the foundation for our profitability and strong recurring revenue streams. To ensure that we provide our customers with excellent service, we employed approximately 1,875 people in
+service positions as of March&nbsp;31, 2006. Our service offerings include network design and installation, on-site maintenance and repair visits, technical assistance by telephone and the Internet and training of our customers&#146; employees.
+</FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Inventory and Distribution </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">We employ
+varying methods of distribution to deliver products to customers after an order is placed. Orders placed for automated office equipment and electronic presentation systems are generally filled with equipment from our inventory. Orders placed for
+network integration solutions products, which we typically do not hold in inventory, are generally filled by direct drop-shipments from manufacturers. However, we coordinate delivery and installation of these products through our core and satellite
+businesses. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Customers </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Most of our
+customers are middle-market businesses. We are not dependent on a few large customers. Approximately 185,000 customers purchased goods or services from us during the fiscal year ended March&nbsp;31, 2006. Our largest customers account for a low
+percentage of our revenues. During the fiscal year ended March&nbsp;31, 2006, our top five customers collectively accounted for less than 5% of our total revenues and no single customer accounted for more than 2% of our total revenues. In addition,
+our customer base spans virtually every industry from manufacturing, distribution, financial services, healthcare and retail to educational institutions, local and state governments and not-for-profit organizations. </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Sales and Marketing </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Our local management teams
+understand their specific markets and customer relationships. We direct our core and satellite business managers to make local marketing decisions, including product offering mix and developing promotional programs and advertising. As of
+March&nbsp;31, 2006, we employed approximately 1,520 people in sales and marketing functions. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">6 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Our Vendors </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">The following table lists the products we sell and their manufacturers in each of the markets we serve: </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="24%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="75%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><U>Automated Office Equipment</U></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Copiers and MFPs:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Canon, Kip, Konica Minolta, Muratec, Panasonic, Sharp, Toshiba, the Ricoh family of products: Ricoh, Savin, Gestetner and Lanier</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Facsimile machines:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Canon, Muratec, Panasonic, Ricoh and its family of products, Sharp, Toshiba</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Duplicators:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Ricoh and its family of products, Riso, Standard</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Printers:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Hewlett-Packard, Konica Minolta, Kyocera Mita, Lexmark, Ricoh and its family of products</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><U>Network Integration Solutions</U></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Personal and laptop computers, servers, communication equipment, firewalls and wireless networks:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">3Com, ADIC, Adobe, APC, Aprisma, AST Research, Axent Technology, Brocade, Cisco Systems, Commvault, Dell, DoubleTake, EMC, Enterasys Networks, Fortinet, Gateway, Hewlett-Packard, IBM, Intel,
+ISS, KVS, Lefthand Networks, McData, NEC America, Network Associates, Oracle, Quantum, Radware, RSA, Servgate, Shoretel, SofTek, SpectraLogic, Sun/Storagetek, Sun Microsystems, Symantec, Toshiba, VMWare, Xircom</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Networking software:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Citrix, E Presence, Microsoft, Novell, OpenView, RedHat, SUSE, Veritas Software</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><U>Electronic Presentation Systems</U></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Large screen display devices:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Casio, Epson America, Hitachi, InFocus, Mitsubishi, NEC Technologies, Sanyo, Sharp, Sony, Toshiba</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Video conferencing hardware and software:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Polycom, Tandberg, Starbak Communications, V-Brick</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Interactive whiteboards:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Numonics, SMART Technologies</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Control systems:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">AMX, Crestron, Extron</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Our agreements with vendors permit us to sell particular products on a nonexclusive basis in
+specific geographic areas. In most cases, our agreements extend for one-year renewable terms that we or the vendor can choose not to renew with 30-days notice. In addition, our vendors can terminate our agreements upon notice if we do not meet
+minimum purchase quotas or other requirements or under other conditions, including a change in our ownership. We receive incentives from some of our vendors related to volume rebates, cooperative advertising allowances, discounts for early payment
+and other arrangements. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Lease Financing and Rentals </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">In our fiscal year ended March&nbsp;31, 2006, over 86% of our automated office equipment sales were financed for our customers by third-party leasing companies, such as GE. For fiscal year 2006, the GE program
+accounted for the majority of our automated office equipment lease financing. The advantages of this program include better lease rates and terms than are generally available to individual copier dealers and more control over leased equipment under
+already negotiated terms at the end of the lease term. We entered into an amended and restated agreement on January&nbsp;21, 2004 with GE with a term of three and one half years expiring on June&nbsp;30, 2007. Our prior agreement with GE had an
+initial term of five years, which commenced on October&nbsp;1, 1999 and continued through June&nbsp;30, 2004. All leases that are entered into during the term of the agreement will continue in effect after the termination of the agreement. GE may
+terminate the agreement upon 90-days written notice under certain circumstances, including if we fail to meet our annual minimum volume commitment or if there is a material deterioration in the performance of the lease portfolio. Under the terms of
+the agreement, we are required to provide GE with the first </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">7 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">opportunity to offer lease financing to 90% of our leasing customers. While our lease financing programs are used
+primarily by our customers who look to acquire automated office equipment, lease financing is available for the acquisition of most of the office technology solutions we offer. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">In some cases, our automated office equipment dealers also rent equipment. Rental arrangements provide us with a steady monthly revenue stream and give
+us control over disposition of the equipment at the end of the rental term. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Competition </B></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">We operate in highly competitive markets, which force us to compete aggressively for customers. Our competitors in the automated office equipment market
+who sell to the middle-market include large, independent dealers, IKON Office Solutions and to a lesser extent, Xerox, Danka and Oce/Imagistics. Our competition also includes manufacturers&#146; sales and service divisions, including those of Canon,
+Konica Minolta and Xerox and office superstores and consumer electronics chains. The principal areas of competition in this market include price and product capabilities, quality and speed of post-sales service support, availability of equipment,
+parts and supplies, speed of delivery and availability and terms of financing, leasing or rental programs. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">In the network integration
+solutions market we compete with information technology direct marketers in the distribution of computer and network equipment, including CDW, Insight and PC Connection; direct sellers such as Dell and Gateway; the sales and service divisions of
+companies such as Hewlett-Packard and independent value-added resellers. Generally, information technology direct marketers are marketers of multi-brand computers and related technology products in the office technology solutions industry. Their
+business customers, like ours, are concentrated in the middle-market and they access these customers by phone, fax and the Internet. In the delivery of services accompanying these products, we compete with smaller companies with regional or local
+operations and the in-house capabilities of our customers. The principal areas of competition in the network integration market include reputation, quality, speed of support and price. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Our competitors in the electronic presentation systems market include information technology direct marketers and local distributors, manufacturers&#146;
+sales and service divisions, office superstores and consumer electronics chains. The principal areas of competition in this market include price and product capabilities, quality and speed of post-sales service support, availability of equipment,
+parts and supplies, speed of delivery and availability and terms of financing, leasing or rental programs. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Competition from large,
+nationwide competitors is likely to increase as we seek to attract additional customers and expand our markets geographically. Competition from large, nationwide competitors will also increase if our industry continues to consolidate. Finally, as
+new technologies develop, we may face competition from new distribution channels, including computer distributors and value-added resellers, for products containing new technology. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>Employees and Training </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">As of March&nbsp;31, 2006, we employed approximately 4,230 people, only 50 of
+whom worked at our corporate headquarters in Tampa, Florida. Approximately 1,520 employees work in sales and marketing, 1,875 in service and 835 in operations and administration. None of our employees are covered by collective bargaining agreements.
+We believe we have good relations with our employees. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">We offer training to our employees at all levels of the Company. We provide our
+sales and service employees extensive, ongoing training. Each core company has at least one technical trainer who conducts training on new products and new technology developments for our sales and service personnel on a regular basis. These
+technical trainers are typically certified by our manufacturers, which makes our service technicians manufacturer-certified technicians. We also provide formalized product and general sales training to our sales and marketing personnel. Our training
+also extends to managers through our &#147;Global Leadership Institute.&#148; This program gives our middle and upper-level managers the opportunity to prepare to advance to higher leadership positions at our core companies and satellite businesses.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">8 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Information Technology Systems </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">Almost all of our companies use the same information system for managing financial reporting, collections, billing, service/service dispatch and cash accumulation information. Newly acquired core companies and
+satellite businesses are typically transitioned to this system generally within 90 days of acquisition. Maintaining a common information system along with our broadband connection enables us to monitor financial information, centralize back-office
+functions and communicate effectively throughout our entire organization, giving us a competitive advantage. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_3"></A>Item&nbsp;1A. Risk Factors </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>We depend on our senior executives. </I></B></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Our success largely depends on the efforts and ability of our senior executive team. Our senior executive team developed and implemented our benchmarking
+model and has many years of experience in the office technology solutions industry and in the acquisition and integration of office technology solutions dealers. We do not carry key-person insurance on the life of any of our senior executives. The
+loss or interruption of the services of any one of our senior executives could disrupt operations, divert the attention of our other senior executives or otherwise could have an adverse effect on us. </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>We depend on the presidents of our core companies. </I></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">We depend on our core company presidents to operate our business and integrate acquired businesses profitably and timely. Our localized management structure depends on the ability of these core company presidents to effectively and
+efficiently manage our businesses. Our core company presidents generally have extensive industry experience and long-standing relationships with the customers in the regions they serve. The loss of any of our core company presidents could result in
+the loss of these valuable relationships, disrupt operations, divert the attention of our senior executives and adversely impact our revenues. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>Our
+markets are highly competitive. </I></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">We operate in highly competitive markets, which force us to compete aggressively for customers.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Our competitors in the automated office equipment market who sell to the middle-market include large, independent dealers, IKON Office
+Solutions, and to a lesser extent, Xerox, Danka and Oce/Imagistics. Our competition also includes manufacturers&#146; sales and service divisions, office superstores and consumer electronics chains. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">In the network integration solutions market we compete in the distribution of computer and network equipment with information technology direct
+marketers, including CDW, Insight and PC Connection; direct sellers such as Dell and Gateway; the sales and service divisions of companies such as Hewlett-Packard; and independent value-added resellers. Generally, information technology direct
+marketers are marketers of multi-brand computers and related technology products in the office technology solutions industry. Their business customers, like ours, are concentrated in the middle-market, and they access these customers through phone,
+fax and the Internet. In the delivery of services accompanying these products, we compete with smaller companies with regional or local operations, and the in-house capabilities of our customers. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Our competitors in the electronic presentation systems market include information technology direct marketers and local distributors, manufacturers&#146;
+sales and service divisions, office superstores and consumer electronics chains. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Some competitors have greater financial and personnel
+resources than we do. As a result, these competitors may have greater pricing flexibility, offer customers more locations and be able to devote more personnel to markets in which we compete. Competition from large, national competitors is likely to
+increase as we seek to attract additional customers and expand our markets geographically. Competition from large, national competitors will also increase if our industry continues to consolidate. As competition in our industry grows, there can be
+no assurance that we will have sufficient resources to compete effectively. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">9 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>Our indebtedness results in significant debt service obligations and limitations. </I></B></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">We have significant debt service obligations. Substantially all of our real and personal property used in our business operations secures our obligations
+under our credit facilities. Our indebtedness may pose important consequences to investors, including the risks that: </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="7%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">we will use a substantial portion of our cash flow from operations to pay principal and interest on our debt, thereby reducing the funds available for acquisitions, working capital,
+capital expenditures and other general corporate purposes; </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="7%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">increases in our borrowings under our credit facilities may make it more difficult to satisfy our debt obligations; </FONT></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="7%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">some of our borrowings under our credit facilities may bear interest at variable rates, which could create higher debt service requirements if market interest rates increase;
+</FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="7%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">our degree of leverage may limit our ability to withstand competitive pressure and could reduce our flexibility in responding to changes in business and economic conditions; and
+</FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="7%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">our degree of leverage may hinder our ability to adjust rapidly to changing market conditions and could make us more vulnerable to downturns in the economy or in our industry.
+</FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">If we cannot generate sufficient cash flow from operations to meet our obligations, we may be forced to reduce or delay
+acquisitions and other capital expenditures, sell assets, restructure or refinance our debt, or seek additional equity capital. There can be no assurance that these remedies would be available or satisfactory. Our cash flow from operations will be
+affected by prevailing economic conditions and financial, business and other factors which may be beyond our control. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>Our business depends on our
+vendor relationships and the availability of products. </I></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The majority of our revenues come from the sale of office technology
+solutions equipment and from service and supply contracts for this equipment. As a result, our success depends on our access to reliable sources of equipment, parts and supplies at competitive prices. During the fiscal year ended March&nbsp;31,
+2006, we purchased approximately 20%, 19% and 11% of our equipment, parts and supplies from Ricoh and its family of products, Konica Minolta and Sharp, respectively. In addition, we also receive incentives from these and other key vendors related to
+volume rebates, cooperative advertising allowances and other programs and agreements. There is no guarantee that Ricoh and its family of products, Konica Minolta, Sharp, or any of our other vendors will continue to sell their products to us, or that
+they will do so at competitive prices. There is also no assurance that they will continue to offer us the vendor incentive programs we have received historically. Finally, other factors, including reduced access to capital resulting from economic
+conditions, may impair our vendors&#146; ability to provide products in a timely manner or at competitive prices. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>Technological developments will
+affect our business. </I></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">We must continue to respond to the rapidly changing environment in the office technology solutions industry.
+Our business would be adversely affected if we or our suppliers fail to anticipate which products or technologies will gain market acceptance or if we cannot sell these products at competitive prices. We cannot be certain that manufacturers of
+popular products will permit us to market their newly developed equipment. In addition, new products containing new technology may be sold through other channels of distribution. Technological advancements may result in lower per unit costs, which
+in turn may reduce our revenues. Similarly, reliability improvements may reduce our service revenues. Lastly, because we incur increased expenses to train our sales and service personnel on any new technologies, our operating margins may be
+negatively affected. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">10 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>Our quarterly operating results may fluctuate due to the substantial amount of goodwill we carry as a result of our
+acquisition activity. </I></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">As a result of our acquisition activity, we have recorded a substantial amount of goodwill on our
+consolidated balance sheet. Effective April&nbsp;1, 2001, we adopted Statement of Financial Accounting Standards No.&nbsp;142, <I>Goodwill and Other Intangible Assets</I>. SFAS No.&nbsp;142 requires, among other things, that companies no longer
+amortize goodwill, but instead test goodwill for impairment on a periodic basis. Impairment of goodwill could occur if the &#147;carrying amount&#148; (as that term is used in SFAS No.&nbsp;142) of any of our core companies exceeds its fair value,
+determined in accordance with SFAS No.&nbsp;142. Such an event could result from a large number of factors, many of which are not in our control. Any goodwill impairments identified would be treated as a noncash operating charge for the period
+during which the impairment is identified and would adversely affect our quarterly operating results. Quarterly fluctuations in our results of operations may lead to volatility in the market price of our common stock and, in future quarters, our
+results of operations could be below the expectations of the public market. If our results of operations are below the expectations of the public market, the market price of our common stock could be materially adversely affected. </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>Difficulties in integrating businesses we acquire into our operations may demand time and attention from our senior management. </I></B></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Integrating businesses we acquire may involve unanticipated delays, costs and/or other operational and financial problems. Successful integration of the
+businesses we acquire depends on a number of factors, including our ability to transition acquired businesses to our management information systems and the ability of our core companies to integrate acquired satellite businesses into their
+operations. In integrating businesses we acquire, we may not achieve expected economies of scale or profitability or realize sufficient revenues to justify our investment. For example, if we are unable to increase the sales force productivity at
+businesses we acquire as quickly as we expect, our operating results may not justify our investment in such businesses. If we encounter unexpected problems at one of the companies we acquire as we try to integrate it into our business, our senior
+management may be required to expend significant time and attention to address the problems, which would divert their time and attention from other aspects of our business. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B><I>We depend on our primary lease financing partner. </I></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">In our fiscal year ended March&nbsp;31,
+2006, over 86% of our automated office equipment sales were financed for our customers by third-party leasing companies, such as GE. For fiscal year 2006, the GE program accounted for the majority of all of our automated office equipment lease
+financing arrangements. These lease financing arrangements permit our customers to lease equipment without having to purchase the equipment with cash. This, in turn, generates sales and service revenue for us. Our amended and restated agreement
+entered into on January&nbsp;21, 2004 with GE has a term of three and one half years, and there is no assurance that GE will renew the agreement on terms as favorable to us as those contained in our current agreement, or at all. If GE terminates or
+fails to renew our financing arrangements, we would need alternative sources of financing for our customers. There is no guarantee we could find an alternative source of financing for our customers. Our inability to provide such financing would
+likely adversely impact our business. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>We are subject to government regulation</I></B><I>. </I></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">We are subject to various federal, state and local laws affecting our business. Adverse changes in these laws could result in increased costs and
+adversely affect our financial results. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>Our certificate of incorporation, bylaws and debt covenants may delay or prevent a takeover of us.
+</I></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Our certificate of incorporation and bylaws, as well as Delaware corporate law, contain provisions that could delay, defer or
+prevent a change in control. These provisions could limit the price that investors might be willing to pay for our common stock. Our certificate of incorporation allows us to issue, without stockholder approval, preferred stock that has rights
+senior to our common stock. Other provisions, including those under Delaware corporate law, impose various procedural and other requirements that could make it difficult for stockholders to effect certain corporate actions. In addition, some of our
+debt covenants may delay, defer or prevent a change in control. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">11 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>You should not place undue reliance on forward-looking statements made by us. </I></B></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">We have made forward-looking statements in this Form&nbsp;10-K, in particular under the caption entitled &#147;Management&#146;s Discussion and Analysis
+of Financial Condition and Results of Operations&#148;. You can find many of these forward-looking statements by looking for words such as &#147;intend,&#148; &#147;anticipate,&#148; &#147;believe,&#148; &#147;may,&#148; &#147;will,&#148;
+&#147;continue,&#148; &#147;project,&#148; &#147;estimate,&#148; &#147;expect,&#148; &#147;plan&#148; or similar expressions in this Form&nbsp;10-K. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">In particular, forward-looking statements include, among others, statements about the following: </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Our business strategy; </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Our acquisition strategy; </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Our expected financial position and operating results; </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">The projected size of our markets; and </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Our financing plans. </FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">These forward-looking statements
+are subject to numerous assumptions, risks and uncertainties. Factors that may cause actual results to differ materially from those contemplated by the forward-looking statements include, among others, those listed in this section entitled
+&#147;Risk Factors&#148; and the following: </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">General economic and business conditions, both nationally and in our markets; </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Acts of war or terrorism or other geopolitical events; </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Adverse changes in international markets effecting the ability of our vendors to supply us with equipment; </FONT></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Adverse changes in interest rates or the performance of the financial markets; </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Lack of appropriate acquisition opportunities; </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Adverse changes in laws and regulations effecting our business; and </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Adverse changes in the trends in our business. </FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The
+foregoing list is not exhaustive and should be read in conjunction with other cautionary statements in this Form&nbsp;10-K. All forward-looking statements attributable to us, or to persons acting on our behalf, are expressly qualified in their
+entirety by this cautionary statement. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Forward-looking statements are not guarantees of performance and the forward-looking events and
+circumstances discussed in this Form 10-K may not happen. You are cautioned not to place undue reliance on any of these forward-looking statements, which speak only as of the date made. We undertake no obligation to publicly update or revise any
+forward-looking statement whether as a result of new information, future events, or otherwise. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_4"></A>Item&nbsp;1B. Unresolved Staff Comments </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">None. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_5"></A>Item&nbsp;2. Properties </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">None of the individual physical properties we use are material to our business.
+</FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_6"></A>Item&nbsp;3. Legal Proceedings </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Currently, Global is not involved in any material legal proceedings.
+</FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_7"></A>Item&nbsp;4. Submission of Matters to a Vote of Security Holders </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">No matters were submitted to a vote of
+Global&#146;s stockholders during the three months ended March&nbsp;31, 2006. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">12 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_8"></A>PART II </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_9"></A>Item&nbsp;5. Market for Registrant&#146;s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">On May&nbsp;16, 2003, we sold Wachovia Securities, Inc., Raymond James&nbsp;&amp; Associates, Inc., SunTrust Capital Markets, Inc. and Robert W. Baird&nbsp;&amp; Co. Incorporated (collectively, the &#147;Initial
+Purchasers&#148;) $57.5 million aggregate principal amount of our 4% convertible senior subordinated notes due 2008.&nbsp;The notes are convertible into shares of our common stock at a conversion price of $23.892 per share.&nbsp;This is the
+equivalent to a conversion rate of approximately 41.8550 shares per $1,000 principal amount of notes.&nbsp;The offer and sale of the units to the Initial Purchasers was exempt from registration pursuant to the exemption afforded by Section&nbsp;4(2)
+of the Securities Act of 1933. The Initial Purchasers, in turn, reoffered the units to qualified institutional buyers pursuant to the exemption from the registration requirements of the Securities Act afforded by Rule 144A thereunder. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The gross proceeds to us from the notes offering were $57.5 million, and the net proceeds to us, after paying the Initial Purchasers&#146; discount of
+approximately $2.0 million, were approximately $55.5 million. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The notes provide that the Company may redeem the notes at any time after
+May&nbsp;20, 2006. Based on favorable market conditions, the Company&#146;s Board of Directors, at a regular meeting of the Board held on May&nbsp;9, 2006, authorized the Company to redeem the notes. Subsequently, the Company provided a Notice of
+Redemption to the note holders announcing the Company&#146;s intention to redeem the notes on June&nbsp;9, 2006 at a redemption price of 101.6% of the principal amount of the notes, plus accrued and unpaid interest up to, but not including, the
+redemption date. Additionally, the note holders were provided with instructions on how to exercise their right to convert the notes into shares of the Company&#146;s common stock at a conversion price of $23.892 per share which is equivalent to a
+conversion rate of approximately 41.8550 shares per $1,000 principal amount of notes. As of June 8, 2006, all of the notes have been converted to common stock of the Company. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>Issuer Purchases of Equity Securities </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">No purchases were made during the three months ended
+March&nbsp;31, 2006. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The other information required by this item is set forth in Note 17 of the Notes to Consolidated Financial Statements
+appearing in our 2006 Annual Report to Stockholders and is incorporated herein by reference. Portions of our 2006 Annual Report to Stockholders that are incorporated into this Form 10-K are filed as Exhibit 13.1 to this Form 10-K. </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_10"></A>Item&nbsp;6. Selected Financial Data </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The presentation of selected financial data as of and for the five years
+ended March&nbsp;31, 2006 is included in the &#147;Selected Financial Data&#148; section appearing in our 2006 Annual Report to Stockholders, and is incorporated by reference into this Form 10-K. </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_11"></A>Item&nbsp;7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The
+information required by this item is set forth in the &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations&#148; section appearing in our 2006 Annual Report to Stockholders, and is incorporated by
+reference into this Form 10-K. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_12"></A>Item&nbsp;7A. Quantitative and Qualitative Disclosures about Market Risk </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The information required by this
+item is set forth in the &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations&#148; section appearing in our 2006 Annual Report to Stockholders, and is incorporated by reference into this Form 10-K.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">13 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_13"></A>Item&nbsp;8. Financial Statements and Supplementary Data </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The financial statements and supplementary financial
+information required by this item are set forth in our 2006 Annual Report to Stockholders and are incorporated by reference into this Form 10-K. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_14"></A>Item&nbsp;9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">None.
+</FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_15"></A>Item&nbsp;9A. Controls and Procedures </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) <B>Evaluation of Disclosure Controls and Procedures.</B> Our Chief
+Executive Officer and Chief Financial Officer have evaluated the effectiveness of the Company&#146;s disclosure controls and procedures (as such term is defined in Rules 13a-15(e) under the Securities Exchange Act of 1934, as amended (the
+&#147;Exchange Act&#148;)) as of March&nbsp;31, 2006. Based on this evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that, as of March&nbsp;31, 2006, our disclosure controls and procedures are effective in bringing
+to their attention on a timely basis material information relating to the Company (including its consolidated subsidiaries) required to be included in the Company&#146;s periodic filings under the Exchange Act. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(b) <B>Management&#146;s Annual Report on Internal Control over Financial Reporting.</B> The Company&#146;s management is responsible for establishing
+and maintaining adequate internal control over financial reporting. Internal control over financial reporting as defined in Rules 13a-15(f) or 15d-15(f) under the Exchange Act. The Company&#146;s internal control over financial reporting is to
+provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles and includes those policies and procedures
+that: </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="7%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets of the Company;
+</FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="7%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles,
+and that receipts and expenditures of the Company are being made only in accordance with authorizations of management and directors of the Company; and </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="7%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company&#146;s assets that could have a material effect
+on the financial statements. </FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">The Company&#146;s management assessed the effectiveness of the Company&#146;s internal control
+over financial reporting as of March&nbsp;31, 2006. In making this assessment, the Company&#146;s management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control-Integrated
+Framework. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">Based on our assessment and those criteria, management believes that, as of March&nbsp;31, 2006, the Company&#146;s internal
+control over financial reporting is effective. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">The audited consolidated financial statements of the Company include the results of
+Scottsboro Business Equipment, Inc., acquired on May&nbsp;12, 2005; Image Technology Specialists, Inc., acquired on September&nbsp;28, 2005; Xerographic Solutions, Inc., acquired on November&nbsp;15, 2005; Copier Sales Consultants, Inc., acquired on
+December&nbsp;29, 2005; Servco Business Products, Inc., acquired on March&nbsp;10, 2006; and Imaging Concepts of New Mexico, Inc, acquired on March&nbsp;28, 2006, (collectively, the &#147;Acquisitions&#148;.) As permitted by the SEC&#146;s
+June&nbsp;23, 2004 implementation guidance to issuers relating to the SEC&#146;s final rules on internal control over financial reporting, management&#146;s assessment does not include an assessment of the internal control over financial reporting
+of the Acquisitions. None of these acquisitions is significant. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">The Company&#146;s independent registered public accountants have issued
+an audit report on our assessment of the Company&#146;s internal control over financial reporting. This report appears below. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">14 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Report of Independent Registered Certified Public Accounting Firm </B></FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2">The Board of Directors and Shareholders </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT
+FACE="Times New Roman" SIZE="2">Global Imaging Systems, Inc. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">We have audited management&#146;s assessment, included in the accompanying Management&#146;s
+Annual Report on Internal Control over Financial Reporting, that Global Imaging Systems, Inc. maintained effective internal control over financial reporting as of March&nbsp;31, 2006, based on criteria established in Internal Control&#151;Integrated
+Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (the COSO criteria). Global Imaging Systems, Inc.&#146;s management is responsible for maintaining effective internal control over financial reporting and for
+its assessment of the effectiveness of internal control over financial reporting. Our responsibility is to express an opinion on management&#146;s assessment and an opinion on the effectiveness of the company&#146;s internal control over financial
+reporting based on our audit. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">We conducted our audit in accordance with the standards of the Public Company Accounting Oversight Board (United States).
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of
+internal control over financial reporting, evaluating management&#146;s assessment, testing and evaluating the design and operating effectiveness of internal control, and performing such other procedures as we considered necessary in the
+circumstances. We believe that our audit provides a reasonable basis for our opinion. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">A company&#146;s internal control over financial reporting is a
+process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company&#146;s
+internal control over financial reporting includes those policies and procedures that (1)&nbsp;pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the
+company; (2)&nbsp;provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company
+are being made only in accordance with authorizations of management and directors of the company; and (3)&nbsp;provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the
+company&#146;s assets that could have a material effect on the financial statements. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Because of its inherent limitations, internal control over financial
+reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance
+with the policies or procedures may deteriorate. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">As described in Management&#146;s Annual Report on Internal Control over Financial Reporting, the audited
+consolidated financial statements of the Company include the results of Scottsboro Business Equipment, Inc., acquired on May&nbsp;12, 2005; Image Technology Specialists, Inc., acquired on September&nbsp;28, 2005; Xerographic Solutions, Inc.,
+acquired on November&nbsp;15, 2005; Copier Sales Consultants, Inc., acquired on December&nbsp;29, 2005; Servco Business Products, Inc., acquired on March&nbsp;10, 2006; and Imaging Concepts of New Mexico, Inc, acquired on March&nbsp;28, 2006,
+(collectively, the &#147;Acquisitions&#148;.) As permitted by the SEC&#146;s June&nbsp;23, 2004 implementation guidance to issuers relating to the SEC&#146;s final rules on internal control over financial reporting, management&#146;s assessment does
+not include an assessment of the internal control over financial reporting of the Acquisitions. None of these acquisitions is significant. Our audit of internal control over financial reporting of the Company also did not include an evaluation of
+the internal control over financial reporting of the Acquisitions. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">In our opinion, management&#146;s assessment that Global Imaging Systems, Inc.
+maintained effective internal control over financial reporting as of March&nbsp;31, 2006, is fairly stated, in all material respects, based on the COSO criteria. Also, in our opinion, Global Imaging Systems, Inc. maintained, in all material
+respects, effective internal control over financial reporting as of March&nbsp;31, 2006, based on the COSO criteria<B>.</B> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">15 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States),
+the consolidated balance sheets as of March&nbsp;31, 2006 and March&nbsp;31, 2005<B>, </B>and the related consolidated statements of income, stockholders&#146; equity and cash flows for each of the three fiscal years in the period ended
+March&nbsp;31, 2006 of Global Imaging Systems, Inc. and our report dated May&nbsp;24, 2006 expressed an unqualified opinion thereon. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:56%" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2">/s/ Ernst&nbsp;&amp; Young LLP </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2">Tampa, Florida </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2">May&nbsp;24, 2006 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">16 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(c) Changes in internal controls over financial reporting. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">None. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_16"></A>Item&nbsp;9B. Other Information. </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">None. </FONT></P> <P STYLE="margin-top:24px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_17"></A>PART III </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_18"></A>Item&nbsp;10. Directors and Executive Officers of the Registrant </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Information about our directors, nominees
+for director and executive officers and our Code of Conduct is contained in our Proxy Statement for the 2006 annual meeting of shareholders to be held on August&nbsp;7, 2006 (&#147;Proxy Statement&#148;). This information is incorporated by
+reference. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Information regarding compliance with Section&nbsp;16(a) of the Securities and Exchange Act of 1934 is incorporated by
+reference from the section entitled &#147;Section 16(a) Beneficial Ownership Reporting Compliance&#148; of our Proxy Statement. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">Information regarding audit committee financial experts is incorporated by reference from the section entitled &#147;Audit Committee&#148; of our Proxy Statement. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_19"></A>Item&nbsp;11. Executive Compensation </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Information about compensation of our executive officers for the year
+ended March&nbsp;31, 2006 is contained in our Proxy Statement under the caption &#147;Executive Compensation.&#148; This information is incorporated by reference. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>
+<A NAME="toc25336_20"></A>Item&nbsp;12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">Information about the security ownership of certain beneficial owners and our management is contained in our Proxy Statement under the caption &#147;Voting Securities and the Principal Holders Thereof.&#148; This information is incorporated
+by reference. Information about our equity compensation plans is contained in our Proxy Statement under the caption &#147;Equity Compensation Plan Information.&#148; This information is incorporated by reference. </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_21"></A>Item&nbsp;13. Certain Relationships and Related Transactions </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Information about certain relationships and
+transactions is contained in our Proxy Statement under the caption &#147;Certain Relationships and Transactions.&#148; This information is incorporated by reference. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_22"></A>Item&nbsp;14. Principal Accounting Fees and Services </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Information about our independent registered certified
+public accounting firm is contained in our Proxy Statement under the caption &#147;Independent Registered Public Accounting Firm.&#148; This information is incorporated by reference. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">17 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_23"></A>PART IV </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_24"></A>Item&nbsp;15. Exhibits and Financial Statement Schedules </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) </FONT></P> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Financial Statements </FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The consolidated
+financial statements as of March&nbsp;31, 2006 and 2005 and for each of the three years in the period ended March&nbsp;31, 2006, together with the report thereon of Ernst&nbsp;&amp; Young LLP dated May&nbsp;24, 2006 appearing in our 2006 Annual
+Report to Stockholders are incorporated by reference into Part II, Item&nbsp;8 of this Form 10-K. With the exception of the information incorporated by reference in Part II, Items 5, 6, 7, 7A and 8 of this Form 10-K, our 2006 Annual Report to
+Stockholders is not to be deemed filed as part of this report. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT FACE="Times New Roman" SIZE="2">Consolidated Balance Sheets as of March&nbsp;31, 2006 and 2005 </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT FACE="Times New Roman" SIZE="2">Consolidated Statements of Income for the years ended March&nbsp;31, 2006, 2005 and 2004 </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT FACE="Times New Roman" SIZE="2">Consolidated Statements of Cash Flows for the years ended March&nbsp;31, 2006, 2005 and 2004 </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT FACE="Times New Roman" SIZE="2">Consolidated Statements of Stockholders&#146; Equity and Comprehensive Income for the years ended March&nbsp;31, 2006, 2005 and 2004 </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT FACE="Times New Roman" SIZE="2">Notes to Consolidated Financial Statements </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT FACE="Times New Roman"
+SIZE="2">Report of Independent Registered Certified Public Accounting Firm </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">2.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Financial Statement Schedules Required by Item&nbsp;8 </FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT FACE="Times New Roman"
+SIZE="2">Included in this annual report is the following additional financial data, which should be read in conjunction with the consolidated financial statements in Global&#146;s 2006 Annual Report to Stockholders: </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT FACE="Times New Roman" SIZE="2">Report of Independent Registered Certified Public Accounting Firm </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT
+FACE="Times New Roman" SIZE="2">Schedule II&#151;Valuation and Qualifying Accounts for each of the three years in the period ended March&nbsp;31, 2006 </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT
+FACE="Times New Roman" SIZE="2">Supplemental schedules not included with the additional financial data have been omitted because they are not applicable or the required information is shown in the financial statements or notes thereto. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">3.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Exhibits </FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT FACE="Times New Roman" SIZE="2">The Exhibit Index filed herewith is incorporated
+herein by reference. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">18 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc25336_25"></A>SIGNATURES </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934,
+Global Imaging Systems, Inc. has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">Global Imaging Systems, Inc.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-bottom:1px;border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Thomas S. Johnson</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Thomas S. Johnson</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2"><I>Chairman and Chief Executive
+Officer</I></FONT></P></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2">Date: June&nbsp;9, 2006 </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+registrant and in the capacities indicated as of June&nbsp;9, 2006. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="45%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Name</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Title</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">/s/ Thomas S. Johnson</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px; margin-left:1.00em; text-indent:-1.00em"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Thomas S. Johnson</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Chairman and Chief Executive Officer<BR>(Principal Executive Officer), Director</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">/s/ Raymond Schilling</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px; margin-left:1.00em; text-indent:-1.00em"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Raymond Schilling</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Executive Vice President and Chief Financial</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Officer (Principal Financial and Accounting</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:1px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Officer); Director</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">/s/ Michael E. Shea, Jr.</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:1px; margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Michael E. Shea, Jr.</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">President and Chief Operating Officer, Director</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">/s/ Mark A. Harris</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px; margin-left:1.00em; text-indent:-1.00em"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Mark A. Harris</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Director</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">/s/ Daniel T. Hendrix</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px; margin-left:1.00em; text-indent:-1.00em"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Daniel T. Hendrix</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Director</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">/s/ R. Eric McCarthey</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px; margin-left:1.00em; text-indent:-1.00em"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>R. Eric McCarthey</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Director</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">/s/ Edward N. Patrone</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px; margin-left:1.00em; text-indent:-1.00em"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Edward N. Patrone</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Director</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">/s/ M. Lazane Smith</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px; margin-left:1.00em; text-indent:-1.00em"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>M. Lazane Smith</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Director</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">/s/ Edward J. Smith</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px; margin-left:1.00em; text-indent:-1.00em"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Edward J. Smith</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Director</FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">19 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>REPORT OF INDEPENDENT REGISTERED CERTIFIED PUBLIC ACCOUNTING FIRM </B></FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2">The Board of Directors and Shareholders </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT
+FACE="Times New Roman" SIZE="2">Global Imaging Systems, Inc. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">We have audited the consolidated financial statements of Global Imaging Systems, Inc. as of
+March&nbsp;31, 2006 and 2005, and for each of the three years in the period ended March&nbsp;31, 2006, and have issued our report thereon dated May&nbsp;24, 2006 (except for the second paragraph of Note 18 as to which the date is June 8, 2006). Our
+audits also included the financial statement schedule listed in Item&nbsp;15(a)(2) of this Annual Report on Form 10-K. This schedule is the responsibility of the Company&#146;s management. Our responsibility is to express an opinion based on our
+audits. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">In our opinion, the financial statement schedule referred to above, when considered in relation to the basic financial statements taken as a
+whole, presents fairly in all material respects the information set forth therein. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:56%" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">/s/ Ernst&nbsp;&amp; Young LLP
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2">Tampa, Florida </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT
+FACE="Times New Roman" SIZE="2">May&nbsp;24, 2006 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">20 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">GLOBAL IMAGING SYSTEMS, INC. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2">SCHEDULE II-VALUATION AND QUALIFYING ACCOUNTS </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Allowance for doubtful accounts: </FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="56%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ROWSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Balance at<BR>the<BR>Beginning of<BR>the
+period</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="5" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Additions</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ROWSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Deductions&nbsp;(2)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ROWSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Balance at<BR>the End of<BR>the
+period</B></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" NOWRAP ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Charged to<BR>Costs and<BR>Expenses</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" NOWRAP ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Charged to<BR>Other<BR>Accounts (1)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Year Ended:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">March 31, 2004</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2,670,911</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,143,329</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">233,000</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,199,895</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2,847,345</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">March 31, 2005</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2,847,345</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">632,843</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2,075,869</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2,481,971</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">3,074,086</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">March 31, 2006</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">3,074,086</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,644,121</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">44,031</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,820,230</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2,942,008</FONT></TD></TR>
+</TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2">Reserve for
+excess and slow-moving inventory: </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="56%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="2" VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="5" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Additions</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="2" VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="2" VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" NOWRAP ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Balance at<BR>the<BR>Beginning of<BR>the period</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" NOWRAP ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Charged to<BR>Costs and<BR>Expenses</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" NOWRAP ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Charged to<BR>Other<BR>Accounts (1)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" NOWRAP ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Deductions&nbsp;(3)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" NOWRAP ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Balance at<BR>the End of<BR>the period</B></FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Year Ended:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">March 31, 2004</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">4,708,453</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2,885,906</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">198,000</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">3,578,881</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">4,213,478</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">March 31, 2005</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">4,213,478</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2,333,204</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">4,669,134</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">5,759,386</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">5,456,430</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">March 31, 2006</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">5,456,430</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2,308,234</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">807,654</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">3,466,018</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">5,106,300</FONT></TD></TR>
+</TABLE><HR WIDTH="8%" SIZE="1" NOSHADE COLOR="#000000" ALIGN="left">
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">(1)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">These amounts primarily represent reserve balances acquired in connection with business combinations. </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">(2)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Represents accounts written off during the year net of recoveries. </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">(3)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Represents the write-down of inventory to the lower of cost or market. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">21 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>INDEX TO EXHIBITS </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="95%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">3.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Amended and Restated Certificate of Incorporation of Global Imaging Systems, Inc. (Incorporated by reference to Global&#146;s Registration Statement on Form S-1, No. 333-48103, as filed with the
+SEC on May 8, 1998)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">3.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Amended and Restated Bylaws of Global Imaging Systems, Inc. (Incorporated by reference to Global&#146;s Registration Statement on Form S-1, No. 333-48103, as filed with the SEC on May 8,
+1998)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">3.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Amendment to Amended and Restated Bylaws of Global Imaging Systems, Inc. (Incorporated by reference to Global&#146;s Registration Statement on Form S-3/A No. 333-107948, as filed with the SEC on
+October 7, 2003)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">3.4</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Certificate of Amendment of Amended and Restated Certificate of Incorporation of Global Imaging Systems, Inc. (Incorporated by reference to Global&#146;s Proxy Statement on DEF 14A, as filed
+with the SEC on July 19, 2004)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">4.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Specimen common stock certificate. (Incorporated by reference to Global&#146;s Registration Statement on Form S-1, No. 333-48103, as filed with the SEC on May 8, 1998)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">4.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Indenture dated as of May 16, 2003 between Global, the subsidiary guarantors and the Bank of New York, as Trustee, relating to the 4% Convertible Senior Subordinated Notes due 2008.
+(Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended March 31, 2003)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">4.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Form of Global Note. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended March 31, 2003)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">4.4</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Form of Certificated Note. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended March 31, 2003)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">4.5</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Second Amended and Restated Credit Agreement, dated as of June 25, 2003, by and among Global and certain of its subsidiaries, as Borrowers, the Lenders referred to therein and Wachovia Bank,
+National Association, as Administrative Agent, General Electric Capital Corporation, as Syndication Agent, and SunTrust Bank, as Documentation Agent. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended March
+31, 2003)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">4.6</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Amended and Restated Security Agreement, dated as of June 25, 2003, by and among Global and certain of its subsidiaries, as Grantors, and Wachovia Bank, National Association, as Administrative
+Agent, for the benefit of itself and the Lenders referred to therein. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended March 31, 2003)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">4.7</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Amended and Restated Pledge Agreement, dated as of June 25, 2003, by and among Global and certain of its subsidiaries, as Pledgors, and Wachovia Bank, National Association, as Administrative
+Agent, for the benefit of itself and the Lenders referred to therein. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended March 31, 2003)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">4.8</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">First Amendment to Second Amended and Restated Credit Agreement, dated as of December 10, 2003. (Incorporated by reference to Global&#146;s Quarterly Report on Form 10-Q for the period ended
+December 31, 2003)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">4.9</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Second Amendment to Credit Agreement, dated as of May 10, 2004, by and among Global and certain of its subsidiaries, as Borrowers, the Lenders referred to therein and Wachovia Bank, National
+Association, as Administrative Agent, General Electric Capital Corporation, as Syndication Agent, and SunTrust Bank, as Documentation Agent. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended March 31,
+2004)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">4.10</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Form of 4% Convertible Senior Subordinated Notes Due 2008. (Incorporated by reference to Global&#146;s Registration Statement on Form S-3/A, No. 333-107948, as filed with the SEC on October 7,
+2003)</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">22 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">4.11</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Stock Purchase Agreement, dated April&nbsp;5, 2004 by and among Global Imaging Systems, Inc., ITG Acquisition I Corporation, Imagine Technology Group, Inc. and Imagine Technology Group, LLC
+together with its members. (Incorporated by reference to Global&#146;s Current Report on Form 8-K filed on May&nbsp;13, 2004)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">4.12</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Third Amendment to Credit Agreement dated as of March 11, 2005. (Incorporated by reference to Global&#146;s Current Report on Form 8-K filed on March 17, 2005)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Form of Indemnification Agreement between Global and its directors and executive officers. (Incorporated by reference to Global&#146;s Registration Statement on Form S-1, No. 333-48103, as filed
+with the SEC on May 8, 1998)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Director Non-Incentive Stock Option Agreement. (Incorporated by reference to Global&#146;s Registration Statement on Form S-8, No. 333-80801, as filed with the SEC on June 16,
+1999)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Form of Non-Incentive Stock Option Agreement. (Incorporated by reference to Global&#146;s Registration Statement on Form S-8, No. 333-74786, as filed with the SEC on December 7,
+2001)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.4</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Amended and Restated 2001 Stock Option Plan. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K/A for the period ended March 31, 2002)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.5</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Thomas S. Johnson Restricted Stock Agreement dated June 27, 2002. (Incorporated by reference to Global&#146;s Quarterly Report on Form 10-Q for the period ended June 30, 2002)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.6</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Raymond Schilling Restricted Stock Agreement dated June 27, 2002. (Incorporated by reference to Global&#146;s Quarterly Report on Form 10-Q for the period ended June 30, 2002)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.7</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Peter W. Shoemaker Restricted Stock Agreement dated October 1, 2002. (Incorporated by reference to Global&#146;s Quarterly Report on Form 10-Q for the period ended December 31,
+2002)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.8</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Senior Executive Agreement, dated as of February 1, 2003, by and between Global and Todd S. Johnson. (Incorporated by reference to Global&#146;s Quarterly Report on Form 10-Q for the period
+ended June 30, 2003)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.9</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Senior Executive Agreement, dated as of February 1, 2003, by and between Global and Alfred N. Vieira. (Incorporated by reference to Global&#146;s Quarterly Report on Form 10-Q for the period
+ended June 30, 2003)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.10</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Registration Rights Agreement, dated May 16, 2003, by and among Global, the subsidiary guarantors, Wachovia Securities, Inc., Raymond James &amp; Associates, Inc., SunTrust Capital Markets, Inc.
+and Robert W. Baird &amp; Co. Incorporated. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended March 31, 2003)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.11</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Amended and Restated 1998 Stock Option and Incentive Plan. (Incorporated by reference to Global&#146;s Registration Statement on Form S-8, No. 333-109540, as filed with the SEC on October 7,
+2003)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.12</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Senior Executive Agreement, dated as of July 1, 2003, by and between Global and Teresa N. Dunn. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended March
+31, 2004)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.13</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Senior Executive Agreement, dated as of February 1, 2004, by and between Global and Dennis Houseman. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended
+March 31, 2004)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.14</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Senior Executive Agreement, dated as of February 17, 2004, by and between Global and Lawrence Paine. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended
+March 31, 2004)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.15</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Senior Executive Agreement, dated as of April 1, 2004, by and between Global and Thomas S. Johnson. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended
+March 31, 2004)*</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">23 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.16</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Senior Executive Agreement, dated as of April&nbsp;1, 2004, by and between Global and Raymond Schilling. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period
+ended March&nbsp;31, 2004)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.17</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Termination and Waiver of Registration Agreement, dated as of April 2, 2004, by and among Global and the stockholders identified therein. (Incorporated by reference to Global&#146;s Annual
+Report on Form 10-K for the period ended March 31, 2004)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.18</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Senior Executive Agreement, dated as of May 1, 2004, by and between Global and Cecil A. McClary. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended March
+31, 2004)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.19</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">2004 Omnibus Long Term Incentive Plan. (Incorporated by reference to Global&#146;s Proxy Statement on Form DEF 18A, as filed with the SEC on July 19, 2004)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.20</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Senior Executive Agreement, dated as of August 1, 2004, by and between Global and C. Michael Moore. (Incorporated by reference to Global&#146;s Quarterly Report on Form 10-Q for the period ended
+September 30, 2004)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.21</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Senior Executive Agreement, dated as of January 26, 2005, by and among Global and Michael E. Shea. (Incorporated by reference to Global&#146;s Current Report on Form 8-K filed on January 28,
+2005)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.22</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Senior Executive Agreement, dated as of April 1, 2005, by and among Global and Peter S. Shoemaker. (Incorporated by reference to Global&#146;s Current Report on Form 8-K filed on April 4,
+2005)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.23</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Senior Executive Agreement, dated as of April 1, 2005, by and among Global and Paul A. Schulman. (Incorporated by reference to Global&#146;s Current Report on Form 8-K filed on April 4,
+2005)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.24</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Senior Executive Agreement, dated as of April 1, 2005, by and among Global and Daniel Robert Cooper. (Incorporated by reference to Global&#146;s Current Report on Form 8-K filed on April 4,
+2005)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.25</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Form of Incentive Stock Option Agreement. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended March 31, 2003)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.26</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Form of Non-Incentive Stock Option Agreement. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended March 31, 2003)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.27</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Form of Director&#146;s Non-Incentive Stock Option Agreement. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended March 31, 2003)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.28</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Form of Fiscal Year 2006 Director Election Form (Incorporated by reference to Global&#146;s Current Report on Form 8-K filed on February 11, 2005)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.29</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Compensation Policy Covering Independent Directors (Incorporated by reference to Global&#146;s Current Report on Form 8-K filed on February 11, 2005)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.30</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Senior Executive Agreement, dated as of May 26, 2005, by and among Global and Todd S. Johnson. (Incorporated by reference to Global&#146;s Current Report on Form 8-K filed on June 1,
+2005)*</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">13.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Incorporated portions of Annual Report to Stockholders for the Year Ended March 31, 2006 +</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">14.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Code of Business Conduct and Ethics. (Incorporated by reference to Global&#146;s Annual Report on Form 10-K for the period ended March 31, 2004)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">21.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Subsidiaries of Global. +</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">23.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Consent of Independent Registered Certified Public Accounting Firm. +</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">31.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Certification of the Chief Executive Officer Pursuant to Section&nbsp;302 of the Sarbanes-Oxley Act of 2002. +</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">31.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Certification of the Chief Financial Officer Pursuant to Section&nbsp;302 of the Sarbanes-Oxley Act of 2002. +</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">32.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written Statement of Chief Executive Officer furnished (not filed) pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. +</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">32.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written Statement of Chief Financial Officer furnished (not filed) pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. +</FONT></TD></TR>
+</TABLE><HR WIDTH="8%" SIZE="1" NOSHADE COLOR="#000000" ALIGN="left">
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">+</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Filed herewith. </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">*</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Management contract or compensatory plan, contract or arrangement. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">24 </FONT></P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+

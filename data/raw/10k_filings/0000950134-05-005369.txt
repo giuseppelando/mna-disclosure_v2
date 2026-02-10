@@ -1,0 +1,3334 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>c93035e10vk.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<PAGE>
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                           -------------------------
+
+                                   FORM 10-K
+(MARK ONE)
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+    OF 1934.
+
+                  FOR THE FISCAL YEAR ENDED DECEMBER 31, 2004
+                                       OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934.
+
+             For the transition period from           to
+
+                         Commission file number 0-15767
+                           -------------------------
+
+                          THE SPORTSMAN'S GUIDE, INC.
+             (Exact name of registrant as specified in its charter)
+
+<Table>
+<S>                                            <C>
+                  MINNESOTA                                      41-1293081
+       (State or other jurisdiction of              (I.R.S. Employer Identification No.)
+        incorporation or organization)
+</Table>
+
+              411 FARWELL AVENUE, SOUTH ST. PAUL, MINNESOTA 55075
+                    (Address of principal executive offices)
+
+                                 (651) 451-3030
+              (Registrant's telephone number, including area code)
+
+                           -------------------------
+
+       Securities registered pursuant to Section 12 (b) of the Act: NONE
+
+          Securities registered pursuant to Section 12(g) of the Act:
+
+                     COMMON STOCK, PAR VALUE $.01 PER SHARE
+                                (Title of class)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes [X] No [ ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  [X]
+
+     Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Exchange Act Rule 12b-2).  Yes [X] No [ ]
+
+     As of June 30, 2004, the aggregate market value of the registrant's Common
+Stock held by non-affiliates was approximately $109,086,892 based on the last
+reported sale price of the Common Stock on such date on the NASDAQ National
+Market.
+
+     As of March 16, 2005, there were 4,746,070 shares of the registrant's
+Common Stock outstanding.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+     Portions of the registrant's Proxy Statement for its Annual Meeting of
+Shareholders on May 6, 2005 are incorporated by reference into Part III of this
+Form 10-K.
+
+                             AVAILABLE INFORMATION
+
+     The Sportsman's Guide, Inc. makes available on its investor relations
+website www.sportsmansguideir.com its annual report on Form 10-K, quarterly
+reports on Form 10-Q, current reports on Form 8-K, and amendments to these
+reports as soon as reasonably practicable after such material is electronically
+filed with or furnished to the SEC.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>
+
+                                     PART I
+
+ITEM 1. BUSINESS
+
+     We are a multi-channel direct marketer of value priced outdoor gear,
+general merchandise and golf equipment/accessories. We market our products
+through catalogs and e-commerce websites. We currently have two reportable
+business segments, The Sportsman's Guide ("The Sportsman's Guide" or "TSG"), our
+original business, and The Golf Warehouse ("The Golf Warehouse" or "TGW"),
+acquired in 2004. The Sportsman's Guide markets and sells value priced outdoor
+gear and general merchandise, with a special emphasis on outdoor clothing,
+equipment and footwear, through catalogs and two e-commerce websites
+(www.sportsmansguide.com and www.bargainoutfitters.com). TGW markets and sells
+name-brand golf equipment, apparel and accessories through one e-commerce
+website (www.TGW.com), catalogs and one retail store.
+
+     Our business was started in 1970. Originally limited to a small selection
+of merchandise targeted to the deer hunter, our product offerings have gradually
+evolved to a broader range of merchandise intended to appeal to those interested
+in pursuing the outdoor lifestyle in general and the value-oriented outdoorsman
+in particular. On June 29, 2004, we acquired 100% of the outstanding membership
+interests of The Golf Warehouse, L.L.C., an online and catalog retailer of golf
+equipment, apparel and accessories with offices and warehouse facilities in
+Wichita, Kansas. TGW was founded in 1997.
+
+     We were incorporated under the laws of the State of Minnesota on March 23,
+1977. Our principal executive offices are located at 411 Farwell Avenue, South
+St. Paul, Minnesota 55075 and our telephone number is (651) 451-3030.
+
+INDUSTRY OVERVIEW
+
+     OUTDOOR SPORTS AND SPORTING GOODS. According to the Sporting Goods
+Manufacturers Association, "SGMA," the sporting goods industry is estimated to
+be more than a $52 billion market in 2004 up approximately 4% from 2003.
+
+     The sporting goods industry's estimated growth of 4% in 2004 was just under
+the 4.2% growth of the total U.S. non-durable goods (GDP). The sporting goods
+industry's growth in 2004 was the highest since 1997. The three major markets of
+sporting goods are sporting goods equipment ($18.0 billion), sports apparel
+($24.1 billion) and athletic footwear ($10.0 billion). Sports apparel, athletic
+footwear and fitness products overall again showed improved growth from 2003 to
+the estimated numbers for 2004.
+
+     GOLF EQUIPMENT. According to the National Golf Foundation (NGF), sales of
+golf equipment -- clubs, balls, bags and gloves -- rose 3% to nearly $2.5
+billion, the sport's largest percentage gain in six years. Total rounds played
+also enjoyed a slight increase of 1% in 2004 after two years of trending
+downward. A somewhat improved economy and less stormy weather as compared with
+2003 helped both trends.
+
+     CATALOG SALES. Studies conducted by the Direct Marketing Association (DMA)
+report that catalog industry sales grew 6.7% in 2004, to approximately $143
+billion over $134 billion reported in 2003.
+
+     ONLINE SHOPPING. According to Jupiter Research, online sales in 2004 were
+reported at $66 billion and are forecast to grow to more than $79 billion in
+2005. As Jupiter had previously forecast, a significant portion of the growth in
+online retail over the past year was due in part to new online buyers, not just
+veteran online buyers. Jupiter reported that online retail spending during the
+2004 holiday period (November and December) reached $22.1 billion, an increase
+of 22% over the 2003 holiday period. The increase was largely due to new online
+buyers. According to Jupiter Research, 17.7 million consumers made an online
+holiday purchase for the first time in 2004. Jupiter had also previously
+reported that by 2008, it expects one-half of the U.S. population will make
+purchases online.
+
+                                        2
+<PAGE>
+
+OUR CATALOGS
+
+THE SPORTSMAN'S GUIDE
+
+     We publish main, Buyer's Club and specialty catalog editions and mailed
+approximately 49.0 million catalogs to existing and prospective customers in
+2004.
+
+     FORMAT. Our Sportsman's Guide catalogs are designed to be fun and
+entertaining. Every merchandise offering uses a highly promotional format
+emphasizing our "Lowest Prices, Best Quality" philosophy. Unique to us is our
+product description, or copy. The catalogs make creative and expansive use of
+art and copy to extensively describe products with humorous text, call-outs,
+photos and photo captions. Copy is written in the first person from Gary Olen to
+the reader. The catalogs are perceived by customers as having entertainment
+value and are advertised as The "Fun-to-Read" Catalog(R).
+
+     TYPES AND PURPOSES. Main catalog editions are mailed eleven months of the
+year and offer selections of our best selling products in a variety of product
+categories. We also use our main catalog as our primary prospecting catalog to
+test new names and new products. Response data from main catalog mailings are
+used to create specialty catalogs.
+
+     Specialty catalog editions contain wide selections of products from select
+product categories. We identify the product categories for our specialty
+catalogs based on demand generated for certain categories in our main catalogs.
+During 2004, we published 12 specialty catalogs targeting buyers of government
+surplus, camping and outdoor-living equipment, shooting supplies, hunting
+equipment and holiday gifts. The specialty titles allow us to utilize a
+customized marketing plan for individual consumer groups thereby maximizing
+response rates and minimizing advertising costs as a percentage of sales.
+
+     The Buyer's Club Advantage(TM) catalog editions offer a wide variety of
+product selections with sneak previews and exclusive deals for club members
+only. During 2004, we published 12 Buyer's Club Advantage(TM) editions, ranging
+from 48 to 64 pages per edition. We believe the club catalogs, as well as the
+growth in our club memberships, have been an important component of our sales
+and profitability growth.
+
+     CREATIVE. All catalogs are created and designed in-house by our creative
+services department which produces the advertising copy and layouts for each
+catalog. Substantially all of the photographs used in the catalogs are taken at
+our in-house photo studio. Artwork and copy for the catalogs are transmitted in
+digital format from our desktop publishing systems to a pre-press vendor and
+then to the printer, which prints and mails the catalogs. These capabilities
+allow us to preserve the catalog's distinctive character and allow us greater
+control of the catalog production schedule, which reduces the lead time
+necessary to produce catalogs. We are able to prepare and mail a catalog in
+approximately 75 days. This allows us to offer new merchandise quickly to our
+customers, thereby maximizing pricing opportunities while minimizing inventory
+carrying costs. Because we use a value-oriented sales approach, we are able to
+use a lower weight and grade of paper than our competitors to reduce our catalog
+production and postage costs.
+
+THE GOLF WAREHOUSE
+
+     TGW mailed its first catalog in November 2002 to diversify its online
+business and build its brand and customer base. In 2004, TGW published four
+catalog editions consisting of Spring, Father's Day, Summer and Holiday editions
+and mailed approximately 2.8 million catalogs to existing and prospective
+customers. The catalogs range from 68 to 100 pages per edition.
+
+     The TGW catalogs contain a wide selection of name-brand golf clubs, balls,
+accessories, shoes and apparel. The catalogs arrange merchandise by product
+category and include color pictures of products with detailed product
+descriptions. Creative portions of the catalogs, including photography, page
+layout and product selection, are produced in-house. Catalog mailings are timed
+to target peak selling seasons. Access to historical customer information,
+demographics and purchasing history, within TGW's data warehouse, which was
+built by TSG, has assisted TGW in more cost-effectively targeting potential
+customers for its catalog mailings.
+
+                                        3
+<PAGE>
+
+OUR WEBSITES
+
+THE SPORTSMAN'S GUIDE
+
+     TSG's websites offer online shopping as well as online content-rich
+resources and information for the outdoor enthusiast. Sales generated through
+the Internet for TSG in 2004 were approximately 42% of total Internet and
+catalog sales compared to 36% in 2003. Sales generated through the Internet are
+defined as those that are derived from our websites, catalog orders processed
+online and online offers placed by telephone. Internet related sales continue to
+grow, period over period, as we continue to make enhancements to our Web sites
+and implement and improve upon various marketing and merchandising programs.
+
+     SPORTSMANSGUIDE.COM. The sportsmansguide.com site is our online retail
+store. The site established its initial internet presence in 1996 and the launch
+was completed in April 1998.
+
+     Our sportsmansguide.com site is modeled on our print catalogs. The site
+translates the distinctive look and editorial voice of our print catalog onto
+the Internet, adding interactive functionality to make shopping an entertaining
+experience. The site is designed to be fun-to-browse and easy to use, enabling
+the ordering process to be completed with a minimum of customer effort. The site
+is advertised as The "Fun-to-Browse" Website(R). The site allows customers to
+order merchandise from print media, view current catalogs and request mailed
+catalog copies. E-mail addresses are collected through an opt-in program. E-mail
+broadcast messages, which include a variety of specialized product offerings,
+are delivered to approximately 873,000 participants on an average of three times
+per week.
+
+     The sportsmansguide.com site offers full-line selections of camping,
+fishing, footwear, clothing, hunting, archery, marine, all-terrain vehicles,
+truck and SUV accessories, snowmobiles and hiking products at discount prices.
+The community content within the sportsmansguide.com site provides a broad and
+deep selection of resources and information updated regularly covering all
+aspects of the outdoor experience. Web pages include articles on hiking,
+hunting, fishing and camping experiences, DNR information, local and national
+weather forecasts, tips and hints on planning an upcoming outdoor event, photo
+galleries and maps.
+
+     BARGAINOUTFITTERS.COM. The bargainoutfitters.com site is our online
+liquidation outlet site launched in November 1999. The site offers clothing and
+footwear products as well as home and domestics, tools, government surplus,
+automotive and electronic products that are deeply discounted, discontinued or
+overstocked. E-mail addresses are collected through an optional sign-up program.
+E-mail broadcast messages, which include a variety of specialized product
+offerings, are delivered to approximately 55,000 participants on an average of
+three times per week.
+
+THE GOLF WAREHOUSE
+
+     TGW.COM. The TGW.com website was launched in 1998. The website was featured
+in Forbes Magazine's Best of the Web for 2002 and 2003. Forbes called the
+website "the most comprehensive golf equipment site on the web." The majority of
+TGW's total sales for 2004 were generated through the Internet.
+
+     The TGW.com website features all of TGW's product offerings in a functional
+and customer friendly environment. The website homepage prominently displays
+featured products and special offers in a promotional format along with in line
+product categories. The website is designed to minimize the number of "clicks"
+necessary to find a specific product. A redesigned search function enables
+product search by keyword(s), item number, manufacturer or quick link to product
+categories. An online version of the TGW print catalog is provided on the
+website.
+
+                                        4
+<PAGE>
+
+MERCHANDISING
+
+THE SPORTSMAN'S GUIDE
+
+     PRODUCTS. TSG offers a large selection of high value products at low
+prices. These products include hunting and shooting accessories, footwear,
+clothing and accessories, domestics and furniture, optics, government surplus,
+tools and truck/SUV accessories, camping and outdoor recreation equipment, lawn
+and garden, gifts, electronics and a diverse range of additional offerings.
+Within the sportsmansguide.com website, we are able to carry deeper and more
+diverse product lines and merchandise categories than we have traditionally
+offered through the catalog. Over time, our product offerings and marketing
+efforts have broadened to include those interested in pursuing and living the
+outdoor lifestyle in general and the value-oriented outdoorsman in particular.
+
+The table below indicates the percentage of TSG's sales by product category for
+2004:
+
+<Table>
+<Caption>
+                PRO%UOF SALESORY
+------------------------------------------------
+<S>                                   <C>
+Hunting and Shooting
+  Accessories.....................      16.5%
+Footwear..........................      15.8%
+Clothing and Accessories..........      12.7%
+Domestics and Furniture...........       9.2%
+Optics............................       8.3%
+Government Surplus................       7.1%
+</Table>
+
+<Table>
+<Caption>
+                PRO%UOF SALESORY
+------------------------------------------------
+<S>                                   <C>
+Tools and Truck/SUV Accessories...       6.8%
+Camping and Outdoor Recreation....       5.1%
+Lawn and Garden...................       3.3%
+Gifts.............................       3.1%
+Electronics.......................       2.5%
+Other.............................       9.6%
+</Table>
+
+     MERCHANDISE MIX. TSG historically offered a changing mix of in-line
+products. In-line products are those products regularly available from
+manufacturers. As a complement to our value pricing approach, we aggressively
+pursue manufacturers' close-outs of name brand shoes, boots, clothing, watches
+and other merchandise, which we offer to our customers at savings of 25% to 60%
+from original retail prices. We also offer government surplus from around the
+world, providing customers a low-cost alternative for items such as wool coats
+and pants, shirts, gloves, underwear, blankets, boots, sleeping bags, jackets,
+backpacks, skis and snowshoes. We have developed our own private label line of
+products through our direct import program including footwear, apparel and
+several hard line product categories sold under the Guide Gear(R) name.
+
+     Our merchandising strategy has been to shift our merchandise mix to a
+larger percentage of manufacturers' close-outs, government surplus, private
+label products, and to minimize the number of lower price point items, while
+maintaining a broad selection of products. This strategy has added to our
+customer base value-oriented customers who may not otherwise be identified as
+pure outdoorsmen.
+
+     SOURCING. Our buyers actively seek sources for products they believe will
+interest our targeted customers. We seek to maintain existing and develop new
+relationships with vendors to provide ongoing access to manufacturers'
+close-outs, government surplus, direct imports and other items. Buyers regularly
+attend trade shows, meet with vendors and make mass mailings and cold calls to
+locate high quality, low price, name brand merchandise as well as unusual or
+unique products. We frequently purchase large quantities of close-outs and other
+individual items on an opportunistic or when-available basis.
+
+     We purchase our merchandise from more than 1,450 suppliers and generally
+purchase all of our product needs for a particular item from one vendor. No
+single supplier accounted for more than 3% of TSG's purchases during 2004, and
+we believe there are numerous sources for products in our merchandise
+categories.
+
+     SELECTION. Our buyers and merchandising staff collectively select the
+merchandise to be offered to customers by evaluating product availability,
+pricing, historical demand, emerging merchandise trends and expected product
+profitability. Each product is hand-picked, and most are field tested by our
+buyers to ensure quality, functionality and proper sizing in order to maximize
+appeal to customers.
+
+     INVENTORY MANAGEMENT. Our inventory analysts are responsible for ordering
+all merchandise, determining the quantity and arrival date, managing inventory
+levels, assessing customer demand, adjusting
+
+                                        5
+<PAGE>
+
+estimates, canceling orders for slow-moving merchandise and reordering
+merchandise. Utilizing our information systems, buyers and inventory analysts
+monitor product sales on a daily basis. Slow-moving merchandise is actively
+promoted through websites, telemarketing, clearance sales or, when possible, is
+returned to the vendor.
+
+     As part of our merchandise liquidation strategy, we maintain a retail
+outlet store at our primary warehouse and distribution facility in South St.
+Paul from which we sell discontinued, overstocked, returned and regular catalog
+merchandise. The retail store along with our websites provide a liquidation
+outlet and serve to minimize inventory mark-downs.
+
+THE GOLF WAREHOUSE
+
+     PRODUCTS. TGW offers a large selection of golf equipment from leading
+manufacturers at low prices. Our products include golf clubs, golf bags, golf
+balls, golf gloves, golf shoes, apparel, training aids, multimedia products,
+gifts and accessories. We offer products by leading manufacturers including
+Adams Golf(R), Calloway(R), Cobra(R), Footjoy(R), Mizuno(R), Nike(R), Ping(R),
+TaylorMade(R), Tommy Armour(R)/Ram(R) and Titleist(R). We offer more than 18,000
+products.
+
+     The table below indicates the percentage of TGW's sales by product category
+for 2004:
+
+<Table>
+<Caption>
+                             PRO%UOF SALESORY
+--------------------------------------------------------------------------
+<S>                                                             <C>
+Clubs.......................................................      48.0%
+Apparel.....................................................      18.1%
+Footwear....................................................       8.9%
+Balls.......................................................       8.1%
+Bags........................................................       5.4%
+Accessories.................................................      11.5%
+</Table>
+
+     In 2004, TaylorMade(R), Titleist(R) and Nike(R) supplied 24%, 15% and 12%,
+respectively, of TGW's purchases. No other supplier accounted for more than 9%
+of TGW's purchases in 2004.
+
+     We have developed supplier relationships that provide us with access to the
+newest products as well as close-out, clearance and discontinued merchandise.
+
+MARKETING
+
+THE SPORTSMAN'S GUIDE
+
+     CUSTOMER DATABASE. We maintain a proprietary customer database in which we
+store detailed information on each customer in our customer list, including
+demographic data and purchasing history. Our customer database contains over 6.0
+million names, including approximately 1.0 million customers who have made
+purchases within the last 12 months. In addition, we have approximately 928,000
+participants who have provided their e-mail addresses. The customer database is
+updated regularly with information as new purchases are recorded.
+
+     CUSTOMER SELECTION. We have developed our own customer selection criteria
+to segment our customer list according to many variables, allowing our marketing
+department to analyze each segment's buying patterns. We review the results of
+each of our catalog mailings. The results are used to further update the
+customer database to refine the frequency and selectivity of our catalog
+mailings in an effort to maximize response rates and profitability.
+
+     LIST DEVELOPMENT. New customers are acquired principally through the use of
+targeted mailings to individuals identified through mailing lists rented or
+exchanged from other catalog companies, retail subscription lists, and lists of
+names compiled from businesses whose customers have interests similar to those
+of our customers. We are generally entitled to make one mailing to each name
+obtained through a rented or exchanged mailing list. If the prospect responds,
+the name is added to our database and may be freely used by us in the future.
+Through the Internet, we have captured new customers as a result of our
+
+                                        6
+<PAGE>
+
+affiliate and search marketing programs. We also use our sweepstakes marketing
+programs to convert our catalog customers to online purchasers and to increase
+our overall number of e-mail addresses. New customers accounted for
+approximately 15% of our sales during 2004.
+
+     With ongoing refinements in our approach to merchandising and marketing, we
+have increased the frequency and quantity of mailings and e-mail broadcasts to
+the most profitable segments of our existing customer list. Analyses of
+historical purchasing patterns of existing customers, including recency,
+frequency and monetary activity, are performed to assist in merchandising and
+customer targeting and to increase sales to existing customers. Existing
+customers accounted for approximately 85% of our sales during 2004.
+
+     MARKETING PROGRAMS AND PROMOTIONAL FORMATS. We strive to develop
+promotional formats that will stimulate customer purchases from our catalogs and
+websites. Successful promotional formats include different catalog wraps, dollar
+discounts on specific order size, and promotional tag lines such as "last
+chance" offers. Since our inception on the Internet, we have marketed our online
+retail store in our catalogs. In 2004, approximately 49.0 million catalog covers
+advertised our online retail store. This marketing channel has been the
+principal marketing mechanism to reach our online target audience.
+
+     Our most significant, successful marketing program has been the Buyer's
+Club. Customers can purchase a one-year membership in TSG's Buyer's Club for a
+$29.99 fee. For this annual fee, club members receive a 10% discount on all
+regularly priced items except for ammunition which is limited to a 5% discount
+and clearance items which have no discount off the advertised price. Our Buyer's
+Club offers its members exclusive merchandise not offered to other customers.
+Club members are presented with sneak previews of merchandise offers and given
+the opportunity to buy limited quantity items prior to non-club customers. Club
+members also receive member's only bargains in the catalogs and via e-mail
+campaigns.
+
+     The purchase activity, on average, of our Buyer's Club customer is two to
+three times greater than a non-club member. Consequently, we continually develop
+new marketing promotions that have significantly increased the number of new
+club members. At the end of 2004, we had approximately 382,000 members in our
+Buyer's Club, an 8.8% increase compared to the end of 2003.
+
+     Another successful marketing program is our installment payment plan, known
+as the "Buyer's Club 4-Pay Plan," which is available to Buyer's Club members
+with credit card orders of $100 or more. Payments under the plan consist of 25%
+of the merchandise charges, plus 100% of any shipping charges and Buyer's Club
+fees, if applicable, at the time of shipment with three equal installments in 30
+day increments, which are automatically charged to the customer's credit card.
+No interest or additional fees are charged to customers who elect the 4-Pay
+Plan.
+
+     CUSTOMER SERVICE. We have a toll-free customer service telephone line
+separate from our inbound ordering lines. We maintain a separate customer
+service department staffed with full-time customer service representatives who
+answer customer inquiries, reply to complaints and assist customers in returning
+merchandise. Our commitment to customer service is supported by our
+unconditional guarantee which allows customers to return merchandise for any
+reason and at any time for refund or exchange if they are not satisfied with the
+merchandise.
+
+THE GOLF WAREHOUSE
+
+     CUSTOMER DATABASE. TGW has developed a proprietary customer database of
+over 1.5 million names and email addresses. Our customer list includes
+approximately 500,000 households who have made purchases from TGW and
+approximately 252,000 who have purchased from TGW within the past 12 months. We
+add names and email addresses to, and update information in, our customer
+database through our online and catalog ordering process and through contests
+and catalog sign-ups on our website. New customers accounted for approximately
+27%, and existing customers accounted for approximately 73%, of TGW's sales
+during 2004. Approximately 8.9% of TGW's sales in 2004 were to customers outside
+the United States.
+
+                                        7
+<PAGE>
+
+     MARKETING AND PROMOTIONAL PROGRAMS. We use a variety of sales and marketing
+techniques to build recognition of the TGW.com brand, drive traffic to our
+website and expand our customer base. We regularly send email broadcasts to
+segments of our customer base. We run television commercials on The Golf Channel
+and on-line ads on TheGolfChannel.com. We are a featured merchant in the sports
+& outdoors/golf category on Amazon.com. We maintain commission-based affiliate
+marketing programs with the major search engines and over 500 affiliate websites
+which provide direct links to our website. We maintain exclusive relationships
+with PGA Tour, Inc. and The Golf Channel, Inc. to operate online retail golf
+stores from each company's website, and we market golf products to each
+company's customer database.
+
+     Our promotional programs include special offers, free shipping and no
+payment for 90 days. Our exclusive "Name Your Price" program allows customers to
+make an offer on select groups of products with email notification of whether
+the offer is accepted. We offer gift cards and gift certificates. We also offer
+corporate logo golf products for businesses, organizations and tournaments.
+
+     CUSTOMER SERVICE. We maintain a toll-free customer service number staffed
+seven days a week. We provide custom club fitting, a 30-day playability
+guarantee that permits customers to return clubs for full in-store credit, a
+30-day money back guarantee on new unused merchandise and a club trade-in
+program. We offer our customers a low price guarantee.
+
+OPERATIONS AND FULFILLMENT
+
+THE SPORTSMAN'S GUIDE
+
+     INBOUND CALLS. We maintain an in-house call center. Approximately 48% of
+customer orders are placed through our toll-free telephone lines which are
+staffed 24 hours per day, seven days a week, while 10% of orders are received by
+mail or facsimile and 42% of orders are received at our websites.
+
+     When fully staffed, our in-house call center has the capacity of handling
+up to 2,600 calls per hour on average. We also contract with outside call
+centers to handle calls on an as-needed basis.
+
+     Our in-house call center is staffed with individuals who are familiar with
+the products offered in the catalogs and can offer assistance to customers on
+availability, color, size, and other information. Call center sales
+representatives use a catalog sales system with pre-written merchandise
+descriptions and sales offers and are provided monetary incentives to sell
+additional merchandise to customers who order by phone.
+
+     ORDER ENTRY. Processing of customer orders is coordinated and handled by
+our in-house order entry system. Telephone orders are entered directly into the
+system. Internet orders are batch loaded every half-hour and uploaded to the
+system. Mail orders are batched and, after payment is verified, are then entered
+into the system. The system is also used in connection with all other order
+entry and fulfillment tasks including credit authorization, order picking,
+packing and shipment. During 2004, our order processing system handled
+approximately 2.2 million orders up 6.0% over 2003.
+
+     FULFILLMENT. We use an integrated computer-driven picking, packing and
+shipping system. The system edits orders and generates warehouse pick tickets
+and packing slips. We are able to fulfill and ship in excess of 25,000 packages
+per day.
+
+     We offer next business day shipping on orders received by 6 p.m. CST for
+in-stock merchandise and same day shipping for orders taken by 11 a.m. CST via
+the Internet or per specific customer request. Virtually all of our merchandise
+is stocked at, and shipped from, our warehouse and distribution facilities in
+South St. Paul and Inver Grove Heights, Minnesota. In addition, a small, but
+growing, percentage of merchandise is shipped directly from the factory to the
+customer by specific vendors. We utilize United Parcel Service (UPS) and the
+United States Postal Service for shipment of merchandise to customers.
+Ammunition is shipped primarily via UPS. Orders are shipped after credit card
+charges are approved or checks are deposited and cleared the bank.
+
+                                        8
+<PAGE>
+
+     RETURNS. We maintain an unconditional return policy, which permits
+customers to return merchandise for any reason at any time for refund or
+exchange. Returned merchandise is restocked, liquidated, sold in the retail
+outlet, returned to the supplier or scrapped.
+
+THE GOLF WAREHOUSE
+
+     TGW's order fulfillment infrastructure includes an in-house call center, a
+shipping and warehouse facility, and management information systems that provide
+inventory updates and integrate all aspects of our order fulfillment process.
+
+     CALL CENTER. Telephone orders may be placed 24 hours a day, seven days a
+week through a toll-free number. Our in-house call center is staffed with
+knowledgeable sales representatives who are available during extended hours each
+day to assist customers through the order process and provide information about
+products. After hours calls are routed to The Sportsman's Guide call center for
+processing.
+
+     FULFILLMENT. All online and catalog orders are processed and shipped from
+our 105,600 square foot office and warehouse facility in Wichita, Kansas. We use
+an integrated picking, packing and shipping system connected to our direct order
+entry system. The system monitors the in stock status of each item ordered,
+processes orders and generates warehouse selection tickets and packing slips. We
+are able to fulfill and ship in excess of 4,000 packages per day. We offer same
+day shipping on orders placed by 3:00 p.m. CST Monday through Friday. We ship
+all merchandise to customers via UPS. Orders are shipped after credit card
+charges are approved or checks are deposited and cleared the bank.
+
+INFORMATION SYSTEMS AND TECHNOLOGY
+
+THE SPORTSMAN'S GUIDE
+
+     We have developed an integrated management information system. In addition
+to on-line order entry and processing, the information system also provides
+support for merchandising, inventory management, marketing, and financial and
+management reporting. The on-line access to information allows management to
+monitor daily trends and the performance of merchandise and planning functions.
+
+     Our main hardware platform utilizes IBM RISC 6000 series equipment. This
+equipment includes redundant components and a combination of Redundant Array
+Independent Disks (RAID) and mirrored disk technology to ensure optimal data
+protection.
+
+     Our websites are hosted internally utilizing Compaq servers running
+Microsoft Server 2000 and IIS for the front-end ASP applications, caching and
+image serving. The back-end Oracle database is running on an IBM RS/6000 AIX
+system. Currently, we have 42MB of bandwidth dedicated for the web hosting
+environment, split across redundant networking equipment and access providers
+AT&T and Qwest to maximize uptime. Additional IDP hardware has been implemented
+to block hacking and denial of service attacks.
+
+     Our telephone system consists of an expandable AT&T G3R digital switch. We
+are currently using two DS3 circuits on separate paths for protection with
+additional redundancy protection provided using Qwest SHARPS rerouting software.
+Our system is running nine T-1 lines split across the two DS3 circuits with a
+maximum capacity of 48 T-1 circuits. Computer telephony integration software
+identifies the caller and, if known, accesses the customer's records
+simultaneously with answering the call.
+
+THE GOLF WAREHOUSE
+
+     TGW utilizes Smith Gardner's Ecometry (MACS) software, a catalog/direct
+marketing program for managing inventory and order processing, which provides
+integrated inventory management, order taking and order processing. Ecometry
+operates on an HP 3000 hardware platform.
+
+     In 2003, we implemented the Great Plains financial software package that
+interfaces with the Ecometry (MACS) order processing system using a third party
+software program. All orders are processed through the Ecometry (MACS) system,
+which enables the data to be used in conjunction with the Great
+                                        9
+<PAGE>
+
+Plains accounting software. The Great Plains financial reporting package (FRX)
+allows TGW to build comprehensive and customizable financial and management
+reports that are easy to create and use. Great Plains operates on Microsoft SQL
+server.
+
+     The TGW.com website is hosted on servers located at The Sportsman's Guide
+offices in South St. Paul, Minnesota. All servers operate on the Redhat Linux
+system.
+
+COMPETITION
+
+THE SPORTSMAN'S GUIDE
+
+     The direct marketing industry includes a wide variety of specialty and
+general merchandise retailers in a highly competitive and fragmented business
+environment. We sell our products to customers in all 50 states and compete in
+the purchase and sale of merchandise with all retailers. TSG's competitors
+include:
+
+     - other outdoor/hunting mail order catalogs, including Bass Pro Shops Inc.
+       and Cabela's Inc.;
+
+     - discount retailers such as Wal-Mart Stores, Inc.; and
+
+     - Websites maintained by online retailers of footwear, clothing and outdoor
+       gear.
+
+     Some of TSG's competitors are larger and have substantially greater
+financial, marketing and other resources.
+
+THE GOLF WAREHOUSE
+
+     TGW's competitors include other specialty off-course retailers,
+conventional sporting goods retailers, mass merchandise retailers, on-course pro
+shops and online retailers of golf equipment. TGW's principal competitors in the
+specialty off-course segment include retail chains such as Golfsmith, Edwin
+Watts, Golf Galaxy, Pro Golf Discount and Dick's Sporting Goods.
+
+     Traditional and specialty golf retailers are expanding and aggressively
+marketing brand-name golf equipment and competing directly with us for products
+and customers. Some of TGW's competitors have been in business longer or have
+greater financial, marketing and other resources. We compete on the basis of
+product selection, price and customer service.
+
+REGULATION
+
+     We are subject to federal, state and local laws and regulations, which
+affect our catalog mail order operations. Federal Trade Commission regulations,
+in general, govern the solicitation of orders, the information provided to
+prospective customers, and the timeliness of shipments and refunds. In addition,
+the Federal Trade Commission has established guidelines for advertising and
+labeling many of the products we sell.
+
+     We are also subject to a variety of state laws and regulations relating to,
+among other things, advertising, pricing, charging and collecting state sales or
+use tax and product safety/restrictions. Some of these laws prohibit or limit
+the sale, in certain states and locations, of certain items we offer such as
+black powder firearms, ammunition, bows, knives and similar products. State and
+local government regulation of hunting can also affect our business.
+
+     Because we import products for sale, we are subject to U.S. customs laws
+and regulations pertaining to proper item classification, quotas, payment of
+duties and tariffs, and maintenance of documentation and internal control
+programs.
+
+     There are few laws and regulations directed specifically at electronic
+commerce on the Internet. However, given the increased use of the Internet for
+both mass communications and commerce, new laws and regulations may be adopted
+covering a variety of areas such as collection and use of data from website
+
+                                        10
+<PAGE>
+
+visitors and related privacy issues, pricing, taxing, content, copyrights,
+distribution, unsolicited e-mail and quality of goods and services.
+
+SERVICE MARKS
+
+     Our service marks "The Sportsman's Guide", "Bargain Outfitters", "The
+'Fun-to-Read' Catalog" and "The 'Fun-to Browse' Website" have been registered
+with the United States Patent and Trademark Office. "The Sportsman's Guide" mark
+has also been registered in Canada. We own United States registrations and
+applications covering other trademarks and service marks used in our TSG
+business.
+
+     We use the "tgw.com", "The Golf Warehouse" and other trade names in our TGW
+business.
+
+EMPLOYEES
+
+     As of December 31, 2004, TSG had 568 employees and TGW had 126 employees,
+including full and part time staff. During our peak selling seasons, which
+include the months of November and December, we hire a significant number of
+temporary employees. None of our employees are covered by a collective
+bargaining agreement. We consider our employee relations to be good.
+
+FINANCIAL INFORMATION ABOUT SEGMENTS
+
+     Financial information about our two business segments is summarized in Note
+I to our consolidated financial statements.
+
+ITEM 2. PROPERTIES
+
+     TSG's principal offices are located at 411 Farwell Avenue, South Saint
+Paul, Minnesota 55075. TSG leases approximately 417,000 square feet at this
+facility under a net lease expiring March 2009 and leases an additional
+distribution facility of approximately 68,000 square feet in Inver Grove
+Heights, Minnesota under a net lease expiring January 2007.
+
+     TGW's principal offices are located at 8851 East 34th Street North,
+Wichita, Kansas 67226. TGW leases approximately 62,000 square feet at this
+facility under a net lease, and approximately 43,600 square feet of additional
+warehouse space under a sublease, both expiring September 2006.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+     The Company has been notified by NCR Corporation ("NCR") that NCR believes
+some of the Company's e-commerce website functions are covered by certain
+"business method" patents owned by NCR. NCR has stated it is willing to grant a
+patent license to the Company on commercially reasonable terms. The Company is
+investigating the claims. At the present time, the Company cannot predict the
+outcome of this matter or the potential range of loss or expense involved.
+
+     In March 2003, the Company was notified by the Bureau of Industry, United
+States Department of Commerce (BIS) that BIS had reason to believe the Company
+violated Export Administration Regulations by exporting optical sighting devices
+for firearms and associated parts to Canada and other destinations without
+obtaining required authorization from BIS. BIS asserted the Company committed 61
+separate violations for shipments from October 1999 to March 2002. The Company
+settled this claim for $183,500 in December 2004.
+
+     We are not a party to any pending litigation other than litigation which is
+incidental to our business and which we believe is not material.
+
+                                        11
+<PAGE>
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     None.
+
+EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     Set forth below is certain information concerning our executive officers
+and key employees.
+
+<Table>
+<Caption>
+                   NAME                       AGE                         POSITION
+                   ----                       ---                         --------
+<S>                                           <C>    <C>
+EXECUTIVE OFFICERS:
+Gregory R. Binkley........................     56    President, Chief Executive Officer and Director
+Charles B. Lingen.........................     60    Executive Vice President of Finance and
+                                                     Administration, Chief Financial Officer,
+                                                       Secretary/Treasurer and Director
+John M. Casler............................     54    Executive Vice President of Merchandising,
+                                                     Marketing and Creative Services
+KEY EMPLOYEES:
+Dale D. Monson............................     40    Vice President of Information Systems and
+                                                     Technology and Chief Information Officer
+Douglas E. Johnson........................     49    Vice President of Marketing
+Mark S. Marney............................     51    Chief Executive Officer of The Golf Warehouse, Inc.
+R. Michael Marney.........................     52    President of The Golf Warehouse, Inc.
+</Table>
+
+     Gregory R. Binkley has been a director since 1995.  Mr. Binkley has been an
+employee since 1994 when he was elected Vice President. Mr. Binkley became
+Senior Vice President of Operations and Chief Operating Officer in 1995,
+Executive Vice President in 1996, President in 1998 and Chief Executive Officer
+in 2000. From 1993 to 1994, Mr. Binkley worked as an independent operations
+consultant. From 1990 to 1993, Mr. Binkley was Director of Distribution of
+Fingerhut Companies, Inc., a mail order catalog business and from 1988 to 1990
+was Director of Distribution with Cable Value Network, Inc., a cable television
+retailer. Mr. Binkley worked for Donaldsons Department Stores, a division of
+Allied Stores Corporation, from 1975 to 1988, serving as Vice President of
+Finance and Operations from 1987 to 1988 and Vice President of Operations from
+1981 to 1987.
+
+     Charles B. Lingen has been a director since 1995.  Mr. Lingen has been
+Chief Financial Officer, Vice President of Finance and Treasurer since 1994. Mr.
+Lingen was elected Secretary in 1995, Senior Vice President of Finance in 1996
+and Executive Vice President of Finance and Administration in 2000. From 1973 to
+1994, Mr. Lingen worked at Fingerhut Companies, Inc., serving as Vice President
+of Finance and Controller from 1989 to 1994.
+
+     John M. Casler has been an employee since 1996.  He was elected Vice
+President of Merchandising in 1997, Senior Vice President of Merchandising in
+1999 and Executive Vice President of Merchandising, Marketing and Creative
+Services in 2000. Mr. Casler worked for Gander Mountain, Inc, a retail mail
+order catalog company, from 1989 to 1995, where he served as Division
+Merchandise Manager from 1990 to 1995. Prior to that time, Mr. Casler held
+merchandise management positions at Munson Sporting Goods Co., Inc. from 1985 to
+1989 and at the Target Stores Division of Dayton Hudson Corp. from 1982 to 1985.
+
+     Dale D. Monson has been an employee since 1997. He was elected Vice
+President of Software Development in 2000 and Vice President of Information
+Systems and Technology and Chief Information Officer in 2001. Mr. Monson worked
+for Select Comfort Inc., a manufacturer of sleep support systems, from 1995 to
+1997 as Project Manager and for Proex Photo Systems Inc., a retail photography
+firm, from 1990 to 1995 as Director of Information Systems.
+
+     Douglas E. Johnson joined us in 2000 as Vice President of Marketing. Mr.
+Johnson worked at Fingerhut Companies, Inc. from 1982 to 2000, where he held
+various marketing positions including Director of Customer List Marketing.
+
+                                        12
+<PAGE>
+
+     Mark S. Marney has been employed since 2004. Mr. Marney co-founded The Golf
+Warehouse in 1997 and has served as Chief Executive Officer since 1999. Mr.
+Marney was founder and president of Village Charters, Inc., a travel company,
+from 1977 to 1997.
+
+     R. Michael Marney has been employed since 2004. Mr. Marney co-founded The
+Golf Warehouse in 1997 and has served as President since 1999. Mr. Marney was
+vice president of Village Charters, Inc., a travel company, from 1982 to 2000
+and worked for Fox & Company, a public accounting firm, from 1976 to 1982. R.
+Michael Marney and Mark S. Marney are brothers.
+
+                                        13
+<PAGE>
+
+                                    PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND
+        ISSUER PURCHASES OF EQUITY SECURITIES
+
+     Our common stock is traded on the Nasdaq National Market under the symbol
+"SGDE."
+
+     The following table sets forth, for the periods indicated, the high and low
+bid prices of our common stock as reported on the Nasdaq National Market.
+
+<Table>
+<Caption>
+                                                         HIGH      LOW
+                                                         ----      ---
+<S>                                                     <C>       <C>
+2003
+First Quarter.......................................    $ 8.61    $ 6.50
+Second Quarter......................................     11.63      7.97
+Third Quarter.......................................     13.57     11.06
+Fourth Quarter......................................     20.66     13.00
+2004
+First Quarter.......................................    $22.47    $16.32
+Second Quarter......................................     23.23     16.40
+Third Quarter.......................................     23.75     19.55
+Fourth Quarter......................................     25.18     20.12
+</Table>
+
+HOLDERS
+
+     As of March 16, 2005, there were approximately 232 holders of record of our
+common stock.
+
+DIVIDENDS
+
+     We have not previously declared or paid any cash dividends on our common
+stock. We currently intend to retain all earnings for use in our business in the
+foreseeable future. We are prohibited from paying and declaring cash dividends
+without the consent of the bank under the terms of our revolving credit
+agreement.
+
+STOCK REPURCHASE PROGRAM
+
+     On May 13, 2004, the Company announced that its board of directors
+authorized a plan to repurchase up to ten percent of its outstanding common
+stock in the open market or in privately negotiated transactions over the next
+12 months. Under this plan 29,245 shares of common stock at a total cost of $0.6
+million were repurchased during the year ended December 31, 2004.
+
+     On May 5, 2003, the Company announced that its board of directors
+authorized a plan to repurchase up to ten percent of its outstanding common
+stock in the open market or in privately negotiated transactions over the next
+12 months. Under this plan 259,644 and 98,950 shares of common stock at a total
+cost of $5.1 million and $1.2 million were repurchased during the years ended
+December 31, 2004 and 2003.
+
+                                        14
+<PAGE>
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+     The following table sets forth certain historical financial and operating
+data for the periods indicated. The Consolidated Statement of Operations Data
+and Consolidated Balance Sheet Data as of and for each of the years ended
+December 31, 2004, 2003, 2002, 2001 and 2000 have been derived from our
+consolidated financial statements audited by Grant Thornton LLP, independent
+registered public accounting firm. The Selected Operating Data as of and for the
+periods indicated were derived or computed from our circulation or accounting
+records or the Consolidated Statement of Operations Data identified above. The
+information below should be read in conjunction with "Management's Discussion
+and Analysis of Financial Condition and Results of Operations" and our
+consolidated financial statements and notes thereto.
+
+<Table>
+<Caption>
+                                                            YEARS ENDED DECEMBER 31,(1)
+                                              --------------------------------------------------------
+                                              2004(2)       2003        2002        2001        2000
+                                              -------       ----        ----        ----        ----
+                                                      (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+<S>                                           <C>         <C>         <C>         <C>         <C>
+CONSOLIDATED STATEMENT OF OPERATIONS DATA:
+Sales.....................................    $232,462    $194,703    $179,315    $168,769    $154,647
+Cost of sales.............................     158,081     130,639     120,707     113,086     103,471
+                                              --------    --------    --------    --------    --------
+  Gross profit............................      74,381      64,064      58,608      55,683      51,176
+Selling, general and administrative
+  expenses................................      62,122      54,467      51,983      51,344      53,574
+                                              --------    --------    --------    --------    --------
+  Earnings (loss) from operations.........      12,259       9,597       6,625       4,339      (2,398)
+Interest expense..........................        (361)         --          (1)       (237)     (1,432)
+Miscellaneous income (expense), net.......          (2)         24        (297)       (349)       (294)
+                                              --------    --------    --------    --------    --------
+  Earnings (loss) before income taxes.....      11,896       9,621       6,327       3,753      (4,124)
+Income tax expense (benefit)..............       4,305       3,463       2,310       1,000        (935)
+                                              --------    --------    --------    --------    --------
+  Net earnings (loss).....................    $  7,591    $  6,158    $  4,017    $  2,753    $ (3,189)
+                                              ========    ========    ========    ========    ========
+Net earnings (loss) per share(3):
+  Basic...................................    $   1.61    $   1.29    $    .85    $    .58    $   (.67)
+                                              ========    ========    ========    ========    ========
+  Diluted.................................    $   1.43    $   1.16    $    .80    $    .58    $   (.67)
+                                              ========    ========    ========    ========    ========
+Weighted average shares outstanding(3):
+  Basic...................................       4,719       4,785       4,752       4,749       4,749
+                                              ========    ========    ========    ========    ========
+  Diluted.................................       5,323       5,290       5,001       4,759       4,749
+                                              ========    ========    ========    ========    ========
+SELECTED OPERATING DATA:
+Gross profit as a percentage of sales.....        32.0%       32.9%       32.7%       33.0%       33.1%
+Selling, general and administrative
+  expenses as a percentage of sales.......        26.7%       28.0%       29.0%       30.4%       34.6%
+Total catalogs mailed.....................      50,482      46,359      45,762      47,989      62,498
+Total active customers(4).................       1,255       1,005         977       1,039       1,045
+CONSOLIDATED BALANCE SHEET DATA:
+Cash and cash equivalents.................    $  8,616    $ 32,054    $ 17,152    $  8,592    $  1,344
+Working capital...........................       5,723      24,747      18,068      12,952       8,526
+Total assets..............................      83,279      63,822      49,513      42,088      38,860
+Note payable-bank.........................       5,000          --          --          --       5,225
+Shareholders' equity......................      31,062      26,808      20,621      16,343      13,590
+</Table>
+
+-------------------------
+
+(1) Our fiscal year ends on the Sunday nearest December 31, but for clarity of
+    presentation, we describe all periods as if the year end is December 31.
+    Fiscal year 2004 consisted of 53 weeks and fiscal years 2003, 2002, 2001 and
+    2000 each consisted of 52 weeks.
+
+(2) On June 29, 2004, the Company acquired 100% of the outstanding membership
+    interests of The Golf Warehouse, L.L.C. The third quarter of 2004 was the
+    first quarter for inclusion of The Golf Warehouse's sales, operations and
+    earnings.
+
+(3) See Note A-11 in the notes to consolidated financial statements.
+
+                                        15
+<PAGE>
+
+(4) An "active customer" is defined as a customer who has purchased merchandise
+    from us within 12 months preceding the end of the period indicated.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+OVERVIEW
+
+     We are a multi-channel direct marketer of value priced outdoor gear,
+general merchandise and golf equipment/accessories. We market our products
+through catalogs and e-commerce web sites. We currently have two reportable
+business segments, The Sportsman's Guide ("TSG") and The Golf Warehouse ("TGW").
+Each segment is separately managed and utilizes distinct distribution,
+marketing, merchandising and inventory strategies.
+
+     TSG is a marketer of value priced outdoor gear and general merchandise,
+with a special emphasis on outdoor clothing, equipment and footwear. TSG markets
+and sells merchandise through main, specialty and Buyer's Club catalogs and two
+e-commerce websites. TSG's catalogs as well as its websites offer high quality
+products at low prices. TSG's catalogs are advertised as The "Fun-to-Read"
+Catalog(R) and the primary website is advertised as the "Fun-to-Browse"
+Website(R). TSG's websites include www.sportsmansguide.com, the online retail
+store modeled on its print catalogs and www.bargainoutfitters.com, the online
+liquidation outlet.
+
+     Our business was started in 1970. Over time, our product offerings and
+marketing efforts have broadened from the deer hunter to include those
+interested in pursuing and living the outdoor lifestyle in general and the
+value-oriented outdoorsman in particular. In 1992, we began our value pricing
+strategy of offering outdoor equipment and supplies at discount prices, later
+adding government surplus, manufacturers' close-outs and other merchandise
+lines. In 1994, we began to publish specialty catalogs which allowed us to
+utilize a customized marketing plan to individual customer groups. We
+established our Internet presence in 1996 and completed the launch of our online
+retail store in April 1998. Sales generated through the Internet have grown
+rapidly since that time with product sales on the sites accounting for over 42%
+of total catalog and Internet sales for the year ended December 31, 2004. In the
+fall of 2000, we began to aggressively promote and sell the Buyer's Club
+membership program. In addition, unique catalogs (Buyer's Club Advantage(TM))
+were developed and promoted to members only, allowing us to maximize sales and
+profitability from our best customers.
+
+     On June 29, 2004, we acquired 100% of the outstanding membership interests
+of The Golf Warehouse, L.L.C. TGW is an on-line and catalog retailer of golf
+equipment, apparel and accessories. TGW markets and sells golf related
+merchandise primarily through its Web site, www.TGW.com and through catalogs.
+The majority of TGW's sales are generated through the Internet. TGW's first
+catalog was published in the winter of 2002.
+
+     With the acquisition of TGW on June 29, 2004 and the continued growth of
+the Buyer's Club membership and Internet related sales for TSG, the Company
+continues to post strong sales and earnings growth.
+
+FISCAL YEAR
+
+     Our fiscal year ends on the Sunday nearest December 31, but for clarity of
+presentation, we describe all periods as if the year end is December 31. Fiscal
+year 2004 consisted of 53 weeks and fiscal years 2003, 2002 and 2001 each
+consisted of 52 weeks. The additional week in fiscal 2004 had the effect of
+increasing sales by approximately $4 million with minimal effect on the
+Company's net earnings.
+
+CRITICAL ACCOUNTING POLICIES
+
+     The critical accounting policies of both business segments, where
+applicable, are the same as described in the following paragraphs.
+
+                                        16
+<PAGE>
+
+REVENUE RECOGNITION
+
+     Sales are recorded at the time of shipment along with a provision for
+anticipated merchandise returns, net of exchanges, which is recorded based upon
+historical experience and current expectations. Amounts billed to customers for
+shipping and handling are recorded in sales at the time of shipment.
+
+     TSG's customers can purchase one-year memberships in the Company's Buyer's
+Club for a $29.99 annual fee. TSG also offers two-year memberships for $59.97.
+Club members receive merchandise discounts of 10% on regularly priced items and
+5% on ammunition. Membership fees are deferred and recognized in income as the
+individual members place orders and earn discounts. Any remaining deferred
+membership fees are recognized in income after the expiration of the membership.
+
+PROMOTIONAL MATERIALS AND ADVERTISING COSTS
+
+     The cost of producing and mailing catalogs is deferred and expensed over
+the estimated useful lives of the catalogs. Catalog production and mailing costs
+are amortized over periods ranging from four to six months from the in-home date
+of the catalog with the majority of the costs amortized within the first month.
+The Company estimates the in-home date to be one week from the known mailing
+date of the catalog. The ongoing cost of developing and maintaining the customer
+list is charged to operations as incurred. All other advertising costs are
+expensed as incurred.
+
+STOCK OPTIONS
+
+     Stock options issued to employees are accounted for under the intrinsic
+value method. Pro-forma disclosures as if the fair value method were used are
+included in Note A-10 to the Consolidated Financial Statements.
+
+RESULTS OF OPERATIONS
+
+     The following table sets forth, for the periods indicated, information from
+our Consolidated Statements of Earnings expressed as a percentage of sales:
+
+<Table>
+<Caption>
+                                                                   YEARS ENDED DECEMBER 31,
+                                                                  ---------------------------
+                                                                  2004       2003       2002
+                                                                  ----       ----       ----
+<S>                                                               <C>        <C>        <C>
+Sales.......................................................      100.0%     100.0%     100.0%
+Cost of sales...............................................       68.0       67.1       67.3
+                                                                  -----      -----      -----
+  Gross profit..............................................       32.0       32.9       32.7
+Selling, general and administrative expenses................       26.7       28.0       29.0
+                                                                  -----      -----      -----
+  Earnings from operations..................................        5.3        4.9        3.7
+Interest and miscellaneous expense, net.....................        0.1         --        0.2
+                                                                  -----      -----      -----
+  Earnings before income taxes..............................        5.2        4.9        3.5
+Income tax expense..........................................        1.9        1.8        1.3
+                                                                  -----      -----      -----
+  Net earnings..............................................        3.3%       3.1%       2.2%
+                                                                  =====      =====      =====
+</Table>
+
+COMPARISON OF YEARS ENDED DECEMBER 31, 2004 AND 2003
+
+<Table>
+<Caption>
+                                                                        THE GOLF
+                                          THE SPORTSMAN'S GUIDE        WAREHOUSE            CONSOLIDATED
+                                          ----------------------    ----------------    --------------------
+                                            2004         2003        2004      2003       2004        2003
+                                            ----         ----        ----      ----       ----        ----
+<S>                                       <C>          <C>          <C>        <C>      <C>         <C>
+Net sales.............................    $207,221     $194,703     $25,241    $ --     $232,462    $194,703
+Earnings from operations..............    $ 10,692     $  9,597     $ 1,567    $ --     $ 12,259    $  9,597
+</Table>
+
+     SALES. Consolidated sales for 2004 of $232.5 million were $37.8 million or
+19% higher than sales of $194.7 million for 2003. The increase in consolidated
+sales for 2004 was primarily a result of including the
+
+                                        17
+<PAGE>
+
+sales from the newly-acquired The Golf Warehouse and higher sales from The
+Sportsman's Guide. The acquisition of The Golf Warehouse was effective June 29,
+2004 making the third quarter of 2004 the first quarter for inclusion of TGW's
+sales, operations and earnings. Sales for TSG increased 6% when compared to the
+year ended 2003 primarily as a result of increased Internet sales. With fiscal
+2004 consisting of 53 weeks, the additional week had the effect of increasing
+the Company's annual sales by approximately $4 million.
+
+     As of December 31, 2004, the Buyer's Club membership had increased to
+382,000, up 8.8% over the 351,000 reported as of December 31, 2003.
+
+     Sales generated through the Internet for TSG in 2004 were approximately 42%
+of total Internet and catalog sales compared to 36% in 2003. The majority of
+TGW's total sales for 2004 were generated through the Internet. Sales generated
+through the Internet are defined as those that are derived from our websites,
+catalog orders processed online and online offers placed by telephone. Internet
+related sales continue to grow, period over period, as we continue to make
+enhancements to our Web sites and implement and improve upon various marketing
+and merchandising programs.
+
+     Gross returns and allowances for 2004 were $14.0 million or 5.7% of gross
+sales compared to $12.8 million or 6.2% of gross sales in 2003. The decrease in
+gross returns and allowances, as a percentage of sales, was primarily due to
+favorable trends in actual customer return activity at TSG and overall lower
+customer returns, as a percentage of sales, at TGW which traditionally have been
+lower than TSG's customer return rates.
+
+     GROSS PROFIT. Consolidated gross profit for 2004 was $74.4 million or 32.0%
+of sales compared to $64.1 million or 32.9% of sales in 2003. The decrease in
+consolidated gross profit percentage for the year was primarily due to the
+inclusion of lower product margin sales of The Golf Warehouse and lower product
+margins experienced at TSG. The Golf Warehouse's product margins are
+traditionally lower than those of TSG. TSG's business product margins, as a
+percentage of sales, were lower in 2004 when compared to the prior year
+primarily due to promotional pricing, competitive pressure and a higher
+percentage of lower margin factory direct merchandise sales.
+
+     SELLING, GENERAL AND ADMINISTRATIVE EXPENSES. Consolidated selling, general
+and administrative expenses were $62.1 million or 26.7% of sales during 2004
+compared to $54.5 million or 28.0% of sales during 2003.
+
+     Consolidated selling, general and administrative expenses, as a percentage
+of sales, for 2004 were lower compared to 2003 as a result of additional
+productivity from the Internet leverage in TSG as well as the inclusion of The
+Golf Warehouse's selling, general and administrative expenses which historically
+have been lower than those of TSG. TSG's selling, general and administrative
+expenses, as a percentage of sales, for 2004 were lower compared to the prior
+year as a result of higher Internet sales and lower order processing costs with
+the increased sales generated through the Internet. The Golf Warehouse's
+selling, general and administrative expenses, as a percentage of sales,
+traditionally have been lower than TSG's with a higher percentage of its sales
+generated from the Internet coupled with a higher average customer order amount.
+
+     The increase in consolidated selling, general and administrative expenses
+for 2004, in dollars, compared to the prior year, was primarily due to the
+inclusion of The Golf Warehouse's expenses since the acquisition on June 29,
+2004 and higher advertising spending by TSG from an increase in catalog
+circulation and increased order fulfillment costs by TSG from higher sales
+volume. In 2004, the Company incurred $0.6 million of Sarbanes-Oxley related
+costs.
+
+     Total Company catalog circulation during 2004 was 50.5 million catalogs
+compared to 46.4 million catalogs during 2003. The 2004 catalog circulation
+includes 1.5 million catalogs (two editions) circulated by The Golf Warehouse
+since the acquisition on June 29, 2004. During 2004, we mailed 35 catalog
+editions consisting of 11 main catalogs, 12 Buyer's Club Advantage(TM) catalogs
+and 12 specialty catalogs compared to 33 catalog editions during 2003 consisting
+of 11 main catalogs, 12 Buyer's Club Advantage(TM) catalogs and 10 specialty
+catalogs.
+                                        18
+<PAGE>
+
+     Consolidated advertising expense for 2004 was $32.9 million or 14.1% of
+sales compared to $29.4 million or 15.1% of sales for 2003. The decrease in
+consolidated advertising expense, as a percentage of sales, for 2004 compared to
+2003 was primarily due to the increase in TSG's sales generated from the
+Internet and the inclusion of The Golf Warehouse since the acquisition on June
+29, 2004. The Golf Warehouse's advertising expense as a percentage of sales is
+lower than the traditional TSG percentage as a result of its higher percentage
+of Internet driven sales coupled with a higher average customer order amount.
+
+     The increase in consolidated advertising expense for 2004 was primarily due
+to an increase in TSG's catalog circulation and the inclusion of The Golf
+Warehouse's advertising expense since the acquisition on June 29, 2004.
+
+     EARNINGS FROM OPERATIONS. Earnings from operations were $12.3 million or
+5.3% of sales during 2004 compared to $9.6 million or 4.9% of sales during 2003.
+The increase in earnings from operations was largely due to the inclusion of
+TGW's earnings since the acquisition on June 29, 2004, as well as growth and
+improved performance in TSG. The additional week in fiscal 2004 had minimal
+effect on the Company's earnings from operations.
+
+     INTEREST EXPENSE. Interest expense for 2004 was $0.4 million or 0.2% of
+sales. There was no interest expense for 2003. Interest expense increased in
+2004 over the prior year as a result of the acquisition of The Golf Warehouse. A
+portion of the purchase price of approximately $30.5 million was financed by
+borrowings under a new credit facility.
+
+     INCOME TAXES. Income tax expense for 2004 was $4.3 million compared to $3.5
+million for 2003.
+
+     NET EARNINGS. As a result of the above factors, net earnings for 2004 were
+$7.6 million compared to $6.2 million for 2003.
+
+COMPARISON OF YEARS ENDED DECEMBER 31, 2003 AND 2002
+
+     SALES. Sales for 2003 of $194.7 million were $15.4 million or 8.6% higher
+than sales of $179.3 million for 2002. The increase in sales was primarily due
+to higher sales generated from unique product offerings from both the Internet
+and catalogs. Internet related sales continue to grow, year over year, as we
+continue to make enhancements to our website and implement and improve upon
+various marketing and merchandising programs. For 2003, catalog related sales
+increased slightly over the prior year's sales level primarily a result of an
+increase in our catalog circulation.
+
+     As of December 31, 2003, our Buyer's Club membership had increased to
+351,000, up 13% over the 310,000 reported as of December 31, 2002.
+
+     Sales generated through the Internet increased in 2003 to approximately 36%
+of total Internet and catalog sales compared to approximately 29% in 2002. Sales
+generated through the Internet are defined as those that are derived from our
+websites, catalog orders processed online and online offers placed by telephone.
+
+     Gross returns and allowances for 2003 were $12.8 million or 6.2% of gross
+sales compared to $12.7 million or 6.6% of gross sales in 2002. The decrease in
+gross returns and allowances, as a percentage of sales, was primarily due to
+lower than anticipated customer returns on several 2002 catalogs.
+
+     GROSS PROFIT. Gross profit for 2003 was $64.1 million or 32.9% of sales
+compared to $58.6 million or 32.7% of sales in 2002. The increase in the gross
+profit percentage for the year was primarily due to an improvement in product
+margins offset somewhat by higher shipping costs. The increase in product
+margins in 2003 was primarily driven by an increase in sales of higher margin,
+direct import products. The higher shipping costs were largely due to an
+increase in the average weight of our outgoing shipments to our customers.
+
+     SELLING, GENERAL AND ADMINISTRATIVE EXPENSES. Selling, general and
+administrative expenses were $54.5 million or 28.0% of sales during 2003
+compared to $52.0 million or 29.0% of sales during 2002.
+
+                                        19
+<PAGE>
+
+     Selling, general and administrative expenses, as a percentage of sales, for
+2003 were lower compared to 2002 primarily due to the higher level of Internet
+sales, improved catalog productivity and lower order processing costs directly
+related to the increase in sales generated through the Internet. The dollar
+increase in selling, general and administrative expenses was primarily due to
+higher order fulfillment expenses as a result of the increase in sales and
+higher incentive compensation as a result of improved Company performance.
+
+     Total circulation was 46.4 million catalogs during 2003 compared to 45.8
+million catalogs during 2002. During 2003, we mailed 33 catalog editions
+consisting of 11 main catalogs, 12 Buyer's Club Advantage(TM) catalogs and 10
+specialty catalogs compared to 34 catalog editions during 2002 consisting of 11
+main catalogs, 12 Buyer's Club Advantage(TM) catalogs and 11 specialty catalogs.
+
+     Advertising expense for 2003 was $29.4 million or 15.1% of sales compared
+to $29.2 million or 16.3% of sales for 2002. The decrease in advertising
+expense, as a percentage of sales, for 2003 compared to 2002 was primarily due
+to higher volume of Internet sales. Advertising expense, in dollars, for 2003
+was higher compared to the same period last year primarily as a result of a
+minor increase in the catalog circulation, which was largely due to the increase
+in our club membership.
+
+     EARNINGS FROM OPERATIONS. Earnings from operations were $9.6 million or
+4.9% of sales during 2003 compared to $6.6 million or 3.7% of sales during 2002.
+The increase in earnings from operations was primarily due to the higher level
+of Internet sales.
+
+     INTEREST EXPENSE. There was no interest expense for 2003 compared to $1,000
+for the same period last year. During 2003 and 2002, we did not borrow under the
+revolving line of credit.
+
+     INCOME TAXES. Income tax expense for 2003 was $3.5 million compared to $2.3
+million for 2002.
+
+     NET EARNINGS. As a result of the above factors, net earnings for 2003 were
+$6.2 million compared to $4.0 million for 2002.
+
+SEASONALITY AND QUARTERLY RESULTS
+
+     The majority of TSG's sales historically occur during the second half of
+the year. The seasonal nature of the business is due to TSG's focus on outdoor
+merchandise and related accessories for the fall, as well as winter apparel and
+gifts for the holiday season. We expect this seasonality will continue in the
+future. In anticipation of increased sales activity during the third and fourth
+quarters, TSG incurs significant additional expenses for hiring employees and
+building inventory levels.
+
+     TGW's business is seasonal. Sales leading up to and during Father's Day and
+the Christmas holiday selling seasons have historically contributed to a higher
+percentage of TGW's annual sales and net income than other periods. TGW also
+incurs higher expenses related to building inventory to meet higher demand
+during these seasons.
+
+                                        20
+<PAGE>
+
+     The following table provides certain unaudited financial information for
+each of the quarters shown:
+
+<Table>
+<Caption>
+                                              FIRST QUARTER    SECOND QUARTER    THIRD QUARTER    FOURTH QUARTER
+                                              -------------    --------------    -------------    --------------
+                                                            (IN THOUSANDS, EXCEPT PER SHARE DATA)
+<S>                                           <C>              <C>               <C>              <C>
+2004
+Sales.....................................       $44,594          $38,861           $56,554          $92,453
+Gross profit..............................        14,128           12,137            16,415           31,701
+Earnings from operations..................         1,782            1,208             1,851            7,418
+Net earnings..............................         1,167              797             1,069            4,558
+Net earnings per share:
+  Basic...................................           .25              .17               .23              .97
+  Diluted.................................           .22              .15               .20              .85
+2003
+Sales.....................................       $43,749          $38,041           $41,213          $71,700
+Gross profit..............................        14,197           11,944            12,541           25,382
+Earnings from operations..................         1,467            1,042             1,117            5,971
+Net earnings..............................           957              646               710            3,845
+Net earnings per share:
+  Basic...................................           .20              .14               .15              .80
+  Diluted.................................           .19              .12               .13              .71
+</Table>
+
+Note: The acquisition of The Golf Warehouse, L.L.C. was effective June 29, 2004.
+      The third quarter of 2004 was the first quarter for inclusion of TGW's
+      sales, operations and earnings.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     WORKING CAPITAL. We had working capital of $5.7 million as of December 31,
+2004 compared to $24.7 million as of December 31, 2003, with current ratios of
+1.1 to 1 and 1.7 to 1, respectively. The decrease of $19.0 million was primarily
+due to the utilization of excess cash in the acquisition of The Golf Warehouse
+effective June 29, 2004.
+
+     We purchase large quantities of manufacturers' close-outs and direct
+imports, particularly in footwear and apparel merchandise categories. The
+seasonal nature of the merchandise may require that it be held for several
+months before being offered in a catalog. This can result in increased inventory
+levels and lower inventory turnover, thereby increasing our working capital
+requirements and related carrying costs.
+
+     TSG offers its Buyer's Club members an installment credit plan with no
+finance fees, known as the "Buyer's Club 4-Pay Plan." Each of the four
+consecutive monthly installments is billed directly to customers' credit cards.
+TSG had installment receivables of $2.6 million at December 31, 2004 compared to
+$2.4 million at December 31, 2003. The installment plan will continue to require
+the allocation of working capital, which we expect to fund from operations and
+availability under our revolving credit facility.
+
+     On June 29, 2004, we entered into an amended Credit Agreement with Wells
+Fargo Bank, National Association providing a revolving line of credit up to
+$15.0 million and a term loan of $12.5 million, expiring on September 30, 2007.
+The revolving line of credit is for working capital and letters of credit and
+the proceeds from the term loan are for financing acquisitions of other business
+operations. Letters of credit may not exceed $10.0 million at any one time.
+Funding under the credit facility, if combined borrowings under the line of
+credit and term loan exceed $20.0 million, is limited to a collateral base of
+50% of eligible inventory plus 75% of eligible trade accounts receivable.
+Borrowings from the revolving line of credit and term loan bear interest at the
+bank's prime rate less 0.15% or, at the Company's option, fixed term LIBOR plus
+2.5 percentage points, provided certain financial ratios are met. The revolving
+credit line and term loan are collateralized by substantially all of our assets.
+
+     All borrowings are subject to various covenants (while the term loan
+remains outstanding), which include funded debt to earnings before interest,
+income taxes, depreciation and amortization ratio and a
+
+                                        21
+<PAGE>
+
+fixed charge coverage ratio. The agreement also prohibits the payment of
+dividends to shareholders without the consent of the bank. As of December 31,
+2004 and 2003, we were in compliance with all applicable covenants under the
+amended Credit Agreement. We had no borrowings against the revolving credit line
+at December 31, 2004 and 2003. Outstanding letters of credit were $1.9 million
+at the end of 2004 compared to $2.5 million at the end of 2003. We had a
+remaining balance of $5.0 million against the term loan at December 31, 2004,
+which is payable September 30, 2007.
+
+     The Company has several long-term operating leases, long-term debt and
+other commitments related to facilities and long-distance telephone services
+with varying terms. At December 31, 2004, future contractual obligations under
+the above agreements are as follows (in thousands):
+
+<Table>
+<Caption>
+                                     PAYMENT DUE BY PERIOD
+                           -----------------------------------------
+                                        1-3       3-5      MORE THAN
+CONTRACTUAL OBLIGATIONS     TOTAL      YEARS     YEARS      5 YEARS
+-----------------------     -----      -----     -----     ---------
+<S>                        <C>        <C>        <C>       <C>
+Long-Term Debt             $ 5,000    $ 5,000    $   --
+  Obligations.......                                         $  --
+Operating Lease              8,964      6,701     2,263
+  Obligations.......                                            --
+Purchase Obligations...      3,200      3,200        --         --
+                                                             -----
+                           -------    -------    ------
+Total...............       $17,164    $14,901    $2,263      $  --
+                                                             =====
+                           =======    =======    ======
+</Table>
+
+     OPERATING ACTIVITIES. Cash flows provided by operating activities during
+2004 were $7.4 million compared to $16.4 million in 2003. The decrease in cash
+flows provided by operating activities was primarily the result of an increase
+in inventory position at year-end and lower accounts payable to vendors. The
+higher inventory position at the end of 2004 was due to higher level of
+inventory at TSG and the inclusion of TGW's inventory position for the first
+time as a result of the acquisition effective June 29, 2004. TSG's inventory
+position was higher at the end of 2004 largely due to the fact that a greater
+percentage of the inventory to support the spring business was received by year
+end in 2004 than at the end of 2003. The lower accounts payable to vendors at
+the end of 2004 was due to the timing of inventory receipts and the subsequent
+payments to the vendors. Payment terms from our vendors for 2004 have not
+changed significantly from those of 2003.
+
+     Cash flows provided by operating activities during 2003 were $16.4 million
+compared to $9.2 million in 2002. The increase in cash flows provided by
+operating activities was primarily the result of an increase in net earnings, a
+lower inventory position at year-end and higher payables to vendors as a result
+of current vendor terms.
+
+     INVESTING ACTIVITIES. Cash flows used in investing activities during 2004
+were $31.2 million compared to $0.9 million in 2003. On June 29, 2004, the
+Company acquired 100% of the outstanding membership interests of The Golf
+Warehouse, L.L.C. for a purchase price of approximately $30.0 million with an
+additional $0.5 million of transaction costs incurred.
+
+     Cash flows used in investing activities during 2003 were $0.9 million
+compared to $0.9 million in 2002. During 2003, we expended funds for leasehold
+improvements, computer equipment and machinery and equipment.
+
+     FINANCING ACTIVITIES. Cash flows provided by financing activities during
+2004 were $0.4 million compared to cash flows used in financing activities of
+$0.5 million during 2003. Cash flows provided by financing activities during
+2004 were largely due to the Company's borrowings under the new credit facility
+to finance a portion of the total consideration paid for the outstanding
+membership interests of The Golf Warehouse, L.L.C. and the receipt of cash
+proceeds from the exercise of stock options. The increase in cash flows provided
+from the borrowings under the credit facility and the cash proceeds from the
+exercise of stock options was virtually offset by payments to repurchase the
+Company's common stock. On May 13, 2004, the Company announced that its board of
+directors authorized a plan to repurchase up to ten percent of its outstanding
+common stock in the open market or in privately negotiated transactions over the
+next 12 months. Under the 2004 plan, 29,245 shares of common stock at a total
+cost of approximately $0.6 million were repurchased during the year ended
+December 31, 2004. Under the 2003 plan,
+
+                                        22
+<PAGE>
+
+259,644 shares of common stock at a total cost of approximately $5.1 million
+were repurchased during the year ended December 31, 2004.
+
+     Cash flows used in financing activities during 2003 were $0.5 million
+compared to cash flows provided by financing activities of $0.3 million during
+2002. Cash flows used in financing activities during 2003 were primarily
+comprised of payments to repurchase the Company's common stock. On May 5, 2003,
+the Company announced that its board of directors authorized a plan to
+repurchase up to ten percent of its outstanding common stock in the open market
+or in privately negotiated transactions over the next 12 months. Under this plan
+98,950 shares of common stock at a total cost of approximately $1.2 million were
+repurchased during the years ended December 31, 2003. During 2003, we did not
+borrow under the revolving line of credit.
+
+     We believe that cash flows from operations and borrowing capacity under our
+revolving credit facility will be sufficient to fund our operations for the next
+12 months and the foreseeable future. Future acquisitions or other transactions
+may require us to obtain additional sources of financing.
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+     In 2004, the FASB revised Statement No. 123 (FAS 123R), Accounting for
+Stock Based Compensation. FAS 123R eliminates the alternative to use APB Opinion
+No. 25's, Accounting for Stock Issued to Employees, intrinsic value method of
+accounting that was provided in FAS 123 as originally issued. FAS 123R requires
+a public entity to measure the cost of employee services received in exchange
+for an award of equity instruments based on the grant-date fair value of the
+award (with limited exceptions). That cost will be recognized over the period
+during which an employee is required to provide service in exchange for the
+award. For public entities that do not file as small business issuers, this
+Statement is effective as of the beginning of the first interim or annual
+reporting period that begins after June 15, 2005. The Company has not yet
+finished its financial assessment of the implementation of FAS 123R, which will
+be adopted on July 1, 2005.
+
+FORWARD-LOOKING STATEMENTS
+
+     This report contains forward-looking statements within the meaning of
+Section 27A of the Securities Act of 1933 and Section 21E of the Securities
+Exchange Act of 1934. We use words such as "may," "believe," "estimate," "plan,"
+"expect," "intend," "anticipate" and similar expressions to identify forward-
+looking statements. These forward-looking statements involve risks and
+uncertainties. Actual results could differ materially from those projected in
+the forward-looking statements due to a number of factors, including general
+economic conditions, a changing market environment for our products and the
+market acceptance of our product offerings as well as the risk factors described
+in Exhibit 99 to this report.
+
+                                        23
+<PAGE>
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+     The Company does not have any material, near-term, market rate risk.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The following financial statements and schedules are included herein:
+
+<Table>
+<Caption>
+                                                                PAGE
+                                                                ----
+<S>                                                             <C>
+Financial Statements:
+  Reports of Independent Registered Public Accounting
+     Firm...................................................    25-26
+  Consolidated Balance Sheets as of December 31, 2004 and
+     2003...................................................       27
+  Consolidated Statements of Earnings for the years ended
+     December 31, 2004, 2003 and 2002.......................       28
+  Consolidated Statements of Changes in Shareholders' Equity
+     for the years ended December 31, 2004, 2003 and 2002...       29
+  Consolidated Statements of Cash Flows for the years ended
+     December 31, 2004, 2003 and 2002.......................       30
+  Notes to Consolidated Financial Statements................       31
+Financial Statement Schedule:
+  Schedule II -- Valuation and Qualifying Accounts for the
+     years ended December 31, 2004, 2003 and 2002...........       44
+</Table>
+
+                                        24
+<PAGE>
+
+            REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Board of Directors and Shareholders
+The Sportsman's Guide, Inc.
+
+     We have audited the accompanying consolidated balance sheets of The
+Sportsman's Guide, Inc. and subsidiaries as of December 31, 2004 and 2003, and
+the related consolidated statements of earnings, shareholders' equity, and cash
+flows for each of the three years in the period ended December 31, 2004. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+     We conducted our audits in accordance with the standards of the Public
+Company Accounting Oversight Board (United States). Those standards require that
+we plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+
+     In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of The
+Sportsman's Guide, Inc. and subsidiaries as of December 31, 2004 and 2003, and
+the results of their operations and their cash flows for the each of the three
+years in the period ended December 31, 2004, in conformity with accounting
+principles generally accepted in the United States of America.
+
+     Our audits were conducted for the purpose of forming an opinion on the
+basic consolidated financial statements taken as a whole. The accompanying
+Schedule II of The Sportsman's Guide, Inc. and subsidiaries is presented for
+purposes of additional analysis and is not a required part of the basic
+consolidated financial statements. This schedule has been subjected to the
+auditing procedures applied in the audits of the basic consolidated financial
+statements and, in our opinion, is fairly stated in all material respects in
+relation to the basic consolidated financial statements taken as a whole.
+
+     We also have audited, in accordance with the standards of the Public
+Company Accounting Oversight Board (United States), the effectiveness of the
+Company's internal control over financial reporting as of December 31, 2004,
+based on criteria established in Internal Control -- Integrated Framework issued
+by the Committee of Sponsoring Organizations of the Treadway Commission (COSO)
+and our report dated March 14, 2005, expressed an unqualified opinion on
+management's assessment of the effectiveness of the Company's internal control
+over financial reporting and an unqualified opinion on the effectiveness of the
+Company's internal control over financial reporting.
+
+
+
+
+
+                                          /s/ GRANT THORNTON LLP
+Minneapolis, Minnesota
+March 14, 2005
+
+                                        25
+<PAGE>
+
+            REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Board of Directors and Shareholders
+The Sportsman's Guide, Inc.
+
+     We have audited management's assessment, included in the accompanying
+Management's Report on Internal Control over Financial Reporting, that The
+Sportsman's Guide, Inc. and subsidiaries (the Company) maintained effective
+internal control over financial reporting as of December 31, 2004, based on the
+criteria established in Internal Control -- Integrated Framework issued by the
+Committee of Sponsoring Organizations of the Treadway Commission (COSO). The
+Company's management is responsible for maintaining effective internal control
+over financial reporting and for its assessment of the effectiveness of internal
+control over financial reporting. Our responsibility is to express an opinion on
+management's assessment and an opinion on the effectiveness of the Company's
+internal control over financial reporting based on our audit.
+
+     We conducted our audit in accordance with the standards of the Public
+Company Accounting Oversight Board (United States). Those standards require that
+we plan and perform the audit to obtain reasonable assurance about whether
+effective internal control over financial reporting was maintained in all
+material respects. Our audit included obtaining an understanding of internal
+control over financial reporting, evaluating management's assessment, testing
+and evaluating the design and operating effectiveness of internal control, and
+performing such other procedures as we considered necessary in the
+circumstances. We believe that an audit provides a reasonable basis for our
+opinion.
+
+     A company's internal control over financial reporting is a process designed
+to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles. A company's internal control over
+financial reporting includes those policies and procedures that (1) pertain to
+the maintenance of records that, in reasonable detail, accurately and fairly
+reflect the transactions and dispositions of the assets of the company; (2)
+provide reasonable assurance that transactions are recorded as necessary to
+permit preparation of financial statements in accordance with generally accepted
+accounting principles, and that receipts and expenditures of the company are
+being made only in accordance with authorizations of management and directors of
+the company; and (3) provide reasonable assurance regarding prevention or timely
+detection of unauthorized acquisition, use, or disposition of the company's
+assets that could have a material effect on the financial statements.
+
+     Because of its inherent limitations, internal control over financial
+reporting may not prevent or detect misstatements. Also, projections of any
+evaluation of effectiveness to future periods are subject to the risk that
+controls may become inadequate because of changes in conditions, or that the
+degree of compliance with the policies or procedures may deteriorate.
+
+     In our opinion, management's assessment that The Sportsman's Guide, Inc.
+and subsidiaries maintained effective internal control over financial reporting
+as of December 31, 2004, is fairly stated, in all material respects, based on
+the criteria established in Internal Control -- Integrated Framework issued by
+COSO. Also, in our opinion, The Sportsman's Guide, Inc. and subsidiaries
+maintained, in all material respects, effective internal control over financial
+reporting as of December 31, 2004, based on the criteria established in Internal
+Control -- Integrated Framework issued by COSO.
+
+     We have also audited, in accordance with the standards of the Public
+Company Accounting Oversight Board (United States), the consolidated balance
+sheets of The Sportsman's Guide, Inc. and subsidiaries as of December 31, 2004
+and 2003, and the related consolidated statements of earnings, shareholders'
+equity and cash flows for each of the three years in the period ended December
+31, 2004, and our report dated March 14, 2005, expressed an unqualified opinion
+on those financial statements.
+
+
+
+
+
+                                          /s/ GRANT THORNTON LLP
+Minneapolis, Minnesota
+March 14, 2005
+
+                                        26
+<PAGE>
+
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                          CONSOLIDATED BALANCE SHEETS
+
+<Table>
+<Caption>
+                                                                DECEMBER 31,    DECEMBER 31,
+                                                                    2004            2003
+                                                                ------------    ------------
+                                                                (IN THOUSANDS, EXCEPT SHARE
+                                                                          AMOUNTS)
+<S>                                                             <C>             <C>
+                           ASSETS
+CURRENT ASSETS
+  Cash and cash equivalents.................................      $ 8,616         $32,054
+  Accounts receivable -- net................................        3,955           3,034
+  Inventory.................................................       29,148          18,874
+  Promotional material......................................        3,578           2,565
+  Prepaid expenses and other................................        3,122           1,871
+  Restricted cash in escrow.................................        3,011              --
+  Deferred income taxes.....................................        1,122           3,176
+                                                                  -------         -------
+       Total current assets.................................       52,552          61,574
+PROPERTY AND EQUIPMENT -- NET...............................        2,693           2,248
+                                                                  -------         -------
+OTHER ASSETS
+  Goodwill..................................................       17,176              --
+  Trade and domain name.....................................       10,200              --
+  Other intangibles.........................................          658              --
+                                                                  -------         -------
+       Total other assets...................................       28,034              --
+                                                                  -------         -------
+       Total assets.........................................      $83,279         $63,822
+                                                                  =======         =======
+            LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES
+  Accounts payable..........................................      $23,832         $18,950
+  Accrued expenses..........................................        7,146           5,891
+  Income taxes payable......................................        1,982           3,107
+  Escrow liability..........................................        3,010              --
+  Deferred revenue..........................................        5,520           4,623
+  Returns reserve...........................................        2,318           2,240
+  Customer deposits and other liabilities...................        3,021           2,016
+                                                                  -------         -------
+       Total current liabilities............................       46,829          36,827
+LONG-TERM LIABILITIES
+  Note payable -- bank......................................        5,000              --
+  Deferred income taxes.....................................          305              54
+  Other.....................................................           83             133
+                                                                  -------         -------
+       Total long-term liabilities..........................        5,388             187
+                                                                  -------         -------
+       Total liabilities....................................       52,217          37,014
+COMMITMENTS AND CONTINGENCIES...............................           --              --
+SHAREHOLDERS' EQUITY
+  Common Stock -- $.01 par value; 36,800,000 shares
+     authorized; 4,731,831 and 4,826,321 shares issued and
+     outstanding at December 31, 2004 and 2003..............           47              48
+  Additional paid-in capital................................        8,048          11,616
+  Accumulated other comprehensive income....................          232              --
+  Retained earnings.........................................       22,735          15,144
+                                                                  -------         -------
+       Total shareholders' equity...........................       31,062          26,808
+                                                                  -------         -------
+       Total liabilities and shareholders' equity...........      $83,279         $63,822
+                                                                  =======         =======
+</Table>
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+                                        27
+<PAGE>
+
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF EARNINGS
+
+<Table>
+<Caption>
+                                                                       YEARS ENDED DECEMBER 31,
+                                                                --------------------------------------
+                                                                   2004          2003          2002
+                                                                   ----          ----          ----
+                                                                (IN THOUSANDS, EXCEPT PER SHARE DATA)
+<S>                                                             <C>           <C>           <C>
+Sales.......................................................     $232,462      $194,703      $179,315
+Cost of sales...............................................      158,081       130,639       120,707
+                                                                 --------      --------      --------
+     Gross profit...........................................       74,381        64,064        58,608
+Selling, general and administrative expenses................       62,122        54,467        51,983
+                                                                 --------      --------      --------
+     Earnings from operations...............................       12,259         9,597         6,625
+Interest expense............................................         (361)           --            (1)
+Miscellaneous income (expense), net.........................           (2)           24          (297)
+                                                                 --------      --------      --------
+     Earnings before income taxes...........................       11,896         9,621         6,327
+Income tax expense..........................................        4,305         3,463         2,310
+                                                                 --------      --------      --------
+     Net earnings...........................................     $  7,591      $  6,158      $  4,017
+                                                                 ========      ========      ========
+Net earnings per share:
+  Basic.....................................................     $   1.61      $   1.29      $    .85
+                                                                 ========      ========      ========
+  Diluted...................................................     $   1.43      $   1.16      $    .80
+                                                                 ========      ========      ========
+Weighted average common and common equivalent shares
+  outstanding:
+  Basic.....................................................        4,719         4,785         4,752
+                                                                 ========      ========      ========
+  Diluted...................................................        5,323         5,290         5,001
+                                                                 ========      ========      ========
+</Table>
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+                                        28
+<PAGE>
+
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+           CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY
+<Table>
+<Caption>
+                                                                            ACCUMULATED
+                           COMMON STOCK      ADDITIONAL       STOCK            OTHER
+                           ------------       PAID-IN      SUBSCRIPTION    COMPREHENSIVE    RETAINED
+                         SHARES    AMOUNT     CAPITAL       RECEIVABLE        INCOME        EARNINGS
+                         ------    ------    ----------    ------------    -------------    --------
+                                                       (IN THOUSANDS)
+<S>                      <C>       <C>       <C>           <C>             <C>              <C>
+Balances at December
+  31, 2001...........    4,749      $47       $11,565         $(238)             --         $ 4,969
+  Exercise of stock
+    options..........        5       --            23            --              --              --
+  Payment of stock
+    subscription
+    receivable.......       --       --            --           238              --              --
+  Net earnings.......       --       --            --            --              --           4,017
+                         -----      ---       -------         -----            ----         -------
+Total comprehensive
+  income.............
+Balances at December
+  31, 2002...........    4,754       47        11,588            --              --           8,986
+  Exercise of stock
+    options..........      171        2           651            --              --              --
+  Tax benefit related
+    to exercise of
+    stock options....       --       --           554            --              --              --
+  Repurchase of
+    common stock.....      (99)      (1)       (1,177)           --              --              --
+  Net earnings.......       --       --            --            --              --           6,158
+                         -----      ---       -------         -----            ----         -------
+Total comprehensive
+  income.............
+Balances at December
+  31, 2003...........    4,826       48        11,616            --              --          15,144
+  Exercise of stock
+    options..........      194        2         1,089            --              --              --
+  Tax benefit related
+    to exercise of
+    stock options....       --       --         1,070            --              --              --
+  Repurchase of
+    common stock.....     (288)      (3)       (5,727)           --              --              --
+  Net earnings.......       --       --            --            --              --           7,591
+  Other comprehensive
+    income --
+    marketable
+    securities.......       --       --            --            --             232              --
+                         -----      ---       -------         -----            ----         -------
+Total comprehensive
+  income.............
+Balances at December
+  31, 2004...........    4,732      $47       $ 8,048         $  --            $232         $22,735
+                         =====      ===       =======         =====            ====         =======
+
+<Caption>
+
+                           TOTAL
+                       SHAREHOLDERS'    COMPREHENSIVE
+                          EQUITY           INCOME
+                       -------------    -------------
+                               (IN THOUSANDS)
+<S>                    <C>              <C>
+Balances at December
+  31, 2001...........     $16,343
+  Exercise of stock
+    options..........          23
+  Payment of stock
+    subscription
+    receivable.......         238
+  Net earnings.......       4,017          $4,017
+                          -------          ------
+Total comprehensive
+  income.............                      $4,017
+                                           ======
+Balances at December
+  31, 2002...........      20,621
+  Exercise of stock
+    options..........         653
+  Tax benefit related
+    to exercise of
+    stock options....         554
+  Repurchase of
+    common stock.....      (1,178)
+  Net earnings.......       6,158          $6,158
+                          -------          ------
+Total comprehensive
+  income.............                      $6,158
+                                           ======
+Balances at December
+  31, 2003...........      26,808
+  Exercise of stock
+    options..........       1,091
+  Tax benefit related
+    to exercise of
+    stock options....       1,070
+  Repurchase of
+    common stock.....      (5,730)
+  Net earnings.......       7,591          $7,591
+  Other comprehensive
+    income --
+    marketable
+    securities.......         232             232
+                          -------          ------
+Total comprehensive
+  income.............                      $7,823
+                                           ======
+Balances at December
+  31, 2004...........     $31,062
+                          =======
+</Table>
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+                                        29
+<PAGE>
+
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<Table>
+<Caption>
+                                                                   YEARS ENDED DECEMBER 31,
+                                                                ------------------------------
+                                                                  2004       2003       2002
+                                                                  ----       ----       ----
+                                                                        (IN THOUSANDS)
+<S>                                                             <C>         <C>        <C>
+Cash flows from operating activities:
+  Net earnings..............................................    $  7,591    $ 6,158    $ 4,017
+  Adjustments to reconcile net earnings to cash flows
+     provided by operating activities:
+     Depreciation and amortization..........................       1,431      1,322      1,579
+     Deferred income taxes..................................       2,305       (832)    (1,049)
+     Tax benefit related to exercise of stock options.......       1,070        554         --
+     Change in fair value of marketable securities..........         232         --         --
+     Loss on disposal of property and equipment.............          --          9        310
+     Other..................................................           9          6         13
+     Changes in assets and liabilities, net of acquisition:
+       Accounts receivable..................................        (842)       (20)      (255)
+       Inventory............................................      (4,009)     1,719        483
+       Promotional material.................................        (842)       (25)     1,074
+       Prepaid expenses and other...........................      (1,090)      (743)      (200)
+       Income taxes payable.................................      (1,125)     1,225       (302)
+       Accounts payable.....................................         259      2,720      1,029
+       Accrued expenses.....................................         964      1,995      1,114
+       Customer deposits and other liabilities..............       1,463      2,266      1,414
+                                                                --------    -------    -------
+          Cash flows provided by operating activities.......       7,416     16,354      9,227
+Cash flows from investing activities:
+  Purchases of property and equipment.......................        (772)      (941)      (928)
+  Business acquisition......................................     (27,432)        --         --
+  Restricted cash...........................................      (3,011)        --         --
+  Other.....................................................          --         14         --
+                                                                --------    -------    -------
+          Cash flows used in investing activities...........     (31,215)      (927)      (928)
+Cash flows from financing activities:
+  Proceeds from note payable to bank........................      12,500         --         --
+  Principal payments on note payable to bank................      (7,500)        --         --
+  Proceeds from exercise of stock options...................       1,091        652         23
+  Repurchase of common stock................................      (5,730)    (1,177)        --
+  Proceeds from payment of stock subscription receivable....          --         --        238
+                                                                --------    -------    -------
+          Cash flows provided by (used in) financing
+            activities......................................         361       (525)       261
+                                                                --------    -------    -------
+Increase (decrease) in cash and cash equivalents............     (23,438)    14,902      8,560
+Cash and cash equivalents at beginning of the year..........      32,054     17,152      8,592
+                                                                --------    -------    -------
+Cash and cash equivalents at end of the year................    $  8,616    $32,054    $17,152
+                                                                ========    =======    =======
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+  Cash paid during the year for:
+     Interest...............................................    $    360    $    --    $     1
+     Income taxes...........................................       3,560      2,567      3,661
+  Cash received during the year for:
+     Income tax refund......................................    $  1,505    $    --    $    --
+</Table>
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+                                        30
+<PAGE>
+
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE A -- SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+1. DESCRIPTION OF BUSINESS
+
+     The Sportsman's Guide, Inc. (the "Company") is a multi-channel direct
+marketer of value priced outdoor gear, general merchandise and golf
+equipment/accessories. The Company markets its products through catalogs and
+e-commerce web sites. The Company currently has two reportable business
+segments, The Sportsman's Guide ("TSG") and The Golf Warehouse ("TGW"). Each
+segment is separately managed and utilizes distinct distribution, marketing,
+merchandising and inventory strategies.
+
+     TSG is a marketer of value priced outdoor gear and general merchandise,
+with a special emphasis on outdoor clothing, equipment and footwear. TSG markets
+and sells merchandise through main, specialty and Buyer's Club catalogs and two
+e-commerce websites. TSG's catalogs as well as its websites offer high quality
+products at low prices. TSG's catalogs are advertised as The "Fun-to-Read"
+Catalog(R) and the primary website is advertised as the "Fun-to-Browse"
+Website(R). TSG's websites include www.sportsmansguide.com, the online retail
+store modeled on its print catalogs and www.bargainoutfitters.com, the online
+liquidation outlet.
+
+     On June 29, 2004, the Company acquired 100% of the outstanding membership
+interests of The Golf Warehouse, L.L.C. TGW is an on-line and catalog retailer
+of golf equipment, apparel and accessories. TGW markets and sells golf related
+merchandise primarily through its Web site, www.TGW.com and through catalogs.
+The majority of TGW's sales are generated through the Internet. TGW's first
+catalog was published in the winter of 2002.
+
+     The significant accounting policies of both business segments, where
+applicable, are the same as described in the following paragraphs.
+
+2. CONSOLIDATION
+
+     The accompanying consolidated financial statements include the accounts of
+the Company and its wholly-owned subsidiaries. All significant intercompany
+balances and transactions have been eliminated in consolidation.
+
+3. REVENUE RECOGNITION
+
+     Sales are recorded at the time of shipment along with a provision for
+anticipated merchandise returns, net of exchanges, which is recorded based upon
+historical experience and current expectations. The net provision charged
+against sales was $10.6 million, $9.2 million and $9.0 million during the years
+ended December 31, 2004, 2003 and 2002. Reserves for returns, net of exchanges,
+were $2.3 million and $2.2 million at December 31, 2004 and 2003.
+
+     Amounts billed to customers for shipping and handling are recorded in
+revenues at the time of shipment. Sales include shipping and handling revenues
+of $27.1 million, $24.8 million and $23.5 million for the years ended December
+31, 2004, 2003 and 2002.
+
+     TSG's customers can purchase one-year memberships in the Buyer's Club for a
+$29.99 annual fee. TSG also offers two-year memberships for $59.97. Club members
+receive merchandise discounts of 10% on regularly priced items and 5% on
+ammunition. Membership fees are deferred and recognized in income as the
+individual members place orders and earn discounts. Any remaining deferred
+membership fees are recognized in income after the expiration of the membership.
+
+                                        31
+<PAGE>
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE A -- SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+4. CASH AND CASH EQUIVALENTS
+
+     The Company considers all highly liquid temporary investments purchased
+with an original maturity of three months or less to be cash equivalents. The
+Company also considers credit card settlements in-transit as cash for reporting
+purposes. Cash equivalents at December 31, 2004 were invested in a money market
+fund. Cash equivalents at December 31, 2003 were invested in a money market fund
+and a tax-exempt money market fund.
+
+5. ACCOUNTS RECEIVABLE
+
+     Accounts receivable consist primarily of amounts owed for merchandise by
+customers utilizing an installment payment plan and amounts owed for list rental
+and other advertising services provided by the Company to third parties. The
+Company had an allowance for doubtful accounts of $124,000 and $146,000 at
+December 31, 2004 and 2003.
+
+6. INVENTORY
+
+     Inventory consists of purchased finished merchandise available for sale and
+is recorded at the lower of cost or market with the first-in, first-out method
+used to determine cost.
+
+7. PROMOTIONAL MATERIAL AND ADVERTISING COSTS
+
+     The cost of producing and mailing catalogs is deferred and expensed over
+the estimated useful lives of the catalogs. Catalog production and mailing costs
+are amortized over periods ranging from four to six months from the in-home date
+of the catalog with the majority of the costs amortized within the first month.
+The Company estimates the in-home date to be one week from the known mailing
+date of the catalog. The ongoing cost of developing and maintaining the customer
+list is charged to operations as incurred. All other advertising costs are
+expensed as incurred.
+
+8. PROPERTY AND EQUIPMENT
+
+     Property and equipment are stated at cost less accumulated depreciation and
+amortization. The Company capitalizes external and incremental internal costs of
+developing computer software for internal use that represent major enhancements
+and/or replacements of operating and management systems. Depreciation and
+amortization is computed using the straight-line method.
+
+9. GOODWILL, INTANGIBLE AND OTHER LONG-LIVED ASSETS
+
+     Intangibles, such as customer lists and non-compete covenants, with a
+definite life are amortized over their useful lives. Useful lives are based on
+management's estimates of the period that the assets will generate revenue.
+
+     The remaining expected amortization of other intangible assets will be
+$658,000 for the next five years.
+
+     The Company does not amortize goodwill or trade and domain names and
+reviews them for impairment on a regular basis, at least annually.
+
+     There was no impairment charge recorded by the Company for the year ended
+December 31, 2004.
+
+                                        32
+<PAGE>
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE A -- SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+10. STOCK OPTIONS
+
+     Stock options issued to employees are accounted for under the intrinsic
+value method. No stock-based compensation cost is reflected in net earnings, as
+all options granted had an exercise price equal to the market value of the
+underlying common stock on the date of grant. The following table illustrates
+the effect on net earnings and earnings per share as if the Company had applied
+the fair value method of accounting for stock options (in thousands, except per
+share data):
+
+<Table>
+<Caption>
+                                                                 YEARS ENDED DECEMBER 31,
+                                                                --------------------------
+                                                                 2004      2003      2002
+                                                                 ----      ----      ----
+<S>                                                             <C>       <C>       <C>
+Net earnings as reported....................................    $7,591    $6,158    $4,017
+Deduct: Total stock-based employee compensation expense
+  under the fair value method for all awards, net of related
+  tax effects...............................................      (934)     (452)     (180)
+                                                                ------    ------    ------
+Pro-forma net earnings......................................    $6,657    $5,706    $3,837
+                                                                ======    ======    ======
+Earnings per share:
+  Basic -- as reported......................................    $ 1.61    $ 1.29    $  .85
+  Basic -- pro-forma........................................      1.45      1.22       .82
+  Diluted -- as reported....................................    $ 1.43    $ 1.16    $  .80
+  Diluted -- pro-forma......................................      1.29      1.10       .78
+</Table>
+
+     The fair value of each option granted is estimated on the date of grant
+using the Black-Scholes option-pricing model with the following weighted-average
+assumptions used: zero dividend yield; expected volatility of 48% in 2004, 62%
+in 2003, and 94% in 2002; risk-free interest rates of 2.87% to 3.87% in 2004,
+3.18% in 2003, and 2.93% in 2002, estimated forfeiture of 2% to 5% in 2004 and
+2% in 2003 and 2002; and expected life of 3 to 5 years for 2004 and 5 years for
+2003 and 2002.
+
+11. NET EARNINGS PER SHARE
+
+     The Company's basic net earnings per share amounts have been computed by
+dividing net earnings by the weighted average number of outstanding common
+shares. Diluted net earnings per share amounts have been computed by dividing
+net earnings by the weighted average number of outstanding common shares and
+common share equivalents relating to stock options, when dilutive.
+
+     For the years ended December 31, 2004, 2003 and 2002, 604,521, 504,610 and
+248,228 common share equivalents were included in the computation of diluted net
+earnings per share.
+
+     All options to purchase shares of common stock were included in the
+computation of diluted net earnings per share for the year ended December 31,
+2004.
+
+     Options and warrants to purchase 3,738 and 325,032 shares of common stock
+with a weighted average exercise price of $8.70 and $7.22 were outstanding at
+December 31, 2003 and 2002, but were not included in the computation of diluted
+net earnings per share because the exercise price exceeded the average market
+price of the common shares during the period.
+
+12. FISCAL YEAR
+
+     The Company's fiscal year ends on the Sunday nearest December 31, but for
+clarity of presentation, all periods are described as if the year end is
+December 31. Fiscal year 2004 consisted of 53 weeks. Fiscal years 2003, 2002 and
+2001 each consisted of 52 weeks.
+
+                                        33
+<PAGE>
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE A -- SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+13. FAIR VALUES OF FINANCIAL INSTRUMENTS
+
+     Due to their short-term nature, the carrying value of the Company's
+financial assets and liabilities approximates their fair values.
+
+14. USE OF ESTIMATES IN PREPARING FINANCIAL STATEMENTS
+
+     Preparation of the Company's financial statements in conformity with
+accounting principles generally accepted in the United States of America
+requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities, the disclosure of contingent assets and
+liabilities at the date of the financial statements, and the amounts of revenues
+and expenses during the reporting periods. Actual results could differ from
+those estimates.
+
+NOTE B -- PROPERTY AND EQUIPMENT
+
+     Property and equipment consists of the following (in thousands):
+
+<Table>
+<Caption>
+                                                            DECEMBER 31,    DECEMBER 31,     ESTIMATED
+                                                                2004            2003        USEFUL LIVES
+                                                            ------------    ------------    ------------
+<S>                                                         <C>             <C>             <C>
+Machinery, equipment and furniture......................      $ 6,044         $ 5,553         3-7 years
+Leasehold improvements..................................        2,557           1,968        Lease term
+Computer equipment and accessories......................        3,466           2,985         3-5 years
+Computer software.......................................        4,476           4,271         3-5 years
+                                                              -------         -------
+                                                               16,543          14,777
+Less accumulated depreciation and amortization..........       13,850          12,529
+                                                              -------         -------
+                                                              $ 2,693         $ 2,248
+                                                              =======         =======
+</Table>
+
+NOTE C -- CREDIT FACILITY
+
+     On June 29, 2004, the Company entered into an amended Credit Agreement with
+Wells Fargo Bank, National Association providing a revolving line of credit up
+to $15.0 million and a term loan of $12.5 million, expiring on September 30,
+2007. The revolving line of credit is for working capital and letters of credit
+and the proceeds from the term loan are for financing acquisitions of other
+business operations. Letters of credit may not exceed $10.0 million at any one
+time. Funding under the credit facility, if combined borrowings under the line
+of credit and term loan exceed $20.0 million, is limited to a collateral base of
+50% of eligible inventory plus 75% of eligible trade accounts receivable.
+Borrowings from the revolving line of credit and term loan bear interest at the
+bank's prime rate less 0.15% or, at the Company's option, fixed term LIBOR plus
+2.5 percentage points, provided certain financial ratios are met. Under the
+terms of the credit agreement, repayments of the term loan were to be payable
+annually each September as follows: $2.5 million payable September 30, 2005,
+$5.0 million payable September 30, 2006 and $5.0 million payable September 30,
+2007. The Company paid $7.5 million on the term loan in December 2004. The
+revolving credit line is collateralized by substantially all of our assets.
+
+     All borrowings are subject to various covenants (while the term loan
+remains outstanding), which include funded debt to earnings before interest,
+income taxes, depreciation and amortization ratio and a fixed charge coverage
+ratio. The agreement also prohibits the payment of dividends to shareholders
+without the consent of the bank. As of December 31, 2004 and 2003, we were in
+compliance with all applicable covenants under the revolving line of credit
+agreement. The Company had no borrowings against the revolving credit line at
+December 31, 2004 and 2003. The Company had a remaining balance of $5.0 million
+against the term loan at December 31, 2004, which is payable September 30, 2007.
+
+                                        34
+<PAGE>
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE C -- CREDIT FACILITY (CONTINUED)
+
+Outstanding letters of credit were $1.9 million at the end of 2004 compared to
+$2.5 million at the end of 2003.
+
+     The following is a summary of the credit facility (in thousands):
+
+<Table>
+<Caption>
+                                                                 YEARS ENDED DECEMBER 31,
+                                                                ---------------------------
+                                                                 2004       2003      2002
+                                                                 ----       ----      ----
+<S>                                                             <C>        <C>       <C>
+Borrowings at end of year...................................    $ 5,000    $   --    $   --
+Interest rate at end of year................................       4.82%     3.50%     4.25%
+Maximum month-end borrowing during the year.................    $18,485    $   --    $   --
+Average daily borrowing during the year.....................    $ 7,873    $   --    $   --
+Weighted average interest rate during the year..............       4.35%      N/A       N/A
+Outstanding letters of credit at end of year................    $ 1,876    $2,483    $2,619
+</Table>
+
+NOTE D -- ACQUISITION
+
+     On June 29, 2004, the Company acquired 100% of the outstanding membership
+interests of The Golf Warehouse, L.L.C. from Falconhead Capital LLC, a private
+investment firm, and members of TGW management pursuant to a Membership Interest
+Purchase Agreement dated as of June 29, 2004. The purchase price for TGW was
+approximately $30.5 million and was funded from the Company's working capital
+and borrowings under the Company's credit facility with Wells Fargo Bank,
+National Association. The purchase price for TGW of $30.5 million consisted of
+$30 million for 100% of the outstanding membership interests and $0.5 million of
+transaction costs.
+
+     The acquisition of TGW has been accounted for using the purchase method of
+accounting. The fair market value of the net assets acquired resulted in the
+following purchase price allocation (in thousands):
+
+<Table>
+<S>                                                             <C>
+Net assets acquired, including:
+Current assets..............................................    $ 6,674
+Property and equipment......................................      1,013
+Liabilities assumed.........................................     (5,371)
+                                                                -------
+Net assets acquired.........................................      2,316
+Trade and domain name.......................................     10,200
+Customer lists and non-compete agreements...................        750
+Goodwill....................................................     17,176
+                                                                -------
+Total purchase price........................................    $30,442
+                                                                =======
+</Table>
+
+     The acquisition transaction had the following net effect on the
+accompanying 2004 consolidated statement of cash flows (in thousands):
+
+<Table>
+<S>                                                             <C>
+Fair value of net working capital acquired..................    $ 1,303
+Fair value of property and equipment acquired...............      1,013
+Purchase price assigned to:
+Goodwill....................................................     17,176
+Identifiable intangibles....................................     10,950
+Escrow liability............................................     (3,010)
+                                                                -------
+Cash purchase price.........................................    $27,432
+                                                                =======
+</Table>
+
+     Pursuant to the Membership Interest Purchase Agreement dated June 29, 2004,
+$4.0 million of the estimated purchase price was deposited into an escrow
+account. In accordance with and subject to the
+                                        35
+<PAGE>
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE D -- ACQUISITION (CONTINUED)
+
+escrow agreement, the escrow agent shall distribute amounts (net of claims) from
+the escrow account to the Sellers as follows (in thousands):
+
+<Table>
+<S>                                                             <C>
+90 days after closing date..................................              $ 500
+180 days after closing date.................................                500
+360 days after closing date.................................              1,500
+540 days after closing date.................................    Remaining Funds
+</Table>
+
+     As of December 31, 2004, there was restricted cash in escrow of
+approximately $3.0 million and an offsetting $3.0 million included in current
+liabilities.
+
+     The following unaudited pro forma summary represents the consolidated
+results of operations as if the TGW acquisition had occurred at the beginning of
+2003. This presentation does not purport to be indicative of what would have
+occurred had the acquisition been made as of that date or of results which may
+occur in the future.
+
+     For the years ended December 31:
+
+<Table>
+<Caption>
+                                                                  2004        2003
+                                                                --------    --------
+<S>                                                             <C>         <C>
+Net sales...................................................    $259,542    $237,129
+Net income..................................................       8,079       6,646
+Basic net earnings per share................................        1.71        1.39
+Diluted net earnings per share..............................        1.52        1.26
+</Table>
+
+NOTE E -- INCOME TAXES
+
+     The provision for income tax expense consists of the following (in
+thousands):
+
+<Table>
+<Caption>
+                                                                 YEARS ENDED DECEMBER 31,
+                                                                ---------------------------
+                                                                 2004      2003      2002
+                                                                 ----      ----      ----
+<S>                                                             <C>       <C>       <C>
+Current
+  Federal...................................................    $1,934    $4,253    $ 3,337
+  State.....................................................        66        42         22
+                                                                ------    ------    -------
+                                                                 2,000     4,295      3,359
+Deferred
+  Federal...................................................     2,305      (832)    (1,049)
+                                                                ------    ------    -------
+                                                                $4,305    $3,463    $ 2,310
+                                                                ======    ======    =======
+</Table>
+
+     Differences between income tax expense and amounts derived by applying the
+statutory federal income tax rate to earnings before income taxes are as
+follows:
+
+<Table>
+<Caption>
+                                                                    YEARS ENDED
+                                                                    DECEMBER 31,
+                                                                --------------------
+                                                                2004    2003    2002
+                                                                ----    ----    ----
+<S>                                                             <C>     <C>     <C>
+U.S. federal statutory rate.................................    34.0%   34.0%   34.0%
+State taxes.................................................     0.6     0.4     0.3
+Other.......................................................     1.6     1.6     2.2
+                                                                ----    ----    ----
+                                                                36.2%   36.0%   36.5%
+                                                                ====    ====    ====
+</Table>
+
+                                        36
+<PAGE>
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE E -- INCOME TAXES (CONTINUED)
+
+     The components of deferred taxes consist of the following (in thousands):
+
+<Table>
+<Caption>
+                                                                DECEMBER 31,    DECEMBER 31,
+                                                                    2004            2003
+                                                                ------------    ------------
+<S>                                                             <C>             <C>
+Current deferred tax assets (liabilities):
+  Inventory.................................................       $  682          $  736
+  Vacation accrual..........................................          214             174
+  Returns reserve...........................................          854             852
+  Promotional material......................................         (732)           (238)
+  Prepaid expenses..........................................         (345)           (333)
+  Deferred revenue..........................................           --           1,547
+  Other.....................................................          449             438
+                                                                   ------          ------
+     Current deferred tax asset.............................        1,122           3,176
+Long-term deferred tax assets (liabilities):
+  Internally developed software.............................         (923)           (923)
+  Amortization of intangible assets.........................         (347)             --
+  Depreciation..............................................          965             869
+                                                                   ------          ------
+     Long-term deferred tax liability.......................         (305)            (54)
+                                                                   ------          ------
+     Net deferred tax asset.................................       $  817          $3,122
+                                                                   ======          ======
+</Table>
+
+NOTE F -- COMMITMENTS AND CONTINGENCIES
+
+LEASE AND OTHER COMMITMENTS
+
+     The Company has several long-term operating leases and other commitments
+related to facilities, office equipment and long-distance telephone services
+with varying terms.
+
+     At December 31, 2004, future minimum commitments under the above agreements
+are as follows for the years ended December 31, (in thousands):
+
+<Table>
+<S>                                                             <C>
+2005........................................................    $ 3,681
+2006........................................................      3,584
+2007........................................................      2,636
+2008........................................................      1,810
+2009........................................................        453
+Thereafter..................................................         --
+                                                                -------
+                                                                $12,164
+                                                                =======
+</Table>
+
+     Rent expense was $2.4 million, $2.3 million and $2.5 million for the years
+ended December 31, 2004, 2003 and 2002.
+
+EMPLOYMENT AGREEMENTS
+
+     The Company has employment agreements with three of its officers. The
+agreements contain various terms and conditions including a provision for the
+officers to receive up to three years of base salary upon the occurrence of
+certain events as defined in the agreement. The officers' agreements provide for
+automatic annual renewal unless two months' prior written notice is provided by
+the Company or the officer.
+
+                                        37
+<PAGE>
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE F -- COMMITMENTS AND CONTINGENCIES (CONTINUED)
+
+     The Company has employment agreements with three TGW management employees.
+The agreements contain various terms and conditions including a provision for
+the employees to receive up to two years of base salary if their employment is
+terminated by the Company without cause. The agreements continue until
+terminated by the employee or the Company.
+
+     In June 2002, the Company entered into an agreement with Gary Olen pursuant
+to which Mr. Olen provides services to the Company and has granted the Company
+the exclusive right to use his name and likeness. The agreement continues until
+June 30, 2007 and is automatically renewed for additional one-year terms unless
+either party gives one year's notice of non-renewal. Under the agreement, the
+Company pays Mr. Olen an annual salary, which is subject to an annual cost of
+living adjustment, plus benefits. The Company paid Mr. Olen $53,934 in 2004,
+$50,000 in 2003 and $25,000 in 2002.
+
+PROFIT SHARING PLAN
+
+     The Company has a 401(k) plan covering substantially all employees. The
+Plan allows the Company to make discretionary matching contributions to the
+plan. The Company made contributions of $138,000, $110,000 and $110,000 for the
+years ended December 31, 2004, 2003 and 2002.
+
+     The Company has a nonqualified executive deferred compensation plan that
+provides supplemental retirement income benefits for a select group of
+management. This plan permits eligible employees to make salary and bonus
+deferrals that are 100% vested. The Company has an unsecured obligation to pay
+in the future the value of the deferred compensation along with a crediting rate
+that is adjusted to reflect the performance, whether positive or negative, of
+selected investment indices as requested by each participant and available under
+the plan, during the deferral period.
+
+LEGAL PROCEEDINGS
+
+     The Company has been notified by NCR Corporation ("NCR") that NCR believes
+some of the Company's e-commerce website functions are covered by certain
+"business method" patents owned by NCR. NCR has stated it is willing to grant a
+patent license to the Company on commercially reasonable terms. The Company is
+investigating the claims. At the present time, the Company cannot predict the
+outcome of this matter or the potential range of loss or expense involved.
+
+     In March 2003, the Company was notified by the Bureau of Industry, United
+States Department of Commerce (BIS) that BIS had reason to believe the Company
+violated Export Administration Regulations by exporting optical sighting devices
+for firearms and associated parts to Canada and other destinations without
+obtaining required authorization from BIS. BIS asserted the Company committed 61
+separate violations for shipments from October 1999 to March 2002. The Company
+settled this matter for $183,500 in December 2004.
+
+     The Company is not a party to any pending legal proceedings other than
+litigation which is incidental to its business and which the Company believes
+will not have a material effect on its consolidated financial statements.
+
+OTHER
+
+     Several states, where the Company does not currently collect and remit
+sales and use taxes, have attempted to enact legislation that seeks to require
+out-of-state mail order companies to collect and remit such taxes. No
+assessments have been made against the Company and, to its knowledge, none has
+been threatened or is contemplated. The United States Supreme Court has held
+that such taxes place an
+
+                                        38
+<PAGE>
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE F -- COMMITMENTS AND CONTINGENCIES (CONTINUED)
+
+unconstitutional burden on interstate commerce, which may only be resolved by
+actions of the United States Congress.
+
+NOTE G -- RELATED PARTY TRANSACTIONS
+
+     Previously, the Company loaned $238,000 to an officer of the Company to be
+repaid with interest at 5.69% per annum. In April 2002, the outstanding loan
+balance and accrued interest was paid in full.
+
+NOTE H -- SHAREHOLDERS' EQUITY
+
+     The Company has 40,000,000 authorized shares; 200,000 of Series A Preferred
+Stock, 36,800,000 of Common Stock and 3,000,000 undesignated shares.
+
+STOCK REPURCHASE PROGRAM
+
+     On May 13, 2004, the Company announced that its board of directors
+authorized a plan to repurchase up to ten percent of its outstanding common
+stock in the open market or in privately negotiated transactions over the next
+12 months. Under this plan 29,245 shares of common stock at a total cost of $0.6
+million were repurchased during the year ended December 31, 2004. The following
+table summarizes our repurchases of shares of our common stock under this plan
+during the year ended December 31, 2004:
+
+<Table>
+<Caption>
+                                                                          TOTAL NUMBER OF       MAXIMUM NUMBER
+                                                                        SHARES REPURCHASED    OF SHARES THAT MAY
+                                        TOTAL NUMBER                    AS PART OF PUBLICLY    YET BE PURCHASED
+                                         OF SHARES     AVERAGE PRICE      ANNOUNCED PLANS      UNDER THE PLANS
+PERIOD                                   PURCHASED     PAID PER SHARE       OR PROGRAMS          OR PROGRAMS
+------                                  ------------   --------------   -------------------   ------------------
+<S>                                     <C>            <C>              <C>                   <C>
+May 13 -- December 31, 2004..........      29,245          $19.92             29,245               441,511
+</Table>
+
+     On May 5, 2003, the Company announced that its board of directors
+authorized a plan to repurchase up to ten percent of its outstanding common
+stock in the open market or in privately negotiated transactions over the next
+12 months. Under this plan 259,644 and 98,950 shares of common stock at a total
+cost of $5.1 million and $1.2 million were repurchased during the years ended
+December 31, 2004 and 2003. The following table summarizes our repurchases of
+shares of our common stock under this plan during the years ended December 31,
+2003 and 2004:
+
+<Table>
+<Caption>
+                                                                          TOTAL NUMBER OF       MAXIMUM NUMBER
+                                                                        SHARES REPURCHASED    OF SHARES THAT MAY
+                                        TOTAL NUMBER                    AS PART OF PUBLICLY    YET BE PURCHASED
+                                         OF SHARES     AVERAGE PRICE      ANNOUNCED PLANS      UNDER THE PLANS
+PERIOD                                   PURCHASED     PAID PER SHARE       OR PROGRAMS          OR PROGRAMS
+------                                  ------------   --------------   -------------------   ------------------
+<S>                                     <C>            <C>              <C>                   <C>
+May 5 -- December 31, 2003...........      98,950          $11.91              98,950              377,164
+January 1 -- May 5, 2004.............     259,644           19.83             259,644                   --
+                                          -------          ------             -------
+Total................................     358,594          $17.64             358,594                   --
+                                          =======          ======             =======
+</Table>
+
+STOCK OPTIONS
+
+     The Company has a stock option plan (the "1991 Plan") which provides
+participating employees the right to purchase common stock of the Company
+through incentive stock options. A total of 35,000 shares of common stock were
+reserved for issuance under the 1991 Plan. Options issued under the 1991 Plan
+are exercisable over a ten year period from the date of grant. At December 31,
+2004, 6,000 options were outstanding, all of which were exercisable.
+
+                                        39
+<PAGE>
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE H -- SHAREHOLDERS' EQUITY (CONTINUED)
+
+     The Company has a non-qualified stock option plan (the "1994 Plan") which
+provides for the issuance of options to purchase up to 100,000 shares of the
+Company's common stock to certain employees, contingent upon meeting certain
+quarterly pre-tax earnings levels. Options under the 1994 Plan are exercisable
+over a ten year period from the date of grant. All outstanding options were
+exercised during the year ended December 31, 2004.
+
+     The Company has an incentive stock option plan (the "1996 Plan") which
+provides select key employees the right to purchase common stock of the Company
+through the exercise of options granted. A total of 600,000 shares of common
+stock were reserved for issuance under the 1996 Plan. Options issued under the
+1996 Plan are exercisable over a ten year period from the date of grant. At
+December 31, 2004, a total of 323,902 options were outstanding, of which 278,794
+options were exercisable.
+
+     The Company has an incentive stock option plan (the "1999 Plan") which
+provides select key employees the right to purchase common stock of the Company
+through the exercise of options granted. A total of 600,000 shares of common
+stock were reserved for issuance under the 1999 Plan. Options issued under the
+1999 Plan are exercisable over a ten year period from the date of grant. At
+December 31, 2004, a total of 521,977 options were outstanding, of which 364,418
+options were exercisable.
+
+     The Company has a stock incentive plan (the "2004 Plan") under which the
+Company may grant to select key employees awards in the form of stock options,
+restricted stock, stock equivalent units and cash performance units. A total of
+600,000 shares of common stock were reserved for issuance under the 2004 Plan.
+Options issued under the 2004 Plan are exercisable over a ten year period from
+the date of grant. At December 31, 2004, a total of 491,000 options were
+outstanding, none of which were exercisable.
+
+     The following applies to options that are outstanding at December 31, 2004:
+
+<Table>
+<Caption>
+                                                                             WEIGHTED                   WEIGHTED
+                                                         WEIGHTED AVERAGE    AVERAGE                    AVERAGE
+                                            NUMBER          REMAINING        EXERCISE      NUMBER       EXERCISE
+RANGE OF EXERCISE PRICES                  OUTSTANDING    CONTRACTUAL LIFE     PRICE      EXERCISABLE     PRICE
+------------------------                  -----------    ----------------    --------    -----------    --------
+<S>                                       <C>            <C>                 <C>         <C>            <C>
+$ 2.50 -- $ 2.95......................       223,835          6 years         $ 2.87       223,835       $ 2.87
+$ 4.00 -- $ 5.88......................        69,860          3 years           4.86        69,860         4.86
+$ 6.50 -- $ 6.75......................       374,184          6 years           6.66       294,184         6.63
+$16.15 -- $22.36......................       675,000         10 years          19.59        61,333        16.15
+                                           ---------                                       -------
+                                           1,342,879                                       649,212
+                                           =========                                       =======
+</Table>
+
+                                        40
+<PAGE>
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE H -- SHAREHOLDERS' EQUITY (CONTINUED)
+
+     A summary of the stock option transactions during the years ended December
+31, 2004, 2003 and 2002 is as follows:
+
+<Table>
+<Caption>
+                                              2004                     2003                     2002
+                                      ---------------------    ---------------------    ---------------------
+                                                   WEIGHTED                 WEIGHTED                 WEIGHTED
+                                                   AVERAGE                  AVERAGE                  AVERAGE
+                                                   EXERCISE                 EXERCISE                 EXERCISE
+                                       SHARES       PRICE       SHARES       PRICE       SHARES       PRICE
+                                      ---------    --------    ---------    --------    ---------    --------
+<S>                                   <C>          <C>         <C>          <C>         <C>          <C>
+Outstanding at beginning of
+  year............................    1,046,278     $ 7.20     1,050,406     $ 5.05       807,156     $4.52
+  Granted.........................      491,000      20.87       184,000      16.15       250,000      6.75
+  Exercised.......................     (194,399)      5.62      (171,461)      3.81        (5,000)     4.53
+  Canceled........................           --         --       (16,667)      5.23        (1,750)     6.30
+  Expired.........................           --         --            --         --            --        --
+                                      ---------     ------     ---------     ------     ---------     -----
+Outstanding at end of year........    1,342,879     $12.43     1,046,278     $ 7.20     1,050,406     $5.05
+                                      =========     ======     =========     ======     =========     =====
+Options exercisable at end of
+  year............................      649,212     $ 6.04       622,278     $ 5.22       627,489     $4.96
+                                      =========     ======     =========     ======     =========     =====
+Weighted average fair value of
+  options granted during the
+  year............................                  $ 9.05                   $12.28                   $6.00
+</Table>
+
+WARRANTS
+
+     In connection with a public offering of common stock in 1998, warrants to
+purchase 100,000 shares of common stock at $8.45 per share were issued. The
+warrants expired in February 2003.
+
+NOTE I -- SEGMENT INFORMATION
+
+     The Company operates in two business segments. The Sportsman's Guide
+("TSG") markets and sells value priced outdoor gear and general merchandise,
+with a special emphasis on clothing, equipment and footwear through main,
+specialty and Buyer's Club Advantage(TM) catalogs and two e-commerce Web sites.
+The Golf Warehouse, Inc. ("TGW") markets and sells golf equipment, apparel and
+accessories through one e-commerce Web site and catalogs. On June 29, 2004, The
+Sportsman's Guide, Inc. acquired 100% of the outstanding membership interests of
+The Golf Warehouse, L.L.C.
+
+                                        41
+<PAGE>
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     Business Segment Comparisons (in thousands):
+
+<Table>
+<Caption>
+                                                                    YEARS ENDED
+                                                                    DECEMBER 31,
+                                                                --------------------
+                                                                  2004        2003
+                                                                  ----        ----
+<S>                                                             <C>         <C>
+SALES
+  The Sportsman's Guide.....................................    $207,221    $194,703
+  The Golf Warehouse........................................      25,241          --
+                                                                --------    --------
+     Total..................................................    $232,462    $194,703
+                                                                ========    ========
+EARNINGS FROM OPERATIONS
+  The Sportsman's Guide.....................................    $ 10,692    $  9,597
+  The Golf Warehouse........................................       1,567          --
+                                                                --------    --------
+     Total..................................................    $ 12,259    $  9,597
+                                                                ========    ========
+DEPRECIATION AND AMORTIZATION
+  The Sportsman's Guide.....................................    $  1,214    $  1,322
+  The Golf Warehouse........................................         217          --
+                                                                --------    --------
+     Total..................................................    $  1,431    $  1,322
+                                                                ========    ========
+CAPITAL EXPENDITURES
+  The Sportsman's Guide.....................................    $    546    $    941
+  The Golf Warehouse........................................         226          --
+                                                                --------    --------
+     Total..................................................    $    772    $    941
+                                                                ========    ========
+ASSETS
+  The Sportsman's Guide.....................................    $ 42,503    $ 63,822
+  The Golf Warehouse........................................      40,776          --
+                                                                --------    --------
+     Total..................................................    $ 83,279    $ 63,822
+                                                                ========    ========
+</Table>
+
+NOTE J -- SUBSEQUENT EVENTS
+
+     On March 1, 2005, the Company announced that its Board of Directors
+declared a 3-for-2 split of the Company's common stock, in the form of a 50%
+stock dividend, payable on April 15, 2005 to shareholders of record on March 25,
+2005. Cash will be paid in lieu of issuing fractional shares based on the
+closing price of the Company's common stock on the record date.
+
+NOTE K -- ADVERTISING EXPENSE
+
+     Selling, general and administrative expenses include advertising expenses
+of $32.9 million, $29.4 million and $29.2 million for the years ended December
+31, 2004, 2003 and 2002.
+
+                                        42
+<PAGE>
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE L -- INTERIM FINANCIAL INFORMATION (UNAUDITED)
+
+     The following table provides certain unaudited financial information for
+each of the quarters shown:
+
+<Table>
+<Caption>
+                                              FIRST QUARTER    SECOND QUARTER    THIRD QUARTER    FOURTH QUARTER
+                                              -------------    --------------    -------------    --------------
+                                                            (IN THOUSANDS, EXCEPT PER SHARE DATA)
+<S>                                           <C>              <C>               <C>              <C>
+2004
+Sales.....................................       $44,594          $38,861           $56,554          $92,453
+Gross profit..............................        14,128           12,137            16,415           31,701
+Earnings from operations..................         1,782            1,208             1,851            7,418
+Net earnings..............................         1,167              797             1,069            4,558
+Net earnings per share:
+  Basic...................................           .25              .17               .23              .97
+  Diluted.................................           .22              .15               .20              .85
+2003
+Sales.....................................       $43,749          $38,041           $41,213          $71,700
+Gross profit..............................        14,197           11,944            12,541           25,382
+Earnings from operations..................         1,467            1,042             1,117            5,971
+Net earnings..............................           957              646               710            3,845
+Net earnings per share:
+  Basic...................................           .20              .14               .15              .80
+  Diluted.................................           .19              .12               .13              .71
+</Table>
+
+Note: The acquisition of The Golf Warehouse, L.L.C. was effective June 29, 2004.
+      The third quarter of 2004 was the first quarter for inclusion of TGW's
+      sales, operations and earnings.
+
+                                        43
+<PAGE>
+
+                  THE SPORTSMAN'S GUIDE, INC. AND SUBSIDIARIES
+
+                                  SCHEDULE II
+
+                       VALUATION AND QUALIFYING ACCOUNTS
+
+<Table>
+<Caption>
+            COLUMN A                 COLUMN B                 COLUMN C                  COLUMN D         COLUMN E
+--------------------------------    ----------    --------------------------------    -------------    -------------
+                                                             ADDITIONS
+                                                  --------------------------------
+                                    BALANCE AT    CHARGED TO:       CHARGED TO:
+                                    BEGINNING      COSTS AND     OTHER ACCOUNTS --    DEDUCTIONS --     BALANCE AT
+          DESCRIPTION               OF PERIOD      EXPENSES          DESCRIBE           DESCRIBE       END OF PERIOD
+--------------------------------    ----------    -----------    -----------------    -------------    -------------
+                                                               (IN THOUSANDS OF DOLLARS)
+<S>                                 <C>           <C>            <C>                  <C>              <C>
+ALLOWANCE FOR DOUBTFUL ACCOUNTS
+  December 31, 2004.............      $  146        $   101            $ --              $   123(B)       $  124
+  December 31, 2003.............      $  195        $    56            $ --              $   105(B)       $  146
+  December 31, 2002.............      $  211        $   105            $ --              $   121(B)       $  195
+INVENTORY RESERVES
+  December 31, 2004.............      $1,351        $  (356)           $160(A)           $   193(C)       $  962
+  December 31, 2003.............      $1,492        $    70            $ --              $   211(C)       $1,351
+  December 31, 2002.............      $1,138        $   475            $ --              $   121(C)       $1,492
+RETURNS RESERVE
+  December 31, 2004.............      $2,240        $10,570            $ 74(A)           $10,566(D)       $2,318
+  December 31, 2003.............      $1,738        $ 9,176            $ --              $ 8,674(D)       $2,240
+  December 31, 2002.............      $1,402        $ 9,040            $ --              $ 8,704(D)       $1,738
+</Table>
+
+-------------------------
+(A)   Represents the addition of The Golf Warehouse's inventory reserve and
+      returns reserve as a result of the acquisition on June 29, 2004.
+
+(B)   Represents write off of bad debts.
+
+(C)   Represents loss on inventory liquidations.
+
+(D)   Represents actual net returns from customers.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+     None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+     EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES -- The Company has
+established disclosure controls and procedures to ensure that material
+information relating to the Company, including its subsidiaries, is made known
+to the officers who verify the Company's financial reports and to other members
+of senior management and the Board of Directors.
+
+     The Company's management evaluated, with the participation of the Company's
+Chief Executive Officer and Chief Financial Officer, the effectiveness of the
+Company's disclosure controls and procedures as of the end of the period covered
+by this report. Based on that evaluation, the Chief Executive Officer and Chief
+Financial Officer concluded that the Company's disclosure controls and
+procedures are effective to ensure that information required to be disclosed by
+the Company in the reports that it files or submits under the Securities
+Exchange Act of 1934 is recorded, processed, summarized and reported within the
+time periods specified in the Securities and Exchange Commission's rules and
+forms.
+
+     MANAGEMENT'S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING -- The
+Company's management is responsible for establishing and maintaining adequate
+internal control over financial reporting, as such term is defined in Exchange
+Act Rule 13a-15(f). Under the supervision and with the participation of
+management, including the Chief Executive Officer and Chief Financial Officer,
+the Company conducted an evaluation of the effectiveness of internal control
+over financial reporting based on the framework in
+
+                                        44
+<PAGE>
+
+Internal Control -- Integrated Framework issued by the Committee of Sponsoring
+Organizations of the Treadway Commission. Based on the Company's evaluation
+under the framework in Internal Control -- Integrated Framework, the Company's
+management concluded the internal control over financial reporting was effective
+as of December 31, 2004. The Company's management assessment of the
+effectiveness of internal control over financial reporting as of December 31,
+2004 has been audited by Grant Thornton LLP, an independent registered public
+accounting firm, as stated in their report which is included herein.
+
+ITEM 9B. OTHER INFORMATION
+
+     None.
+
+                                        45
+<PAGE>
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     The information required by this Item 10 is set forth under "Election of
+Directors" and "Section 16(a) Beneficial Ownership Reporting Compliance" in the
+Proxy Statement for our Annual Meeting of Shareholders on May 6, 2005 and is
+incorporated herein by reference, except for certain information concerning our
+executive officers which is set forth in Part I of this report.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+     The information required by this Item 11 is set forth under "Executive
+Compensation" in the Proxy Statement for our Annual Meeting of Shareholders on
+May 6, 2005 and is incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+         RELATED STOCKHOLDER MATTERS
+
+     The information required by this Item 12 is set forth under "Executive
+Compensation" and "Security Ownership of Certain Beneficial Owners and
+Management" in the Proxy Statement for our Annual Meeting of Shareholders on May
+6, 2005 and is incorporated herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     The information required by this Item 13 is set forth under "Certain
+Relationships and Related Transactions" and "Compensation Committee Interlocks
+and Insider Participation" in the Proxy Statement for our Annual Meeting of
+Shareholders on May 6, 2005 and is incorporated herein by reference.
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+     The information required by this Item 14 is set forth under "Ratification
+of Engagement of Independent Registered Public Accountants" in the Proxy
+Statement for our Annual Meeting of Shareholders on May 6, 2005 and is
+incorporated herein by reference.
+
+                                        46
+<PAGE>
+
+                                    PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+     (A) 1. FINANCIAL STATEMENTS
+
+           The following financial statements of the Company are included herein
+     at Item 8.
+
+           Reports of Independent Registered Public Accounting Firm
+
+           Consolidated Balance Sheets as of December 31, 2004 and 2003
+
+           Consolidated Statements of Earnings for the years ended December 31,
+             2004, 2003 and 2002
+
+           Consolidated Statements of Changes in Shareholders' Equity for the
+             years ended December 31, 2004, 2003 and 2002
+
+           Consolidated Statements of Cash Flows for the years ended December
+             31, 2004, 2003 and 2002
+
+           Notes to Consolidated Financial Statements
+
+         2. FINANCIAL STATEMENT SCHEDULES
+
+           The following financial statement schedule of the Company is included
+     herein at Item 8.
+
+           Schedule II -- Valuation and Qualifying Accounts for the years ended
+             December 31, 2004, 2003 and 2002
+
+         3. EXHIBITS
+
+           See Exhibit Index at page 49 of this report.
+
+                                        47
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                          THE SPORTSMAN'S GUIDE, INC.
+
+                                          By     /s/ GREGORY R. BINKLEY
+
+                                            ------------------------------------
+                                                     Gregory R. Binkley
+                                               President and Chief Executive
+Date: March 17, 2005                                       Officer
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+<Table>
+<Caption>
+                    SIGNATURE                                   CAPACITY                   DATE
+                    ---------                                   --------                   ----
+<C>     <C>                                          <S>                              <C>
+
+              /s/ GREGORY R. BINKLEY                 President, Chief Executive
+--------------------------------------------------     Officer and Director
+                Gregory R. Binkley                     (principal executive
+                                                       officer)
+
+              /s/ CHARLES B. LINGEN                  Executive Vice President of      March 17, 2005
+--------------------------------------------------     Finance and Administration,
+                Charles B. Lingen                      Chief Financial Officer,
+                                                       Secretary/Treasurer and
+                                                       Director (principal
+                                                       financial and accounting
+                                                       officer)
+
+               /s/ WILLIAM T. SENA*                  Chairman of the Board and
+--------------------------------------------------     Director
+                 William T. Sena
+
+              /s/ LEONARD M. PALETZ*                 Director
+--------------------------------------------------
+                Leonard M. Paletz
+
+                /s/ JAY A. LEITCH*                   Director
+--------------------------------------------------
+                  Jay A. Leitch
+
+               /s/ DAROLD D. RATH*                   Director
+--------------------------------------------------
+                  Darold D. Rath
+
+                  /s/ GARY OLEN*                     Director
+--------------------------------------------------
+                    Gary Olen
+
+ *By              /s/ GREGORY R. BINKLEY
+        ------------------------------------------
+                   Gregory R. Binkley,
+                     Attorney-In-Fact
+</Table>
+
+                                        48
+<PAGE>
+
+                                 EXHIBIT INDEX
+
+<Table>
+<Caption>
+EXHIBIT                            DESCRIPTION                             PAGE
+-------                            -----------                             ----
+<C>        <S>                                                             <C>
+   2.1     Membership Interest Purchase Agreement dated as of June 29,
+           2004 by and among TGW Acquisition Corporation, The Golf
+           Warehouse, L.L.C., Sports Capital Partners, L.P., Sports
+           Capital Warehouse, L.P., Sports Capital Partners (CEV),
+           L.L.C., Marney Enterprises, Inc., Mark S. Marney, R. Michael
+           Marney, and Richard D. Marney (incorporated by reference to
+           Exhibit 2.1 to Form 8-K dated July 13, 2004)
+   3.1     Restated Articles of Incorporation as restated through March
+           5, 1997 (incorporated by reference to Exhibit 3.1 to Form
+           10-K for the year ended December 27, 1996, File No. 0-15767)
+   3.2     Bylaws (incorporated by reference to Exhibit 3.2 to Form
+           S-18 Registration Statement No. 33-4496C filed April 1,
+           1986)
+   4.1     Specimen of the Company's Common Stock certificate
+           (incorporated by reference to Exhibit 4.1 to Amendment No. 1
+           to Form S-18 Registration Statement No. 33-4496C filed May
+           8, 1986)
+   4.2     Rights Agreement dated as of May 11, 1999 between the
+           Company and Norwest Bank Minnesota, N.A., as Rights Agent
+           (incorporated by reference to Exhibit 4.1 to Form 8-K dated
+           May 11, 1999)
+  10.1*    The Company's 1991 Incentive Stock Option Plan (incorporated
+           by reference to Exhibit 10.16 to Form 10-K for the year
+           ended December 27, 1991)
+  10.2     Industrial Real Estate Lease between the Company and CB
+           Commercial Real Estate Group, Inc. dated April 22, 1993
+           (incorporated by reference to Exhibit 10.20 to Form 10-K for
+           the year ended December 31, 1993)
+  10.3     Amendment to Industrial Real Estate Lease between the
+           Company and American Real Estate Holdings, L.P. dated
+           February 23, 1998 (incorporated by reference to Exhibit 10.1
+           to Form 10-Q for the quarter ended June 28, 1998)
+  10.4     Industrial Real Estate Lease between the Company and AMB
+           Property, L.P. as amended May 24, 1999 (incorporated by
+           reference to Exhibit 10.1 to Form 10-Q for the quarter ended
+           July 4, 1999)
+  10.5     Lease Agreement dated November 19, 1999 between Stephen L.
+           Clark, as trustee of the Steve Clark Trust, created pursuant
+           to a Trust Agreement dated October 4, 1996 ('Clark") and The
+           Golf Warehouse, L.L.C. ('TGW") as amended by First Amendment
+           Agreement dated March 1, 2003 between U.S. Business Centers,
+           L.L.C. as successor to Clark and TGW and Second Amendment
+           Agreement dated July 9, 2004 between U.S. Business Centers,
+           L.L.C. and TGW
+  10.6     Sublease dated July 5, 2004 between Facilitech, Inc. dba
+           Business Interiors and The Golf Warehouse, L.L.C.
+  10.7     Credit Agreement by and between the Company and Wells Fargo
+           Bank, National Association dated June 29, 2004 (incorporated
+           by reference to Exhibit 10.1 to Form 10-Q for the quarter
+           ended June 30, 2004)
+  10.8*    Form of Stock Option Agreement pursuant to the Company's
+           1994 Non-Qualified Performance Option Plan (incorporated by
+           reference to Exhibit 10.16 to Form 10-K for the year ended
+           December 27, 1996)
+  10.9*    The Company's 1996 Stock Option Plan (incorporated by
+           reference to Exhibit 10.17 to Form 10-K for the year ended
+           December 27, 1996)
+ 10.10*    Form of Employment Agreement with members of senior
+           management (incorporated by reference to Exhibit 10.10 to
+           Amendment No. 1 to Form S-2 Registration Statement No.
+           333-31111 filed January 2, 1998)
+</Table>
+
+                                        49
+<PAGE>
+
+<Table>
+<Caption>
+EXHIBIT                            DESCRIPTION                             PAGE
+-------                            -----------                             ----
+<C>        <S>                                                             <C>
+ 10.11*    Agreement between the Company and Gary Olen dated June 28,
+           2002 for the use of name, likeness and services
+           (incorporated by reference to Exhibit 10.1 to Form 10-Q for
+           the quarter ended June 30, 2002)
+ 10.12*    The Company's 1999 Stock Option Plan (incorporated by
+           reference to Exhibit 10.16 to Form 10-K for the year ended
+           December 31, 1999)
+ 10.13*    The Sportsman's Guide, Inc. Deferred Compensation Plan
+           effective September 1, 2002 (incorporated by reference to
+           Exhibit 10.2 to Form 10-Q for the quarter ended September
+           30, 2002)
+ 10.14*    The Company's 2004 Stock Incentive Plan (incorporated by
+           reference to Exhibit 10.2 to Form 10-Q for the quarter ended
+           June 30, 2004)
+ 10.15*    Form of Stock Option Agreement under 2004 Stock Incentive
+           Plan (incorporated by reference to Exhibit 10.1 to Form 10-Q
+           for the quarter ended September 30, 2004)
+ 10.16*    Annual Bonus Program (incorporated by reference to Exhibit
+           10.2 to Form 10-Q for the quarter ended September 30, 2004)
+ 10.17*    Fees for Nonemployee Directors (incorporated by reference to
+           Exhibit 10.1 to Form 8-K dated March 2, 2005)
+ 10.18*    Form of Employment Agreement between The Golf Warehouse,
+           Inc. and members of TGW management (incorporated by
+           reference to Exhibit 7.1(h) to Exhibit 2.1 to Form 8-K dated
+           July 13, 2004)
+  14.1     Code of Business Conduct and Ethics (incorporated by
+           reference to Exhibit 14.1 to Form 10-K For the year ended
+           December 31, 2003)
+  21.1     Subsidiaries of the Company
+  23.1     Consent of Grant Thornton LLP
+  24.1     Powers of Attorney of each person whose name is signed to
+           this report pursuant to a power of attorney
+    31     Rule 13a-14(a)/15d-14(a) Certifications
+    32     Section 1350 Certifications
+    99     Risk Factors
+</Table>
+
+     Those exhibits marked with an asterisk (*) above constitute management
+contracts or compensatory plans or arrangements for management and executive
+officers of the Company.
+
+                                        50
+</TEXT>
+</DOCUMENT>
+

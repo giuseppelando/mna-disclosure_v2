@@ -1,0 +1,3360 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>abnj10k.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>ABNJ Form 10-K 2007</TITLE>
+</HEAD>
+<BODY TEXT="#000000" LINK="#0000ff" BGCOLOR="#ffffff" leftmargin="25" rightmargin="25">
+
+
+<P ALIGN="CENTER"><FONT SIZE="-1"><STRONG>UNITED STATES<br>
+SECURITIES AND EXCHANGE COMMISSION</STRONG><br>
+Washington, D.C. 20549</P>
+
+<P ALIGN="CENTER"><STRONG>FORM 10-K</STRONG></P>
+
+<table width=80%>
+<tr valign=top><td colspan=3><FONT SIZE="-1">(Mark One)</td></tr>
+
+<tr valign=top><td><FONT SIZE="-1">[X]</td>
+<td colspan=3><FONT SIZE="-1">Annual report pursuant to Section 13 or 15 (d) of the Securities Exchange Act of 1934</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr valign=top><td></td>
+<td width=30%><FONT SIZE="-1">For the fiscal year ended</td>
+<td><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;September 30, 2007<hr color=black></td></tr>
+
+<tr valign=top><td align=center colspan=3><FONT SIZE="-1">-OR-</td></tr>
+
+<tr valign=top><td><FONT SIZE="-1">[&nbsp;&nbsp;&nbsp;]</td>
+<td colspan=3><FONT SIZE="-1">Transition report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934<br>
+For the transition period from <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> to <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>.</td></tr></table>
+
+<P align=center>Commission File Number: <U>&nbsp;&nbsp;&nbsp;&nbsp;0-51500&nbsp;&nbsp;&nbsp;&nbsp;</u></p>
+
+<table align=center width=100%>
+<tr valign=top><td align=center><STRONG><FONT SIZE="+1">AMERICAN BANCORP OF NEW JERSEY, INC.</font><hr color=black></STRONG>
+<FONT SIZE="-1">(Exact Name of Registrant as Specified in its Charter)</P></td></tr></table>
+
+<table width=100%>
+<tr valign=top><TD align=CENTER width=40%><FONT size="-1"><STRONG>New Jersey<hr color=black align=center></STRONG>(State or Other Jurisdiction<BR>
+of Incorporation or Organization)</TD>
+<td width=20%>
+<TD align=CENTER width=40%><FONT size="-1"><STRONG>55-0897507<hr color=black align=center></STRONG>(I.R.S. Employer<BR>Identification Number)<br>
+<br>
+<br>
+</TD></TR>
+
+<tr valign=top><td align=center><FONT size="-1"><STRONG>365 Broad Street, Bloomfield, New Jersey 07003<hr color=black align=center></STRONG>(Address of Principal Executive Offices)</td>
+<td></td><TD align=CENTER><FONT size="-1"><STRONG>07003<hr color=black align=center></STRONG>(Zip Code)</td></tr></table>
+
+
+<P>Registrant's telephone number, including area code:  <U>    (973) 748-3600 &nbsp;</U></P>
+
+<P>Securities registered pursuant to Section 12(b) of the Exchange Act: </P>
+
+<CENTER>
+<TABLE ALIGN="CENTER" WIDTH="70%">
+<TR VALIGN="TOP"><TD ALIGN="CENTER"><FONT size="-1">Title of each class<hr color=black align=center></TD>
+<TD ALIGN="CENTER"><FONT size="-1">Name of each exchange on which registered<hr color=black align=center></FONT></TD></TR>
+
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD><FONT size="-1">Common Stock, par value $.10 per share</FONT></TD>
+<TD><FONT size="-1">The NASDAQ Stock Market LLC</FONT></TD></TR></TABLE>
+</CENTER>
+
+<P>Securities registered pursuant to Section 12(g) of the Exchange Act:  <u>None</u></P>
+
+<div style="text-indent: .50in;">
+
+<P>Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of
+the Securities Act. [&nbsp;&nbsp;] Yes  [X] No</P>
+
+<P>Indicate by check mark if the registrant is required to file reports pursuant to Section 13 or Section
+15(d) of the Act. [&nbsp;&nbsp;] Yes  [X] No</P>
+
+<P>Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for
+such shorter period that the registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days. 	[X] Yes [&nbsp;&nbsp;] No	</P>
+
+<P>Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant's knowledge, in definitive
+proxy or information statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form&nbsp;10-K.  [X] </P>
+
+<P>Indicate by check mark whether the registrant is a large accelerated file, an accelerated filer, or a
+non-accelerated filer.  See definition of "accelerated file and large accelerated filer" in Rule 12b-2 of the
+Exchange Act. (Check one):</P>
+
+</div>
+
+<CENTER>
+<TABLE ALIGN="CENTER" WIDTH="100%">
+<TR VALIGN="TOP"><TD ALIGN=CENTER><FONT SIZE=-1>Large accelerated filer   [&nbsp;&nbsp;]</TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">Accelerated filer   [X] </FONT></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">Non-accelerated filer [&nbsp;&nbsp;]</FONT></TD></TR></TABLE>
+</CENTER>
+
+<P>Indicate by check mark whether the registrant is a shell company (as defined in Exchange Act
+Rule 12b-2). [&nbsp;&nbsp;&nbsp;] Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[X] No	</P>
+
+<p><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER></CENTER>
+<A HREF="#2"><font size="-1">Next Page</font></A>
+<A NAME="2"></A></div>
+
+<div style="text-indent: .50in;">
+
+<P>The aggregate market value of the voting and non-voting common equity held by nonaffiliates
+of the registrant, computed by reference to the closing price of the registrant's common stock on the NASDAQ Stock Market on March 31, 2007, was $115,068,345.   The exclusion from such amount of the market value of the shares owned by any person shall not be deemed an admission by the registrant that such person is an affiliate of the registrant.</P>
+
+<P>As of December 7, 2007, the registrant had outstanding 11,729,062 shares of Common Stock.</P>
+
+</div>
+
+<P ALIGN="CENTER">DOCUMENTS INCORPORATED BY REFERENCE:</P>
+
+<P>Parts II and IV of Form 10-K - Portions of the Annual Report to Stockholders for the year ended
+September 30, 2007</P>
+
+<P>Part III of Form 10-K - Portions of the proxy statement for the Annual Meeting of Stockholders for the
+year ended September 30, 2007</P>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>2</CENTER>
+<A HREF="#3"><font size="-1">Next Page</font></A>
+<A NAME="3"></A></div>
+
+
+<P align=center><STRONG>PART I</STRONG></P>
+
+<P><STRONG>Forward-Looking Statements</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>American Bancorp of New Jersey, Inc. (the "Company" or "Registrant") may from time to
+time make written or oral "forward looking statements," including statements contained in documents
+filed with or furnished to the Securities and Exchange Commission (including this Annual Report on
+Form 10-K and the exhibits thereto), in its reports to stockholders and in other communications by the
+Company, which are made in good faith by the Company pursuant to the "safe harbor" provisions of
+the Private Securities Litigation Reform Act of 1995. </P>
+
+<P>These forward-looking statements involve risks and uncertainties, such as statements of the
+Company's plans, objectives, expectations, estimates and intentions that are subject to change based on
+various important factors (some of which are beyond the Company's control).  The following factors,
+among others, could cause the Company's financial performance to differ materially from the plans,
+objectives, expectations, estimates and intentions expressed in such forward-looking statements: the
+strength of the United States economy in general and the strength of the local economies in which the
+Company conducts operations; the effects of, and changes in, monetary and fiscal policies and laws,
+including interest  rate policies of the Board of Governors of the Federal Reserve System, inflation,
+interest rates, market and  monetary fluctuations; the timely development of and acceptance of new
+products and services of the Company and the perceived overall value of these products and services by
+users, including the features,  pricing and quality as compared to competitors' products and services;
+the identification of de novo branching opportunities and ability to attract new customers and gain
+market share, the impact of changes in financial services laws and regulations (including laws
+concerning taxes, banking, securities and insurance); technological changes; acquisitions; changes in
+consumer spending and saving habits; and the success of the Company at managing the risks resulting
+from these factors.</P>
+
+<P>The Company cautions that the listed factors are not exclusive.  The Company does not
+undertake to update any forward-looking statement, whether written or oral, that may be made from
+time to time by or on behalf of the Company.  </P>
+
+</div>
+
+<P><STRONG>Item 1.	 Business. </STRONG></P>
+
+<P><STRONG>General </STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>On October 5, 2005, American Savings, MHC (the "MHC") completed its reorganization into
+stock form and the Company succeeded to the business of ASB Holding Company, the MHC's former
+stock holding company subsidiary.  Each outstanding share of common stock of the former mid-tier
+stock holding company (other than shares held by the MHC which were canceled) was converted into
+2.55102 shares of common stock of the Company.  As part of the second-step mutual to stock
+conversion transaction, the Company sold a total of 9,918,750 shares to eligible depositors of American
+Bank of New Jersey (the "Bank") in a subscription offering at $10.00 per share, including 793,500
+shares purchased by the Bank's employee stock ownership plan with funds borrowed from the
+Company. </P>
+
+<P>The Company is a New Jersey corporation that was incorporated in May 2005 for the purpose
+of being a holding company for the Bank, a federally-chartered stock savings bank.  The Company is a
+unitary savings and loan holding company and conducts no significant business or operations of its
+own.  References in this Annual Report on Form 10-K to the Company generally refer to the
+consolidated entity, which includes the
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>3</CENTER>
+<A HREF="#4"><font size="-1">Next Page</font></A>
+<A NAME="4"></A></div><br><br>
+
+Bank, unless the context indicates otherwise.  References to
+"we," "us," or "our" refer to the Bank or Company, or both, as the context indicates. 	</P>
+
+<div style="text-indent: .50in;">
+
+<P>The Bank was originally founded in 1919 as the American-Polish Building &amp; Loan Association
+of Bloomfield, New Jersey.  It became a state-chartered savings and loan association in 1948 and
+converted to a federally chartered savings bank in 1995.  The Bank's deposits are insured by the
+Federal Deposit Insurance Corporation up to the maximum amount permitted by law.  The Bank is
+regulated by the Office of Thrift Supervision and the Federal Deposit Insurance Corporation.</P>
+
+<P>Our core business is using retail deposits in order to fund a variety of mortgage and consumer
+loan products.  We operate as a traditional community bank, offering retail banking services, one- to
+four-family residential mortgage loans, including first mortgages, home equity loans and lines of credit,
+commercial loans, including multi-family and non-residential mortgage loans, construction loans and
+business loans and lines of credit, as well as consumer loans.  We also invest in mortgage-related
+securities, including mortgage-backed pass through securities and collateralized mortgage obligations,
+and other investment securities.  The principal source of funds for our lending and investing activities is
+retail deposits, supplemented with Federal Home Loan Bank borrowings. </P>
+
+<P>Our results of operations depend primarily on our net interest income.  Net interest income is
+the difference between the interest income we earn on our interest-earning assets and the interest we
+pay on interest-bearing liabilities.  It is a function of the average balances of loans and investments
+versus deposits and borrowed funds outstanding in any one period and the yields earned on those loans
+and investments and the cost of those deposits and borrowed funds.  Our interest-earning assets consist
+primarily of one- to four-family residential mortgage loans, commercial loans and consumer loans, as
+well as residential mortgage-related securities and U.S. Agency debentures.  Interest-bearing liabilities
+consist primarily of retail deposits and borrowings from the Federal Home Loan Bank of New York.</P>
+
+</div>
+
+<P><STRONG>Market Area</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>Our main office. including a full service branch and our administrative headquarters, is located
+in Bloomfield, New Jersey.  We have four additional full service branch offices located in Cedar
+Grove, Verona, Nutley and Clifton New Jersey.  Our lending is concentrated in New Jersey and the
+New York metropolitan area, and our predominant sources of deposits are the communities in which
+our five offices are located as well as the neighboring communities.  Our business of attracting deposits
+and making loans is primarily conducted within our market area.  A downturn in the local economy
+could reduce the amount of funds available for deposit and the ability of borrowers to repay their loans.
+As a result, our profitability could decrease.</P>
+
+</div>
+
+<P><STRONG>Competition</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>We face substantial competition in our attraction of deposits, which are our primary source of
+funds for lending, and in our origination of loans.  Many of our competitors are significantly larger
+institutions and have greater financial and other resources.  Our ability to compete successfully is a
+significant factor affecting our profitability.</P>
+
+<P>Our competition for deposits and loans historically has come from other insured financial institutions
+such as local and regional commercial banks, savings institutions, and credit unions located in our
+primary market area.  We also compete with mortgage banking companies for real estate loans, and
+commercial banks and savings institutions for consumer loans; and we face competition for deposits
+from investment products such as mutual funds, short-term money funds and corporate and government
+securities.	</P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>4</CENTER>
+<A HREF="#5"><font size="-1">Next Page</font></A>
+<A NAME="5"></A></div><br><br>
+
+
+<P><STRONG>Lending Activities</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P><STRONG><EM>General.  </EM></STRONG><EM></EM>Historically, we have focused on the origination of one- to four-family loans.  Consequently, a majority of our total loan
+portfolio comprises such loans as reflected in the table below.  Notwithstanding, our business plan calls for significantly greater emphasis on
+commercial lending  which includes multifamily, nonresidential, construction and business loans.  Toward that end, the Bank expanded its
+commercial lending division with the hiring  of several additional commercial lending officers and administrative support staff.    While
+outstanding balances in commercial loans still fall below those in the one- to four-family loan category, the table below shows the dollar and
+percentage of portfolio growth trends in the commercial categories reflecting the Company's loan diversification strategy.</P>
+
+<P><STRONG>Loan Portfolio Composition.</STRONG>  The following table analyzes the composition of our loan portfolio by loan category at the dates indicated.</P>
+</div>
+
+<TABLE WIDTH="100%">
+<TR VALIGN="TOP"><TD ROWSPAN="3"></TD>
+<TD COLSPAN="10" ALIGN="CENTER"><FONT SIZE="-1">At September 30<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"></TD>
+<TD COLSPAN="2" ALIGN="CENTER"><FONT SIZE="-1">2007<hr color=black></TD>
+<TD COLSPAN="2" ALIGN="CENTER"><FONT SIZE="-1">2006<hr color=black></TD>
+<TD COLSPAN="2" ALIGN="CENTER"><FONT SIZE="-1">2005<hr color=black></TD>
+<TD COLSPAN="2" ALIGN="CENTER"><FONT SIZE="-1">2004<hr color=black></TD>
+<TD COLSPAN="2" ALIGN="CENTER"><FONT SIZE="-1">2003<hr color=black></TD></TR>
+
+<TR VALIGN="TOP">
+<TD ALIGN="CENTER"><FONT SIZE="-1">Amount<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Percent<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Amount<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Percent<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Amount<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Percent<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Amount<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Percent<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Amount<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Percent<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"></TD>
+<TD COLSPAN="10" ALIGN="CENTER"><FONT SIZE="-1">(Dollars in thousands)</TD></TR>
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"><U>Type of Loans</U>:</TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">One- to four-family<br>
+&nbsp;&nbsp;real estate<SUP>(1)</SUP></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$278,183</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>60.92%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$283,469</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>68.05%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$267,052</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>78.09%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$251,531</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>80.17%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$215,984</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>81.59%</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Multi-family and nonresidential<br>
+&nbsp;&nbsp;real estate</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>99,059</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>21.70&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>73,496</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>17.64&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>58,615</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>17.14&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>43,197</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>13.77&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>36,202 </TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>13.68&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Land</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">3,341&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.73&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">534&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.13&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Construction</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">48,561&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">10.64&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">33,155&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">7.96&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,450&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.42&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">7,175&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">2.29&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,233&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.47&nbsp;&nbsp;&nbsp;</FONT></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Consumer</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">655&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.14&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">720&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.17&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">702&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.21&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">746&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.24&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">780&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.29&nbsp;&nbsp;&nbsp;</FONT></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Home equity</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">19,756&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.33&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">19,122&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.59&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">13,413&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">3.92&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">10,666&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">3.40&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">8,893&nbsp;</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">3.36&nbsp;&nbsp;&nbsp;</FONT></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Business</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">7,024&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1.54&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">6,068&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1.46&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">746&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.22&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">398&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.13&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,610&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.61&nbsp;&nbsp;&nbsp;<hr color=black></FONT></TD></TR>
+
+<TR VALIGN="TOP"><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total loans receivable</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">456,579&nbsp;</FONT></TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">100.00%</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">416,564&nbsp;</FONT></TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">100.00%</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">341,978&nbsp;</FONT></TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">100.00%</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">313,713&nbsp;</FONT></TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">100.00%</FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">264,702&nbsp;</FONT></TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">100.00%</FONT></TD></TR>
+
+<TR VALIGN="TOP"><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Less:</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Allowance for loan losses</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">(2,568)</FONT></TD>
+<TD><FONT SIZE="-1"></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">(2,123)</FONT></TD>
+<TD><FONT SIZE="-1"></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">(1,658)</FONT></TD>
+<TD><FONT SIZE="-1"></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">(1,578)</FONT></TD>
+<TD><FONT SIZE="-1"></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">(1,371)</FONT></TD>
+<TD><FONT SIZE="-1"></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Net deferred origination costs</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,084&nbsp;</FONT></TD>
+<TD><FONT SIZE="-1"></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,100&nbsp;</FONT></TD>
+<TD><FONT SIZE="-1"></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,036&nbsp;</FONT></TD>
+<TD><FONT SIZE="-1"></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">935&nbsp;</FONT></TD>
+<TD><FONT SIZE="-1"></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">796&nbsp;</FONT></TD>
+<TD><FONT SIZE="-1"></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Loans in process</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;(15,969)<hr color=black></TD>
+<TD><FONT SIZE="-1"></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;(16,917)<hr color=black></TD>
+<TD><FONT SIZE="-1"></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;&nbsp;(350)<hr color=black></TD>
+<TD><FONT SIZE="-1"></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;(4,100)<hr color=black></TD>
+<TD><FONT SIZE="-1"></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(783)<hr color=black></TD>
+<TD><FONT SIZE="-1"></TD></TR>
+
+<TR VALIGN="TOP"><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total loans receivable, net</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$439,126&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT"> </FONT></TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$398,624&nbsp;</FONT></TD>
+<TD><FONT SIZE="-1">
+<P ALIGN="RIGHT"> </FONT></TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$341,006&nbsp;</FONT></TD>
+<TD><FONT SIZE="-1">
+<P ALIGN="RIGHT"> </FONT></TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$308,970&nbsp;</FONT></TD>
+<TD><FONT SIZE="-1">
+<P ALIGN="RIGHT"> </FONT></TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$263,344&nbsp;</FONT></TD>
+<TD><FONT SIZE="-1">
+<P ALIGN="RIGHT"> </FONT></TD></TR></TABLE>
+
+<P>_____________<br>
+
+<table width=100%>
+<tr valign=top><td width=3%><FONT SIZE="-2">(1)</td>
+<td><font size=-1>Includes loans held for sale of $1,243,346, $0, $280,250, $0, and $500,000 at September 30, 2007, September 30, 2006, September 30, 2005, September 30, 2004  and
+September 30, 2003, respectively. </td></tr></table>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>5</CENTER>
+<A HREF="#6"><font size="-1">Next Page</font></A>
+<A NAME="6"></A></div><br><br>
+
+<div style="text-indent: .50in;">
+
+<P><STRONG><EM>Loan Maturity Schedule.</EM></STRONG>  The following table sets forth the maturity of our loan portfolio at September 30, 2007.  Demand loans, loans
+having no stated maturity, and overdrafts are shown as due in one year or less.  This table shows contractual maturities and does not reflect
+repricing or the effect of prepayments.  Actual repayment of loan balances will vary significantly from their contractual maturities due to
+amortization and prepayments.</P>
+</div>
+
+<CENTER>
+<TABLE ALIGN="CENTER" WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="8" ALIGN="CENTER"><FONT SIZE="-1">At September 30, 2007<HR COLOR=BLACK></TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1"></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">One- to Four-<br>Family<BR>Real Estate<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Multi-family<BR>and<BR>Nonresidential<BR>Real Estate<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Land<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Construction<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Consumer<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Home Equity<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Business<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Total<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"></TD>
+<TD COLSPAN="8">
+<P ALIGN="CENTER"></FONT><FONT SIZE="-1">(Dollars in thousands)</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"><STRONG>Amounts Due:</STRONG></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Within 1 Year</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$&nbsp;&nbsp;&nbsp;&nbsp;  1,124<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;447<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	2,815<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	27,335<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	655<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	4,626<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	&nbsp;&nbsp;37,002<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">After 1 year:</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;1 to 5 years</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		3,523</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		3,274</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		5,257</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		521</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		2,398</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		14,973</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;5 to 10 years</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		33,353</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		36,510</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		526</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		1,513</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		71,902</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;10 to 15 years</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		44,177</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		15,334</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		2,110</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		61,621</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Over 15 years</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		196,006<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">	43,494<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">	-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">	-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">	-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">	15,612<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">	-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">	255,112<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Total due after one<BR>
+&nbsp;&nbsp;&nbsp;year</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>277,059<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>98,612<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>526<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>5,257<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>19,756<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>2,398<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>403,608<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Total amount due</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$		278,183</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	99,059</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	3,341</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	32,592</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	655</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	19,756</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	7,024</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	440,610</TD></TR></TABLE>
+</CENTER>
+
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>6</CENTER>
+<A HREF="#7"><font size="-1">Next Page</font></A>
+<A NAME="7"></A></div><br><br>
+
+
+<div style="text-indent: .50in;">
+
+<P>The following table sets forth the dollar amount of all loans at September 30, 2007 due after
+September 30, 2008, which have fixed interest rates and which have floating or adjustable interest
+rates.</P>
+</div>
+
+<CENTER>
+<TABLE ALIGN="CENTER" WIDTH="80%" align=center>
+<TR VALIGN="bottom"><TD></TD>
+<TD ALIGN="CENTER" width=15%><FONT SIZE="-1">Fixed Rates<hr color=black></TD>
+<TD ALIGN="CENTER" width=15%><FONT SIZE="-1">Floating or<BR>Adjustable Rates<hr color=black></TD>
+<TD ALIGN="CENTER" width=15%><FONT SIZE="-1">Total<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"></TD>
+<TD COLSPAN="3" ALIGN="CENTER"><FONT SIZE="-1">(In thousands)</TD></TR>
+
+<tr><td>&nbsp;</td></tr>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">One- to four-family real estate	</TD>
+<TD align=right><FONT SIZE="-1">	$	129,414</TD>
+<TD align=right><FONT SIZE="-1">	$	147,645</TD>
+<TD align=right><FONT SIZE="-1">	$	277,059</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Multi-family and non-residential real<br>
+&nbsp;&nbsp;estate</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>50,822</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>47,790</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>98,612</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Land</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">526</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">526</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Construction	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">5,257</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">5,257</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Consumer	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Home equity</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">19,756</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">19,756</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Business</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,210<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,188<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">2,398<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Total</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	181,972</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	221,636</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	403,608</TD></TR></TABLE>
+</CENTER>
+
+<div style="text-indent: .50in;">
+
+<P><STRONG><EM>One- to Four-Family Real Estate Loans. </EM></STRONG>As noted above, our primary lending activity
+historically has consisted of the origination of one- to four-family mortgage loans, most of which are
+secured by property located in northern New Jersey.  We will generally originate  a one- to four-family
+mortgage loan in an amount up to 80% of the lesser of the appraised value or the purchase price of a
+mortgaged property.  For loans exceeding this guideline, private mortgage insurance on the loan is
+typically required.</P>
+
+<P>Our residential loans are generally originated with fixed or adjustable rates and have terms of
+ten to thirty years.  We previously offered mortgage loans with bi-weekly payments and terms up to
+forty years.  However, we discontinued offering those products during fiscal 2007.  Regarding
+adjustable rate loans, we  offer fully amortizing, adjustable rate loans with initial fixed rate periods
+ranging from one to ten years.  Additionally, we offer adjustable rate loans with interest only payments
+for the first five, seven or ten years that fully amortize after the initial interest-only period.  We
+previously offered mortgage loans with interest only payments for the first three years but discontinued
+offering that product during fiscal 2007.  Loans with interest only payments are generally considered to
+entail greater risk than loans whose terms require the payment of both interest and principal over the
+life of the loan.  Of particular concern are borrowers' abilities to meet their payment obligations when
+the interest rate on the loan resets for the first time while, simultaneously,  scheduled principal
+amortization begins to be collected over the loan's remaining term to maturity.  These concurrent
+factors may result in significant increases to a borrower's monthly payment obligations.   </P>
+
+<P>The majority of our adjustable rate loan products provide for an interest rate that is tied to the
+one-year Constant Maturity U.S. Treasury index and have terms of up to thirty years with initial fixed
+rate periods of one, three, five, seven, or ten years according to the terms of the loan.  During fiscal
+2007 and earlier, we offered an adjustable rate loan with a rate that adjusts every three years to the
+three-year Constant Maturity U.S. Treasury index.  However, we discontinued offering that product
+during the first quarter of fiscal 2008. </P>
+
+One- to four-family mortgage loans are generally grouped by the Bank into one of three
+categories based upon underwriting criteria: "Prime", "Alt-A" and "Sub-prime" mortgages.
+Sub-prime loans are generally defined by the Bank as loans to borrowers with deficient credit
+histories and/or higher debt-to-income ratios.  Loans falling within the Alt-A category, as
+defined by the Bank, include loans to borrowers with blemished credit credentials that are less
+severe than those characterized by sub prime loans but otherwise preclude the loan from being
+considered Prime.  Alt-A loans may also be characterized by other underwriting or
+documentation exceptions such as reduced or limited loan documentation.  Loans without the
+deficiencies or
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>7</CENTER>
+<A HREF="#8"><font size="-1">Next Page</font></A>
+<A NAME="8"></A></div><br><br>
+
+exceptions characterizing sub-prime and Alt-A loans are considered Prime and
+comprise the significant majority of the one-to four-family mortgages originated and retained
+by the Bank.</P>
+
+<div style="text-indent: .50in;">
+
+<P>The Bank does not currently offer sub prime loan programs.  Prior to fiscal 2007, the
+Bank had offered a limited number of one-to four-family loan programs through which it
+originated and retained sub-prime loans to borrowers with deficient credit histories or higher
+debt-to-income ratios.  At September 30, 2007, the remaining balance of these loans was
+approximately $1.4 million representing a total of 11 loans.  All 11 loans were current as of
+September 30, 2007.</P>
+
+<P>Through fiscal 2007, the Bank offered an Alt-A stated income loan program by which
+it originated and retained loans to borrowers whose  income was affirmatively stated at the time
+of application, but not verified by the Bank.  The Bank discontinued that program in the first
+quarter of fiscal 2008.  At September 30, 2007, the remaining balance of these loans was
+approximately $8.5 million representing a total of 27 loans.  All 27 loans were current as of
+September 30, 2007.</P>
+
+<P>The Bank continues to offer a limited Alt-A program through which it originates and
+sells all such loans to FNMA under its Expanded Approval program on a non-recourse,
+servicing retained basis.  A significant portion of the loans originated under this remaining Alt-A program support the procurement of mortgage financing for first time home buyers.</P>
+
+<P>The fixed rate mortgage loans that we originate generally meet the secondary mortgage market
+standards of the Federal National Mortgage Association ("FNMA").  For the purposes of interest rate
+risk management, we have historically sold a portion of our qualifying one- to four-family residential
+mortgages into the secondary market without recourse on both a servicing retained and servicing
+released basis.  Toward that end, we sold loans totaling approximately $9.3 million in the year ended
+September 30, 2007, $5.8 million in the year ended September 30, 2006 and $2.4 million in the year
+ended September 30, 2005.  Purchasers of our loans included, but were not limited to, FNMA and
+Countrywide Home Loans.</P>
+
+<P>Notwithstanding the loan sales in prior years, the Bank intends to discontinue the sale of
+most one- to four-family mortgage loan originations for a period of time to augment the growth in
+commercial loans through which the Bank will reinvest a portion of the balances of cash and cash
+equivalents accumulated during fiscal 2007.  Such balances resulted from significant growth in deposits
+acquired through the Bank's de novo branches opened during the current year.  Loans originated under
+the Bank's FNMA Alt-A program noted above will continue to be sold into the secondary market.  The
+Bank will carefully monitor the earnings, liquidity, and balance sheet allocation impact of this strategy
+and make interim adjustments, as necessary, to support achievement of the Company's business plan
+goals and objectives.</P>
+
+<P>	Substantially all of our residential mortgages include a "due on sale" clause, which is a
+provision giving us the right to declare a loan immediately payable if the borrower sells or otherwise
+transfers an interest in the property to a third party.  Property appraisals on real estate securing our
+one- to four-family residential loans are made by state certified or licensed independent appraisers
+approved by the Board of Directors.  Appraisals are performed in accordance with applicable
+regulations and policies.  We require title insurance policies on all first mortgage real estate loans
+originated. Homeowners, liability, fire and, if required, flood insurance policies are also required.</P>
+
+<P>	<STRONG><EM>Multi-Family and Non-Residential Real Estate Loans.</EM></STRONG>  We  originate and participate in
+commercial loans on multi-family and non-residential real estate properties, including loans on
+retail/service properties, small office buildings, strip malls and other income-producing properties.  We
+generally require a 25% down payment or equity position for these mortgage loans.  Typically these
+loans are made with amortization terms of up to twenty-five years.  The majority of these loans are on
+properties located within New Jersey and the New York metropolitan area.    </P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>8</CENTER>
+<A HREF="#9"><font size="-1">Next Page</font></A>
+<A NAME="9"></A></div><br><br>
+
+<div style="text-indent: .50in;">
+
+<P>	Commercial real estate  loans generally are considered to entail significantly greater risk than
+that which is involved with one- to four-family real estate lending.  The repayment of these loans
+typically is dependent on the real estate securing the loan as collateral and the successful operations of
+the property and income stream of the borrower generated from the property.  These risks can be
+significantly affected by economic conditions.  In addition, commercial loans may carry larger balances
+to single borrowers or related groups of borrowers than one- to four-family loans.  Furthermore, this
+type of real estate lending generally requires substantially greater evaluation and oversight efforts
+compared to one-to-four family mortgage lending.</P>
+
+<P><STRONG><EM>Construction Loans.</EM></STRONG>  We originate and participate in construction loans throughout the New
+Jersey and New York metropolitan area.  Our construction lending includes loans to individuals for
+construction of a primary residence as well as loans to builders and developers for single family homes,
+multi-family homes, residential tract development, condominium projects, as well as other commercial
+real estate projects.   We have no formal limits as to the number of projects a builder may have under
+construction or development, and make a case by case determination on loans to builders and
+developers who have multiple projects under development.  In some cases, we convert a construction
+loan to the permanent end mortgage loan upon completion of construction.</P>
+
+<P>	Construction lending is generally considered to involve a higher degree of credit risk than long-term permanent financing of residential properties.  If the estimate of construction cost proves to be
+inaccurate, we may be compelled to advance additional funds to complete the construction with
+repayment dependent, in part, on the success of the ultimate project rather than the ability of a
+borrower or guarantor to repay the loan. If we are forced to foreclose on a project prior to completion,
+there is no assurance that we will be able to recover all of the unpaid portion of the loan. In addition,
+we may be required to fund additional amounts to complete a project and may have to hold the
+property for an indeterminate period of time.</P>
+
+<P><STRONG><EM>	Business Loans. </EM></STRONG> We also originate business loans to a variety of professionals, sole
+proprietorships and small businesses, primarily in our market area.  These loans are generally secured
+by real estate.  We generally require the personal guarantee of the business owner.  Business lending
+products include term loans and lines of credit.  Our business term loans generally have terms from one
+to five years and are mostly fixed rate loans.  Our business lines of credit have terms from one to three
+years and are mostly adjustable rate loans.</P>
+
+<P>	Unlike single-family residential mortgage loans, which generally are made on the basis of the
+borrower's ability to make repayment from his or her employment and other income and which are
+secured by real property whose value tends to be more easily ascertainable, business loans typically are
+made on the basis of the borrower's ability to make repayment from the cash flow of the borrower's
+business.  As a result, the availability of funds for the repayment of business loans may be substantially
+dependent on the success of the business itself and the general economic environment.  Business loans,
+therefore, have greater credit risk than residential mortgage loans.  In addition, business lending
+generally requires substantially greater evaluation and oversight efforts compared to residential or non-residential real estate lending.</P>
+
+<P>	<STRONG><EM>Home Equity Loans.</EM></STRONG> Our home equity loan portfolio includes home equity lines of credit and
+second mortgage term loans.  Home equity lines of credit are prime-based loans that are adjusted
+monthly.  Home equity loans are primarily originated in our market area and are generally made in
+amounts of up to 80% of value.  We offer home equity loans on investment properties in addition to
+loans on primary residences.  Loans on investment properties are made in amounts of up to 65% of
+value on second mortgage term loans and up to 60% of value of home equity lines of credit.  </P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>9</CENTER>
+<A HREF="#10"><font size="-1">Next Page</font></A>
+<A NAME="10"></A></div><br><br>
+
+<div style="text-indent: .50in;">
+
+<P>	Generally, our second mortgage term loans have fixed rates for terms of up to fifteen years.
+Second mortgage term loans s and home equity lines of credit do not require title insurance but do
+require homeowner, liability, fire and, if required, flood insurance policies. </P>
+
+<P><STRONG><EM>	Consumer Loans.  </EM></STRONG>Consumer loans consist of savings secured loans and unsecured consumer
+loans. We will generally lend up to 90% of the account balance on a savings secured loan.  At
+September 30, 2007, we had $69,000 of unsecured consumer loans.</P>
+
+<P>	Consumer loans generally have shorter terms and higher interest rates than residential loans.
+The consumer loan market can be helpful in improving the spread between the average loan yield and
+the cost of funds and at the same time improve the matching of rate sensitive assets and liabilities.   </P>
+
+<P>	Unsecured consumer loans, and consumer loans secured by collateral other than savings
+accounts, entail greater risks than residential mortgage loans.  Consumer loan repayment is dependent
+on the borrower's continuing financial stability and is more likely to be adversely affected by job loss,
+divorce, illness or personal bankruptcy.  Finally, the application of various laws, including federal and
+state bankruptcy and insolvency laws, may limit the amount which can be recovered on consumer loans
+in the event of a default. </P>
+
+<P>	Our underwriting standards for consumer loans include a determination of the applicant's credit
+history and an assessment of the applicant's ability to meet existing obligations and payments on the
+proposed loan.  The stability of the applicant's monthly income may be determined by verification of
+gross monthly income from primary employment, and additionally from any verifiable secondary
+income.  </P>
+
+<P><STRONG><EM>Loans to One Borrower.</EM></STRONG>  Under federal law, savings institutions have, subject to certain
+exemptions, lending limits to one borrower or a group of related borrowers in an amount equal to the
+greater of $500,000 or 15% of the institution's unimpaired capital and surplus.  As of September 30,
+2007, our loans to one borrower limit was approximately $12.0 million.</P>
+
+<P>At September 30, 2007, our largest group of related borrowers had an aggregate balance,
+including unfunded commitments, of approximately $8.8 million, representing 9 loans on single
+purpose commercial real estate, mixed use properties, one- to four-family and a construction loan for
+residential properties.</P>
+
+<P>At the same date, our second largest group of related borrowers had an aggregate balance
+including total commitments of approximately $8.0 million, representing two loans secured by a
+construction loan for a condominium project and a small unsecured line of credit.     Our third largest
+group of related borrowers at that date had an aggregate balance including total commitments of
+approximately $7.2 million, representing  seven loans secured by a catering facility, land, one- to four-family properties and receivables.  At September 30, 2007 , we had 28  additional lending relationships
+exceeding $2.0 million, with outstanding balances at that date ranging from $2.0 million to $5.7
+million. All of these lending relationships were current and performing in accordance with the terms of
+their loan agreements as of September 30, 2007.</P>
+
+<P>	<STRONG><EM>Loan Originations, Purchases, Sales, Solicitation and Processing.</EM></STRONG>  Our loan growth arises
+primarily from the retail origination of our own loans and retaining such loans in portfolio.  Our
+sources of loan originations include repeat customers, referrals from realtors and other professionals,
+such as attorneys, accountants and financial planners, as well as "walk-in" customers. Gross loan
+originations totaled approximately $130.1 million for the year ended September 30, 2007.  Net of
+principal repayments, loan growth totaled approximately $40.5 million for the year ended September
+30, 2007.</P>
+
+<P>By contrast, our loan purchase activity has been limited in recent years.  Toward that end, we
+did not purchase any whole loans during the years ended September 30, 2007, 2006 and 2005.</P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>10</CENTER>
+<A HREF="#11"><font size="-1">Next Page</font></A>
+<A NAME="11"></A></div><br><br>
+
+<div style="text-indent: .50in;">
+
+<P>During the years ended September 30, 2007, 2006 and 2005, we sold loans totaling $9.3
+million, $5.8 million and $2.4 million, respectively.  As noted earlier, we have sold these loans on a
+non-recourse, servicing retained and non-recourse, servicing released basis.  At September 30, 2007,
+loans serviced for the benefit of others totaled $19.1 million.</P>
+
+<P>Generally, loan sales have been part of our interest rate risk management strategy.  However,
+for the reasons noted earlier, the Bank intends to discontinue the sale of one- to four-family
+mortgage loan originations for a period of time to augment the growth in commercial loans.  The Bank
+will carefully monitor the earnings, liquidity, and balance sheet allocation impact of this strategy and
+make interim adjustments, as necessary, to support achievement of the Company's business plan goals
+and objectives.</P>
+
+<P>	We occasionally purchase participations in loans originated through other lending institutions.
+At September 30, 2007, we had participations with other institutions that had outstanding balances
+totaling $12.1 million.  An additional $1.9 million of unfunded commitments remain outstanding
+related to those loans.  Additionally, we have $1.7 million of outstanding loan balances from the Thrift
+Institutions Community Investment Corporation of New Jersey ("TICIC").  Approximately $222,000 of
+unfunded commitments remain outstanding related the TICIC loans. Our participations through these
+entities are secured by one- to four-family properties as well as multi-family or other non-one- to-four
+family properties, such as assisted living facilities.  We may also sell participation interests in multi-family, commercial and other real estate loans or construction loans.</P>
+
+<P>	<STRONG><EM>Loan Commitments.</EM></STRONG>  We provide written commitments to prospective borrowers on all one- to
+four-family and commercial loans.  The total amount of commitments to extend credit for these loans as
+of September 30, 2007, was approximately $22.4 million, excluding commitments on unused lines of
+credit of $29.2 million and undisbursed portions of construction loans totaling $16.0 million.</P>
+
+<P>	<STRONG><EM>Loan Approval Procedures and Authority.</EM></STRONG>  Our lending policies and loan approval limits are
+recommended by senior management and approved by the Board of Directors.  Regarding our one-to-four family mortgage and home equity loans, our Loan Underwriter has individual authority to approve
+one-to four-family loans up to $417,000, the FNMA conforming loan limit.  Our Loan Origination
+Manager has individual authority to approve one-to four-family loans up to $500,000 with FNMA
+automated underwriting approvals.  The loan committee overseeing these lending activities consists of
+Joseph Kliminski, CEO, Fred Kowal, President &amp; COO, Richard Bzdek, SVP Corporate Secretary and
+Catherine Bringuier, SVP Chief Lending Officer.  Each of these officers has individual authority to
+approve one- to four-family loans up to $750,000.  One- to four-family loans between $750,000 and
+$1,000,000 require two approvals, at least one of which must be from a loan committee member while
+the second may be from the Loan Underwriter or the Loan Origination Manager. One- to four-family
+loans greater than $1,000,000 require two signatures from loan committee members, one of which
+must be the President &amp; COO or the SVP Chief Lending Officer.  </P>
+
+<P>	Regarding our commercial loans, including multi-family and non-residential real estate,
+construction and business loans, the loan committee overseeing these lending activities consists of
+Joseph Kliminski, CEO, Fred Kowal, President &amp; COO, Catherine Bringuier, SVP Chief Lending
+Officer and Glenn Miller, SVP Commercial Real Estate.  Loan approval authority within this
+committee is limited to the CEO, President &amp; COO and SVP Chief Lending Officer.  Commercial
+loans secured by real estate up to $750,000 require the approval of either the President &amp; COO or SVP
+Chief Lending Officer.   Loans greater than $750,000 require two approvals from authorized members
+of the loan committee.</P>
+
+<P>In addition to the applicable loan committee member approvals, all loans in excess of certain
+dollar thresholds must be presented to a subcommittee of the Board of Directors for review and
+approval.  The Board
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>11</CENTER>
+<A HREF="#12"><font size="-1">Next Page</font></A>
+<A NAME="12"></A></div><br><br>
+
+
+of Director's loan committee currently comprises two outside directors - the
+Chairman and Vice Chairman of  the Board.  Through the first half of fiscal 2007, all loans over
+$1,750,000 required the approval of the Board of Director's loan committee.  During the latter half of
+fiscal 2007, the loan amount threshold requiring the Board of Director's loan committee  approval was
+increased from $1,750,000 to $2,500,000.</P>
+
+<div style="text-indent: .50in;">
+
+<P>As with existing policies and limits, any changes recommended by management, regarding loan
+authority, will be subject to Board of Director approval.</P>
+
+</div>
+
+<P><STRONG>Asset Quality</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>	<STRONG><EM>Loan Delinquencies and Collection Procedures.</EM></STRONG>  The borrower is notified by both mail and
+telephone when a loan is sixteen days past due.  If the delinquency continues, subsequent efforts are
+made to contact the delinquent borrower and additional collection notices and letters are sent.  When a
+loan is ninety days delinquent, it is referred to an attorney for repossession or foreclosure.  All
+reasonable attempts are made to collect from borrowers prior to referral to an attorney for collection.
+In certain instances, we may modify the loan or grant a limited moratorium on loan payments to enable
+the borrower to reorganize his financial affairs, and we attempt to work with the borrower to establish
+a repayment schedule to cure the delinquency.</P>
+
+<P>	As to mortgage loans, if a foreclosure action is taken and the loan is not reinstated, paid in full
+or refinanced, the property is sold at judicial sale at which we may be the buyer if there are no
+adequate offers to satisfy the debt.  Any property acquired as the result of foreclosure or by deed in
+lieu of foreclosure is classified as real estate owned until it is sold or otherwise disposed of.  When real
+estate owned is acquired, it is recorded at the lower of the unpaid principal balance of the related loan
+or its fair market value less estimated selling costs.  The initial write-down of the property is charged to
+the allowance for loan losses. Adjustments to the carrying value of the properties that result from
+subsequent declines in value are charged to operations during the period in which the declines occur.
+At September 30, 2007, we held no real estate owned.</P>
+
+<P>	Loans are reviewed on a regular basis and are placed on non-accrual status when they are more
+than ninety days delinquent.  Loans may be placed on a non-accrual status at any time if, in the opinion
+of management, the collection of additional interest is doubtful.  Interest accrued and unpaid at the time
+a loan is placed on non-accrual status is charged against interest income.  Subsequent payments are
+either applied to the outstanding principal balance or recorded as interest income, depending on the
+assessment of the ultimate collectibility of the loan.  At September 30, 2007, we had approximately
+$1.2 million of loans that were held on a non-accrual basis.</P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>12</CENTER>
+<A HREF="#13"><font size="-1">Next Page</font></A>
+<A NAME="13"></A></div><br><br>
+
+<div style="text-indent: .50in;">
+
+<P><STRONG><EM>Non-Performing Assets.</EM></STRONG>  The following table provides information regarding our non-performing loans and other non-performing assets as of the dates indicated.</P>
+
+</div>
+
+<TABLE WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="5" ALIGN="CENTER"><FONT SIZE="-1">At September 30,<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2007<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2006<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2005<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2004<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2003<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"><U></TD>
+<TD COLSPAN="5" ALIGN="CENTER"><FONT SIZE="-1">(Dollars in thousands)</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Loans accounted for on a non-accrual basis:</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;One- to four-family	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	&nbsp;&nbsp;&nbsp;690&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	&nbsp;&nbsp;&nbsp;691&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	&nbsp;&nbsp;&nbsp;952&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	&nbsp;&nbsp;&nbsp;445&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	&nbsp;&nbsp;&nbsp;147&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1">&nbsp;&nbsp;Multi-family and non residential	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">	550&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">	1,398&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">	101&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">	74&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">	369&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Construction</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Consumer	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">62&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Home equity</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">48&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Business</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">9&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,249&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">2,089&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,163&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">519&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">517&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Accruing loans contractually past due 90 days or more	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1">Total non-performing loans</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,249&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">2,089&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,163&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">519&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">517&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Real estate owned	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Other non-performing assets	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1">Total non-performing assets	</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	1,249&nbsp;&nbsp;&nbsp;</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	2,089&nbsp;&nbsp;&nbsp;</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	1,163&nbsp;&nbsp;&nbsp;</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	519&nbsp;&nbsp;&nbsp;</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	517&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1">Allowance for loan losses to non-performing loans</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">205.56%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">101.64%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">142.62%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">304.05%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">265.18% </TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1">Total non-performing loans to total loans</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.28%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.52%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.34%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.17%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.20% </TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1">Total non-performing loans to total assets</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.22%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.41%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.21%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.12%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.12% </TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1">Total non-performing assets to total assets	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.22%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.41%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.21%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.12%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.12% </TD></TR></TABLE>
+
+<div style="text-indent: .50in;">
+
+<P>	During the year ended September 30, 2007, gross interest income of $45,510 would have been
+recorded on loans accounted for on a non-accrual basis if those loans had been current, and $29,069 of
+interest on such loans was included in income for the year ended September 30, 2007.</P>
+
+<P>	<STRONG><EM>Classified Assets.</EM></STRONG>  Management, in compliance with Office of Thrift Supervision ("OTS")
+guidelines, has instituted an internal loan review program, whereby non-performing loans are classified
+as substandard, doubtful or loss.  It is our policy to review the loan portfolio, in accordance with
+regulatory classification procedures, on at least a quarterly basis.  When a loan is classified as
+substandard or doubtful, management evaluates the loan for impairment.  When management classifies
+a portion of a loan as loss, a reserve equal to 100% of the loss amount is allocated against the loan. </P>
+
+<P>	An asset is considered "substandard" if it is inadequately protected by the paying capacity and
+net worth of the obligor or the collateral pledged, if any.  Substandard assets include those
+characterized by the distinct possibility that the insured institution will sustain some loss if the
+deficiencies are not corrected.  Assets classified as "doubtful" have all of the weaknesses inherent in
+those classified substandard, with the added characteristic that the weaknesses present make collection
+or liquidation in full highly questionable and improbable, on the basis of currently existing facts,
+conditions, and values.  Assets, or portions thereof, classified as "loss" are considered uncollectible and
+of so little value that their continuance as assets without the allocation of an impairment reserve is not
+warranted.  Assets which do not currently expose the insured institution to a sufficient degree of risk to
+warrant classification in one of the aforementioned categories but
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>13</CENTER>
+<A HREF="#14"><font size="-1">Next Page</font></A>
+<A NAME="14"></A></div><br><br>
+
+which have credit deficiencies or potential weaknesses are required to be designated "special mention" by management.</P>
+
+<div style="text-indent: .50in;">
+
+<P>	Management's classification of assets is reviewed by the Board on a regular basis and by the
+regulatory agencies as part of their examination process.  The following table discloses our
+classification of assets and designation of certain loans as special mention as of September 30, 2007.
+At September 30, 2007, all of the classified assets and special mention designated assets were loans.</P>
+
+</div>
+
+<CENTER>
+<TABLE ALIGN="CENTER" WIDTH="50%">
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="CENTER" WIDTH=23%><FONT SIZE="-1">At<br>September 30, 2007<hr color=black></td></tr>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">(In thousands)</TD></TR>
+
+<TR VALIGN="TOP"><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Special Mention</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$&nbsp;&nbsp;&nbsp;401</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Substandard</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,029</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Doubtful</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Loss</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Total</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$1,430</FONT></TD></TR></TABLE>
+</CENTER>
+</P>
+
+<div style="text-indent: .50in;">
+
+<P>At September 30, 2007, approximately $848,000 of loans classified as "substandard" were
+accounted for as non-performing loans.  As of that same date, a single loan totaling approximately
+$401,000 classified as "special mention" was also accounted for as a non-performing loan.</P>
+
+<P><STRONG><EM>Allowance for Loan Losses.</EM></STRONG>  The allowance for loan losses is a valuation account that reflects
+our estimation of the losses in our loan portfolio to the extent they are both probable and reasonable to
+estimate. The allowance is maintained through provisions for loan losses that are charged to income in
+the period they are established.  We charge losses on loans against the allowance for loan losses when
+we believe the collection of loan principal is unlikely.  Recoveries on loans previously charged-off are
+added back to the allowance.  </P>
+
+<P>Our methodology for calculating the allowance for lease and loan losses is based upon FAS 5
+and FAS 114.  Under FAS 114, we identify and analyze certain loans for impairment.  If an
+impairment is identified on a specific loan, a loss allocation is recorded in the amount of that
+impairment.  Loan types subject to FAS 114 are, multi-family mortgage loans, non-residential
+mortgage loans, construction loans and business loans.  We also conduct a separate review of all loans
+on which the collectibility of principal may not be reasonably assured.  We evaluate all classified loans
+individually and base our determination of a loss factor on the likelihood of collectibility of principal
+including consideration of the value of the underlying collateral securing the loan.  </P>
+
+<P>Under our implementation of FAS 5, we segregate loans by loan category and evaluate
+homogeneous loans as a group.  The loss characteristics of aggregated homogeneous loans are
+examined using two sets of factors: (1) annual historical loss experience factors that consider the net
+charge-off history of the Bank and (2) environmental factors.  Although there may be other factors that
+also warrant consideration, we consider the following environmental factors:</P>
+</div>
+
+<BLOCKQUOTE>
+<UL>
+<LI>
+levels and trends of delinquencies and impaired loans; <BR>
+
+<LI>levels and trends of charge-offs and recoveries; <BR>
+
+<LI>trends in volume and terms of loans; <BR>
+
+<LI>changes to lending policies, procedures and practices; <BR>
+
+<LI>experience, ability and depth of lending management and staff; <BR>
+
+<LI>national, regional and local economic trends and conditions; <BR>
+
+<LI>industry conditions; and<BR>
+
+<LI>changes in credit concentration. </LI></UL></BLOCKQUOTE>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>14</CENTER>
+<A HREF="#15"><font size="-1">Next Page</font></A>
+<A NAME="15"></A></div><br><br>
+
+<div style="text-indent: .50in;">
+
+<P>In recent years, our charge-offs have been low and, consequently, our estimation of the amount
+of losses in the loan portfolio both probable and reasonable to estimate has been more reflective of
+other factors. </P>
+
+<P>Our allowance estimation methodology utilizes historical loss experience and environmental
+factors such as the local and national economy, loan growth rate, trends in delinquencies and non-performing loans, experience of lending personnel, and other similar factors.  However, we have had
+significant growth in recent years.  As a result of the significant loan growth, a portion of our loan
+portfolio is considered "unseasoned," meaning that the loans were originated less than three years ago.
+Generally, unseasoned loans demonstrate a greater risk of credit losses than their seasoned
+counterparts.  Moreover, in many cases, these unseasoned loans are obligations of borrowers with
+whom the Bank has had no prior payment experience.  In the absence of adequate historical loss
+experience upon which the Bank can base its allowance calculations, the Bank includes peer group
+information in its evaluation of the allowance.  The peer group information utilized by the Bank is that
+of OTS regulated thrifts in the northeast region.  Management believes that the majority of thrifts in the
+northeast region have similar loan portfolio composition.</P>
+
+<P>This estimation is inherently subjective as it requires estimates and assumptions that are
+susceptible to significant revisions as more information becomes available or as future events change.
+Future additions to the allowance for loan losses may be necessary if economic and other conditions in
+the future differ substantially from the current operating environment.  In addition, the OTS as an
+integral part of its examination process, periodically reviews our loan and foreclosed real estate
+portfolios and the related allowance for loan losses and valuation allowance for foreclosed real estate.
+The OTS may require the allowance for loan losses or the valuation allowance for foreclosed real estate
+to be increased based on its review of information available at the time of the examination, which
+would negatively affect our earnings.</P>
+
+<P>Based on the allowance for loan loss methodology discussed above, management expects
+provisions for loan losses to increase as a result of the net growth in loans called for in the Company's
+business plan.  Specifically, our business strategy calls for increased strategic emphasis in commercial
+real estate and business lending.  The loss factors used in the Bank's loan loss calculations are generally
+higher for such loans compared with those applied to one- to four-family mortgage loans.
+Consequently, future net growth in commercial real estate and business loans may result in required
+loss provisions that exceed those recorded in prior years when comparatively greater strategic emphasis
+had been placed growing the 1-4 family mortgage loan portfolio.</P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>15</CENTER>
+<A HREF="#16"><font size="-1">Next Page</font></A>
+<A NAME="16"></A></div><br><br>
+
+<div style="text-indent: .50in;">
+
+<P>The following table sets forth information with respect to our allowance for loan losses for the
+periods indicated:</P>
+
+</div>
+
+<TABLE WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="5" ALIGN="CENTER"><FONT SIZE="-1">Year Ended September 30,<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2007<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2006<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2005<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2004<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2003<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"></TD>
+<TD COLSPAN="5" ALIGN="CENTER"><FONT SIZE="-1">(Dollars in thousands)</TD></TR>
+
+<tr><td>&nbsp;</td></tr>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Allowance balance at beginning of period	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	&nbsp;&nbsp;&nbsp;2,123</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	&nbsp;&nbsp;&nbsp;1,658</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	&nbsp;&nbsp;&nbsp;1,578</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	&nbsp;&nbsp;&nbsp;1,371</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	&nbsp;&nbsp;&nbsp;1,117 </TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Provision for loan losses	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		445</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		465</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		81</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		207</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">		254 </TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Charge-offs:</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;One- to four-family real estate	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Consumer</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total charge-offs</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Recoveries:</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Consumer</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total recoveries	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Net (charge-offs) recoveries	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Allowance balance at end of period</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2,568</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2,123</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,658</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,578</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,371</TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1"><BR>Total loans outstanding at end of period</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	 456,579</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	 416,564</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	341,978</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	313,713</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	264,702 </TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Average loans outstanding during period	</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$ 	418,969</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$ 	369,916</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	327,948</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	278,632</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	238,474 </TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Allowance as a % of total loans</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.58%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.53%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.48%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.50%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.52%</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Net loans charge-offs as a % of average loans</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.00%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.00%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.00%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.00%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.00% </TD></TR></TABLE>
+
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>16</CENTER>
+<A HREF="#17"><font size="-1">Next Page</font></A>
+<A NAME="17"></A></div><br><br>
+
+
+<div style="text-indent: .50in;">
+
+<P><STRONG><EM>Allocation of Allowance for Loan Losses.</EM>  </STRONG>The following table sets forth the allocation of our allowance for loan losses by loan category
+and the percent of loans in each category to total loans receivable, net, at the dates indicated.  The portion of the loan loss allowance allocated to
+each loan category does not represent the total available for future losses which may occur within the loan category since the total loan loss
+allowance is a valuation allocation applicable to the entire loan portfolio.</P>
+
+</div>
+
+<CENTER>
+<TABLE ALIGN="CENTER" WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="10" ALIGN="CENTER"><FONT SIZE="-1">At September 30<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="2" ALIGN="CENTER"><FONT SIZE="-1">2007<hr color=black></TD>
+<TD COLSPAN="2" ALIGN="CENTER"><FONT SIZE="-1">2006<hr color=black></TD>
+<TD COLSPAN="2" ALIGN="CENTER"><FONT SIZE="-1">2005<hr color=black></TD>
+<TD COLSPAN="2" ALIGN="CENTER"><FONT SIZE="-1">2004<hr color=black></TD>
+<TD COLSPAN="2" ALIGN="CENTER"><FONT SIZE="-1">2003<hr color=black></TD>
+</TD></TR>
+
+<TR VALIGN="BOTTOM"><TD></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Amount<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Percent<BR>of Loans<BR>to Total<BR>Loans<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Amount<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Percent<BR>of Loans<BR>to Total<BR>Loans<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Amount<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Percent<BR>of Loans<BR>to Total<BR>Loans<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Amount<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Percent<BR>of Loans<BR>to Total<BR>Loans<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Amount<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Percent<BR>of Loans<BR>to Total<BR>Loans<hr color=black></TD></TD></TR>
+
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="10" ALIGN="CENTER"><FONT SIZE="-1">(Dollars in thousands)</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">At end of period allocated to:</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;One- to four-family real <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;estate	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$&nbsp;&nbsp;&nbsp;&nbsp;748</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>60.92%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$&nbsp;&nbsp;&nbsp;&nbsp;806</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>68.05%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$&nbsp;&nbsp;&nbsp;&nbsp;782</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>78.09%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$&nbsp;&nbsp;&nbsp;&nbsp;777</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>80.17%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$&nbsp;&nbsp;&nbsp;&nbsp;685</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>81.59%</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Multi-family and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;non-residential real estate</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>1,109</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>21.70&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>878</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>17.64&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>737</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>17.14&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>680</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>13.77&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>566</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>13.68&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Land</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">46</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.73&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">6</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.13&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Construction	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">427</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">10.64&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">174</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">7.96&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">12</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.42&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">21</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">2.29&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">3</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.47&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Consumer</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">5</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.14&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">5</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.17&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.21&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.24&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">3</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.29&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Home equity	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">139</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.33&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">95</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.59&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">63</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">3.92&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">43</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">3.40&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">37</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">3.36&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Business</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">94</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1.54&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">115</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1.46&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">16</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.22&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">9</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.13&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">34</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">0.61&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Unallocated</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">44<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">44<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">44<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">43<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total allowance</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$    2,568</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">100.00%</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$2,123</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">100.00%</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	1,658</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">100.00%</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	1,578</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">100.00%</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	1,371</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">100.00%</TD></TR></TABLE>
+</CENTER>
+</P>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>17</CENTER>
+<A HREF="#18"><font size="-1">Next Page</font></A>
+<A NAME="18"></A></div><br><br>
+
+
+<P><STRONG>Securities Portfolio</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P><STRONG><EM>General.</EM></STRONG>  Federally chartered savings banks have the authority to invest in various types of
+liquid assets.  The investments authorized by the Bank's board-approved investment policy include
+U.S. government and government agency obligations, mortgage-related securities of various U.S.
+government agencies or government-sponsored enterprises and private corporate issuers (including
+securities collateralized by mortgages) and mutual funds comprising such securities.  Authorized
+investments also include certificates of deposits of insured banks and savings institutions and municipal
+securities. Our policy does not permit corporate non-residential mortgage related securities.  Our
+investment securities portfolio at September 30, 2007 did not contain securities of any issuer with an
+aggregate book value in excess of 10% of our equity, excluding those issued by the United States
+Government or its agencies.</P>
+
+<P>	Statement of Financial Accounting Standards No. 115, "Accounting for Certain Investments in
+Debt and Equity Securities," requires that securities be categorized as "held-to-maturity," "trading
+securities" or "available-for-sale," based on management's intent as to the ultimate disposition of each
+security.  Statement No. 115 allows debt securities to be classified as "held-to-maturity" and reported in
+financial statements at amortized cost only if the reporting entity has the positive intent and ability to
+hold these securities to maturity.  Securities that might be sold in response to changes in market interest
+rates, changes in the security's prepayment risk, increases in loan demand, or other similar factors
+cannot be classified as "held-to-maturity." </P>
+
+<P>	We do not currently use or maintain a trading account.  Securities not classified as "held-to-maturity" are classified as "available-for-sale."  These securities are reported at fair value, and
+unrealized gains and losses on the securities are excluded from earnings and reported, net of deferred
+taxes, as a separate component of equity. </P>
+
+<P>	All of our securities carry market risk insofar as changes in market rates of interest may cause
+a decrease in their market value.  Investments in securities are made based on certain considerations,
+which include the interest rate, tax considerations, yield, settlement date and maturity of the security,
+our liquidity position, and anticipated cash needs and sources.  The effect that the proposed security
+would have on our credit and interest rate risk and risk-based capital is also considered.  We purchase
+securities to provide necessary liquidity for day-to-day operations, to aid in the management of interest
+rate risk and when investable funds exceed loan demand.  </P>
+
+<P>	 Our investment policy, which is approved by the Board of Directors, is designed to foster
+earnings and liquidity within prudent interest rate risk guidelines, while complementing our lending
+activities.  Generally, our investment policy is to invest funds in various categories of securities and
+maturities based upon our liquidity needs, asset/liability management policies, investment quality,
+marketability and performance objectives.  The Asset/Liability Management Committee, comprised of
+the Bank's Chief Executive Officer, President and Chief Operating Officer, Senior Vice President and
+Chief Financial Officer, Senior Vice President and Chief Lending Officer, Senior Vice President,
+Commercial Real Estate, Vice President, Branch Administration, and Vice President, Controller, is
+responsible for the oversight of the securities portfolio.  Management conducts regular, informal
+meetings, generally on a weekly basis while the committee meets quarterly to formally review the
+Bank's securities portfolio.  The results of the committee's quarterly review are reported to the full
+Board, which makes adjustment to the investment policy and strategies as it considers necessary and
+appropriate.</P>
+
+<P>	We do not currently participate in hedging programs, interest rate caps, floors or swaps, or
+other activities involving the use of off-balance sheet derivative financial instruments, but we may do so
+in the future as part of our interest rate risk management.  Further, we do not invest in securities which
+are not rated investment grade.</P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>18</CENTER>
+<A HREF="#19"><font size="-1">Next Page</font></A>
+<A NAME="19"></A></div><br><br>
+
+<div style="text-indent: .50in;">
+
+<P>	Actual maturities of the securities held by us may differ from contractual maturities because
+issuers may have the right to call or prepay obligations with and without prepayment penalties. </P>
+
+<P>	<STRONG><EM>Mortgage-related Securities.</EM></STRONG>  Mortgage-related securities represent a participation interest in a
+pool of one- to four-family or multi-family mortgages, although we focus primarily on mortgage-related securities secured by one- to four-family mortgages.  Our mortgage-related securities portfolio
+includes mortgage-backed securities and collateralized mortgage obligations issued by U.S. government
+agencies or government-sponsored entities, such as Federal Home Loan Mortgage Corporation, the
+Government National Mortgage Association, and the Federal National Mortgage Association, as well
+as by private corporate issuers.  </P>
+
+<P>	The mortgage originators use intermediaries (generally government agencies and government-sponsored enterprises, but also a variety of private corporate issuers) to pool and repackage the
+participation interests in the form of securities, with investors such as us receiving the principal and
+interest payments on the mortgages.  Securities issued or sponsored by U.S. government agencies and
+government-sponsored entities are guaranteed as to the payment of principal and interest to investors.
+Privately issued securities typically offer rates above those paid on government agency issued or
+sponsored securities, but lack the guaranty of those agencies and are generally less liquid investments.
+In the absence of an agency guarantee, our policy requires that we purchase only privately-issued
+mortgage-related securities that have been assigned the highest credit rating (AAA) by the applicable
+securities rating agencies.  Limiting our purchases of privately-issued mortgage-related securities to
+those with a AAA rating reduces our added credit risk in purchasing non-agency guaranteed securities.
+Moreover, because there is a robust secondary market for AAA-rated privately-issued mortgage-related
+securities, much of the liquidity risk otherwise associated with our investment in non-agency securities
+is mitigated.</P>
+
+<P>	Mortgage-backed securities are pass-through securities typically issued with stated principal
+amounts, and the securities are backed by pools of mortgages that have loans with interest rates that are
+within a specific range and have varying maturities.  The life of a mortgage-backed security thus
+approximates the life of the underlying mortgages.  Mortgage-backed securities generally yield less
+than the mortgage loans underlying the securities.  The characteristics of the underlying pool of
+mortgages, i.e., fixed-rate or adjustable-rate, as well as prepayment risk, are passed on to the
+certificate holder.  Mortgage-backed securities are generally referred to as mortgage participation
+certificates or pass-through certificates. </P>
+
+<P>	Collateralized mortgage obligations are mortgage-derivative products that aggregate pools of
+mortgages and mortgage-backed securities and create different classes of securities with varying
+maturities and amortization schedules as well as a residual interest with each class having different risk
+characteristics.  The cash flows from the underlying collateral are usually divided into "tranches" or
+classes whereby tranches have descending priorities with respect to the distribution of principal and
+interest repayment of the underlying mortgages and mortgage-backed securities as opposed to pass
+through mortgage-backed securities where cash flows are distributed pro rata to all security holders.
+Unlike mortgage-backed securities from which cash flow is received and prepayment risk is shared pro
+rata by all securities holders, cash flows from the mortgages and mortgage-backed securities underlying
+collateralized mortgage obligations are paid in accordance with a predetermined priority to investors
+holding various tranches of the securities or obligations.  A particular tranche or class may carry
+prepayment risk which may be different from that of the underlying collateral and other tranches.</P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>19</CENTER>
+<A HREF="#20"><font size="-1">Next Page</font></A>
+<A NAME="20"></A></div><br><br>
+
+<div style="text-indent: .50in;">
+
+<P>At September 30, 2007, the Company's portfolio of collateralized mortgage obligations
+primarily included tranches whose terms and structure support the regular receipt of principal cash
+flows within a wide range of  prepayment speeds of the underlying collateral.  This reduces the
+likelihood that reductions in market value resulting from movements in market interest rates may be
+identified as "other than temporary" which would require an adjustment to the carrying cost of the
+security recorded through earnings.   Rather, investing in collateralized mortgage obligations allows us
+to better manage the prepayment and extension risk associated with conventional mortgage-related
+securities thereby reducing the market value sensitivity of that segment of the investment portfolio.
+Management believes collateralized mortgage obligations represent attractive alternatives relative to
+other investments due to the wide variety of maturity, repayment and interest rate options available.  At
+September 30, 2007, collateralized mortgage obligations comprised $37.2 million of our securities
+portfolio.</P>
+
+<P><STRONG><EM>Other Securities.</EM></STRONG>  In addition, at September 30, 2007 we held an approximate investment of
+$2.6 million in Federal Home Loan Bank of New York common stock (this amount is not shown in the
+securities portfolio).</P>
+
+<P>The following table sets forth the carrying value of our securities portfolio at the dates
+indicated.  Securities that are held-to-maturity are shown at our amortized cost, and securities that are
+available-for-sale are shown at the current market value.</P>
+
+</div>
+
+<TABLE WIDTH="90%" ALIGN=CENTER>
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="3" ALIGN="CENTER"><FONT SIZE="-1">At September 30,<HR COLOR=BLACK></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2007<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2006<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2005<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"></TD>
+<TD COLSPAN="3" ALIGN="CENTER"><FONT SIZE="-1">(In thousands)</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"><U>Securities Held-to-Maturity</U>:</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;U.S. government and federal agency obligation</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$&nbsp;&nbsp;&nbsp;2,000</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$&nbsp;&nbsp;&nbsp;2,000</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Collateralized mortgage non-agency obligations</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,855</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">2,137</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">2,503</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Collateralized mortgage agency obligations</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">47</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">58</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">76</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Government National Mortgage Association</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">145</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">200</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">244</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Federal Home Loan Mortgage Corporation</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">138</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">286</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">385</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Federal National Mortgage Association</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4,545<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">5,866<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">2,616<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;&nbsp;Total securities held-to-maturity</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">6,730<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">10,547<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">7,824<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"><U>Securities Available-for-Sale</U>:</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;U.S. government and federal agency obligation</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">2,005</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">10,917</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">9,805</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Collateralized mortgage non-agency obligations</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Collateralized mortgage agency obligations</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">35,271</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">32,393</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">25,763</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Government National Mortgage Association</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">81</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">108</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">148</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Federal Home Loan Mortgage Corporation</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">9,040</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">12,882</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4,090</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Federal National Mortgage Association</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">11,696</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">18,223</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">12,782</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Mutual fund</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">9,749<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;&nbsp;Total securities available-for-sale</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">58,093<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">74,523<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">62,337<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;&nbsp;Total</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	64,823</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	85,070</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	70,161</TD></TR></TABLE>
+</P>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>20</CENTER>
+<A HREF="#21"><font size="-1">Next Page</font></A>
+<A NAME="21"></A></div><br><br>
+
+
+<div style="text-indent: .50in;">
+
+<P>The following table sets forth certain information regarding the carrying values, weighted average yields and maturities of our investment and mortgage-backed securities portfolio at September 30, 2007.  This table shows contractual maturities and does not reflect repricing or the effect of prepayments.  Actual
+maturities may differ.</P>
+
+</div>
+
+<CENTER>
+<TABLE ALIGN="CENTER" WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="11" ALIGN=CENTER><FONT SIZE="-1">At September 30, 2007<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="2" ALIGN="CENTER"><FONT SIZE="-1">One Year or Less<hr color=black></TD>
+<TD COLSPAN="2" ALIGN="CENTER"><FONT SIZE="-1">One to Five Years<hr color=black></TD>
+<TD COLSPAN="2" ALIGN="CENTER"><FONT SIZE="-1">Five to Ten Years<hr color=black></TD>
+<TD COLSPAN="2" ALIGN="CENTER"><FONT SIZE="-1">More than Ten Years<hr color=black></TD>
+<TD COLSPAN="3" ALIGN="CENTER"><FONT SIZE="-1">Total Securities<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">Carrying<BR>Value<hr color=black></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">Average<BR>Yield	<hr color=black></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">Carrying<BR>Value<hr color=black></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">Average<BR>Yield	<hr color=black></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">Carrying<BR>Value<hr color=black></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">Average<BR>Yield	<hr color=black></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">Carrying<BR>Value<hr color=black></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">Average<BR>Yield	<hr color=black></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">Carrying<BR>Value<hr color=black></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">Average<BR>Yield	<hr color=black></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">Market<BR>Value<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="11" ALIGN="CENTER"><FONT SIZE="-1">(Dollars in thousands)</TD></TR>
+
+<TR VALIGN="TOP"><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">U.S. Government and Federal<BR>&nbsp;Agency</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$	2,005</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>5.18%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>-%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>-%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>-%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$	2,005</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>5.18%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$	2,005</TD></TR>
+
+<TR><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1">Mortgage-backed non-agency<br>
+&nbsp;&nbsp;Obligations</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,855</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">3.89&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,855</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">3.89&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1,837</TD></TR>
+
+<TR VALIGN="TOP"><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1">Government National Mortgage<br>
+&nbsp;Association</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">226</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">6.15&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">226</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">6.15&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">228</TD></TR>
+
+<TR VALIGN="TOP"><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1">Federal Home Loan Mortgage<br>
+&nbsp;Association</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">789</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">3.07&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">368</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">2.70&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">19,106</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.82&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">18,602</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.52&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">38,865</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.62&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">38,864</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Federal National Mortgage<br>
+&nbsp;Association</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>-<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>-<HR COLOR=BLACK></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>-&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>13,468<HR COLOR=BLACK></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>4.09&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>8,404<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>5.01&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>21,872<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>4.44&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>21,830<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;Total</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	2,794</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.58%</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$ 2,223  </TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">3.69%</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	32,574</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.52%</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	27,232</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.68%</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	64,823</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.56%</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	64,764</TD></TR></TABLE>
+</CENTER>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>21</CENTER>
+<A HREF="#22"><font size="-1">Next Page</font></A>
+<A NAME="22"></A></div><br><br>
+
+
+<P><STRONG>Sources of Funds</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P><STRONG><EM>General. </EM></STRONG> Deposits are our major source of funds for lending and other investment purposes.
+In addition, we derive funds from loan and mortgage-backed securities principal repayments, and
+proceeds from the maturity, call and sale of mortgage-backed securities and investment securities.
+Loan and securities payments are a relatively stable source of funds, while deposit inflows are
+significantly influenced by general interest rates and money market conditions.  Borrowings (principally
+from the Federal Home Loan Bank) are also used to supplement the amount of funds for lending and
+investment.</P>
+
+<P><STRONG><EM>Deposits.</EM></STRONG>  Our current deposit products include checking, savings, money market, club
+accounts, certificates of deposit accounts ranging in terms from thirty days to ten years, and individual
+retirement accounts.  Deposit account terms are generally determined based upon the required
+minimum balance amount, the amount of time that the funds must remain on deposit and the applicable
+interest rate. </P>
+
+<P>Deposits are obtained primarily from within New Jersey.  Traditional methods of advertising
+are used to attract new customers and deposits, including print media, direct mail and inserts included
+with customer statements.  We have not in the past utilized the services of deposit brokers and do not
+expect to utilize such services at this time.  During fiscal 2007, we offered special savings programs at
+higher promotional interest rates in connection with the opening of our Verona, Nutley and Clifton
+branch offices.  The Bank also expects to offer special promotional programs by which premiums or
+incentives will be paid for the opening of checking accounts.  We also periodically select particular
+certificate of deposit maturities for promotion.</P>
+
+<P>The determination of interest rates is based upon a number of factors, including: (1) our need
+for funds based on loan demand, current maturities of deposits and other cash flow needs; (2) a current
+survey of general market rates and rates of a selected group of competitors' rates for similar products;
+(3) our current cost of funds and yield on assets; and (4) the alternate cost of funds on a wholesale
+basis, in particular the cost of advances from the Federal Home Loan Bank.  Interest rates are reviewed
+by senior management on a weekly basis.</P>
+
+<P>At September 30, 2007, $193.5 million or 45.2% of our deposits were in certificates of
+deposit.  Our liquidity could be reduced if a significant amount of certificates of deposit, maturing
+within a short period of time, were not renewed.  Historically, a significant portion of the certificates of
+deposit remain with us after they mature and we believe that this will continue.  However, the need to
+retain these time deposits could result in an increase in our cost of funds.</P>
+
+<P>At September 30, 2007, we had approximately $5.6 million of public funds on deposit at the
+Bank.  These deposits include one account relationship whose balances at September 30, 2007 totaled
+approximately $5.2 million.</P>
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>22</CENTER>
+<A HREF="#23"><font size="-1">Next Page</font></A>
+<A NAME="23"></A></div><br><br>
+
+<div style="text-indent: .50in;">
+
+<P>The following table sets forth the distribution of deposits at the Bank at the dates indicated and the weighted average nominal interest
+rates for each period on each category of deposits presented.</P>
+
+</div>
+
+<TABLE WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="9" ALIGN="CENTER"><FONT SIZE="-1">At September 30<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"></TD>
+<TD COLSPAN="3" align=center><FONT SIZE="-1">2007<hr color=black></TD>
+<TD COLSPAN="3" align=center><FONT SIZE="-1">2006<hr color=black></TD>
+<TD COLSPAN="3" align=center><FONT SIZE="-1">2005<hr color=black></TD></TR>
+
+<TR VALIGN="bottom"><TD><FONT SIZE="-1"></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Amount<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Percent<br>of Total<br>Deposits<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Weighted<br>Average<br>Nominal<br>Rate<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Amount<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Percent<br>of Total<br>Deposits<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Weighted<br>Average<br>Nominal<br>Rate<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Amount<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Percent<br>of Total<br>Deposits<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Weighted<br>Average<br>Nominal<br>Rate<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Non-interest-bearing<br>&nbsp;&nbsp;&nbsp;demand deposits</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$	&nbsp;30,494</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>7.11%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>-%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$	&nbsp;23,545</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>7.20%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>-%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$	&nbsp;25,583</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>7.50%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>-%</TD></TR>
+
+<TR VALIGN="TOP"><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Interest-bearing<br>
+&nbsp;&nbsp;&nbsp;demand deposits</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>111,795</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>26.08&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>4.51&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>31,429</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>9.61&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>2.25&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>39,264</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>11.52&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>1.87&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Savings deposits</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">92,778</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">21.65&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">2.54&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">107,008</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">32.71&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">2.62&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">123,270</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">36.16&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">1.68&nbsp;&nbsp;&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Time deposits	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">193,533<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">45.16&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.93&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">165,165<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">50.48&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.48&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">152,808<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">44.82&nbsp;&nbsp;&nbsp;<hr color=black></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">3.45&nbsp;&nbsp;&nbsp;<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total deposits</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	428,600</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">100.00%</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">3.95%</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	327,147</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">100.00%</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">3.34%</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	340,925</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">100.00%</TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">2.37%</TD></TR></TABLE>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>23</CENTER>
+<A HREF="#24"><font size="-1">Next Page</font></A>
+<A NAME="24"></A></div><br><br>
+
+<div style="text-indent: .50in;">
+
+<P>The following table shows the amount of our certificates of deposit of $100,000 or more by
+time remaining until maturity as of September 30, 2007.</P>
+
+</div>
+
+<CENTER>
+<TABLE ALIGN="CENTER" WIDTH="60%">
+<TR VALIGN="bottom"><TD ALIGN="CENTER"><FONT SIZE="-1">Remaining Time Until Maturity<hr color=black></TD>
+<TD ALIGN="CENTER" COLSPAN=3><FONT SIZE="-1">Certificates<br>of Deposits<hr color=black></td>
+
+<tr valign=top><td></td>
+<td ALIGN="CENTER" COLSPAN=3><FONT SIZE="-1">(In thousands)</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Within three months</TD>
+<TD WIDTH=10%></TD>
+<TD ALIGN=RIGHT WIDTH=15%><FONT SIZE="-1">$	 22,009</TD>
+<TD WIDTH=10%></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Three through six months	</TD>
+<TD></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">15,665</TD>
+<TD></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Six through twelve months</TD>
+<TD></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">25,064</TD>
+<TD></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Over twelve months</TD>
+<TD></TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">16,961<hr color=black></TD>
+<TD></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Total</TD>
+<TD></TD>
+<td align="RIGHT" style="border-bottom: black double"><FONT SIZE="-1">$	79,699</TD></TR>
+<TD></TD></TR></TABLE>
+</CENTER>
+
+<div style="text-indent: .50in;">
+
+<P><STRONG><EM>Borrowings.</EM></STRONG>   To supplement our deposits as a source of funds for lending or investment, we
+borrow funds in the form of advances from the Federal Home Loan Bank.  We regularly make use of
+Federal Home Loan Bank advances as part of our interest rate risk management, primarily to extend
+the duration of funding to match the longer term fixed rate loans held in the loan portfolio as part of
+our growth strategy.</P>
+
+<P>Advances from the Federal Home Loan Bank are typically secured by the Federal Home Loan
+Bank stock we own and a portion of our residential mortgage loans and may be secured by other assets,
+mainly securities which are obligations of or guaranteed by the U.S. government.  At September 30,
+2007, our borrowing limit with the Federal Home Loan Bank was approximately $140.2 million.
+Additional information regarding our Federal Home Loan Bank advances is included under Note 8 of
+the Notes to the Financial Statements.</P>
+
+<P>The following table sets forth certain information regarding our borrowed funds.</P>
+
+</div>
+
+<CENTER>
+<TABLE ALIGN="CENTER" WIDTH="80%">
+<TR VALIGN="BOTTOM"><TD></TD>
+<TD COLSPAN="3" ALIGN=CENTER><FONT SIZE="-1">At or For the<BR>
+Year Ended September 30,<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">2007<hr color=black></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">2006<hr color=black></TD>
+<TD ALIGN=CENTER><FONT SIZE="-1">2005<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Federal Home Loan Bank Advances:</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Average balance outstanding</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$    44,256</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$    52,725</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1"><BR>$	62,056</TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1">Maximum amount outstanding<BR>
+&nbsp;&nbsp;at any month-end during the period</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	  56,269</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	  56,075</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$    72,853</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">Balance outstanding at end of period	</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	      37,612</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	      56,075</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">$	    53,734</TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1">Weighted average interest rate during<BR>
+&nbsp;&nbsp;the period</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">5.14%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.95%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.58%</TD></TR>
+
+<TR VALIGN="BOTTOM"><TD><FONT SIZE="-1">Weighted average interest rate at end<BR>
+&nbsp;&nbsp;of period</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">5.21%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">5.16%</TD>
+<TD ALIGN=RIGHT><FONT SIZE="-1">4.84%</TD></TR></TABLE>
+</CENTER>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>24</CENTER>
+<A HREF="#25"><font size="-1">Next Page</font></A>
+<A NAME="25"></A></div><br><br>
+
+<P><STRONG>Subsidiary Activity</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>	In addition to American Bank of New Jersey, the Company has one other subsidiary, ASB
+Investment Corp., a New Jersey corporation, which was organized in June 2003 for the purpose of
+selling insurance and investment products, including annuities, to customers of the Bank and the
+general public through a third party networking arrangement.  There has been very little activity at this
+subsidiary and sales are currently limited to the sale of fixed rate annuities. </P>
+
+<P>	American Bank of New Jersey has one subsidiary, American Savings Investment Corp., which
+was formed in August 2004 under New Jersey law as an investment company subsidiary.  The purpose
+of this subsidiary is to invest in stocks, bonds, notes and all types of equity, mortgages, debentures and
+other investment securities.  Holding investment securities in this subsidiary reduces our New Jersey
+state income tax rate.</P>
+
+</div>
+
+<P><STRONG>Personnel</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>As of September 30, 2007, we had 78 full-time employees and 11 part-time employees.  The
+employees are not represented by a collective bargaining unit.  We believe our relationship with our
+employees is satisfactory. </P>
+
+</div>
+
+<P><STRONG>Regulation</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>Set forth below is a brief description of certain laws that relate to the regulation of the Bank
+and the Company.  The description does not purport to be complete and is qualified in its entirety by
+reference to applicable laws and regulations.  The Bank and the Company operate in a highly regulated
+industry.  This regulation and supervision establishes a comprehensive framework of activities in which
+a federal savings bank may engage and is intended primarily for the protection of the deposit insurance
+fund and depositors. </P>
+
+<P>Any change in applicable statutory and regulatory requirements, whether by the OTS, the
+Federal Deposit Insurance Corporation ("FDIC") or the United States Congress, could have a material
+adverse impact on the Company and the Bank, and their operations.  The adoption of regulations or the
+enactment of laws that restrict the operations of the Bank and/or the Company or impose burdensome
+requirements upon one or both of them could reduce their profitability and could impair the value of
+the Bank's franchise which could hurt the trading price of the Company's common stock.</P>
+
+</div>
+
+<P><STRONG>Regulation of the Bank</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P><STRONG><EM>General.</EM></STRONG> As a federally chartered, FDIC-insured savings bank, the Bank is subject to
+extensive regulation by the OTS and the FDIC.  This regulatory structure gives the regulatory
+authorities extensive discretion in connection with their supervisory and enforcement activities and
+examination policies, including policies regarding the classification of assets and the level of the
+allowance for loan losses.  The activities of federal savings banks are subject to extensive regulation
+including restrictions or requirements with respect to loans to one borrower, the percentage of
+non-mortgage loans or investments to total assets, capital distributions, permissible investments and
+lending activities, liquidity management, transactions with affiliates and community reinvestment.  The
+FDIC also has authority to examine the Bank in its role as the administrator of the Deposit Insurance
+Fund ("DIF"), which is the fund established upon the merger of the Savings Association Insurance
+Fund ("SAIF") and the Bank Insurance Fund ("BIF") in March 2006.  Federal savings banks are also
+subject to reserve requirements of the Federal Reserve System.  A federal savings bank's relationship
+with its depositors and borrowers is regulated by both state and federal law, especially in such matters
+as the ownership of savings accounts and the form and content of the bank's mortgage documents.</P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>25</CENTER>
+<A HREF="#26"><font size="-1">Next Page</font></A>
+<A NAME="26"></A></div><br><br>
+
+<div style="text-indent: .50in;">
+
+<P>The Bank must file regular reports with the OTS concerning its activities and financial
+condition, and must obtain regulatory approvals prior to entering into certain transactions such as
+mergers with or acquisitions of other financial institutions.  The OTS regularly examines the Bank and
+prepares reports to the Bank's Board of Directors on deficiencies, if any, found in its operations. </P>
+
+<P><STRONG><EM>Insurance of Deposit Accounts.  </EM></STRONG>The Bank is a member of the DIF, which is administered by
+the FDIC.  Deposits are insured up to the applicable limits by the FDIC and such insurance is backed
+by the full faith and credit of the United States Government.  As insurer, the FDIC imposes deposit
+insurance premiums and is authorized to conduct examinations of and to require reporting by FDIC-insured institutions.  It also may prohibit any FDIC-insured institution from engaging in any activity the
+FDIC determines by regulation or order to pose a serious risk to the DIF.   The FDIC also has the
+authority to initiate enforcement actions against savings institutions, after giving the OTS an
+opportunity take such action, and may terminate the deposit insurance if it determines that the
+institution has engaged in unsafe or unsound practices or is in an unsafe or unsound condition.</P>
+
+<P>The FDIC merged the BIF and SAIF to form the DIF on March 31, 2006 in accordance with
+the Federal Deposit Insurance Reform Act of 2005.  FDIC maintains the DIF by assessing depository
+institutions an insurance premium.  The FDIC Board approved a new risk-based premium system in
+November 2006 which was effective January 1, 2007.  The FDIC's new regulations for risk-based
+deposit insurance assessments establish four Risk Categories.  Risk Category I, for well-capitalized
+institutions that are financially sound with only a few minor weaknesses, includes approximately 95%
+of FDIC-insured institutions.  Risk Categories II, III, and IV present progressively greater risks to the
+deposit insurance fund.  Effective January 1, 2007, Risk Category I institutions pay quarterly
+assessments for deposit insurance at annual rates of five to seven basis points.  The rates for Risk
+Categories, II, III, and IV are seven, 28, and 43 basis points, respective.  Rates are subject to change
+with advance notice to insured institutions.</P>
+
+<P>Within Risk Category I, the precise rate for an individual institution with less than $10 billion
+in assets is generally determined by a formula using CAMELS ratings which are assigned in
+examinations, and financial ratios. A different method applies for larger institutions.  The rate for an
+individual institution is applied to its assessment base, which is generally its deposit liabilities subject to
+certain adjustments.  An institution (or its successor) insured by the FDIC on December 31, 1996
+which had previously paid assessments is eligible for certain credit against deposit insurance
+assessments.  We anticipate that this credit will reduce our FDIC premium expense for fiscal 2008
+before expiring during the latter half of that year.</P>
+
+<P>The Bank, like other former SAIF insured institutions and BIF insured institutions, is required
+to pay a Financing Corporation ("FICO") assessment in order to fund the interest on bonds issued to
+resolve thrift failures in the 1980s.  For the first quarter of fiscal year 2007, the annual rate for this
+assessment is 1.14 basis points for each $100 in domestic deposits.  These assessments, which may be
+revised based upon the level of BIF and former SAIF classified insured institution's deposits, will
+continue until the bonds mature in 2017 through 2019.</P>
+
+<P><STRONG><EM>Regulatory Capital Requirements.</EM></STRONG> OTS capital regulations require savings institutions to meet
+three capital standards: (1) tangible capital equal to 1.5% of total adjusted assets, (2) "Tier 1" or "core"
+capital equal to at least 4% (3% if the institution has received the highest possible rating on its most
+recent examination) of total adjusted assets, and (3) risk-based capital equal to 8% of total
+risk-weighted assets. At September 30, 2007 the Bank exceeded all regulatory capital requirements and
+was classified as "well capitalized."  </P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>26</CENTER>
+<A HREF="#27"><font size="-1">Next Page</font></A>
+<A NAME="27"></A></div><br><br>
+
+<div style="text-indent: .50in;">
+
+<P>In addition, the OTS may require that a savings institution that has a risk-based capital ratio of
+less than 8%, a ratio of Tier 1 capital to risk-weighted assets of less than 4% or a ratio of Tier 1 capital
+to total adjusted assets of less than 4% (3% if the institution has received the highest rating on its most
+recent examination) take certain action to increase its capital ratios. If the savings institution's capital is
+significantly below the minimum required levels of capital or if it is unsuccessful in increasing its
+capital ratios, the OTS may restrict its activities.</P>
+
+<P>For purposes of the OTS capital regulations, tangible capital is defined as core capital less all
+intangible assets except for certain mortgage servicing rights.  Tier 1 or core capital is defined as
+common stockholders' equity, non-cumulative perpetual preferred stock and related surplus, minority
+interests in the equity accounts of consolidated subsidiaries, and certain non-withdrawable accounts and
+pledged deposits of mutual savings banks.  The Bank does not have any non-withdrawable accounts or
+pledged deposits.  Tier 1 and core capital are reduced by an institution's intangible assets, with limited
+exceptions for certain mortgage and non-mortgage servicing rights and purchased credit card
+relationships.  Both core and tangible capital are further reduced by an amount equal to the savings
+institution's debt and equity investments in "non-includable" subsidiaries engaged in activities not
+permissible to national banks other than subsidiaries engaged in activities undertaken as agent for
+customers or in mortgage banking activities and subsidiary depository institutions or their holding
+companies.</P>
+
+<P>The risk-based capital standard for savings institutions requires the maintenance of total capital
+of 8% of risk-weighted assets.  Total capital equals the sum of core and supplementary capital.  The
+components of supplementary capital include, among other items, cumulative perpetual preferred stock,
+perpetual subordinated debt, mandatory convertible subordinated debt, intermediate-term preferred
+stock, the portion of the allowance for loan losses not designated for specific loan losses and up to 45%
+of unrealized gains on equity securities.  The portion of the allowance for loan and lease losses
+includable in supplementary capital is limited to a maximum of 1.25% of risk-weighted assets.
+Overall, supplementary capital is limited to 100% of core capital.  For purposes of determining total
+capital, a savings institution's assets are reduced by the  amount of capital instruments held by other
+depository institutions pursuant to reciprocal arrangements and by the amount of the institution's equity
+investments (other than those deducted from core and tangible capital) and its high loan-to-value ratio
+land loans and non-residential construction loans.</P>
+
+<P>A savings institution's risk-based capital requirement is measured against risk-weighted assets,
+which equal the sum of each on-balance-sheet asset and the credit-equivalent amount of each off-balance-sheet item after being multiplied by an assigned risk weight.  These risk weights range from
+0% for cash to 100% for delinquent loans, property acquired through foreclosure, commercial loans,
+and other assets.</P>
+
+<P>OTS rules require a deduction from capital for savings institutions with certain levels of interest
+rate risk.  The OTS calculates the sensitivity of an institution's net portfolio value based on data
+submitted by the institution in a schedule to its quarterly Thrift Financial Report and using the interest
+rate risk measurement model adopted by the OTS.  The amount of the interest rate risk component, if
+any, deducted from an institution's total capital is based on the institution's Thrift Financial Report filed
+two quarters earlier.  The OTS has indefinitely postponed implementation of the interest rate risk
+component, and the Bank has not been required to determine whether it will be required to deduct an
+interest rate risk component from capital. </P>
+
+<P><STRONG><EM>Prompt Corrective Regulatory Action.</EM></STRONG> Under the OTS Prompt Corrective Action regulations,
+the OTS is required to take supervisory actions against undercapitalized institutions, the severity of
+which depends upon the institution's level of capital.  Generally, a savings institution that has total
+risk-based capital of less than 8.0%, or a leverage ratio or a Tier 1 core capital ratio that is less than
+4.0%, is considered to be undercapitalized.  A savings institution that has total risk-based capital less
+than 6.0%, a Tier 1 core risk-based capital ratio of less than 3.0% or a leverage ratio that is less than
+3.0% is considered to be "significantly
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>27</CENTER>
+<A HREF="#28"><font size="-1">Next Page</font></A>
+<A NAME="28"></A></div><br><br>
+
+undercapitalized."  A savings institution that has a tangible
+capital to assets ratio equal to or less than 2.0% is deemed to be "critically undercapitalized."
+Generally, the banking regulator is required to appoint a receiver or conservator for an institution that
+is "critically undercapitalized."  The regulation also provides that a capital restoration plan must be
+filed with the OTS within forty-five days of the date an institution receives notice that it is
+"undercapitalized," "significantly undercapitalized" or "critically undercapitalized."  In addition,
+numerous mandatory supervisory actions become immediately applicable to the institution, including,
+but not limited to, restrictions on growth, investment activities, capital distributions, and affiliate
+transactions.  The OTS may also take any one of a number of discretionary supervisory actions against
+undercapitalized institutions, including the issuance of a capital directive and the replacement of senior
+executive officers and directors.</P>
+
+<div style="text-indent: .50in;">
+
+<P><STRONG><EM>Dividend and Other Capital Distribution Limitations.</EM></STRONG> The OTS imposes various restrictions or
+requirements on the ability of savings institutions to make capital distributions, including cash
+dividends.</P>
+
+<P>A savings institution that is a subsidiary of a savings and loan holding company, such as the
+Bank, must file an application or a notice with the OTS at least thirty days before making a capital
+distribution. A savings institution must file an application for prior approval of a capital distribution if:
+(i) it is not eligible for expedited treatment under the applications processing rules of the OTS; (ii) the
+total amount of all capital distributions, including the proposed capital distribution, for the applicable
+calendar year would exceed an amount equal to the savings bank's net income for that year to date plus
+the institution's retained net income for the preceding two years; (iii) it would not adequately be
+capitalized after the capital distribution; or (iv) the distribution would violate an agreement with the
+OTS or applicable regulations. </P>
+
+<P>The Bank is required to file a capital distribution notice or application with the OTS before
+paying any dividend to the Company.  However, capital distributions by the Company, as a savings and
+loan holding company, are not subject to the OTS capital distribution rules.</P>
+
+<P>The OTS may disapprove a notice or deny an application for a capital distribution if: (i) the
+savings institution would be undercapitalized following the capital distribution; (ii) the proposed capital
+distribution raises safety and soundness concerns; or (iii) the capital distribution would violate a
+prohibition contained in any statute, regulation or agreement.  In addition, a federal savings institution
+cannot distribute regulatory capital that is required for its liquidation account.</P>
+
+<P>During the fiscal year ended September 30, 2007, the Bank applied for, and received,
+regulatory approval to pay two $4.0 million dividends to the holding company which were distributed
+during the quarters ended June 30, 2007 and September 30, 2007.  The Bank may apply for regulatory
+approval to pay additional dividends to the holding company to support the Company's capital
+management objectives. </P>
+
+<P><STRONG><EM>Qualified Thrift Lender Test.</EM></STRONG> Federal savings institutions must meet a qualified thrift lender
+("QTL") test or they become subject to the business activity restrictions and branching rules applicable
+to national banks.  To qualify as a QTL, a savings institution must either (i) be deemed a "domestic
+building and loan association" under the Internal Revenue Code by maintaining at least 60% of its total
+assets in specified types of assets, including cash, certain government securities, loans secured by and
+other assets related to residential real property, educational loans and investments in premises of the
+institution or (ii) satisfy the statutory QTL test set forth in the Home Owners' Loan Act by maintaining
+at least 65% of its "portfolio assets" in certain "Qualified Thrift Investments" (defined to include
+residential mortgages and related equity investments, certain mortgage-related securities, small business
+loans, student loans and credit card loans, and 50% of certain community development loans).  For
+purposes of the statutory QTL test, portfolio assets are defined as total assets minus intangible assets,
+property used by the institution in conducting its business, and liquid assets equal to 20% of total
+assets.  A savings institution must maintain its status as a QTL on a monthly basis in at least
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>28</CENTER>
+<A HREF="#29"><font size="-1">Next Page</font></A>
+<A NAME="29"></A></div><br><br>
+
+
+nine out of every twelve months.  The Bank met the QTL test as of September 30, 2007 and in each of the last
+twelve months and, therefore, qualifies as a QTL.</P>
+
+<div style="text-indent: .50in;">
+<P><STRONG><EM>Transactions with Affiliates.</EM></STRONG> Generally, federal banking law requires that transactions between
+a savings institution or its subsidiaries and its affiliates must be on terms as favorable to the savings
+institution as comparable transactions with non-affiliates.  In addition, certain types of these
+transactions are restricted to an aggregate percentage of the savings institution's capital.  Collateral in
+specified amounts must usually be provided by affiliates in order to receive loans from the savings
+institution.  In addition, a savings institution may not extend credit to any affiliate engaged in activities
+not permissible for a bank holding company or acquire the securities of any affiliate that is not a
+subsidiary.  The OTS has the discretion to treat subsidiaries of savings institutions as affiliates on a
+case-by-case basis.</P>
+
+<P><STRONG><EM>Community Reinvestment Act</EM></STRONG>.  Under the Community Reinvestment Act ("CRA"), every
+insured depository institution, including the Bank, has a continuing and affirmative obligation consistent
+with its safe and sound operation to help meet the credit needs of its entire community, including low-
+and moderate-income neighborhoods.  The CRA does not establish specific lending requirements or
+programs for financial institutions nor does it limit an institution's discretion to develop the types of
+products and services that it believes are best suited to its particular community.  The CRA requires the
+OTS to assess the depository institution's record of meeting the credit needs of its community and to
+take such record into account in its evaluation of certain applications by such institution, such as a
+merger or the establishment of a branch office by the Bank.  An unsatisfactory CRA examination rating
+may be used as the basis for the denial of an application by the OTS. The Office of Thrift Supervision
+assigned the Bank an overall rating of "Satisfactory" in its most recent CRA evaluation. </P>
+
+<P><STRONG><EM>Federal Home Loan Bank ("FHLB") System.</EM></STRONG><EM>  </EM>The Bank is a member of the FHLB of New
+York, which is one of twelve regional FHLBs.  Each FHLB serves as a reserve or central bank for its
+members within its assigned region.  It is funded primarily from funds deposited by financial
+institutions and proceeds derived from the sale of consolidated obligations of the FHLB System.  It
+makes loans to members pursuant to policies and procedures established by the board of directors of the
+FHLB.</P>
+
+<P>As a member, the Bank is required to purchase and maintain stock in the FHLB of New York
+in an amount equal to the greater of 1% of our aggregate unpaid residential mortgage loans, home
+purchase contracts or similar obligations at the beginning of each year or 5% of FHLB advances.  We
+are in compliance with this requirement.  The FHLB imposes various limitations on advances such as
+limiting the amount of certain types of real estate related collateral to 30% of a member's capital and
+limiting total advances to a member.</P>
+
+<P>The FHLBs are required to provide funds for the resolution of troubled savings institutions and
+to contribute to affordable housing programs through direct loans or interest subsidies on advances
+targeted for community investment and low- and moderate-income housing projects.  These
+contributions have adversely affected the level of FHLB dividends paid and could continue to do so in
+the future.</P>
+
+<P><STRONG><EM>Federal Reserve System.</EM></STRONG><EM>  </EM>The Federal Reserve System requires all depository institutions to
+maintain non-interest-bearing reserves at specified levels against their checking accounts and
+non-personal certificate accounts.  The balances maintained to meet the reserve requirements imposed
+by the Federal Reserve System may be used to satisfy the OTS liquidity requirements.</P>
+
+<P>Savings institutions have authority to borrow from the Federal Reserve System "discount
+window,"  but Federal Reserve System policy generally requires savings institutions to exhaust all other
+sources before borrowing from the Federal Reserve System.</P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>29</CENTER>
+<A HREF="#30"><font size="-1">Next Page</font></A>
+<A NAME="30"></A></div><br><br>
+
+<P><STRONG>Regulation of the Company</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>	<STRONG><EM>General.</EM></STRONG> The Company is a savings and loan holding company, subject to regulation and
+supervision by the OTS.  In addition, the OTS has enforcement authority over the Company and any
+non-savings institution subsidiaries.  This permits the OTS to restrict or prohibit activities that it
+determines to be a serious risk to the Company.  This regulation is intended primarily for the protection
+of the  depositors and not for the benefit of stockholders of the Company.</P>
+
+<P><STRONG>	<EM>Activities Restrictions.</EM>  </STRONG>As a savings and loan holding company formed after May 4, 1999, the
+Company is  not a grandfathered unitary savings and loan holding company under the Gramm-Leach-Bliley Act (the "GLB Act").  As a result, the Company and its non-savings institution subsidiaries are
+subject to statutory and regulatory restrictions on their business activities.  Under the Home Owners'
+Loan Act, as amended by the GLB Act, the non-banking activities of the Company are restricted to
+certain activities specified by OTS regulation, which include performing services and holding
+properties used by a savings institution subsidiary, activities authorized for savings and loan holding
+companies as of March 5, 1987, and non-banking activities permissible for bank holding companies
+pursuant to the Bank Holding Company Act of 1956 (the "BHC Act") or authorized for financial
+holding companies pursuant to the GLB Act.  Furthermore, no company may acquire control of
+American Bank of New Jersey unless the acquiring company was a unitary savings and loan holding
+company on May 4, 1999 (or became a unitary savings and loan holding company pursuant to an
+application pending as of that date) or the company is only engaged in activities that are permitted for
+multiple savings and loan holding companies or for financial holding companies under the BHC Act as
+amended by the GLB Act.</P>
+
+<P>	<STRONG><EM>Mergers and Acquisitions.</EM></STRONG>  The Company must obtain approval from the OTS before acquiring
+more than 5% of the voting stock of another savings institution or savings and loan holding company or
+acquiring such a savings institution or savings and loan holding company by merger, consolidation or
+purchase of its assets.  In evaluating an application for the Company to acquire control of a savings
+institution, the OTS would consider the financial and managerial resources and future prospects of the
+Company and the target institution, the effect of the acquisition on the risk to the insurance funds, the
+convenience and the needs of the community and competitive factors.  </P>
+
+<P><STRONG><EM>Sarbanes-Oxley Act of 2002. </EM></STRONG>On July 30, 2002, President Bush signed into law the Sarbanes-Oxley Act of 2002 (the "Act"). The Securities and Exchange Commission ("SEC") has promulgated
+new regulations pursuant to the Act and may continue to propose additional implementing or clarifying
+regulations as necessary in furtherance of the Act. The passage of the Act, and the regulations
+implemented by the SEC subject publicly-traded companies to additional and more cumbersome
+reporting regulations and disclosure requirements. Compliance with the Act and corresponding
+regulations may increase the Company's expenses.</P>
+
+</div>
+
+<P><STRONG>Item 1A. Risk Factors. </STRONG></P>
+
+
+<P><STRONG>Our strategic plan calls for us to diversify our loan portfolio with increased emphasis on
+commercial lending which may increase our operating expenses in the future and result in a
+higher degree of credit risk within our loan portfolio.</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>Commercial loans include multi-family and non-residential mortgage loans, construction loans and
+business loans. At September 30, 2007, our loan portfolio included commercial loans totaling $141.9
+million, or 32.4% of our loans receivable, net.  It is our intention to significantly increase our
+origination of these types of loans. As part of our plan to grow and diversify the loan mix, we may
+expand our commercial lending business unit and may hire additional commercial lenders over the next
+several years.  We would expect our compensation
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>30</CENTER>
+<A HREF="#31"><font size="-1">Next Page</font></A>
+<A NAME="31"></A></div><br><br>
+
+and benefit expenses to increase significantly if we
+hire these lenders and associated support staff.  We also expect that our construction lending program
+will also continue to expand in connection with our increasing strategic emphasis on commercial
+lending.</P>
+
+<div style="text-indent: .50in;">
+
+<P>Commercial loans are generally considered to involve a higher degree of credit risk than long-term
+financing of owner-occupied residential properties. The likelihood that these loans will not be repaid or
+will be late in paying is generally greater than with residential loans. Furthermore, it may take some
+time for us to attract lending business sufficient to offset the increased compensation and benefit
+expenses that result from hiring the additional personnel we will need.  There can be no assurance that
+the lenders we hire will successfully grow our loan portfolio.</P>
+
+</div>
+
+<P><STRONG>Our strategic plan calls for us to expand our franchise through de novo branching.  New
+branches are expected to increase our operating expenses and reduce our net income until they
+achieve profitability which can not be assured. </STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>Our current business plan calls for us to open up to three de novo branches over approximately the next
+five years.  Having opened three full service branches located in Verona, Nutley and Clifton, New
+Jersey during fiscal 2007, the Company currently has no plans or commitments to open additional de
+novo branches during fiscal 2008.  Rather, the Company expects to direct significant strategic
+effort toward achieving profitability within each of these three branches while revisiting additional
+branching opportunities after fiscal 2008.  Notwithstanding this current focus, the Company would
+consider additional branching projects during fiscal 2008 if appropriate opportunities were to arise.</P>
+
+<P>Until new branches attract sufficient business to offset the increased expenses incurred by de novo
+branching, the new branches are likely to reduce our earnings. There is no assurance, however, that we
+will be successful in opening de novo branches. Costs for land purchase and branch construction will
+adversely impact earnings going forward. We currently estimate that total land, construction and
+equipment costs could average as much as $3.1 million per branch and could be higher.  The expenses
+associated with opening new offices, in addition to the personnel and operating costs that we will have
+once these offices are open, will significantly increase noninterest expenses. Because these expenses are
+in fixed assets, they will not result in any additional earnings but will result in a substantial increase in
+depreciation and occupancy expense. There can be no assurance when, or if, these new offices will
+open or that we will be successful in executing this part of the business plan. If we are able to locate
+and obtain suitable sites for these branches, there is no guarantee that these de novo branches will be
+profitable.</P>
+
+<P>While not a de novo branch, we also expect to incur additional costs associated with relocating and
+expanding the Bloomfield deposit branch.  The new facility will be located on a property adjacent to
+our Bloomfield headquarters building where the branch is currently located.  Such relocation will
+significantly upgrade and modernize the Bloomfield branch facility supporting the Company's deposit
+growth and customer service enhancement objectives.  The relocation will also support potential
+expansion of the administrative and lending office space within the Company's existing headquarters
+facility where the branch is currently located should such expansion be required to support the
+Company's business plan. Like the de novo branches mentioned above, the relocation of the Bloomfield
+branch is expected to increase our operating costs through various forms of additional
+occupancy and depreciation costs,</P>
+
+</div>
+
+<P><STRONG>We expect that changes in interest rates may have a significant, adverse impact on our net
+interest income.</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>The income from our assets and the cost of our liabilities are sensitive to changes in interest rates. Our
+ability to make a profit largely depends on our net interest income, which could be negatively affected
+by changes in interest rates. Net interest income is the difference between: (a) the interest income we
+earn on our interest-
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>31</CENTER>
+<A HREF="#32"><font size="-1">Next Page</font></A>
+<A NAME="32"></A></div><br><br>
+
+earning assets such as loans and securities; and (b) the interest expense we pay on
+our interest-bearing liabilities such as deposits and amounts we borrow. The rates we earn on our assets
+and the rates we pay on our liabilities are generally fixed for a contractual period of time. We, like
+many savings institutions, have liabilities that generally have shorter contractual maturities or other
+repricing characteristics than our assets. This imbalance can create significant earnings volatility,
+because market interest rates change over time. In a period of rising interest rates, the interest income
+earned on our assets may not increase as rapidly as the interest paid on our liabilities. In a period of
+declining interest rates the interest income earned on our assets may decrease more rapidly than the
+interest paid on our liabilities.</P>
+
+
+<P><STRONG>Our business is geographically concentrated in New Jersey and the New York metropolitan area.
+A downturn in economic conditions in the state and/or the surrounding region could have an
+adverse impact on our profitability.</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>A substantial majority of our loans are to individuals and businesses in New Jersey and the New York
+metropolitan area. Any decline in the regional economy could have an adverse impact on our earnings.
+Because we have a significant amount of real estate loans, decreases in local real estate values could
+adversely affect the value of property used as collateral. Adverse changes in the economy and real
+estate values may also have a negative effect on the ability of our borrowers to make timely repayments
+of their loans, which would have an adverse impact on our earnings.</P>
+
+</div>
+
+<P><STRONG>Strong competition within our market area may limit our growth and profitability. </STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>Competition in the banking and financial services industry in New Jersey is intense. In our market area,
+we compete with commercial banks, savings institutions, mortgage brokerage firms, credit unions,
+finance companies, mutual funds, insurance companies and brokerage and investment banking firms
+operating locally and elsewhere. Many of these competitors have substantially greater resources and
+lending limits than we do and offer services that we do not or cannot provide. This competition has
+made it more difficult for us to make new loans and more difficult to retain deposits. Price competition
+for loans might result in us originating fewer loans, or earning less on our loans, and price competition
+for deposits might result in slower growth or reduction of our total deposits or having to pay more for
+our deposits.</P>
+
+</div>
+
+<P><STRONG>We operate in a highly regulated environment and may be adversely affected by changes in laws
+and regulations.</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>We are subject to extensive regulation, supervision and examination by the Office of Thrift Supervision
+and by the Federal Deposit Insurance Corporation. This regulation and supervision govern the activities
+in which a bank and its holding company may engage and are intended primarily for the protection of
+the insurance fund and depositors. Regulatory authorities have extensive discretion in connection with
+their supervisory and enforcement activities, including the imposition of restrictions on the operation of
+a bank, the classification of assets by a bank and the adequacy of a bank's allowance for loan losses.
+Any change in this regulation and oversight, whether in the form of regulatory policy, regulations, or
+legislation could have a material impact on us and our operations.</P>
+
+</div>
+
+<P><STRONG>Item 1B. Unresolved Staff Comments. </STRONG></P>
+
+<div style="text-indent: .50in;">
+<P>	None. </P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>32</CENTER>
+<A HREF="#33"><font size="-1">Next Page</font></A>
+<A NAME="33"></A></div><br><br>
+
+<P><STRONG>Item 2.	 Properties. </STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>At September 30, 2007, our net investment in property and equipment totaled $10.9 million.
+We use  outside service companies for a variety of data processing services.  The following table sets
+forth the location of our main office, separate drive-up facility and four existing branch offices, the
+year each opened and the net book value for each location. The table also reports the net book value of
+funds disbursed through September 30, 2007 relating to the Bloomfield branch relocation discussed
+earlier.  Additional disbursements were made in the first quarter of fiscal 2008 increasing its net book
+value as construction of that branch continued toward an expected opening date in January 2008.</P>
+
+</div>
+
+<TABLE WIDTH="80%" align=center>
+<TR VALIGN="bottom"><TD><FONT SIZE="-1"><STRONG>Office Location</STRONG><hr color=black></TD>
+<TD align=center><FONT SIZE="-1"><STRONG>Year<br>Facility<br>Opened</STRONG><hr color=black></TD>
+<TD align=center><FONT SIZE="-1"><STRONG>Leased or<br>Owned</STRONG><hr color=black></TD>
+<TD align=center><FONT SIZE="-1"><STRONG>Net Book Value at<br>September 30, 2007</STRONG><hr color=black></TD></TR>
+
+<tr valign=top><td colspan=3></td><TD ALIGN="CENTER"><FONT SIZE="-1">(In thousands)</td></tr>
+
+<TR VALIGN="bottom"><TD><FONT SIZE="-1">Main Office<br>365 Broad Street<br>Bloomfield, New Jersey  07003</TD>
+<TD align=center><FONT SIZE="-1">1965</TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Owned</TD>
+<td align=center><FONT SIZE="-1">$  1,217</FONT></TD></TR>
+
+<tr><td>&nbsp;</td></tr>
+
+<TR VALIGN="bottom"><TD><FONT SIZE="-1">Full Service Branch<br>
+(in process of construction at<br>
+September 30, 2007)<br>
+347 Broad Street<br>
+Bloomfield, New Jersey  07003</TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2008</TD>
+<TD align=center><FONT SIZE="-1">Land Lease</TD>
+<TD align=center><FONT SIZE="-1">$  &nbsp;&nbsp;&nbsp;331</TD></TR>
+
+<tr><td>&nbsp;</td></tr>
+
+<TR VALIGN="bottom"><TD><FONT SIZE="-1">Bloomfield Branch Drive Up Facility<br>16 Pitt Street<br>Bloomfield, New Jersey  07003</TD>
+<TD align=center><FONT SIZE="-1">1998</TD>
+<TD align=center><FONT SIZE="-1">Owned</TD>
+<TD align=center><FONT SIZE="-1">$&nbsp;&nbsp;&nbsp;295</TD></TR>
+
+<tr><td>&nbsp;</td></tr>
+
+<TR VALIGN="bottom"><TD><FONT SIZE="-1">Full Service Branch<br>
+310 Pompton Avenue<br>
+Cedar Grove, New Jersey  07009</TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2001</TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Owned</TD>
+<TD align=center><FONT SIZE="-1">$  1,766</TD></TR>
+
+<tr><td>&nbsp;</td></tr>
+
+<TR VALIGN="bottom"><TD><FONT SIZE="-1">Full Service Branch<br>
+725 Bloomfield Avenue<br>
+Verona, New Jersey  07044</TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2006</TD>
+<TD align=center><FONT SIZE="-1">Owned</TD>
+<TD align=center><FONT SIZE="-1">$  3,613</TD></TR>
+
+<tr><td>&nbsp;</td></tr>
+
+<TR VALIGN="bottom"><TD><FONT SIZE="-1">Full Service Branch<br>
+213 Harrison Street<br>
+Nutley, New Jersey  07110</TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2007</TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Office Lease</TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">$&nbsp;&nbsp;&nbsp;585</TD></TR>
+
+<tr><td>&nbsp;</td></tr>
+
+<TR VALIGN="bottom"><TD><FONT SIZE="-1">Full Service Branch<br>
+500 Clifton Avenue<br>
+Clifton, New Jersey  07011</TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">2007</TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">Owned</TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">$  3,049</TD></TR></TABLE>
+
+
+<P><STRONG>Item 3.	 Legal Proceedings. </STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>From time to time the Company and its subsidiaries are parties to routine litigation, which
+arises in the normal course of business, such as claims to enforce liens, condemnation proceedings on
+properties in which the Bank holds security interests, claims involving the making and servicing of real
+property loans, and other issues incident to the business of the Bank.  In the opinion of management,
+there were no lawsuits pending or known to be contemplated at September 30, 2007 that would have a
+material effect on operations or income.  </P>
+
+</div>
+
+<P><STRONG>Item  4.  Submission of Matters to a Vote of Security Holders. </STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>None. </P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>33</CENTER>
+<A HREF="#34"><font size="-1">Next Page</font></A>
+<A NAME="34"></A></div><br><br>
+
+
+<P ALIGN="CENTER"><STRONG>PART II</STRONG></P>
+
+<P><STRONG>Item 5.  Market for the Registrant's Common Equity, Related Stockholder Matters and Issuer
+Purchases of Equity Securities.</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>	The information contained in the section captioned "Investor and Corporate Information" in the
+portions of the Annual Report filed as Exhibit 13 to this Form 10-K is incorporated herein by
+reference..</P>
+
+<P>	The information contained in "Note 1 of the Consolidated Financial Statements" and the section
+captioned "Management's Discussion and Analysis of Financial Condition and Results of Operations -
+Capital" in the portions of the Annual Report filed as Exhibit 13 to this Form 10-K is incorporated
+herein by reference.</P>
+
+<P>	The following table summarizes our share repurchase activity during the three months ended
+September 30, 2007 and additional information regarding our share repurchase program.</P>
+
+</div>
+
+<TABLE WIDTH="100%">
+<TR VALIGN="bottom"><TD><FONT SIZE="-1"><STRONG>Period</STRONG><hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1"><STRONG>(a) Total Number<br>Of Shares (or<br>Units) Purchased</STRONG><hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1"><STRONG>(b)<br>Average Price<br>Paid per Share<br>(or Unit)<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1"><STRONG>(c) Total Number<br>of Shares (or<br>Units) Purchased as<br>Part Of Publicly<br>
+Announced Plans<br>or Programs<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1"><STRONG>(d) Maximum Number<br>(or Approximate Dollar<br>Value) of Shares (or<br>Units) that May Yet Be<br>Purchased Under<br>Plans or Programs<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"><FONT SIZE="-1">Repurchases for the Month</td></tr>
+
+<tr valign=top><td><font size=-1>July 1 - July 31, 2007</td>
+<td align=center><font size=-1>60,000</td>
+<td align=center><font size=-1>$10.35</td>
+<td align=center><font size=-1>60,000</td>
+<td align=center><font size=-1>293,376</td></tr>
+
+<tr valign=top><td><font size=-1>August 1 - August 31, 2007</td>
+<td align=center><font size=-1>293,376</td>
+<td align=center><font size=-1>$10.90</td>
+<td align=center><font size=-1>293,376</td>
+<td align=center><font size=-1>605,774</td></tr>
+
+<tr valign=top><td><font size=-1>September 1 - September 30, 2007</td>
+<td align=center><font size=-1>169,300</td>
+<td align=center><font size=-1>$11.00</td>
+<td align=center><font size=-1>169,300</td>
+<td align=center><font size=-1>436,474</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr valign=top><td><font size=-1>Total repurchases</td>
+<td align=center><font size=-1>522,676</td>
+<td align=center><font size=-1>$10.87</td>
+<td align=center><font size=-1>522,676</td>
+<td align=center><font size=-1>436,474<font size=-2>(1)</font></td></tr></table>
+
+<br>
+<table width=100% align=center>
+<tr valign=top><td width=3%><font size=-2>(1)</td>
+<td><font size=-2>The table above was prepared as of September 30, 2007 and reflects the completion, during August 2007, of the Company's
+5% share repurchase program announced on April 30, 2007 and the Company's announcement of a subsequent 5% share
+repurchase program on August 29, 2007. </td></tr></table>
+
+
+<P><STRONG>Item 6.  Selected Financial Data.</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>	The information contained in the table captioned "Selected Consolidated Financial and Other
+Data" in the portions of the Annual Report filed as Exhibit 13 to this Form 10-K is incorporated herein
+by reference.</P>
+
+</div>
+
+<P><STRONG>Item 7 .  Management's Discussion and Analysis of Financial Condition and Results of
+Operations. </STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>The information contained in the section captioned "Management's Discussion and Analysis of
+Financial Condition and Results of Operations" in the Annual Report filed as Exhibit 13 to this Form
+10-K is incorporated herein by reference. </P>
+
+</div>
+
+<P><STRONG>Item  7A.  Quantitative and Qualitative Disclosures About Market Risk. </STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>	The information contained in the section captioned "Management of Interest Rate Risk and
+Market Risk" in the Annual Report filed as Exhibit 13 to this Form 10-K is incorporated herein by
+reference.</P>
+
+</div>
+
+<P><STRONG>Item 8.  Financial Statements and Supplementary Data.</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>	The Company's financial statements listed under Item 15 of this Form 10-K and included in
+Exhibit 13 to this Form 10-K are incorporated herein by reference.</P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>34</CENTER>
+<A HREF="#35"><font size="-1">Next Page</font></A>
+<A NAME="35"></A></div><br><br>
+
+<P><STRONG>Item 9.	 Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.</STRONG>
+</P>
+
+<div style="text-indent: .50in;">
+
+<P>Not applicable.</P>
+
+</div>
+
+<P><STRONG>Item 9A.  Controls and Procedures.</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P><STRONG><EM>(a)  Evaluation of disclosure controls and procedures.</EM></STRONG>  An evaluation of our disclosure
+controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934 (the
+"Act")) was carried out as of September 30, 2007 under the supervision and with the participation of
+our Chief Executive Officer, Chief Financial Officer and several other members of our senior
+management.  Our Chief Executive Officer and Chief Financial Officer concluded that, as of
+September 30, 2007, our disclosure controls and procedures were effective in ensuring that the
+information we are required to disclose in the reports we file or submit under the Act is (i) accumulated
+and communicated to our management (including the Chief Executive Officer and Chief Financial
+Officer) to allow timely decisions regarding required disclosure, and (ii) recorded, processed,
+summarized and reported within the time periods specified in the SEC's rules and forms. </P>
+
+<P><STRONG><EM>(b)  Management's annual report on internal control over financial reporting and Attestation
+report of the registered public accounting firm.</EM></STRONG>  The annual report of management on the effectiveness
+of our internal control over financial reporting and the attestation report thereon issued by our
+independent registered public accounting firm are set forth under "Management's Report on Internal
+Control Over Financial Reporting" and "Report of Independent Registered Public Accounting Firm" in
+the Annual Report filed as Exhibit 13 to this Form 10-K are incorporated by reference under "Item 8.
+Financial Statements and Supplementary Data."</P>
+
+<P><STRONG><EM>(c)  Changes in internal control over financial reporting.</EM></STRONG>  During the quarter ended September
+30, 2007, no change occurred in our internal control over financial reporting that has materially
+affected, or is reasonably likely to materially affect, our internal control over financial reporting.</P>
+
+<P>We do not expect that our disclosure controls and procedures and internal control over financial
+reporting will prevent all error and all fraud.  A control procedure, no matter how well conceived and
+operated, can provide only reasonable, not absolute, assurance that the objectives of the control
+procedure are met.  Because of the inherent limitations in all control procedures, no evaluation of
+controls can provide absolute assurance that all control issues and instances of fraud, if any, within the
+Company have been detected.  These inherent limitations include the realities that judgments in
+decision-making can be faulty, and that breakdowns in controls or procedures can occur because of
+simple error or mistake.  Additionally, controls can be circumvented by the individual acts of some
+persons, by collusion of two or more people, or by management override of the control.  The design of
+any control procedure also is based in part upon certain assumptions about the likelihood of future
+events, and there can be no assurance that any design will succeed in achieving its stated goals under
+all potential future conditions; over time, controls may become inadequate because of changes in
+conditions, or the degree of compliance with the policies or procedures may deteriorate.  Because of
+the inherent limitations in a cost-effective control procedure, misstatements due to error or fraud may
+occur and not be detected.</P>
+
+</div>
+
+<P><STRONG>Item 9B.  Other Information.</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>	Not applicable.</P>
+
+</div>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>35</CENTER>
+<A HREF="#36"><font size="-1">Next Page</font></A>
+<A NAME="36"></A></div><br><br>
+
+<P align=center><STRONG>PART III</STRONG></P>
+
+<P><STRONG>Item 10.  Directors and Executive Officers of the Registrant. </STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>Information required by this item concerning the Company's directors and compliance with
+section 16(a) of the Act is incorporated herein by reference from the definitive proxy statement for the
+Annual Meeting of Stockholders to be held in February 2008, except for the information contained
+under the heading "Compensation Committee Report on Executive Compensation", "Report of the
+Audit Committee of the Board of Directors" and "Stockholder Return Performance Presentation", a
+copy of which will be filed not later than 120 days after the close of the fiscal year.</P>
+
+</div>
+
+<P><STRONG>Code of Ethics</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>The Company has adopted a Code of Ethics that applies to its principal executive officer,
+principal financial officer, principal accounting officer or controller or persons performing similar
+functions. The Company's Code of Ethics will be provided without charge upon request to the
+Corporate Secretary, American Bancorp of New Jersey, Inc., 365 Broad Street, Bloomfield, New
+Jersey 07003. </P>
+
+</div>
+
+<P><STRONG>Item 11.  Executive Compensation. </STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>Information required by this item concerning compensation is incorporated herein by reference
+from the definitive proxy statement for the Annual Meeting of Stockholders to be held in February
+2008, except for the information contained under the heading "Compensation Committee Report on
+Executive Compensation", "Report of the Audit Committee of the Board of Directors" and
+"Stockholder Return Performance Presentation", a copy of which will be filed not later than 120 days
+after the close of the fiscal year.</P>
+
+</div>
+
+<P><STRONG>Item 12.  Security Ownership of Certain Beneficial Owners and Management and Related
+Stockholder Matters. </STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>Information required by this item concerning security ownership of certain beneficial owners
+and management is incorporated herein by reference from the definitive proxy statement for the Annual
+Meeting of Stockholders to be held in February 2008, except for the information contained under the
+heading "Compensation Committee Report on Executive Compensation", "Report of the Audit
+Committee of the Board of Directors" and "Stockholder Return Performance Presentation", a copy of
+which will be filed not later than 120 days after the close of the fiscal year.</P>
+
+</div>
+
+<TABLE WIDTH="90%" align=center>
+<TR VALIGN="TOP"><TD COLSPAN="4">
+<P ALIGN="CENTER"><FONT SIZE="-1"><STRONG>EQUITY COMPENSATION PLAN INFORMATION</STRONG></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"></TD>
+<TD ALIGN="CENTER" width=20%><FONT SIZE="-1">(a)</TD>
+<TD ALIGN="CENTER" width=20%><FONT SIZE="-1">(b)</TD>
+<TD ALIGN="CENTER" width=30%><FONT SIZE="-1">(c)</TD></TR>
+
+<TR VALIGN="bottom"><TD><FONT SIZE="-1"></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1"><STRONG>Number of securities<br>
+to be issued<br>
+upon exercise of<br>
+outstanding options,<br>
+warrants and rights<hr color=black></STRONG></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1"><STRONG>Weighted-average<br>
+exercise price of<br>
+outstanding<br>
+options, warrants<br>
+and rights<hr color=black></STRONG></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1"><STRONG>Number of securities<br>
+remaining available for<br>
+future issuance under equity<br>
+compensation plans<br>
+(excluding securities<br>
+reflected in column (a))<hr color=black></STRONG></TD></TR>
+
+<TR VALIGN="bottom"><TD><FONT SIZE="-1"><STRONG>Equity compensation plans<br>
+&nbsp;&nbsp;approved by security holders</STRONG></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">1,416,948</TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">$ 9.26</TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">-</TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1"><STRONG>Equity compensation plans<br>
+&nbsp;&nbsp;not approved by security<br>
+&nbsp;&nbsp;holders:</STRONG></td></tr>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None</TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">N/A<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">N/A<hr color=black></TD>
+<TD ALIGN="CENTER"><FONT SIZE="-1">N/A<hr color=black></TD></TR>
+
+<TR VALIGN="TOP"><TD><FONT SIZE="-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TOTAL</TD>
+<td align="center" style="border-bottom: black double"><FONT SIZE="-1">1,416,948</TD>
+<td align="center" style="border-bottom: black double"><FONT SIZE="-1">$ 9.26</TD>
+<td align="center" style="border-bottom: black double"><FONT SIZE="-1">-</TD></TR></TABLE>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>36</CENTER>
+<A HREF="#37"><font size="-1">Next Page</font></A>
+<A NAME="37"></A></div><br><br>
+
+<P><STRONG>Item 13.	Certain Relationships and Related Transactions. </STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>Information required by this item concerning certain relationships and related transactions is
+incorporated herein by reference from the definitive proxy statement for the Annual Meeting of
+Stockholders to be held in February 2008, except for the information contained under the heading
+"Compensation Committee Report on Executive Compensation", "Report of the Audit Committee of
+the Board of Directors" and "Stockholder Return Performance Presentation", a copy of which will be
+filed not later than 120 days after the close of the fiscal year.</P>
+
+</div>
+
+<P><STRONG>Item 14.	Principal Accounting Fees and Services.</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>Information required by this item concerning principal accounting fees and services is
+incorporated herein by reference from the definitive proxy statement for the Annual Meeting of
+Stockholders to be held in February 2008, a copy of which will be filed not later than 120 days after
+the close of the fiscal year.</P>
+
+</div>
+
+<P ALIGN="CENTER"><STRONG>PART IV</STRONG></P>
+
+<P><STRONG>Item 15.	Exhibits, Financial Statement Schedules.</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Listed below are all financial statements and exhibits filed as part of this Form 10-K. </P>
+
+<P>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The consolidated statements of financial condition as of September 30, 2007 and 2006
+and the related consolidated statements of income, changes in stockholders' equity, and cash flows for
+the three years ended September 30, 2007, together with the related notes and the report of independent
+certified public accountants.</P>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>37</CENTER>
+<A HREF="#38"><font size="-1">Next Page</font></A>
+<A NAME="38"></A></div><br><br>
+
+
+<P>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following exhibits are either included with this Form 10-K or incorporated herein
+by reference:</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;List of Exhibits</P>
+
+</div>
+
+<table width=80% align=center>
+
+<tr valign=top><td width=10%></td>
+<td width=5%><font size="-1">3(i)</td>
+<td><font size="-1">Certificate of Incorporation of American Bancorp of New Jersey, Inc.<SUP>(1)</SUP></td></tr>
+
+<tr valign=top><td></td>
+<td><font size="-1">3(ii)</td>
+<td><font size="-1">Bylaws of American Bancorp of New Jersey, Inc.<SUP>(2)</SUP></td></tr>
+
+<tr valign=top><td></td>
+<td><font size="-1">4</td>
+<td><font size="-1">Specimen Stock Certificate of American Bancorp of New Jersey<SUP>(1)</SUP></td></tr>
+
+<tr valign=top><td></td>
+<td><font size="-1">10.1</td>
+<td><font size="-1">Employment Agreement between American Bank of New Jersey and<br>
+&nbsp;&nbsp;&nbsp;Joseph Kliminski<SUP>(3)</SUP><SUP>&#8224;</SUP></td></tr>
+
+<tr valign=top><td></td>
+<td><font size="-1">10.2</td>
+<td><font size="-1">Employment Agreement between American Savings Bank of NJ and<br>
+&nbsp;&nbsp;&nbsp;Eric B. Heyer<SUP>(3)</SUP><SUP>&#8224;</SUP></td></tr>
+
+<tr valign=top><td></td>
+<td><font size="-1">10.3</td>
+<td><font size="-1">Form of Executive Salary Continuation Agreement<SUP>(3)</SUP><SUP>&#8224;</SUP></td></tr>
+
+<tr valign=top><td></td>
+<td><font size="-1">10.4</td>
+<td><font size="-1">Employment Agreement between American Bank of New Jersey and<br>
+&nbsp;&nbsp;&nbsp;Fred G. Kowal<SUP>(4)</SUP><SUP>&#8224;</SUP></td></tr>
+
+<tr valign=top><td></td>
+<td><font size="-1">10.5</td>
+<td><font size="-1">Employment Agreement between American Bank of New Jersey and Catherine M.<br>
+&nbsp;&nbsp;&nbsp;Bringuier<SUP>(1)</SUP><SUP>&#8224;</SUP></td></tr>
+
+<tr valign=top><td></td>
+<td><font size="-1">10.6</td>
+<td><font size="-1">2005 Stock Option Plan<SUP>(5)</SUP><SUP>&#8224;</SUP></td></tr>
+
+<tr valign=top><td></td>
+<td><font size="-1">10.7</td>
+<td><font size="-1">2005 Restricted Stock Plan<SUP>(5)</SUP><SUP>&#8224;</SUP></td></tr>
+
+<tr valign=top><td></td>
+<td><font size="-1">13</td>
+<td><font size="-1">Portions of the 2006 Annual Report to Stockholders</td></tr>
+
+<tr valign=top><td></td>
+<td><font size="-1">21</td>
+<td><font size="-1">Subsidiaries</td></tr>
+
+<tr valign=top><td></td>
+<td><font size="-1">23.1</td>
+<td><font size="-1">Consent of Auditor</td></tr>
+
+<tr valign=top><td></td>
+<td><font size="-1">31</td>
+<td><font size="-1">Certifications Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002</td></tr>
+
+<tr valign=top><td></td>
+<td><font size="-1">32</td>
+<td><font size="-1">Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002</td></tr></table>
+
+<P><FONT SIZE="-1">_______________<br>
+
+<table width=100%>
+<tr valign=top><td><FONT SIZE="-2">(1)</td>
+<td><font size=-1>Incorporated by reference to the Company's Registration Statement on Form S-1 (File No. 333-125957) filed
+with the SEC on June 20, 2005.</td></tr>
+
+<tr valign=top><td><FONT SIZE="-2">(2)</td>
+<td><font size=-1>Incorporated by reference to the Company's Current Report on Form 8-K (File No. 0-51500) filed with the SEC on December 10, 2007.</td></tr>
+
+<tr valign=top><td><FONT SIZE="-2">(3)</td>
+<td><font size=-1>Incorporated by reference to the Registration Statement on Form SB-2 (File No.&nbsp;333-105472) of ASB
+Holding Company filed with the SEC on May 22, 2003.</td></tr>
+
+<tr valign=top><td><FONT SIZE="-2">(4)</td>
+<td><font size=-1>Incorporated by reference to the Form 8-K (File No. 000-31789) of ASB Holding Company filed with the
+SEC on April 18, 2005.</td></tr>
+
+<tr valign=top><td><FONT SIZE="-2">(5)</td>
+<td><font size=-1>Incorporated by reference to the definitive proxy statement (File No. 000-31789) of ASB Holding Company
+filed with the SEC on December 28, 2004.</td></tr>
+
+<tr valign=top><td><FONT SIZE="-2">&#8224;</td>
+<td><font size=-1>Management or compensatory plan required to be filed as an exhibit.</td></tr></table>
+
+<br><br><div id="PN" style="PAGE-BREAK-AFTER: always">
+<CENTER>38</CENTER>
+<A HREF="#39"><font size="-1">Next Page</font></A>
+<A NAME="39"></A></div><br><br>
+
+
+<P align=center><FONT SIZE="-1"><STRONG>SIGNATURES</STRONG></P>
+
+<div style="text-indent: .50in;">
+
+<P>Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as
+amended, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized as of December&nbsp;14, 2007.</P></div>
+
+<table width=100% align=center>
+<tr valign=top><td width=50%></td>
+<td colspan=2><STRONG><font size="-1">AMERICAN BANCORP OF NEW JERSEY, INC.</font></STRONG></td>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr valign><td></td>
+<td><font size="-1">By:</td>
+<td><font size="-1">&nbsp;/s/ Fred G. Kowal<hr color=black>
+Fred G. Kowal<br>
+President and Chief Operating Officer<br>
+(Duly Authorized Representative)</td></tr></table>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirement of the Securities Exchange Act of 1934, as amended, this report has been signed below by the following persons on behalf of the registrant and in the capacities
+indicated as of December&nbsp;14, 2007. </P>
+
+<table width=100%>
+<tr valign=top><td width=45%><font size =-1>&nbsp;/s/ W. George Parker<hr color=black>W. George Parker<br>
+Chairman</td>
+<td width=10%></td>
+<td width=45%><font size =-1>&nbsp;/s/ Joseph Kliminski<hr color=black>Joseph Kliminski<br>
+Chief Executive Officer and Director<br>
+(Principal Executive Officer)</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr valign=top><td><font size =-1>&nbsp;/s/ Fred G. Kowal<hr color=black>Fred G. Kowal<br>
+President, Chief Operating Officer<br>
+and Director</td>
+<td></td>
+<td><font size =-1>&nbsp;/s/ Eric B. Heyer<hr color=black>Eric B. Heyer<br>
+Senior Vice President, Treasurer and	<br>
+Chief Financial Officer<br>
+(Principal Financial and Accounting Officer)</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr valign=top><td><font size =-1>&nbsp;/s/ H. Joseph North<hr color=black>H. Joseph North<br>
+Director</td>
+<td></td>
+<td><font size =-1>&nbsp;/s/ James H. Ward<hr color=black>James H. Ward, III<br>
+Vice Chairman</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr valign=top><td><font size =-1>&nbsp;/s/ Vincent S. Rospond<hr color=black>Vincent S. Rospond<br>
+Director</td>
+<td></td>
+<td><font size =-1>&nbsp;/s/ Robert Gaccione<hr color=black>Robert Gaccione<br>Director</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr valign=top><td><font size =-1></td></tr></table>
+
+<br><br><A HREF="#Exhibit 13"><font size="-1">Next Page</font></A>
+<CENTER><font size="-1">39</font></CENTER>
+<A NAME="Exhibit 13"></A>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+

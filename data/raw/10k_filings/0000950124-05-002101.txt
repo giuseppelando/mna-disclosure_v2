@@ -1,0 +1,1822 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>k92212e10vk.txt
+<DESCRIPTION>ANNUAL REPORT FOR FISCAL YEAR ENDED DECEMBER 31, 2004
+<TEXT>
+<PAGE>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+                [X] ANNUAL REPORT PURSUANT TO SECTION 10 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                   For the fiscal year ended December 31, 2004
+                         Commission files number 0-17482
+
+     [ ]TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES
+                              EXCHANGE ACT OF 1934
+                 for the transition period from _____ to ______
+
+                                County Bank Corp
+                             Michigan EIN 38-0746239
+                      83 W. Nepessing St. Lapeer, MI 48446
+                                 (810) 664-2977
+
+        Securities registered pursuant to section 12(b) of the act: none
+
+               Securities registered pursuant to 12(g) of the Act:
+                 3,000,000 shares, common stock, $5.00 par value
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+Yes [X] No [ ]
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined by rule 12b-2 of the act).
+
+Yes [ ] No [X]
+
+The aggregate market value of the voting shares of stock held by nonaffiliates
+of the registrant was $52,118,000.
+
+Indicate the number of shares outstanding of each of the registrant's classes of
+common stock as of the latest practicable date.
+
+There are 1,118,315 shares of common stock ($5.00 par value) outstanding as of
+December 31, 2004.
+
+The following documents are incorporated into the 10-K by reference:
+
+The Annual Report to Shareholders, December 31, 2004, Part I, Part II.
+
+Proxy statement dated March 28, 2005, Part III.
+
+<PAGE>
+
+                                County Bank Corp
+                                Table of Contents
+
+<TABLE>
+<CAPTION>
+
+Form 10-K items
+
+<S>                                                                                  <C>
+Item 1.    Business                                                                   3-15
+
+Item 2.    Properties                                                                   15
+
+Item 3.    Legal Proceedings                                                            16
+
+Item 4.    Submission of Matters to a Vote of Security Holders                          16
+
+Item 5.    Market for Registrant's Common Equity and Related Stockholder Matters        16
+
+Item 6.    Selected Financial Data                                                      16
+
+Item 7.    Management's Discussion and Analysis of Financial Condition and Results
+           of Operations                                                             16-19
+Item 7a..  Quantitative and Qualitative Disclosures About Market Risk                   20
+
+Item 8.    Financial Statements and Supplementary Data                                  21
+
+Item 9.    Disagreements on Accounting and Financial Disclosure                         21
+
+Item 9A.   Controls and Procedures                                                      21
+
+Item 10.   Directors and Executive Officers of the Registrant                           21
+
+Item 11.   Executive Compensation                                                       22
+
+Item 12.   Security Ownership of Certain Beneficial Owners and Management               22
+
+Item 13.   Certain Relationships and Related Transactions                               22
+
+Item 14.   Principal Accountant Fees and Services                                       22
+
+Item 15.   Exhibits, Financial Schedules and Reports on Form 8-K                        23
+
+Signatures and Certifications                                                           25
+Total Pages: 28
+</TABLE>
+
+Form 10-K
+
+Statements contained in this portion of the Company's annual report may be
+forward-looking statements, as that term is defined in the Private Securities
+Litigation Reform Act of 1995. Forward-looking statements may be identified by
+the use of such words as "intend," "believe," "expect," "anticipate," "should,"
+"planned," "estimated," and "potential." Such forward-looking statements are
+based on current expectations, but may differ materially from those currently
+anticipated due to a number of factors, which include, but are not limited to,
+factors discussed in documents filed by the Company with the Securities and
+Exchange Commission from time to time. Other factors which could have a material
+adverse effect on the operations of the company and its subsidiaries which
+include, but are not limited to, changes in interest rates, general economic
+conditions, legislative and regulatory changes, monetary and fiscal policies of
+the U.S. Government, including policies of the U.S. Treasury and the Federal
+Reserve Board, the quality and composition of the loan or investment portfolios,
+demand for loan products, deposit flows, competition,
+
+                                                                               2
+
+<PAGE>
+
+demand for financial services in the Bank's market area, changes in relevant
+accounting principles and guidelines and other factors over which management has
+no control. The forward-looking statements are made as of the date of this
+report, and the Company assumes no obligation to update the forward-looking
+statements or to update the reasons why actual results could differ from those
+projected in the forward-looking statements.
+
+Part I
+ITEM 1. BUSINESS
+
+GENERAL
+
+County Bank Corp, a one bank holding company, was formed on January 3, 1989 by
+converting and exchanging, except for the shares of dissenting stockholders,
+each share of Lapeer County Bank & Trust Co. (the Bank) into one share of County
+Bank Corp (the Corporation). As a result, the Corporation became the sole
+stockholder and parent of the Bank. The Bank was chartered in 1902, is
+headquartered in Lapeer, MI, and serves all of Lapeer County (the County) and
+portions of surrounding counties. Lapeer has an approximate population of 9,100
+people while the County has in excess of 90,000 people. Lapeer is located 60
+miles north of metropolitan Detroit, the largest city in Michigan, 30 miles
+north of Pontiac, MI, and 20 miles east of Flint, MI.
+
+The Corporation serves the County through the subsidiary Bank at eight
+locations. The main office is located at 83 W. Nepessing St., in downtown
+Lapeer. A drive through location is located at the corner of Pine St. and Clay
+St. across the street from the main office. A full service office is located in
+the south end of Lapeer at 637 South Main (M-24). Attica Township is served by a
+full service office located at 4515 Imlay City Rd. Full service offices are
+located in Elba Township at 5508 Davison Road and in Metamora Township on M-24,
+south of Lapeer. A full service office serves the City of Imlay City at 1875 S.
+Cedar St., Imlay City, MI. A full service branch is located at the corner of
+M-24 and Burnside Road in Deerfield Township. One automated teller machine (ATM)
+is located in Lapeer Regional Hospital, 1375 N. Main St., Lapeer. One cash
+dispensing machine is located the lobby of Lapeer Cinemas at 1650 Demille Rd.,
+Lapeer, MI. One ATM is located in the Whistle Stop Party Store at 3670 North
+Branch Rd., North Branch, MI.
+
+The Corporation grew moderately during 2004. Total assets grew to $253,261,000
+on December 31, 2004, while total deposits grew to $216,812,000. Total assets
+grew 1.8% while total deposits grew .9%. These growth percentages were less than
+the previous year. The Federal Reserve Board increased interest rates 25 basis
+points five times during the second half of 2004 after lowering rates 25 basis
+points one time in 2003. Customers responded slowly to the increased rate
+volatility and continued choosing more traditional savings deposit categories.
+The Corporation expects accelerated growth through 2005.
+
+The Corporation offers commercial banking services through the Bank at the main
+office and the seven branches throughout the County. The customer base extends
+to all sections of the County and includes all segments of the population,
+including individuals, retail businesses, farming operations, and industrial
+plants. This locally owned full service Bank offers commercial and personal
+checking, savings and time deposit services; the Bank offers commercial and
+industrial loans, real estate mortgages and consumer loans. The trust
+department, with full trust powers, is in its fifth decade of providing
+customers with employee benefit plans, estate planning services, and complete
+trust services.
+
+The Corporation faces substantial competition for financial services. The chief
+competitor is National City Bank of Michigan/Illinois. National City operates
+branches throughout the County. Independent Bank Corp. of Ionia, MI operates
+three branch locations in the Bank's market area after recently expanding a loan
+production office to a full service branch. Bank One operates an office north of
+the city limits of Lapeer. Tri-County Bank has offices in Imlay City and Almont.
+CSB Bank of Capac has an office in Imlay City. Oxford Bank operates a branch in
+Dryden. There are two full service branches and one loan production office of
+Citizen's Federal Savings Bank in the County. Two credit unions, Lapeer County
+School Employees Credit Union and the Lapeer County Community Credit Union,
+which operates offices in Lapeer and Imlay City, serve the County. There are two
+securities brokers, Oppenheimer and Edward D. Jones & Co. A number of other
+securities brokers serve the County through Flint offices. Comerica Bank
+
+                                                                               3
+
+<PAGE>
+
+operates a Comerimart branch in a local grocery store. The local telephone book
+lists twelve financial planners and thirty five mortgage brokers.
+
+SUPERVISION AND REGULATION
+
+INTRODUCTION
+
+The Corporation and its banking subsidiary are subject to extensive regulation
+by federal and state agencies. The regulation of bank holding companies and
+their subsidiaries is intended primarily for the protection of depositors,
+federal deposit insurance funds and the banking system as a whole and not for
+the protection of security holders. As discussed in more detail below, this
+regulatory environment, among other things, may restrict the Corporation's
+ability to diversify into certain areas of financial services, acquire
+depository institutions in certain states and pay dividends on its capital
+stock. It may also require the Corporation to provide financial support to its
+banking subsidiary, maintain capital balances in excess of those desired by
+management and pay higher deposit insurance premiums as a result of the
+deterioration in the financial condition of depository institutions in general.
+
+REGULATORY AGENCIES
+
+Holding Company. The Corporation, as a bank holding company, is subject to
+regulation under the Bank Holding Company Act of 1956 (BHCA), as amended, and to
+inspection, examination and supervision by the Board of Governors of the Federal
+Reserve System under the BHCA.
+
+Subsidiary Bank. The Corporation's banking subsidiary is subject to regulation
+and examination primarily by the Michigan Office of Financial and Insurance
+Services and the Federal Reserve Board and secondarily by the Federal Deposit
+Insurance Corporation (FDIC).
+
+Securities and Exchange Commission (SEC). The Corporation is also under the
+jurisdiction of the SEC and certain state securities commissions for matters
+relating to the offering and sale of its securities. The Corporation is subject
+to the disclosure and regulatory requirements of the Securities Act of 1933, as
+amended, and the Securities Exchange Act of 1934, as amended, as administered by
+the SEC.
+
+BANK HOLDING COMPANY ACTIVITIES
+
+Interstate Banking. Under the Riegle-Neal Interstate Banking and Branching
+Efficiency Act of 1994 ("Riegle-Neal Act"), as amended, a bank holding company
+may acquire banks in states other than its home state, subject to any state
+requirement that the bank has been organized and operating for a minimum period
+of time, not to exceed five years, and the requirement that the bank holding
+company not control, prior to or following the proposed acquisition, more than
+10% of the total amount of deposits of insured depository institutions
+nationwide or, unless the acquisition is the bank holding company's initial
+entry into the state, more than 30% of such deposits in the state, or such
+lesser or greater amount set by the state. The Riegle-Neal Act also authorizes
+banks to merge across state lines, thereby creating interstate branches. States
+were permitted for a period of time to opt out of the interstate merger
+authority provided by the Riegle-Neal Act and, by doing so, prohibit interstate
+mergers in the state. The Corporation will be unable to consolidate its banking
+operations in one state with those of another state if either state in question
+has opted out of the Riegle-Neal Act. Banks are also permitted to acquire and to
+establish de novo branches in other states where authorized under the laws of
+those states.
+
+Regulatory Approval. In determining whether to approve a proposed bank
+acquisition, federal banking regulators will consider, among other factors, the
+effect of the acquisition on competition, the public benefits expected to be
+received from the acquisition, the projected capital ratios and levels on a
+post- acquisition basis, and the acquiring institution's record of addressing
+the credit needs of the communities it serves, including the needs of low and
+moderate income neighborhoods, consistent with the safe and sound operation of
+the bank, under the Community Reinvestment Act of 1977.
+
+                                                                               4
+
+<PAGE>
+
+DIVIDEND RESTRICTIONS
+
+The Corporation is a legal entity separate and distinct from its subsidiary bank
+and other subsidiaries. Its principal source of funds to pay dividends on its
+common and preferred stock and debt service on its debt is dividends from its
+subsidiaries, primarily Lapeer County Bank & Trust Co. Various federal and state
+statutory provisions and regulations limit the amount of dividends that Lapeer
+County Bank & Trust Co. may pay without regulatory approval. Dividends payable
+by a state chartered bank are limited to the lesser of the bank's divided
+profits and the bank's retained net income for the current year plus its
+retained net income for the preceding two years (less any required transfers to
+capital surplus) up to the date of any dividend declaration in the current
+calendar year. Federal bank regulatory agencies have the authority to prohibit
+Lapeer County Bank & Trust Co from engaging in unsafe or unsound practices in
+conducting its business. The payment of dividends, depending on the financial
+condition of the bank, could be deemed an unsafe or unsound practice. The
+ability of Lapeer County Bank & Trust Co. to pay dividends in the future is
+currently influenced, and could be further influenced, by bank regulatory
+policies and capital guidelines.
+
+HOLDING COMPANY STRUCTURE
+
+Transfer of Funds from Banking Subsidiary. The Corporation's banking subsidiary
+is subject to restrictions under federal law that limit the transfer of funds or
+other items of value from this subsidiary to the Corporation, including
+affiliates, whether in the form of loans and other extensions of credit,
+investments and asset purchases or as other transactions involving the transfer
+of value from a subsidiary to an affiliate or for the benefit of an affiliate.
+Unless an exemption applies, these transactions by a banking subsidiary with a
+single affiliate are limited to 10% of the subsidiary bank's capital and surplus
+and, with respect to all covered transactions with affiliates in the aggregate,
+to 20% of the subsidiary bank's capital and surplus. Moreover, loans and
+extensions of credit to affiliates generally are required to be secured in
+specified amounts. A bank's transactions with its non-bank affiliates are also
+generally required to be on arm's-length terms.
+
+Source of Strength Doctrine. Under current Federal Reserve Board policy, the
+Corporation is expected to act as a source of financial and managerial strength
+to its subsidiary bank and, under appropriate circumstances, to commit resources
+to support such subsidiary bank. This support could be required at times when
+the Corporation might not have the resources to provide it. Capital loans from
+the Corporation to its subsidiary bank are subordinate in right of payment to
+deposits and certain other indebtedness of the subsidiary bank. In the event of
+the Corporation's bankruptcy, any commitment by the Corporation to a federal
+bank regulatory agency to maintain the capital of a subsidiary bank will be
+assumed by the bankruptcy trustee and entitled to a priority of payment.
+
+Depositor Preference. The Federal Deposit Insurance Act provides that, in the
+event of the "liquidation or other resolution" of an insured depository
+institution, the claims of depositors of the institution, including the claims
+of the FDIC as subrogee of insured depositors, and certain claims for
+administrative expenses of the FDIC as a receiver, will have priority over other
+general unsecured claims against the institution. If an insured depository
+institution fails, insured and uninsured depositors, along with the FDIC, will
+have priority in payment ahead of unsecured, non-deposit creditors, including
+the Corporation, with respect to any extensions of credit they have made to such
+insured depository institution.
+
+CAPITAL REQUIREMENTS
+
+General. The Corporation is subject to risk-based capital requirements and
+guidelines imposed by the Federal Reserve Board. These are substantially similar
+to the capital requirements and guidelines imposed by the Office of the
+Comptroller of Currency (OCC) and the FDIC on the depository institutions under
+their jurisdictions. For this purpose, a depository institution's or holding
+company's assets, and some of its specified off-balance sheet commitments and
+obligations, are assigned to various risk categories. A depository institution's
+or holding company's capital, in turn, is classified in one of three tiers,
+depending on type:
+
+                                                                               5
+
+<PAGE>
+
+CORE ("TIER 1") CAPITAL
+      - Common equity
+      - Retained earnings
+      - Qualifying non-cumulative perpetual preferred stock
+      - A limited amount of qualifying cumulative perpetual stock at the holding
+        company level
+      - Minority interests in equity accounts of consolidated subsidiaries
+      - Less goodwill, most intangible assets and certain other assets
+
+SUPPLEMENTARY ("TIER 2") CAPITAL
+
+      - Perpetual preferred stock not meeting the Tier 1 definition
+      - Qualifying mandatory convertible securities
+      - Qualifying subordinated debt
+      - Allowances for loan and lease losses, subject to limitations
+      - Recourse obligation on sold loan portfolios
+
+MARKET RISK ("TIER 3") CAPITAL
+
+      - Qualifying unsecured subordinated debt
+
+The Corporation, like other bank holding companies, currently is required to
+maintain Tier 1 capital and "total capital" (the sum of Tier 1, Tier 2 and Tier
+3 capital) equal to at least 4% and 8%, respectively, of its total risk-weighted
+assets (including various off-balance-sheet items, such as standby letters of
+credit). For a holding company to be considered "well capitalized" for
+regulatory purposes, it's Tier 1 and total capital ratios must be 6% and 10% on
+a risk-adjusted basis, respectively. At December 31, 2004, the Corporation met
+both requirements, with Tier 1 and total capital equal to 15.7% and 17.8% of its
+respective total risk-weighted assets. Federal Reserve Board, FDIC and state
+rules require the Corporation to incorporate market and interest rate risk
+components into its risk-based capital standards. Under these market risk
+requirements, capital is allocated to support the amount of market risk related
+to a financial institution's ongoing trading activities. The Federal Reserve
+Board also requires bank holding companies to maintain a minimum "leverage
+ratio" (Tier 1 capital to adjusted total assets) of 3% if the holding company
+has the highest regulatory rating and meets other requirements, or of 3% plus an
+additional "cushion" of at least 100 to 200 basis points (one to two percentage
+points) if the holding company does not meet these requirements. The
+Corporation's leverage ratio at December 31, 2004 was 11.0%.
+
+The Federal Reserve Board may set capital requirements higher than the minimums
+described above for holding companies whose circumstances warrant it. For
+example, holding companies experiencing or anticipating significant growth may
+be expected to maintain capital positions substantially above the minimum
+supervisory levels without significant reliance on intangible assets. The
+Federal Reserve Board has also indicated that it will consider a "tangible Tier
+1 capital leverage ratio" (deducting all intangibles) and other indications of
+capital strength in evaluating proposals for expansion or new activities. Lapeer
+County Bank & Trust Co. is subject to similar risk-based and leverage capital
+requirements adopted by the Federal Reserve Board. The Corporation's management
+believes that Lapeer County Bank & Trust Co. meets all capital requirements to
+which it is subject. Failure to meet capital requirements could subject a bank
+to a variety of enforcement remedies, including the termination of deposit
+insurance by the FDIC, and to restrictions on its business, which are described
+under the next paragraph.
+
+Federal Deposit Insurance Corporation Improvement Act of 1991. The Federal
+Deposit Insurance Corporation Improvement Act of 1991 (the "FDICIA"), among
+other things, identifies five capital categories for insured depository
+institutions: well capitalized, adequately capitalized, undercapitalized,
+significantly undercapitalized and critically undercapitalized. It requires U.S.
+federal bank regulatory agencies to implement systems for "prompt corrective
+action" for insured depository institutions that do not meet minimum capital
+requirements based on these categories. The FDICIA imposes progressively more
+restrictive constraints on operations, management and capital distributions,
+depending on the category in which an institution is classified. Unless a bank
+is well capitalized, it is subject to restrictions on its ability to offer
+brokered deposits and on other aspects of its operations. The FDICIA generally
+prohibits a bank from paying any dividend or making any capital distribution or
+paying any management fee to its holding
+
+                                                                               6
+
+<PAGE>
+
+company if the bank would thereafter be undercapitalized. An undercapitalized
+bank must develop a capital restoration plan, and its parent holding company
+must guarantee the bank's compliance with the plan up to the lesser of 5% of the
+bank's assets at the time it became undercapitalized and the amount needed to
+comply with the plan.
+
+As of December 31, 2004, the Corporation believes that its bank subsidiary was
+well capitalized, based on the prompt corrective action ratios and guidelines
+described above. A bank's capital category is determined solely for the purpose
+of applying the prompt corrective action regulations, and the capital category
+may not constitute an accurate representation of the bank's overall financial
+condition or prospects for other purposes.
+
+DEPOSIT INSURANCE ASSESSMENTS
+
+The FDIC insures the deposits of the Corporation's depository institution
+subsidiary up to prescribed limits for each depositor. The amount of FDIC
+assessments paid by each Bank Insurance Fund (BIF) member institution is based
+on its relative risk of default as measured by regulatory capital ratios and
+other factors. Specifically, the assessment rate is based on the institution's
+capitalization risk category and supervisory subgroup category. An institution's
+capitalization risk category is based on the FDIC's determination of whether the
+institution is well capitalized, adequately capitalized or less than adequately
+capitalized. An institution's supervisory subgroup category is based on the
+FDIC's assessment of the financial condition of the institution and the
+probability that FDIC intervention or other corrective action will be required.
+
+The FDIC may increase or decrease the assessment rate schedule on a semi-annual
+basis. An increase in the assessment rate could have a material adverse effect
+on the Corporation's earnings, depending on the amount of the increase. The FDIC
+is authorized to terminate a depository institution's deposit insurance upon a
+finding by the FDIC that the institution's financial condition is unsafe or
+unsound or that the institution has engaged in unsafe or unsound practices or
+has violated any applicable rule, regulation, order or condition enacted or
+imposed by the institution's regulatory agency. The termination of deposit
+insurance for Lapeer County Bank & Trust Co. could have a material adverse
+effect on the Corporation's earnings.
+
+FISCAL AND MONETARY POLICIES
+
+The Corporation's business and earnings are affected significantly by the fiscal
+and monetary policies of the federal government and its agencies. The
+Corporation is particularly affected by the policies of the Federal Reserve
+Board, which regulates the supply of money and credit in the United States.
+Among the instruments of monetary policy available to the Federal Reserve are
+(a) conducting open market operations in United States government securities,
+(b) changing the discount rates of borrowings of depository institutions, (c)
+imposing or changing reserve requirements against depository institutions'
+deposits, and (d)imposing or changing reserve requirements against certain
+borrowing by banks and their affiliates. These methods are used in varying
+degrees and combinations to affect directly the availability of bank loans and
+deposits, as well as the interest rates charged on loans and paid on deposits.
+For that reason alone, the policies of the Federal Reserve Board have a material
+effect on the earnings of the Corporation.
+
+PRIVACY PROVISIONS OF GRAMM-LEACH-BLILEY ACT
+
+Under Gramm-Leach-Bliley Act (GLB Act) federal banking regulators adopted rules
+that limit the ability of banks and other financial institutions to disclose
+non-public information about consumers to non-affiliated third parties. These
+limitations require disclosure of privacy policies to consumers and, in some
+circumstances, allow consumers to prevent disclosure of certain personal
+information to non-affiliated third parties. The privacy provisions of the GLB
+Act affect how consumer information is transmitted through diversified financial
+companies and conveyed to outside vendors.
+
+                                                                               7
+
+<PAGE>
+
+FUTURE LEGISLATION
+
+Various legislation, including proposals to change substantially the financial
+institution regulatory system and to expand or contract the powers of banking
+institutions and bank holding companies, is from time to time introduced in
+Congress. This legislation may change banking statutes and the operating
+environment of the Corporation and its subsidiaries in substantial and
+unpredictable ways. If enacted, such legislation could increase or decrease the
+cost of doing business, limit or expand permissible activities or affect the
+competitive balance among banks, savings associations, credit unions and other
+financial institutions. The Corporation cannot predict whether any of this
+potential legislation will be enacted, and if enacted, the effect that it, or
+any implemented regulations, would have on the financial condition or results of
+operations of the Corporation or any of its subsidiaries.
+
+SARBANES-OXLEY ACT OF 2002
+
+On July 30, 2002, President Bush signed into law the Sarbanes-Oxley Act of 2002,
+which contains important new requirements for public companies in the area of
+financial disclosure and corporate governance. In accordance with section 302(a)
+of the Sarbanes-Oxley Act, written certifications by the Corporation's Chief
+Executive Officer and Chief Financial Officer are required. These certifications
+attest that the Corporation's quarterly and annual reports filed with the SEC do
+not contain any untrue statement of a material fact. In response to the
+Sarbanes-Oxley Act of 2002, the Corporation adopted a series of procedures to
+improve its already strong corporate governance practices. One of these actions
+included the formation of a Financial Disclosure Committee whose members include
+the Chief Executive Officer, the Chief Financial Officer and other the
+Corporation officers. The Corporation also requires signed certifications from
+managers who are responsible for internal controls throughout the Corporation as
+to the integrity of the information they prepare. These procedures supplement
+the Corporation's Code of Ethics policies and procedures that have previously
+been in place. See Item 9(a) "Evaluation of Disclosure Controls and Procedures"
+for the Corporation's evaluation of its disclosure controls and procedures. To
+the extent that the previous information describes statutory and regulatory
+provisions, it is qualified in its entirety by reference to the full text of
+those provisions. Also, such statutes, regulations and policies are continually
+under review by Congress and state legislatures and federal and state regulatory
+agencies. A change in statutes, regulations or regulatory policies applicable to
+the Corporation could have a material effect on the business of the Corporation.
+
+EMPLOYEES
+
+The number of full time equivalent employees totaled 121 and 122 on December 31,
+2004 and 2003, respectively.
+
+AVAILABLE INFORMATION:
+
+The Company files reports with the Securities and Exchange Commission (SEC).
+Copies of all filings made with the SEC may be read and copied at the SEC's
+Public Reference Room, 450 Fifth Street, Washington, DC, 20549. You may obtain
+information about the SEC's Public Reference Room by calling (800/SEC-0330).
+Because the Company makes its filings with the SEC electronically, you may
+access such reports at the SEC's website, www.sec.gov.
+
+The Company makes available, free of charge copies of its annual report on Form
+10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any
+amendments to these reports as soon as reasonably practicable after such
+materials have been filed with or furnished to the SEC. Copies of these
+documents may be obtained, by contacting Joseph H. Black, Chief Financial
+Officer of the Company at P.O. Box 250, Lapeer, MI 48446.
+
+                                                                               8
+
+<PAGE>
+
+GUIDE 3. Statistical disclosures:
+
+I.    Distribution of Assets, Liabilities and Stockholders' Equity; Interest
+      Rates and Interest (000's) Table I.
+
+<TABLE>
+<CAPTION>
+
+                                                       Average Assets (000's)             Income (000's)             Yield (%)
+                                                      2004      2003      2002      2004       2003       2002   2004  2003   2002
+<S>                                                 <C>       <C>       <C>       <C>        <C>        <C>      <C>   <C>    <C>
+Interest margin analysis as a % of average earning
+assets
+Assets
+Securities:
+US Gov't & agencies                                 $ 25,466  $ 23,795   $28,271  $   911    $   882    $ 1,379  3.6%  3.7%   4.9%
+State and political subdivisions*                     32,839    30,865    29,451    2,152      2,126      2,133  6.6%  6.9%   7.2%
+Other securities                                       6,465     6,462     5,614      186        207        238  2.9%  3.2%   4.2%
+                                                    --------  --------  --------  -------    -------    -------  ---   ---    ---
+Total investment securities                           64,770    61,122    63,336    3,249      3,215      3,750  5.0%  5.3%   6.6%
+
+Federal funds sold                                     7,595    14,196     7,300       97        151        117  1.3%  1.1%   1.6%
+Loans:
+Commercial loans*                                    103,291    97,389    93,008    6,418      6,312      6,433  6.2%  6.5%   6.9%
+Real estate mortgages                                 25,368    27,422    25,844    1,458      1,752      1,963  5.7%  6.4%   7.6%
+Consumer loans                                        33,024    30,197    29,579    1,965      2,047      2,293  6.0%  6.8%   7.8%
+                                                    --------  --------  --------  -------    -------    -------  ---   ---    ---
+Total loans                                          161,683   155,008   148,431    9,841     10,111     10,689  6.1%  6.5%   7.2%
+                                                    --------  --------  --------  -------    -------    -------  ---   ---    ---
+
+Total average earning assets                        $234,048  $230,326  $219,067   13,187     13,477     14,556  5.6%  5.9%   6.6%
+                                                    ========  ========  ========  -------    -------    -------  ---   ---    ---
+Total average assets                                $252,847  $247,978  $236,227
+                                                    ========  ========  ========
+Interest bearing liabilities:
+Deposits:
+
+NOW account deposits                                $ 65,392  $ 63,181  $ 67,003      524        460        857  0.8%  0.7%   1.3%
+Savings deposits                                      54,748    54,525    45,801      335        437        650  0.6%  0.8%   1.4%
+Time deposits over $100,000                           14,158    12,681    11,932      425        422        470  3.0%  3.3%   3.9%
+Other time deposits                                   43,249    44,606    45,826    1,216      1,454      1,825  2.8%  3.3%   4.0%
+                                                    --------  --------  --------  -------    -------    -------  ---   ---    ---
+Total deposits                                       177,547   174,993   170,562    2,500      2,773      3,802  1.4%  1.6%   2.2%
+Other borrowed funds                                   2,022                           63
+Federal funds purchased                                  143         -        13        2          -          -    -     -      -
+                                                    --------  --------  --------  -------    -------    -------  ---   ---    ---
+Total interest bearing liabilities                   179,712   174,993   170,575    2,565      2,773      3,802  1.4%  1.6%   2.2%
+                                                                                  -------    -------    -------  ---   ---    ---
+
+Demand deposits                                       40,096    39,554    35,399
+Other liabilities                                      2,961     2,643     2,155
+Stockholders' equity                                  30,078    30,788    28,098
+                                                    --------  --------  --------
+Total liabilities and stockholders' equity          $252,847  $247,978  $236,227
+                                                    ========  ========  ========
+
+Interest expense as a % of average earning assets                                                                1.1%  1.2%   1.7%
+                                                                                                                 ---   ---    ---
+Net interest margin/net interest yield as a %
+  of average earning assets                                                       $10,622    $10,704    $10,754  4.5%  4.6%   4.9%
+                                                                                  =======    =======    =======  ===   ===    ===
+Net interest yield as a % of average assets                                                                      4.2%  4.3%   4.6%
+                                                                                                                 ===   ===    ===
+</TABLE>
+
+* A tax adjustment of $775, $781 and $825 has been added to 2004, 2003 and 2002
+income respectively to reflect the impact of a 34% Federal income tax rate in
+each year. Non accruing loans are reported in their related categories and
+reduce the related yields.
+
+                                                                               9
+
+<PAGE>
+
+Table II. The dollar amounts of changes in interest income and interest expense
+are presented in the accompanying table. The change in volume is calculated by
+multiplying the change in volume by the old rate. The change in rate is
+calculated by multiplying the change in rate by the old volume. The change in
+rate volume is calculated by multiplying the change in rate by the change in
+volume.
+
+<TABLE>
+<CAPTION>
+
+                                                       2004 vs 2003                                 2003 vs 2002
+                                        Change     Change      Change                Change     Change      Change
+                                         in          in          in         Total       in        in          in          Total
+Rate/volume variance analysis           Volume      Rate     Rate/volume             Volume      Rate     Rate/volume
+<S>                                    <C>        <C>        <C>           <C>       <C>       <C>        <C>            <C>
+Assets
+
+Securities:
+
+US Gov't & agencies                    $    62    $   (31)     $    (2)    $    29   $  (218)  $  (331)     $    52      $  (497)
+State and political subdivisions           136       (103)          (7)         26       102      (104)          (5)          (7)
+Other securities                             -        (21)           -         (21)       36       (58)          (9)         (31)
+                                       -------    -------      -------     -------   -------   -------      -------      -------
+Total investment securities                198       (155)          (9)         34       (80)     (493)          38         (535)
+
+Federal funds sold                         (70)        30          (14)        (54)      111       (39)         (38)          34
+Loans:
+Commercial loans                           383       (261)         (16)        106       303      (405)         (19)        (121)
+Real estate mortgages                     (131)      (176)          13        (294)      120      (312)         (19)        (211)
+Consumer loans                             192       (250)         (24)        (82)       48      (288)          (6)        (246)
+                                       -------    -------      -------     -------   -------   -------      -------      -------
+Total loans                                444       (687)         (27)       (270)      471    (1,005)         (44)        (578)
+                                       -------    -------      -------     -------   -------   -------      -------      -------
+
+Total average earning assets               572       (812)         (50)       (290)      502    (1,537)         (44)      (1,079)
+                                       -------    -------      -------     -------   -------   -------      -------      -------
+
+Interest bearing liabilities:
+
+NOW account deposits                        16         46            2          64       (49)     (369)          21         (397)
+Savings deposits                             2       (103)          (1)       (102)      124      (283)         (54)        (213)
+Time deposits over $100,000                 49        (41)          (5)          3        30       (73)          (5)         (48)
+Other time deposits                        (44)      (200)           6        (238)      (49)     (331)           9         (371)
+                                       -------    -------      -------     -------   -------   -------      -------      -------
+Total deposits                              23       (298)           2        (273)       56    (1,056)         (29)      (1,029)
+Other borrowed funds                                                63          63
+Federal funds purchased                      -          -            2           2         -         -            -            -
+                                       -------    -------      -------     -------   -------   -------      -------      -------
+Total interest bearing liabilities          23       (298)          67        (208)       56    (1,056)         (29)      (1,029)
+                                       -------    -------      -------     -------   -------   -------      -------      -------
+
+Net Interest Income                    $   549    $  (514)     $  (117)    $   (82)  $   446   $  (481)     $   (15)     $   (50)
+                                       =======    =======      =======     =======   =======   =======      =======      =======
+</TABLE>
+
+II.   Investment Portfolio
+
+A. Book values of the investment portfolio (000's)
+
+<TABLE>
+<CAPTION>
+
+                                                       2004       2003        2002
+<S>                                                  <C>         <C>         <C>
+U.S. Treasury securities and obligations of
+   U.S. government corporations of agencies          $14,558     $13,035     $ 6,077
+Obligations of states and political subdivisions      32,421      32,046      29,377
+
+Other securities                                       5,706       5,777       6,029
+
+Mortgage backed securities                             9,761      14,396      17,788
+                                                     -------     -------     -------
+  Total securities                                   $62,446     $65,254     $59,271
+                                                     =======     =======     =======
+</TABLE>
+
+                                                                              10
+
+<PAGE>
+
+B. Maturity distribution of the investment portfolio.
+
+<TABLE>
+<CAPTION>
+
+           2004                     Book Value
+                                      (000's)   Yield (%)
+
+<S>                                 <C>         <C>
+US Government securities
+Maturity distribution:
+One year or less                      $ 1,266     5.33
+Over one year through five years       13,292     3.64
+Over five years through ten years           -        -
+Over ten years                              -
+
+State and political subdivisions*
+Maturity distribution:
+One year or less                        2,189     6.96
+Over one year through five years       14,053     6.11
+Over five years through ten years      15,955     6.17
+Over ten years                            224     6.03
+
+Mortgage-backed securities              9,761     3.68
+
+Other securities                        5,706     2.41
+    *Yields are presented on a Federal tax equivalent basis and are adjusted for a 34% income tax basis.
+</TABLE>
+
+III. Loan Portfolio
+A. Types of loans
+
+<TABLE>
+<CAPTION>
+                           2004         2003         2002         2001         2000
+<S>                      <C>          <C>          <C>          <C>          <C>
+Commercial               $ 18,080     $ 21,060     $ 19,925     $ 17,470     $ 21,176
+Commercial Mortgage        67,505       57,810       52,321       46,072       33,186
+Real Estate Mortgage       32,604       37,164       39,246       38,499       40,687
+Installment                36,902       35,156       30,121       24,083       25,253
+Construction               12,243       10,524       13,702       16,929       16,674
+                         --------     --------     --------     --------     --------
+   Total Loans           $167,334     $161,714     $155,315     $143,053     $136,976
+                         ========     ========     ========     ========     ========
+</TABLE>
+
+B. Maturities and sensitivities of loans to changes in interest rates as of
+December 31, 2004 (000's).
+
+<TABLE>
+<S>                                                                  <C>
+Commercial Loans
+Fixed rate loans with a maturity of:
+Three months or less                                                 $       984
+Over three months through twelve months                                      460
+One year through five years                                                2,837
+Over five years                                                              386
+                                                                     -----------
+Total fixed rate loans                                                     4,667
+Floating rate loans with a repricing frequency of:
+Quarterly or more frequently                                              13,413
+                                                                     -----------
+Total commercial loans                                               $    18,080
+                                                                     ===========
+
+Commercial Real estate mortgages
+Fixed rate loans with a maturity of:
+Three months or less                                                 $     1,129
+Over three months through twelve months                                    5,827
+One year through five years                                               48,101
+Over five years                                                            1,148
+                                                                     -----------
+Total fixed rate loans                                                    56,205
+
+Floating rate loans with a repriceing frequency of :
+Quarterly or more frequently                                              11,300
+                                                                     -----------
+Total commercial loans                                               $    67,505
+                                                                     ===========
+</TABLE>
+
+                                                                              11
+<PAGE>
+
+<TABLE>
+<S>                                                                  <C>
+Real estate construction loans
+Fixed rate loans with a maturity of:
+Three months or less                                                 $       525
+Over three months through twelve months                                    1,565
+One year through five years                                                    -
+Over five years                                                                -
+                                                                     -----------
+Total fixed rate loans                                                     2,090
+Floating rate loans with a repriceing frequency of :
+Quarterly or more frequently                                              10,153
+                                                                     -----------
+Total commercial loans                                               $    12,243
+                                                                     ===========
+</TABLE>
+
+C. Risk Elements
+
+1. Non accrual, past due, and restructured loans (000's)
+
+<TABLE>
+<CAPTION>
+                                             12/31/04   12/31/03   12/31/02   12/31/01   12/31/00
+<S>                                          <C>        <C>        <C>        <C>        <C>
+Loans 90 days past due and still accruing
+Commercial loans                              $    -     $   37     $  801     $   19     $    5
+Real estate loans                                  -         79          -         80          -
+Installment loans                                  -         30         28         72         69
+                                              ------     ------     ------     ------     ------
+   Total loans 90 days pas due                $    -     $  146     $  829     $  171     $   74
+                                              ======     ======     ======     ======     ======
+
+Non accruing loans
+Commercial loans                              $  625     $  597     $  458     $  577     $1,177
+Real estate loans                                  -        151          -         85        163
+Installment loans                                 65                   101        108        225
+                                              ------     ------     ------     ------     ------
+   Total non accruing loans                   $  690     $  748     $  559     $  770     $1,565
+                                              ======     ======     ======     ======     ======
+</TABLE>
+
+There were no restructured loans.
+
+For the year ended 2004, if the loans reported as non accrual had earned at the
+contracted interest rate, $43,300 of interest income would have been recorded.
+No interest income was recorded on these loans in 2004.
+
+The Corporation places loans on a non accruing status when management feels that
+a significant risk of non-repayment exists. Criteria for evaluating risk include
+the borrowers' payment histories, past due status, and financial condition.
+Loans on which the required payment of principal or interest has not been
+received within 90 days of the due date are placed on nonaccrual status.
+
+2. Potential problem loans
+
+Management has not identified any potential problem loans where circumstances
+indicate that a loan may be reported under Item III.C.1.
+
+Foreign outstandings
+
+Not applicable
+
+3. Loan concentrations
+
+As of December 31, 2004, there were no loan concentrations other than those
+categories already reported that exceed 10% of total loans.
+
+                                                                              12
+<PAGE>
+
+D. Other interest bearing assets
+
+As of December 31, 2004, there was no other interest bearing asset that would
+have been classified 90 days past due and still accruing if it were a loan.
+
+IV. Summary of Loan Loss Experience
+
+A. Analysis of allowance for loan losses (000's)
+
+<TABLE>
+<CAPTION>
+                                                   2004        2003        2002        2001        2000
+<S>                                               <C>         <C>         <C>         <C>         <C>
+Balance at beginning of the period                $2,136      $2,165      $2,139      $1,951      $1,913
+Charge offs:
+Commercial                                            97          17          12          28         172
+Real estate                                            -           3           -           -           -
+Installment                                           55          73         113          77          91
+Construction                                           -           -           -           -           -
+                                                  ------      ------      ------      ------      ------
+   Total charge offs                                 152          93         125         105         263
+
+Recoveries:
+Commercial                                            10           5           2          87          42
+Real estate                                            -           -           -           -           -
+Installment                                           18          24          19          11          19
+Construction                                           -           -           -           -           -
+                                                  ------      ------      ------      ------      ------
+   Total recoveries                                   28          29          21          98          61
+                                                  ------      ------      ------      ------      ------
+Net charge offs                                      124          64         104           7         202
+Provision charged to earnings                          -          35         130         195         240
+
+                                                  ------      ------      ------      ------      ------
+Balance at the end of the period                  $2,012      $2,136      $2,165      $2,139      $1,951
+                                                  ======      ======      ======      ======      ======
+Ratio of net charge offs during the period to
+  average loans during the period                   0.08%       0.04%       0.07%       0.01%       0.15%
+</TABLE>
+
+Net charged off loans totaled $124,000 during 2004. One commercial credit
+composed $85,000 of the net charged off loans. The balance of the charged off
+amounts continue to be deficiency balances related to the repossession on
+Consumer credits. Management's review of these credits indicates that risks
+assumed at the time the loans were made appear to be reasonable. Continued low
+losses in the loan portfolio and moderate growth in the loan portfolio enabled
+management to conclude that funding of the reserve for loan losses was not
+necessary in 2004.
+
+Net charged off loans totaled $64,000 during 2003. Charged off deficiency
+balances continued to be the primary source of losses. Underwriting standards
+are continuously under review and losses appear to result from reasonable risk
+when loans were originated. Low losses for the past few years and positive risk
+factors enabled management to cease to fund the loss reserve early in 2003.
+
+Net charged off loans totaled $104,000 during 2002. Most charged off loans were
+the result of deficiency balances on repossessed automobiles and other assets
+financed by retail consumers. Management's review of underwriting practices on
+these loans indicated that most losses resulted from reasonable risk assumed
+when the loans were originated.
+
+Net charged off loans totaled $7,000 for 2001. Two commercial loans from a
+number of years previously were recovered, one as a result of final settlements
+of legal action and the other as a result of the economic recovery of the
+borrower. Consumer loans continued to experience losses as collateral values
+deteriorate faster than estimates. Recoveries of consumer loans continue to
+develop as a result of bankruptcy and judgment proceedings
+
+Net charged off loans totaled $202,000 for 2000. Two commercial loans accounted
+for $112,000 of the net charged off loans. One loan was the result of the legal
+resolution of a long standing collection effort and the second resulted from the
+charge down of a loan to an appraised real estate value. Installment loans
+charged off declined as a result of increased collection and underwriting
+vigilance.
+
+                                                                              13
+<PAGE>
+
+B. Allocation of the allowance for loan losses (000's)
+
+<TABLE>
+<CAPTION>
+                                                        Real
+                                         Commercial    estate
+Balances:                    Commercial   Mortgage    Mortgage  Installment  Construction  Unallocated      Total
+<S>                          <C>         <C>          <C>       <C>          <C>           <C>             <C>
+December 31, 2004             $    212    $    790    $    143    $    500     $     88      $    279      $  2,012
+   % of loans in category         10.8%       40.3%       19.5%       22.1%         7.3%                      100.0%
+December 31, 2003             $    414    $    737    $    212    $    131     $    100      $    542      $  2,136
+   % of loans in category         13.0%       35.8%       23.0%       21.7%         6.5%                      100.0%
+December 31, 2002             $    259    $    682    $     43    $    122     $     95      $    964      $  2,165
+   % of loans in category         12.8%       33.7%       25.3%       19.4%         8.8%                      100.0%
+December 31, 2001             $    240    $    632    $     15    $    289     $     95      $  1,500      $  2,139
+   % of loans in category         12.2%       32.2%       26.9%       16.8%        11.8%                       99.9%
+December 31, 2000             $    255    $    398    $     30    $    159     $    124      $    985      $  1,951
+   % of loans in category         15.5%       24.2%       29.7%       18.4%        12.2%                      100.0%
+</TABLE>
+
+V.    Deposits
+
+A.    Refer to Item I of the Guide 3 statistical disclosures for a presentation
+      of the information required by this item.
+
+B.    Not applicable
+
+C.    Not applicable
+
+D.    Maturities of time certificates of deposits of $100,000 or more. (000's)
+
+<TABLE>
+<S>                                       <C>
+Three months or less                      $ 2,903
+Over three through six months               2,050
+Over six months through twelve months       2,976
+Over twelve months                          6,965
+                                          -------
+                                          $14,894
+                                          =======
+</TABLE>
+
+E.    Not applicable
+
+VI.   Return on Equity and Assets
+
+<TABLE>
+<CAPTION>
+                                2004      2003      2002
+<S>                             <C>       <C>       <C>
+Return on assets (%)            1.44      1.47      1.62
+Return on equity (%)            12.0      11.9      13.6
+Dividend payout ratio (%)       46.2      44.5      39.2
+Equity to assets ratio (%)      11.9      12.6      12.2
+</TABLE>
+
+VI.  Short-term Borrowings
+
+Not applicable
+
+                                                                              14
+<PAGE>
+
+ITEM 2.  PROPERTY
+
+The following is a tabulation of facilities owned by the Bank. All property is
+used in the delivery of services to the customer base. Over the past few years,
+all properties have been appropriately reviewed and upgraded or remodeled to
+continue providing quality service to our customers
+<TABLE>
+<CAPTION>
+
+                                    App. Building        Date
+Description/location                Square footage      Occupied
+<S>                                 <C>                <C>
+Main office                             34,948         9/15/1902
+83 W. Nepessing St.
+Lapeer, MI
+
+Elba Office                              3,744          10/22/65
+5508 Davison Rd.
+Lapeer, MI
+
+Pine-Clay office                           528            1/5/68
+305 Pine St.
+Lapeer, MI
+
+Southgate Office                         1,700           11/2/70
+637 S. Main St.
+Lapeer, MI
+
+Attica Office                            4,158           6/27/79
+4515 Imlay City Rd.
+Attica, MI
+
+Metamora Office                          2,668           9/18/89
+3414 S Lapeer Rd.
+Metamora , MI
+
+Imlay City Office                        2,668           8/11/99
+1875 S Cedar St.
+Imlay City, MI
+
+Deerfield Office                         2,561           9/15/03
+30 W. Burnside Rd.
+Fostoria, MI
+</TABLE>
+
+ITEM 3. LEGAL PROCEEDINGS
+
+No material legal proceeding is pending to which the Corporation or the Bank is
+the party, or of which any of their property is the subject.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+Not applicable
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND
+ISSUER PURCHASES OF EQUITY SECURITIES.
+
+Refer to Page 17 of the accompanying Annual Report to Stockholders
+
+                                                                              15
+<PAGE>
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+Refer to Page 16 of the accompanying Annual Report to Stockholders, except for:
+(000's)
+
+<TABLE>
+<CAPTION>
+                     2004         2003         2002         2001         2000
+<S>                <C>          <C>          <C>          <C>          <C>
+Total Assets       $253,261     $248,662     $240,316     $232,195     $225,258
+Long Term Debt        3,060            -            -            -            -
+</TABLE>
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND THE
+RESULTS OF OPERATIONS.
+
+CRITICAL ACCOUNTING POLICY AND ESTIMATES
+
+The Company's consolidated financial statements are prepared in accordance with
+accounting principles generally accepted in the United States of America, and
+the Company follows general practices within the industries in which it
+operates. At times, the application of these principles requires Management to
+make assumptions, estimates and judgments that affect the amounts reported in
+the financial statements and accompanying notes. These assumptions, estimates
+and judgments are based on information available as of the date of the financial
+statements. As this information changes, the financial statements could reflect
+different assumptions, estimates and judgments. Certain policies inherently have
+a greater reliance on assumptions, estimates and judgments and as such have a
+greater possibility of producing results that could be materially different than
+originally reported. Examples of critical assumptions, estimates and judgments
+are when assets and liabilities are required to be recorded at fair value, when
+a decline in the value of an asset not required to be recorded at fair value
+warrants an impairment write-down or valuation reserve to be established, or
+when an asset or liability must be recorded contingent upon a future event.
+
+All significant accounting policies followed by the Company are presented in
+Note 1 to the consolidated financial statements. These policies, along with the
+disclosures presented in the notes to the consolidated financial statements and
+in the management discussion and analysis of financial condition and results of
+operations, provide information on how significant assets and liabilities are
+valued and how those values are determined for the financial statements. Based
+on the valuation techniques used and the sensitivity of financial statement
+amounts to assumptions, estimates and judgments underlying those amounts,
+management has identified the determination of the Allowance for Loan and Lease
+Losses (ALLL) as the accounting area that requires the most subjective or
+complex judgments, and as such could be the most subject to revision as new
+information becomes available.
+
+The ALLL represents management's estimate of credit losses inherent in the
+Bank's loan portfolio at the report date. The estimate is a composite of a
+variety of factors including past experience, collateral value, and the general
+economy. ALLL includes a specific portion, a formula driven portion, and a
+general nonspecific portion. The collection and ultimate recovery of the book
+value of the collateral, in most cases, is beyond our control.
+
+For more information regarding the estimates and calculations used to establish
+the ALLL, please see Note 1 to the consolidated financial statements provided
+herewith.
+
+EARNINGS
+
+Major components of the operating result of the Corporation are presented in the
+accompanying table, Summary of Operations. A discussion of these results is
+presented in greater detail in subsequent pages.
+
+Summary of Operations
+
+<TABLE>
+<CAPTION>
+                                                     2004       2003        2002        2001        2000
+<S>                                                <C>         <C>         <C>         <C>         <C>
+Interest income                                    $12,413     $12,696     $13,731     $15,052     $15,578
+Interest expense                                     2,565       2,774       3,802       5,583       6,460
+                                                   -------     -------     -------     -------     -------
+Net interest income                                  9,848       9,922       9,929       9,469       9,118
+Provision for possible loan losses                       -          35         130         195         240
+                                                   -------     -------     -------     -------     -------
+Net interest income after provision for
+   possible loan losses                              9,848       9,887       9,799       9,274       8,878
+Other income                                         3,016       2,813       2,731       2,482       2,245
+Other expense                                        8,134       7,926       7,507       7,091       6,693
+                                                   -------     -------     -------     -------     -------
+Income before provision for Federal income tax       4,730       4,774       5,023       4,665       4,430
+Provision for Federal income tax                     1,108       1,123       1,207       1,150       1,129
+                                                   -------     -------     -------     -------     -------
+Net income                                         $ 3,622     $ 3,651     $ 3,816     $ 3,515     $ 3,301
+                                                   =======     =======     =======     =======     =======
+
+Per share:
+Net income                                         $  3.18     $  3.08     $  3.22     $  2.96     $  2.78
+                                                   =======     =======     =======     =======     =======
+Dividends declared                                 $  1.47     $  1.37     $  1.26     $  3.65     $  1.04
+                                                   =======     =======     =======     =======     =======
+</TABLE>
+
+Summary of Operations 2004 by quarter
+
+<TABLE>
+<CAPTION>
+                                                   4th qtr    3rd qtr    2nd qtr    1st qtr
+<S>                                                <C>        <C>        <C>        <C>
+Interest income                                    $3,234     $3,070     $3,074     $3,035
+Interest expense                                      711        645        593        616
+                                                   ------     ------     ------     ------
+Net interest income                                 2,523      2,425      2,481      2,419
+Provision for possible loan losses                      -          -          -          -
+                                                   ------     ------     ------     ------
+Net interest income after provision for
+   possible loan losses                             2,523      2,425      2,481      2,419
+Other income                                          862        678        818        658
+Other expense                                       1,964      2,035      2,099      2,036
+                                                   ------     ------     ------     ------
+Income before provision for Federal income tax      1,421      1,068      1,200      1,041
+Provision for Federal income tax                      361        236        285        226
+                                                   ------     ------     ------     ------
+Net income                                         $1,060     $  832     $  915     $  815
+                                                   ======     ======     ======     ======
+
+Per share:
+Net Income                                         $ 0.95     $ 0.74     $ 0.80     $ 0.69
+                                                   ======     ======     ======     ======
+</TABLE>
+
+                                                                              16
+<PAGE>
+
+<TABLE>
+<S>                                                <C>        <C>        <C>        <C>
+Dividends declared                                 $ 0.67     $ 0.27     $ 0.27     $ 0.26
+                                                   ======     ======     ======     ======
+</TABLE>
+
+Summary of Operations 2003 by quarter
+
+<TABLE>
+<CAPTION>
+                                                   4th qtr    3rd qtr    2nd qtr    1st qtr
+<S>                                                <C>        <C>        <C>        <C>
+Interest income                                    $3,077     $3,063     $3,249     $3,307
+Interest expense                                      631        660        728        755
+                                                   ------     ------     ------     ------
+Net interest income                                 2,446      2,403      2,521      2,552
+Provision for possible loan losses                      -          5         15         15
+                                                   ------     ------     ------     ------
+Net interest income after provision for
+   possible loan losses                             2,446      2,398      2,506      2,537
+Other income                                          707        757        691        658
+Other expense                                       1,984      2,029      1,972      1,941
+                                                   ------     ------     ------     ------
+Income before provision for Federal income tax      1,169      1,126      1,225      1,254
+Provision for Federal income tax                      276        257        290        300
+                                                   ------     ------     ------     ------
+Net income                                         $  893     $  869     $  935     $  954
+                                                   ======     ======     ======     ======
+
+Per share:
+
+Net Income                                         $ 0.75     $ 0.73     $ 0.79     $ 0.81
+                                                   ======     ======     ======     ======
+Dividends declared                                 $ 0.65     $ 0.24     $ 0.24     $ 0.24
+                                                   ======     ======     ======     ======
+</TABLE>
+Net interest income
+
+The Federal Reserve Corporation's Open Market Committee increased rates twenty
+five basis points five times during the last six months of 2004. Deposit, loan
+and securities yields declined during the year as instruments renewed at lower
+rates during the first six months of the year. Customers continued to choose the
+traditional deposit categories such as Every Day Interest Statement Savings
+accounts and Money Market Deposit accounts. Commercial loan demand moderated
+during the year with balances falling early in the year and gaining strength
+late in the year. Stable rates reduced borrower demand to refinance mortgages.
+Increasing short term interest rates in the last two quarters had minimal impact
+on mortgage rates and demand continued to be weak. The market for traditional
+consumer loans continues to shrink as car leases, 0% financing from the auto
+finance companies and home equity loans remain popular. Home equity lines of
+credit continue to be a replacement for the traditional consumer loan. The
+Corporation's interest margin declined during 2004. The return on average
+earning assets declined .3% while the total deposit cost dropped .2%. Interest
+expense as a percent of average earning assets declined .1%. The Bank's net
+interest yield on a Federal tax equivalent (FTE) basis was 4.2% in 2004 compared
+to 4.3% in 2003. The Corporation continues to monitor rate sensitive assets and
+rate sensitive liabilities to maintain margins in different rate environments.
+
+Provision for possible loan losses
+
+Management realizes that loan losses cannot be predicted with absolute
+certainty. The Corporation adheres to a loan review procedure that identifies
+loans that may develop into problem credits. The adequacy of the reserve for
+possible loan losses is evaluated against the listings that result from the
+review procedure, historical net loan loss experience, current loan volumes, the
+level and composition of nonaccrual, past due and renegotiated or reduced rate
+loans, current and anticipated economic conditions and an evaluation of each
+borrower's credit worthiness. Based on these factors, management determines the
+amount of the provision for possible loan losses needed to maintain an adequate
+reserve for possible loan losses. The amount of the provision for possible loan
+losses is recorded as current expense and may be greater or less than the actual
+net charged off loans.
+
+Activity related to the reserve for loan losses resulted in net charged off
+loans of $124,000 in 2004. Net charged off loans recorded in 2003 were $64,000.
+Provisions for possible loan losses were $0 in 2004 and $35,000 for 2003. The
+ratio of reserve for possible loan losses to gross loans equaled 1.2% and 1.3%
+in 2004 and 2003, respectively.
+
+                                                                              17
+<PAGE>
+
+Non-interest income
+
+Non-interest income is composed of trust department income, service charges on
+deposit accounts, fees for providing other services to customers, gains on
+securities sales and other income. Non-interest income increased 7.2% during
+2004. Trust income increased .07% as a result primarily of market gains in the
+fourth quarter. Service fees on deposit accounts increased 10.7% as a result of
+the introduction of the Courtesy Overdraft Service. Customers have responded
+positively to this payment of limited overdrafts to customers that handle their
+accounts in an appropriate manner. Other income categories increased 1.1%.Gains
+on sale of mortgages and mortgage servicing rights income dropped off
+significantly as a result of low demand for refinancing, but this was offset by
+gains on the sale of other real estate as a number of loan problems were settled
+in the Corporations favor. The Corporation served as landlord of the Lyric Mall,
+a downtown office complex acquired a number of years ago as settlement for a
+loan. A buyer appeared in 2004 and the Corporation accepted the reasonable
+offer.
+
+Non-interest expense
+
+Major components of non-interest expense are salaries and employee benefits,
+occupancy and equipment expenses and other operating expenses. Total
+non-interest expense increased 2.6% during 2004. Personnel expense increased
+3.7% compared to 9.6% in 2003. Occupancy expenses increased 9.2% as a result of
+remodeling expenses and increased costs of software related to the introduction
+of Internet banking. Other expenses declined 3.6% for the year. Legal expenses
+and loan and collection expenses were reduced in 2004.
+
+FINANCIAL CONDITION
+
+Average assets for the Corporation totaled $ 253,847,000, $247,978,000, and
+$236,227,000 in 2004, 2003 and 2002 respectively. The 2.4% growth in average
+assets follows a 5.0% growth in 2003. Average loans grew 4.3% while average
+interest bearing deposits grew 1.5%. The average securities portfolio increased
+by 5.8%. Accordingly, short term Federal funds investments decline 46.5% on
+average. Average earning assets grew 1.7% compared to average total deposit
+growth of 1.4%.
+
+Liquidity
+
+The Corporation generated most of its cash flow from operating activities in
+2005. Increases in the loan portfolio absorbed the net proceeds of maturities
+and calls in the investment portfolio and increased deposits. Remaining cash
+flow funded dividends to the Stockholders and payments on a note to Comerica
+Bank, resulting in a slight increase in Cash and Cash Equivalents.
+
+The anticipated requirements of the Corporation can be met by upstreaming
+dividends from the subsidiary Bank. Refer to footnote 9 of the accompanying
+financial statements for a discussion of the restrictions on undivided profits
+of the subsidiary. The Bank's historical performance and strong capital ratios
+reflect the continued ability to provide the required cash flows. The
+anticipated cash needs of the Corporation are for the payment of annual
+dividends to current stockholders, the payment of principal and interest on a
+loan with Comerica Bank and the minimal expenses of the Corporation. Anticipated
+payments on the loan total $170,000 plus accrued interest each quarter.
+Dividends upstreamed to the Corporation were $2,086,000 in 2004 and $1,649,000
+in 2003.
+
+The estimated market value of U.S. Government securities and U.S. Agency
+securities available-for-sale totaled 10.6% of total deposits on December 31,
+2004. The percentage for 2003 was 11.8%. The Corporation is able to meet normal
+demands for liquidity through loan repayments, securities payments and deposit
+growth. The Bank maintains a liquidity plan for use in the event of unforeseen
+liquidity problems. The plan incorporates prearranged lines of credit and a plan
+for the liquidation of certain types of assets if the liquidity problem
+continued beyond the time that normal cash flows would meet the demand.
+
+                                                                              18
+<PAGE>
+
+CAPITAL
+
+The Corporation has 573 stockholders representing 1,118,315 shares of common
+stock. Refer to page 16 of the Corporation's Annual Report for a discussion of
+the market for this stock.
+
+The Corporation's return on average equity totaled 12.0% for 2004 and 11.9% in
+2003. Effective December 31, 1993, the Corporation is required to maintain
+capital in excess of 8% of risk-weighted assets as defined by the Federal
+Reserve Board. The Corporation's capital to risk-weighted asset ratio was 17.8%
+on December 31, 2004 and was 19.5% on December 31, 2003. Refer to footnote 12 of
+the accompanying financial statements for a tabular presentation of the
+Corporation's capital adequacy.
+
+The Corporation paid quarterly cash dividends and paid a special dividend in
+December 2004 and in 2003. Cash dividends totaled $1,662,000 in 2004 and
+$1,625,000 in 2003. Dividends per share equaled $1.47 in 2004 and $1.37 in 2003.
+The Corporation normally pays dividends at a rate between 35% to 50% of net
+income. The Corporation expects to pay dividends in that range in the future.
+
+The Corporation redeemed 68,157 shares of common stock from the estate of its
+largest stockholder during 2004. The Corporation arranged a loan with Comerica
+Bank to fund this purchase. The shares purchased were retired. The Corporation
+did not issue any authorized shares of stock in 2004 or 2003.
+
+OFF - BALANCE SHEET ARRANGEMENTS
+
+Refer to foot note 11 on page 13 of the Annual Report to Stockholders for a
+discussion of the Corporation's off-balance sheet activities. The Corporation is
+a party to credit related financial instruments with off-balance sheet risk in
+the normal course of business to meet the needs of its customers. These
+financial instruments include commitments to extend credit and standby letters
+of credit. Such commitments involve to varying degrees elements of credit and
+interest rate risk in excess of the amount recognized in the balance sheet.
+Unfunded commitments under commercial line of credit and revolving credit line
+agreements are commitments for possible future extensions of credit to existing
+customers. These lines of credit are collateralized and contain a specified
+maturity date and might not be drawn upon to the total extent to which the
+Corporation is committed.
+
+TABULAR DISCLOSURE OF CONTRACTUAL OBLIGATIONS
+
+<TABLE>
+<CAPTION>
+                                                                PAYMENT DUE BY PERIOD
+                                          -------------------------------------------------------------------
+                                                      LESS THAN 1     1-3 YEARS   3-5 YEARS     MORE THAN 5
+      CONTRACTUAL OBLIGATIONS               TOTAL         YEAR                                     YEARS
+-------------------------------------------------------------------------------------------------------------
+<S>                                       <C>        <C>             <C>         <C>           <C>
+Long-Term Debt Obligations                $ 3,060         $  680       $ 1,360     $ 1,020                -
+-------------------------------------------------------------------------------------------------------------
+Capital Lease Obligations                       -
+-------------------------------------------------------------------------------------------------------------
+Operating Lease Obligations                     -
+-------------------------------------------------------------------------------------------------------------
+Purchase Obligations                            -
+-------------------------------------------------------------------------------------------------------------
+Other Long-Term Liabilities
+Reflected on the Registrant's
+Balance Sheet under GAAP                        -
+-------------------------------------------------------------------------------------------------------------
+Total                                     $ 3,060         $  680       $ 1,360     $ 1,020                -
+-------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+Definitions:
+
+(A) Long-Term Debt Obligation means a payment obligation under long-term
+borrowings referenced in FASB Statement of Financial Accounting Standards No. 47
+Disclosure of Long-Term Obligations (March 1981), as may be modified or
+supplemented.
+
+(B) Capital Lease Obligation means a payment obligation under a lease classified
+as a capital lease pursuant to FASB Statement of Financial Accounting Standards
+No. 13 Accounting for Leases (November 1976), as may be modified or
+supplemented.
+
+(C) Operating Lease Obligation means a payment obligation under a lease
+classified as an operating lease and disclosed pursuant to FASB Statement of
+Financial Accounting Standards No. 13 Accounting for Leases (November 1976), as
+may be modified or supplemented.
+
+(D) Purchase Obligation means an agreement to purchase goods or services that is
+enforceable and legally binding on the registrant that specifies all significant
+terms, including: fixed or minimum quantities to be purchased; fixed, minimum or
+variable price provisions; and the approximate timing of the transaction.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Market risk is the risk of loss arising from adverse changes in the fair value
+of financial instruments due to variations in interest rates, exchange rates,
+equity price risk and commodity prices. The Company does not maintain a trading
+account for any class of financial instrument, and is not currently subject to
+currency exchange rate risk, equity price risk or commodity price risk. The
+Company's market risk is composed primarily of interest rate risk. The major
+source of the Company's interest rate risk is the difference in the maturity and
+repricing characteristics between the Company's core banking assets and
+liabilities -- loans and deposits. This difference, or mismatch, poses a risk to
+net interest income. Most significantly, the Company's core banking assets and
+liabilities are mismatched with respect to repricing frequency, maturity and/or
+index. Most of the Company's commercial loans, for example, reprice rapidly in
+response to changes in short-term interest. In contrast, many of the Company's
+consumer deposits reprice slowly, if at all, in response to changes in market
+interest rates.
+
+The Company's Senior Management is responsible for reviewing the interest rate
+sensitivity position of the Company and establishing policies to monitor and
+limit exposure to interest rate risk. The guidelines established by senior
+management are approved by the Company's Board of Directors. The primary goal of
+the asset/liability management function is to maximize net interest income
+within the interest rate risk limits set by approved guidelines. Techniques used
+include both interest rate gap management and simulation modeling that measures
+the effect of rate changes on net interest income and market value of equity
+under different rate scenarios. The interest rate gap analysis schedule
+quantifies the asset/liability static sensitivity as of December 31, 2004.
+
+Rate sensitivity analysis (000's), December 31, 2004
+
+<TABLE>
+<S>                           <C>        <C>           <C>           <C>           <C>            <C>
+Repricing period in days          0-30       31-90        91-180        181-365         0-365      0ver 365
+
+Rate sensitive assets (RSA):
+Federal fund sold              $ 3,500    $      -      $      -      $       -     $   3,500      $      -
+Investment securities            4,916       1,405         1,811          4,889        13,021        51,436
+Loans                           53,634       1,839         3,092         13,188        71,753        95,581
+                               -------    --------      --------      ---------     ---------      --------
+   Total rate sensitive assets  62,050       3,244         4,903         18,077        88,274       147,017
+Rate sensitive liabilities
+(RSL):
+Demand deposits                 33,463           -             -              -        33,463        31,303
+Savings deposits                21,573           -             -              -        21,573        32,607
+Time deposits                    6,175       5,980         9,708         10,041        31,904        25,349
+                               -------    --------      --------      ---------     ---------      --------
+   Total rate sensitive
+liabilities                     61,211       5,980         9,708         10,041        86,940        89,259
+
+Repricing gap (RSA-RSL)        $   839    $ (2,736)     $ (4,805)     $   8,036     $   1,334      $ 57,758
+                               =======    ========      ========      =========     =========      ========
+As a percent of capital            2.5%        8.2%        -14.3%          24.0%          4.0%        172.1%
+As a percent of total assets       3.3%        1.1%         -1.9%           3.2%          0.5%         22.8%
+</TABLE>
+
+                                                                              19
+<PAGE>
+
+The Asset/liability management committee meets monthly to review the impact of
+changes in rates and market pricing on the Corporation's interest earning assets
+and interest paying liabilities. Customers' responses to interest rates and
+deposit products are reviewed. Loan demand is discussed and methods to answer
+customers' needs are reviewed. The rate sensitivity of current production of
+both loans and deposits are reviewed. Management's goal is to achieve a balance
+between rate sensitive assets and rate sensitive liabilities in order to
+maintain a reasonable interest margin in changing rate environments.
+
+Income rate shock analysis, December 31, 2004
+
+The difference in projected income assuming the following basis point change in
+rates:
+
+<TABLE>
+<S>                                          <C>        <C>          <C>          <C>      <C>          <C>
+Changes in rates (bp's)                        -300        -200        -100          100       200         300
+
+Change in cash flow                          $   24     $    16      $    8       $   (8)  $   (16)     $  (24)
+
+   As a percent of net int income               0.4%        0.2%        0.1%        -0.1%     -0.2%       -0.4%
+   As a percent of net income                   1.0%        0.6%        0.3%        -0.3%     -0.6%       -1.0%
+   As a percent of net int income(FTE)          0.2%        0.2%        0.1%        -0.1%     -0.2%       -0.2%
+   As a percent of net income (FTE)             0.6%        0.4%        0.2%        -0.2%     -0.4%       -0.6%
+</TABLE>
+
+The preceding table presents the difference in net income in the event of a real
+and immediate change in rates from +/- 300 basis points (bp). It is based on the
+previous table and is management's calculation based on management's assessment
+of the most likely scenario as a response to such an event.
+
+The Federal Reserve Bank evaluates the Corporation on its management of risk
+factors effecting the organization. These risks include credit, liquidity,
+market, operational, fiduciary, legal and reputational. Credit, liquidity, and
+market risk were discussed in earlier sections of this narrative. Legal matters
+are discussed in ITEM 13. The Board of Directors discusses matters relating to
+its reputation and performance in the community at its regular meetings and two
+planning meetings held during the year.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+The Corporation's Independent Auditors Report and Consolidated Financial
+Statements are incorporated herein by reference to the Corporation's Annual
+Report (Exhibit 13). Refer to Pages 3-14 of the Annual Report to Shareholders.
+In addition the Supplementary financial information required by Item 302 of
+Regulation S-K, selected unaudited quarterly financial data, is included on page
+17 of the Corporation's Annual Report.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+None
+
+ITEM 9A. CONTROLS AND PROCEDURES.
+
+Pursuant to Exchange Act Rule 13a-15, the Company carried out an evaluation,
+under the supervision and with the participation of the Company's management,
+including the Company's principal executive officer and principal financial
+officer, of the effectiveness of the design and operation of the Company's
+disclosure controls and procedures as of December 31, 2004. Based upon that
+evaluation, the Chief Executive Officer and Chief Financial Officer concluded
+that the Company's disclosure controls and procedures were effective as of
+December 31, 2004 in timely alerting them to material information relating to
+the Company (including its consolidated subsidiaries) required to be included in
+the Company's periodic SEC filings.
+
+There was no change in the Company's internal control over financial reporting
+that occurred during the Company's fiscal quarter ended December 31, 2004, that
+has materially affected, or is reasonably likely to materially affect, the
+Company's internal control over financial reporting.
+
+
+
+
+
+                                                                              20
+<PAGE>
+
+PART III
+
+The information called for under the items within this part is included in
+County Bank Corp's March 28, 2005 Proxy Statement and is incorporated herein by
+reference, as follows:
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+The information called for under the items within this part with respect to
+directors is included in County Bank Corp's March 28, 2005 Proxy Statement at
+page 3 thereof and is incorporated herein by reference. The following table sets
+forth the name, age and business experience of each of the executive officers of
+the Corporation. Each of the executive officers is appointed on an annual basis
+and serves at the pleasure of the Board.
+
+<TABLE>
+<S>                                 <C>          <C>                                       <C>
+Executive Officers                  Ages                       Office                      Service
+Curt Carter                          60                       Employee                     38 years
+  Officer                                        President & Chief Executive Officer       16 years
+  Present term                                                                             16 years
+Bruce J. Cady                        52                       Employee                      6 years
+  Officer                                                  Vice President                   6 years
+  Present term                                                                              6 years
+Laird A. Kellie                      59                       Employee                     22 years
+  Officer                                                     Secretary                    16 years
+  Present term                                                                             16 years
+Joseph H. Black                      55                       Employee                     15 years
+  Officer                                        Treasurer & Chief Financial Officer       15 years
+  Present term                                                                             15 years
+</TABLE>
+
+The Corporation has not adopted a "Code of Ethics" as defined by Item 406 of
+Regulation SK that applies to the Corporation's principal executive officer,
+principal financial officer and principal accounting officer. The Board has
+determined that the Corporation does not need to adopt a "Code of Ethics" as
+defined by Item 406 of Regulation SK because the Corporation has a Conflict of
+Interest Policy that governs the Board of Directors and a Code of Conduct that
+every employee signs upon employment with the Bank. A copy of the policy and
+code may be obtained by submitting a request in writing to Joseph Black,
+Treasurer, County Bank Corp, Lapeer, MI 48446
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+The information contained under the captions "Executive Compensation" and
+"Compensation Committee Report on Executive Compensation" of the Corporation's
+2005 Proxy Statement at pages 4-6 thereof filed with the Securities and Exchange
+Commission is incorporated herein by reference in response to this item.
+
+                                                                              21
+<PAGE>
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+RELATED STOCKHOLDER INFORMATION.
+
+The information contained under the captions "ELECTION OF DIRECTORS," and
+"INFORMATION WITH RESPECT TO NOMINEES" of the Corporation's 2004 Proxy Statement
+at page 2 thereof filed with the Securities and Exchange Commission is
+incorporated herein by reference in response to this item.
+
+Share Ownership of Management
+
+<TABLE>
+<CAPTION>
+                                              Percentage
+                                                 of
+                                Number        outstanding
+Director                      of shares         stock
+<S>                           <C>             <C>
+Dr. David H. Bush              48,600           4.35
+Michael H. Blazo               20,012           1.79
+Bruce J. Cady                     600           0.05
+Curt Carter                     8,388           0.75
+Patrick A. Cronin               2,654           0.24
+Thomas K. Butterfield          29,200           2.61
+James A. Harrington            43,102           3.85
+Ernest W. Lefever               1,718           0.15
+Tim Oesch                       4,700           0.42
+Charles Scheidegger            11,598           1.04
+Laird Kellie                      200           0.02
+</TABLE>
+
+Executive Officers and Directors, as a group, own 170,772 shares or 15.3% of
+1,118,315 total outstanding shares of common stock of Corporation as of December
+31, 2004.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The information contained under the caption "Certain Transactions and
+Relationships" of the Corporation's 2005 Proxy Statement at page 6 thereof filed
+with the Securities and Exchange Commission is incorporated herein by reference
+in response to this item.
+
+ITEM 14. CONTROLS AND PROCEDURES.
+
+The information required by this item is incorporated by reference from "REPORT
+OF THE AUDIT COMMITTEE" and "RELATIONSHIP WITH INDEPENDENT PUBLIC ACCOUNTANT" of
+the registrant's 2005 proxy statement at pages 9 thereof.
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K.
+
+(a)(1) The following financial statement schedules of the Corporation and Bank
+are included in the Annual Report to its stockholders for the year ended 2004
+and are incorporated herein by reference in Item 8:
+
+<TABLE>
+<S>                                                                                              <C>
+Balance Sheets--December 31, 2004 and 2003                                                       Page 3
+Statements of Income--years ended December 31, 2004, 2003 and 2002                               Page 5
+Statements of Changes in Stockholders' equity -- years ended December 31, 2004, 2003 and 2002    Page 4
+Statements of Cash Flows--years ended December 31, 2004, 2003 and 2002                           Page 6
+Notes to Financial Statements                                                                    Pages 7-14
+Report of Independent Public Accountants dated February 8, 2005                                  Page 15
+</TABLE>
+
+(a)(2) Financial statement schedules are omitted as they are not required or are
+not applicable or because the required information is included in the
+consolidated financial statements or notes thereto.
+
+                                                                              22
+<PAGE>
+
+(a)(3) Exhibits Required by Item 601 of Regulation SK Reference is made to the
+Exhibit Index which appears on page 27 hereof.
+
+(b) Reports on Form 8-K filed or furnished during the fourth quarter of 2004 and
+through the date of the filing on this Form 10-K
+
+            December 6, 2004 --Form 8-K was filed to report the declaration of
+            the Corporation's quarterly cash dividend.
+
+            March 1, 2005 - Form 8-K was filed to report calendar year 2004
+            earnings and the declaration of the Corporation's quarterly cash
+            dividend. (c) See (a) (3)
+
+(d) Not applicable
+
+                                                                              23
+<PAGE>
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                           County Bank Corp
+
+                                           /s/ Joseph H. Black
+                                           -------------------
+                                           By:
+                                           Joseph H. Black
+                                           Treasurer and Chief Financial Officer
+                                           Date: March 25, 2005
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the registrant and
+in the capacities and on the dates indicated.
+
+                                           /s/ Curt Carter
+                                           Curt Carter, President and Chief
+                                           Executive Officer
+                                           Date: March 25, 2005
+
+                                           /s/ Joseph H. Black
+                                           Joseph H. Black, Treasurer and Chief
+                                           Financial Officer
+                                           Date: March 25, 2005
+
+/s/ James F. Harrington
+-----------------------
+James F. Harrington, Director, Date: March 28, 2005
+
+/s/ Patrick A. Cronin
+---------------------
+Patrick A. Cronin, Director, Date: March 25, 2005
+
+/s/ Timothy Oesch
+-----------------
+Timothy Oesch, Director, Date: March 28, 2005
+
+/s/ Thomas K. Butterfield
+-------------------------
+Thomas K. Butterfield, Director, Date: March 28, 2005
+
+/s/ Ernest W. Lefever
+---------------------
+Ernest W. Lefever, Director, Date: March 28, 2005
+
+/s/ Michael H. Blazo
+--------------------
+Michael H. Blazo, Director, March 25, 2005
+
+                                       24
+<PAGE>
+
+EXHIBIT NUMBER [SK REF NUMBER] DESCRIPTION OF DOCUMENT
+
+3.1                            Articles of Incorporation of County Bank Corp
+                               (previously filed as Exhibits to the
+                               Corporations registration statement on
+                               form 8-A, filed January 24, 1989 and
+                               incorporated herein by reference).
+
+3.2                            Bylaws of County Bank Corp (previously filed
+                               as Exhibits to the Corporations
+                               registration statement on form 8-A, filed
+                               January 24, 1989 and incorporated herein
+                               by reference).
+
+11                             Statement regarding computation of per share
+                               earnings. (Incorporated by Reference to
+                               Note 1 of the 2004 Annual Report).
+
+13                             Annual Report to Shareholders.
+
+21                             List of Subsidiaries. (Incorporated by
+                               Reference to 2004 Annual Report).
+
+31(a)    '                     Chief Executive Officer Sarbanes-Oxley Act 302
+                               Certification dated March 23, 2005 for Annual
+                               Report on Form 10-K for the year ended
+                               December 31, 2004.
+
+31(b)                          Chief Financial Officer Sarbanes-Oxley Act 302
+                               Certification dated March 23, 2005 for Annual
+                               Report on Form 10-K for the year ended
+                               December 31, 2004.
+
+32(a)                          Certification Pursuant to 18 U.S.C. Section 1350,
+                               as enacted pursuant to section 906 of the
+                               Sarbanes-Oxley Act of 2002.
+
+32(b)                          Certification Pursuant to 18 U.S.C. Section 1350,
+                               as enacted pursuant to section 906 of the
+                               Sarbanes-Oxely Act of 2002.
+
+                                                                              25
+</TEXT>
+</DOCUMENT>
+

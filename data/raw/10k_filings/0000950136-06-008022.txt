@@ -1,0 +1,3550 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>file1.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+<PRE><PAGE>
+
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                                    FORM 10-K
+
+(MARK ONE)
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+                     FOR THE FISCAL YEAR ENDED JUNE 30, 2006
+
+                                       OR
+
+[_]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+                 FOR THE TRANSITION PERIOD FROM ______TO_______
+
+                          COMMISSION FILE NUMBER 1-9125
+
+                        AMERICAN TECHNICAL CERAMICS CORP.
+               (EXACT NAME OF COMPANY AS SPECIFIED IN ITS CHARTER)
+
+                     DELAWARE                               11-2113382
+           (STATE OR OTHER JURISDICTION                  (I.R.S. EMPLOYER
+        OF INCORPORATION OR ORGANIZATION)               IDENTIFICATION NO.)
+
+       1 NORDEN LANE, HUNTINGTON STATION, NY                  11746
+     (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)              (ZIP CODE)
+
+         COMPANY'S TELEPHONE NUMBER, INCLUDING AREA CODE: (631) 622-4700
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+          TITLE OF EACH CLASS          NAME OF EACH EXCHANGE ON WHICH REGISTERED
+COMMON STOCK, PAR VALUE $.01 PER SHARE          AMERICAN STOCK EXCHANGE
+
+     SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT: NONE
+
+     INDICATE BY CHECK MARK IF THE REGISTRANT IS A WELL-KNOWN SEASONED ISSUER,
+AS DEFINED IN RULE 405 OF THE SECURITIES ACT.
+                                YES [_] NO [X]
+
+     INDICATE BY CHECK MARK IF THE REGISTRANT IS NOT REQUIRED TO FILE REPORTS
+PURSUANT TO SECTION 13 OR SECTION 15(d) OF THE ACT.
+                                YES [_] NO [X]
+
+     INDICATE BY CHECK MARK WHETHER THE COMPANY (1) HAS FILED ALL REPORTS
+REQUIRED TO BE FILED BY SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934 DURING THE PRECEDING 12 MONTHS (OR FOR SUCH SHORTER PERIOD THAT THE COMPANY
+WAS REQUIRED TO FILE SUCH REPORTS), AND (2) HAS BEEN SUBJECT TO SUCH FILING
+REQUIREMENTS FOR THE PAST 90 DAYS.
+                                 YES [X] NO [_]
+
+     INDICATE BY CHECK MARK IF DISCLOSURE OF DELINQUENT FILERS PURSUANT TO ITEM
+405 OF REGULATION S-K IS NOT CONTAINED HEREIN, AND WILL NOT BE CONTAINED, TO THE
+BEST OF THE COMPANY'S KNOWLEDGE, IN DEFINITIVE PROXY OR INFORMATION STATEMENTS
+INCORPORATED BY REFERENCE IN PART III OF THIS FORM 10-K OR ANY AMENDMENT TO THIS
+FORM 10-K. [X]
+
+     INDICATE BY CHECK MARK WHETHER THE COMPANY IS A LARGE ACCELERATED FILER, AN
+ACCELERATED FILER, OR A NON-ACCELERATED FILER AS DEFINED IN EXCHANGE ACT RULE
+(2b-2).
+
+   LARGE ACCELERATED FILER [_] ACCELERATED FILER [_] NON-ACCELERATED FILER [X]
+
+     INDICATE BY CHECK MARK WHETHER THE COMPANY IS A SHELL COMPANY AS DEFINED IN
+EXCHANGE ACT RULE (12b-2).
+                                YES [_] NO [X]
+
+================================================================================
+
+<PAGE>
+
+================================================================================
+
+     AS OF THE LAST BUSINESS DAY OF THE COMPANY'S MOST RECENTLY COMPLETED SECOND
+FISCAL QUARTER ENDED DECEMBER 31, 2005, THE AGGREGATE MARKET VALUE OF THE
+COMPANY'S COMMON STOCK (BASED UPON THE CLOSING SALES PRICE OF THE COMPANY'S
+COMMON STOCK ON THE AMERICAN STOCK EXCHANGE ON SUCH DATE) HELD BY NONAFFILIATES
+OF THE COMPANY WAS APPROXIMATELY $34,171,810. (FOR PURPOSES OF THIS REPORT, ALL
+OFFICERS AND DIRECTORS HAVE BEEN CLASSIFIED AS AFFILIATES, WHICH CLASSIFICATION
+SHALL NOT BE CONSTRUED AS AN ADMISSION OF THE AFFILIATE STATUS OF ANY SUCH
+PERSON.)
+
+     ON SEPTEMBER 12, 2006, THE COMPANY HAD OUTSTANDING 8,704,673 SHARES OF
+COMMON STOCK.
+
+     Documents Incorporated by Reference: Portions of the Company's Proxy
+Statement relating to its Annual Meeting of Stockholders to be held on November
+14, 2006, are incorporated into Part III of this report by reference.
+
+================================================================================
+
+<PAGE>
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+     GENERAL
+
+     The Company was incorporated in New York in 1966 as Phase Industries, Inc.,
+and changed its name to American Technical Ceramics Corp. in June 1984. The
+Company was merged into a Delaware corporation in 1985 in order to change its
+jurisdiction of incorporation. Unless the context indicates otherwise,
+references to the Company herein include American Technical Ceramics Corp., a
+Delaware corporation, and its subsidiaries, all of which are wholly-owned.
+
+     The Company designs, develops, manufactures and markets
+RF/Microwave/Millimeter-Wave ceramic capacitors, thin film products and other
+passive components. The Company's products are focused primarily in the high
+reliability market for ultra-high frequency ("UHF") and microwave applications,
+including wireless electronics, medical electronics, semiconductor equipment,
+satellite equipment and fiber optics. Capacitors function within electronic
+circuits by storing and discharging precise amounts of electrical power. The
+Company believes that it is a leading manufacturer of multilayer capacitors
+("MLCs") for UHF and microwave applications. Selling prices for the Company's
+MLCs typically range from $.10 to $7.50 or higher, whereas selling prices for
+commodity-type MLC units typically range from $.005 to $.05. Thin film products
+are ceramic substrates on which circuit patterns are printed by means of thin
+film processes, and are used by customers as building blocks in electronic
+circuits. Management believes the Company operates in only one industry segment
+- the electronic components industry.
+
+     The recovery in the technology and telecommunications sectors that began in
+the second half of fiscal year 2004 continued in fiscal year 2006. The Company
+experienced substantial increases in sales and bookings in fiscal year 2006.
+Bookings from customers in a majority of the Company's markets increased during
+this period.
+
+     PRODUCTS
+
+     The Company's traditional line of MLCs are available in predominantly four
+physical sizes designated "A" (.055 inch cube), "B" (.110 inch cube), "C" (.250
+inch cube) and "E" (.380 inch cube); in three types of dielectrics: low-loss
+porcelain (the 100 series), zero temperature coefficient (the 700 series) and
+high dielectric constant (the 200 series); and in a variety of capacitance
+values and tolerances. The 100 series, the Company's basic product line, is
+widely used in microwave equipment. The 700 series, because of its lower
+temperature coefficient, is used in tuning circuits in UHF/Microwave and lower
+frequency applications. The 200 series has high packaging density and is used in
+microcircuits where high capacitance value is needed in a small space. The
+Company's traditional line of MLCs is one of three product lines that accounts
+for more than 10% of the Company's consolidated revenue, accounting for
+approximately 64%, 69% and 70%, of the Company's revenues in fiscal years 2006,
+2005 and 2004, respectively.
+
+     The Company's MLCs are generally designed for critical performance
+applications, and are characterized by a high degree of reliability, low power
+dissipation and ruggedness. The MLCs can be broadly classified as either
+commercial or "Hi-Rel", based primarily upon the amount of testing involved. All
+are subject to precise measurement of capacitance, dissipation factor,
+insulation resistance and temperature co-efficient. The Company's products are
+used in commercial and military applications, including wireless cellular and
+personal communications systems (PCS), medical electronics (i.e., magnetic
+resonance imaging), radio frequency power sources for semiconductor
+manufacturing, satellite communications, aerospace systems, including radar and
+electronic warfare, and certain high-speed digital processing equipment.
+
+     Approximately 95% of the Company's sales in fiscal year 2006 and
+approximately 92% of sales in each of the fiscal years 2005 and 2004 were to
+commercial (i.e., applications other than Hi-Rel) customers. The Company
+estimates that approximately 5% of the Company's sales in fiscal year 2006 and
+approximately 8% of sales in fiscal years 2005 and 2004 were sales of Hi-Rel
+products. See "Item 1. BUSINESS -- CUSTOMERS AND MARKETING -- FOREIGN SALES."
+
+
+                                       2
+
+<PAGE>
+
+     Hi-Rel MLCs are principally utilized in applications such as satellites
+(including commercial communications satellites), high performance military
+aircraft, spacecraft and missiles, and other defense applications such as radar
+and electronic countermeasures. The Company produces its Hi-Rel MLCs to precise
+customer specifications and subjects each Hi-Rel MLC to a battery of performance
+and environmental tests. Such performance tests measure capacitance, dissipation
+factor, insulation resistance and dielectric withstanding voltage. The
+environmental tests are either designated by customers or specified by the
+military and include thermal shock tests, humidity tests and tests of life
+expectancy at elevated temperature and voltage levels.
+
+     For commercial applications, the Company produces MLCs to precise
+performance specifications similar to Hi-Rel MLCs, individually tests them for
+certain electrical performance characteristics and conducts additional tests on
+samples from production lots. However, the Company does not subject all
+commercial MLCs to environmental tests.
+
+     The Company has historically pursued the high-performance MLC market in
+which its products are typically applied in the manufacture of high-value
+capital equipment and which has commanded higher unit selling prices. The MLCs
+required for many of these applications constitute a small part of the circuit
+cost and, because performance and reliability requirements are stringent and the
+cost of component failure high, customers have been willing to pay the price
+premium associated with higher performance products such as those the Company
+makes. In recent years, the Company has further automated its manufacturing
+processes to enable it to produce certain of its existing MLCs for the medium -
+priced niche market driven by wireless base-station infrastructure applications.
+
+     The Company markets its 600 series products to higher volume markets. These
+products are targeted toward the high-performance, lower-priced segment of the
+wireless industry. The Company manufactures predominantly three physical sizes
+designated "S" (.06" x .03" rectangle), "L" (.04 x .02 rectangle), and "F" (.08
+x .05 rectangle). These are lower-priced than the Company's traditional MLCs
+(approximately two-thirds the price of the lowest-priced comparable part), and
+use a newer ceramic proprietary formulation developed by the Company to optimize
+performance for wireless applications. Sales from this product line amounted to
+approximately 15%, 13% and 10% of the Company's revenues in fiscal years 2006,
+2005 and 2004, respectively.
+
+     The Company also offers specialized capacitors designed to perform at
+frequencies higher than the useful range of typical microwave MLCs. The
+Company's Microcap(R), a single layer ceramic capacitor, was developed to meet
+certain applications where small size is critical and which operate at
+frequencies extending higher than those for which MLCs are typically chosen.
+Manufactured and sold in both Hi-Rel and commercial versions, these products are
+used in wideband wireless data communications, satellite communications,
+military systems and other microwave and millimeter-wave applications. Another
+product tailored to the same market, the 500S Broadband Microwave Capacitor
+(BMC), is based on a patented construction designed to be compatible with
+customers' high-volume surface-mount assembly technologies. In fiscal year 2006,
+the Company introduced, on a limited basis, an Ultra Broadband Capacitor
+functioning from very low frequencies up to 40 GHz for ultra high speed digital
+signal processing applications, representing a potential new and growing market
+for the Company's products.
+
+     The Company has diversified its product line through the development of
+custom product capability based on thin film technologies. The Company produces
+metallized circuits and passive components on high-quality ceramic substrates to
+customers' drawings and specifications. Thin film layers deposited on the
+ceramic substrate may consist of a variety of materials with specific
+conductive, resistive, capacitive and other properties enabling the build-up of
+the desired circuit pattern. As with a typical circuit board, the customer may
+then attach discrete components and chips to complete the circuit. Thin film
+products are used by the Company's customers in a broad range of applications,
+including microwave components, fiber optic repeaters and high-density packaging
+of devices, typically where requirements for high reliability, small size and
+dimensional precision are paramount. In fiscal years 2006, 2005 and 2004, thin
+film sales represented approximately 13%, 11% and 14% of the Company's revenues,
+respectively.
+
+     In June 2000, the Company introduced a line of high power, passive
+resistive products. In fiscal year 2002, in order to offer higher reliability
+and power handling capability for these products, the Company switched to thin
+film Technology, replacing the thick film technology previously employed. The
+Company's products, including standard
+
+
+                                       3
+
+<PAGE>
+
+resistors, terminations, attenuators and other customized products, consist of
+resistive and conductive layers deposited on a substrate of aluminum nitride, a
+base material chosen for its high thermal conductivity and its non-toxic
+properties. High power resistive products are used in many of the same types of
+equipment as the Company's capacitor products. Applications for these products,
+some of which represent an expansion of the Company's customer base, include a
+variety of microwave and RF modules and equipment, including power amplifiers,
+up and down converters, and high power combiner/dividers. The markets for these
+products include the wireless and telecommunication markets, including base
+station and satellite communications, and a broad range of medical, military and
+other commercial applications.
+
+     Since fiscal year 2002, the Company has offered, on a limited basis,
+certain products based upon a new high-density electronic packaging technology
+for radio frequency (RF) and microwave frequency broadband applications. This
+technology, commonly referred to as Low Temperature Co-fired Ceramic ("LTCC"),
+is based on high performance dielectric ceramic materials, some manufactured by
+the Company and others purchased from leading electronic materials
+manufacturers. The Company markets this technology under the name Co-fired
+Ceramic Packaging ("CCP"). Traditional RF and microwave circuits have been
+limited in size and performance by the use of only two dimensions to incorporate
+all RF elements and passive components, such as inductors, capacitors and
+resistors. LTCC technology enables the user to design circuits in the third
+dimension with the integration of the RF elements and passive components in the
+body of the electronic circuit. LTCC technology also provides the ability to
+design RF components such as couplers, power dividers/combiners, filters and
+impedance transformers, and passive devices.
+
+     MANUFACTURING
+
+     The manufacturing process for MLC's involves four primary stages. The
+first, or "white room" stage, includes tape casting, multi-layer lamination,
+dicing and firing of ceramic chips. In this phase, layers of electrically
+conducting material are printed onto ceramic tape in patterns, which eventually
+form the electrodes of the capacitor. The screen-printing technology used for
+the printing of such layers is referred to as "thick film". In the second, or
+"termination" stagethe ends of the ceramic chips are coated with silver to
+provide the connection to external circuitry. In the third, or "finishing"
+stage, the parts are then customized to specific order requirements, including
+termination plating, soldering of leads and laser marking. Also in this stage,
+the products are tested to standards suitable for commercial applications and
+then packaged for shipment. If the customer's specifications call for a higher
+level of performance assurance, prior to packaging the parts are put through a
+fourth, or "Hi-Rel" stage, consisting of extensive additional testing.
+
+     The Company currently manufactures MLC's at its facilities in Huntington
+Station, New York and Jacksonville, Florida. Its primary MLC manufacturing site
+is Huntington Station, consisting of four manufacturing facilities which
+aggregate approximately 76,000 square feet. Two of these facilities house the
+Company's state-of-the-art chip fabrication operations. These facilities are
+designed to provide optimum control of the Company's manufacturing processes and
+product quality, while substantially increasing its output capability. The other
+two facilities provide "finishing" process steps and key manufacturing support
+activities.
+
+     The Company manufactures its 500 and 600 series capacitors at its facility
+in Jacksonville. Over the past three fiscal years, the Company expanded the
+offering of the 600 series to include an additional case size each year to
+better serve the EIA (Electronic Industry Association) product standardization
+used by its customers. The Jacksonville facility is also the site of manufacture
+for the Company's thin film, Microcap(R) SLC, resistor and CCP product lines,
+and serves as the Company's new product technology center. The Jacksonville
+facilities aggregate over 109,000 square feet of space with 37,000 square feet
+committed to custom circuit operations.
+
+     As differentiated from the "thick film" technology used in MLC
+manufacturing, the manufacture of thin film circuits involves a method for the
+deposition of layers of conducting and other materials using "sputtering"
+technology. Unlike the manufacture of capacitors, where all products flow
+through the same manufacturing sequences, manufacturing processes for custom
+thin film products vary significantly in accordance with each customer's
+specifications.
+
+     Utilizing its core competencies in the manufacture of MLC devices, over the
+past two years, the Company has developed the capability to manufacture
+multilayer microelectronic ceramic circuits. Starting in fiscal year 2004, the
+
+
+                                       4
+
+<PAGE>
+
+Company has been using this technology in connection with its CCP product line.
+Similar to commercial printed circuit board manufacturing, the Company can
+manufacture multiple layer boards with layer-to-layer interconnects and
+circuitry on each layer in a ceramic structure. The CCP product line, much like
+the Company's thin film product line, operates in a build-to-order format. The
+Company typically receives drawings for custom devices and packages from its
+customers and builds products to their specification, utilizing multiple layer
+circuit technology. During fiscal year 2006, the Company acquired certain
+equipment from CTS Corporation used in the manufacture of CCP products. The use
+of this equipment will allow the Company to expand its existing CCP operation by
+increasing both the capacity and capability of the existing operation. See "ITEM
+1. BUSINESS -PRODUCTS AND -RESEARCH AND DEVELOPMENT."
+
+     Microcap(R) SLCs, resistive products and BMCs all utilize various
+combinations of the production methods described in the preceding paragraphs.
+The manufacture of each of these product lines involves dedicated equipment in
+addition to the equipment used in connection with the manufacture of the product
+lines previously discussed.
+
+     The Company utilizes a wide variety of specialized equipment for the
+fabrication, handling and testing of its products, including equipment that it
+has designed and constructed. The Company considers its capability to create its
+own unique equipment solutions tailored to the particular needs of its product
+lines and technologies to be a competitive advantage.
+
+     Before full market introduction of a new product, the Company generally
+establishes a production line for the product and manufactures substantial
+quantities to evaluate and verify its ability to consistently meet quality and
+performance standards. Such efforts involve the dedication of equipment,
+materials and labor, and, to the extent that these efforts do not result in
+saleable product, all costs are expensed. During fiscal years 2003 and 2004, the
+Company's CCP product line was in the development phase. During fiscal year
+2005, the Company completed the development of this product line.
+
+     To complement its own manufacturing efforts and to provide a wider variety
+of product offerings to its customers, the Company has from time to time entered
+into arrangements with other manufacturers to produce certain products to the
+Company's specifications. These arrangements do not obligate the Company to
+purchase any minimum amount of product.
+
+     The historical pattern of industry price declines has largely prevented MLC
+producers, including the Company, from increasing prices and has forced the
+Company and competitors to rely on advances in productivity and efficiency in
+order to improve profit margins. Accordingly, the Company continuously looks to
+improve the production yields and efficiency of its manufacturing processes. The
+Company conducts continuous improvement programs targeted at streamlining
+manufacturing processes and increasing yields, and has established statistical
+process control techniques for maintaining key process steps within specified
+bounds and providing data to support continuous improvement. For additional
+information with respect to yields and efficiencies, see "Item 1. BUSINESS --
+RESEARCH AND DEVELOPMENT."
+
+     In fiscal year 2003, the Company attained ISO-9001:2000 status, which
+includes product design capability. It is a higher level certification than the
+Company previously had. The Company's European sales and distribution office
+also achieved ISO-9001:2000 certification status during fiscal year 2003. During
+fiscal year 2004, the Company established an Environmental Management System in
+accordance with ISO-14001 requirements, and the New York manufacturing facility
+received ISO-14001 certification during fiscal year 2005.
+
+     CUSTOMERS AND MARKETING
+
+     The Company markets its products primarily to customers in the wireless
+infrastructure, fiber optic telecommunications, military, medical, semiconductor
+equipment manufacturing and aerospace industries. The customers included within
+these industries are manufacturers of microwave, high frequency and fiber optic
+systems, subsystems and equipment, including original equipment manufacturers
+(OEMs) and Electronics Manufacturing Services (EMS) companies and suppliers
+thereto, and government contractors and subcontractors. Most of the Company's
+products are used in the manufacture of capital equipment.
+
+
+                                       5
+
+<PAGE>
+
+     The Company promotes its products through specialized trade shows, industry
+trade journal advertisements, a website and catalog direct mail programs. In
+fiscal year 2000, the Company started taking orders, on a limited basis, via its
+web site. In fiscal year 2004, and again in fiscal year 2006, the Company
+increased the list of products available for sale via its web site and plans to
+further expand these offerings in the future.
+
+     The Company shipped to approximately 2,200 customers in each of fiscal
+years 2006, 2005 and 2004. The top ten customers combined accounted for
+approximately 25%, 29% and 30% of net sales in fiscal years 2006, 2005 and 2004,
+respectively. No customer accounted for more than 10% of the Company's net sales
+in fiscal years 2006, 2005 or 2004.
+
+     The Company is qualified as a producer of capacitors by the Defense
+Logistics Agency of the United States Department of Defense. This qualification
+covers several varieties and types of capacitors. Maintenance of its qualified
+producer status is critical in order for the Company to continue to sell its
+Hi-Rel military product line. To date, the Company has not encountered any
+difficulty in maintaining its status as a qualified producer.
+
+     The Company typically sells its products through a combination of logistics
+arrangements and a large number of individual purchase orders. Certain
+individual purchase orders are subject to pricing agreements. Neither pricing
+agreements nor logistics arrangements are firm purchase orders, but each still
+requires that the Company commit to produce semi-finished or finished goods
+inventory in anticipation of receiving a purchase order for immediate shipment.
+See "Item 1. BUSINESS -- SALES BACKLOG" and "Item 7. MANAGEMENT'S DISCUSSION AND
+ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS."
+
+     Customers are invoiced simultaneously with merchandise shipments. The
+Company sells to a majority of its customers on 30-day terms. A small number of
+the Company's larger volume customers have terms ranging from 45 days to 120
+days. Customers may also charge their purchases through the use of a
+credit/debit card. Sales returns are authorized and accepted by the Company in
+the normal course of business. An evaluation of the returned product is
+performed and typically results in either a credit or a shipment of replacement
+product to customers. The Company believes that it has provided an adequate
+reserve for returns in the accompanying consolidated financial statements.
+
+     In the United States, the Company principally sells its products through
+independent sales representatives who are compensated on a commission basis. In
+foreign countries, the Company utilizes resellers, who purchase products from
+the Company for resale, independent sales representatives and its own employees.
+During fiscal year 2005, the Company's wholly-owned subsidiary in Sweden,
+through its own wholly-owned subsidiary, established a representative office
+within the Russian Federation to service the growing market there. See "Item 1.
+BUSINESS -- FOREIGN SALES" and Note 9 of Notes to Consolidated Financial
+Statements.
+
+     At June 30, 2006, the Company utilized approximately seventeen sales
+representative organizations in the United States and approximately ten sales
+representative and reseller organizations in foreign countries, principally
+Europe, Canada and the Far East. The Company's sales representatives and
+resellers generally have substantial engineering expertise, which enables them
+to assist the Company in providing a high level of service to assist customers
+in generating product specifications and in providing applications assistance
+and maintaining contact with key customers. The Company employs regional sales
+managers to supervise its sales representatives and resellers and a staff of
+sales and applications specialists to provide direct contact with and support to
+customers.
+
+     SEASONALITY
+
+     General economic conditions have an impact on the Company's business and
+financial results. Historically, the markets in which the Company sells its
+products have been adversely affected by weak economic conditions which, in
+turn, has negatively affected sales. During periods of relatively stable
+economic conditions the Company's revenues are typically higher in the second
+half of the fiscal year. The typically lower revenues in the first half of the
+fiscal year are due to several factors, including the impact of vacations during
+the summer months and a reduced number of shipping days.
+
+
+                                       6
+
+<PAGE>
+
+     FOREIGN SALES
+
+     In fiscal years 2006, 2005 and 2004, sales to customers located outside the
+United States constituted 49%, 47% and 47% of net sales, respectively. The
+Company's foreign customers are located primarily in Europe, Canada and the Far
+East. See "Item 1. BUSINESS -- CUSTOMERS AND MARKETING" and Note 9 of Notes to
+Consolidated Financial Statements. All foreign sales, except sales by the
+Company's wholly-owned subsidiary in Stockholm, Sweden, are denominated in
+United States dollars. The Company attempts to reduce the risk of doing business
+in foreign countries through the use, in certain circumstances, of prepayment or
+sight drafts, and by working closely with its foreign representatives and
+distributors in assessing business environments.
+
+     SALES BACKLOG
+
+     The Company's sales backlog was $18,941,000, $13,958,000 and $13,472,000 at
+June 30, 2006, 2005 and 2004, respectively. Backlog generally consists of a
+combination of the Company's standard products and custom manufactured parts
+that require a longer lead time to produce. The long-term trend in customer
+requirements for the Company's standard products has been toward shorter lead
+times. See "Item 1. BUSINESS -- CUSTOMERS AND MARKETING."
+
+     The Company offers its Quik-Pick 48 Hour System(R) program pursuant to
+which products are shipped within 48 hours from the time the order is placed.
+This program is popular with its customers. In order to offer this program, the
+Company has to maintain higher inventory levels of certain products in
+proportion to total sales than it would otherwise and higher than those
+maintained by some other capacitor manufacturers. The contribution of the
+Quik-Pick(R) program to the financial results of the Company depends critically
+on the Company's ability to accurately predict customer demand for the various
+products offered through the program.
+
+     RESEARCH AND DEVELOPMENT
+
+     The technology upon which the Company's products are based is subject to
+continued development of materials and processes to meet the demands of new
+applications and increased competition. The Company pursues a process-oriented
+strategy in which it conducts efforts aimed at developing integrated sets of
+materials and associated processes and equipment to provide the capability to
+create new or enhanced classes of products. Once a new set of technologies is
+established, the Company then seeks to develop and introduce various products
+using such technologies. The Company believes its future successes depend upon
+its ability to identify the requirements for future products and product
+enhancements, and to define, implement and successfully employ the technologies
+needed to meet those requirements. Accordingly, the Company believes that its
+research and development efforts are critical to its continued success.
+
+     The Company conducts most of its research and development activities at its
+facility in Jacksonville, Florida. Activities are focused on the development of
+new products and improvement of existing products. Improvements in materials and
+process technology, and the development of specialized production equipment, are
+directed toward reducing product cost, as well as enhancing performance
+requirements that are identified through frequent customer contacts by the
+Company's sales and technical personnel. Products are introduced after extensive
+in-house testing and evaluations at selected customer sites. See "Item 1.
+BUSINESS - MANUFACTURING."
+
+     The Company often pursues programs with individual customers whom it
+considers to be leaders in their respective industries to develop special
+products to meet their specific requirements. The Company typically conducts
+such programs when it believes such products have potential applications
+reaching well beyond the initial customer's requirements. The Company's
+expansion of the 600 Series product line arose from one such program conducted
+in past years.
+
+     The Company's research and development efforts remain focused on the
+development of new products and processes related to its core product lines. For
+example, during fiscal year 2004, the Company continued its efforts on
+developing enhancements to its line of specialty higher frequency capacitors.
+The Company also continued development activities on its new resistive product
+line by adding thin film resistor manufacturing capability.
+
+
+                                       7
+
+<PAGE>
+
+Typically, thin film resistors offer a higher degree of reliability and are
+better able to handle power than their thick film counterparts. The thin film
+capability also allows for the development of finer line width and resolution,
+which is used in the manufacture of higher frequency terminations and
+attenuators. See "Item 1. BUSINESS - PRODUCTS."
+
+     The initial phases of the CCP process were completed during fiscal year
+2003, and during fiscal year 2004, the Company started to sell these products.
+The Company continues to believe in the long-term prospects for this technology,
+and intends to continue the enhancement of its capabilities along with
+additional processes that further expand its offering of products during fiscal
+year 2006. In this regard, the Company purchased from CTS Corporation certain
+equipment used by CTS in the manufacture of LTCC products. The Company
+transferred the equipment to its facility in Jacksonville, Florida, where it
+will be used, among other things, in the production of LTCC products and certain
+of the Company's specialty MLCs. See "ITEM 1. BUSINESS - MANUFACTURING AND -
+PRODUCTS."
+
+     Expenditures for research and development were approximately $1,986,000,
+$2,161,000 and $3,067,000 in fiscal years 2006, 2005 and 2004, respectively,
+representing approximately 2%, 3% and 5% of net sales, respectively. The Company
+anticipates that research and development expenditures in fiscal year 2007,
+expressed as a percentage of net sales, will be comparable to fiscal year 2006.
+
+     RAW MATERIALS
+
+     The principal raw materials used by the Company include silver, palladium,
+gold, platinum, titanate, and other powders that are used in ceramic
+manufacture. Precious metals are available from many sources, although palladium
+is generally available only from a limited number of metal dealers who obtain
+their product requirements, from the Republic of South Africa or the Russian
+Federation. The major consumers of palladium are the automotive and electronics
+industries.
+
+     As economic conditions improve, the demand for the precious metals the
+Company uses in its manufacturing processes is increasing throughout the
+electronics industry and other industries. As a result, the Company has seen a
+rise in the market prices of certain of these metals. The Company believes that,
+based upon its current levels of production, it owns a sufficient supply of
+precious metals to meet its near term expected production requirements but will
+need to continue purchasing precious metals at prevailing market prices at the
+time of purchase. See "Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS."
+
+     COMPETITION
+
+     Competition in the broad MLC industry continues to be intense and, in
+general, is based primarily on price. In the RF/Microwave market segment, where
+price has historically been less important, competition has been based primarily
+on high performance product specifications, achieving consistent product
+reliability, fast deliveries and high levels of customer service. The Company
+believes any competitive advantage it may have results from its ability to
+fulfill these requirements in a consistent manner. Potential growth of some
+market applications may in the future increase the competitive importance of
+price in this market. The Company believes it competes in the RF/Microwave
+capacitor market with several other manufacturers, both domestically and abroad,
+including AVX Corporation, Dover Corporation, Temex, Murata Manufacturing Co.
+Ltd and Johanson Technology, Inc., most of which are larger and have broader
+product lines and greater financial, marketing and technical resources than the
+Company. There are other large commodity-type MLC manufacturers who have
+attempted to develop products for the RF/Microwave market segment. While the
+Company believes these efforts have not produced significant results to date,
+there can be no assurance that such efforts will not be successful in the
+future. New product developments may lead the Company into markets where there
+are existing competitors that may have significantly greater financial and
+technical resources and greater expertise in mass production techniques than the
+Company. Competition in the Company's other product areas is similar in nature
+to that of the capacitor market. The primary competition for the Company's thin
+film products is Reinhardt Microtech AG. The primary competition for the
+Company's resistive products are Anaren Inc., EMC Technologies and Florida RF
+Labs Inc., the last two of which are both subsidiaries of Smiths Group PLC.
+
+
+                                       8
+
+<PAGE>
+
+     ENVIRONMENTAL COMPLIANCE
+
+     The Company produces hazardous waste in the production of its products.
+Accordingly, the Company's manufacturing operations are subject to various
+federal, state and local laws restricting the discharge of such waste into the
+environment. The Company recycles some of its hazardous wastes and disposes of
+the remainder through licensed carriers, which are required to deposit such
+waste at licensed waste sites.
+
+     The Company is also subject to various federal, state, local and foreign
+laws regulating or prohibiting the use of certain materials in the manufacture
+of its products. As part of its research and development efforts, the Company
+continues to develop and test new materials and products designed to comply with
+these laws.
+
+     Except as described below, the Company believes that it is in material
+compliance with all applicable federal, state and local environment laws. In
+addition, the Company does not currently anticipate having to make material
+capital expenditures in connection with continued achievement of material
+compliance therewith. However, more stringent requirements may be enacted in the
+future and the Company can not predict whether it will be able to comply with
+them. Moreover, there can be no assurance that the Company will be able to
+develop replacement materials or products for those which may become prohibited
+in the future, or that competitors will not develop superior compliant products.
+See "Item 1. BUSINESS -- CAUTIONARY STATEMENTS REGARDING FORWARD-LOOKING
+STATEMENTS."
+
+     During fiscal year 2006, the Company identified and discontinued
+intermittent releases of a certain portion of its cooling and rinsing wastewater
+to exterior grounds at the Jacksonville, Florida facility. In response to this
+issue, the Company retained an environmental engineering firm to assess whether
+such releases had adversely impacted soil, groundwater or surface water at the
+Jacksonville site. The environmental engineering firm issued a written report
+concluding that no further action is necessary on the Company's part in
+connection with these past releases, which report has been provided by such firm
+on behalf of the Company to the Florida Department of Environmental Protection
+("FDEP") for its review. Following this report, FDEP conducted a site visit and
+requested certain further information from the Company concerning the process
+from which the discontinued releases occurred, which information has been or is
+in the process of being provided, and FDEP's review of this matter is pending.
+In addition, during fiscal year 2006, the Company retained an environmental
+consulting firm to conduct voluntary environment compliance assessments at its
+Jacksonville, Florida and Huntington Station, New York facilities. Recommended
+operational improvements documented in these compliance assessments have been or
+are in the process of being implemented. The Company does not expect that
+completion of the implementation of these improvements will require material
+capital expenditures.
+
+     During fiscal year 2004, the Company established an Environmental
+Management System in accordance with ISO-14001 requirements, and during fiscal
+year 2005, the Company's New York facilities achieved ISO-14001 certification.
+
+     PATENTS AND PROPRIETARY INFORMATION
+
+     Although the Company has manufacturing and design patents and pending
+patent applications, and although the Company will continue to seek the
+supplemental protection afforded by patents, the Company generally considers
+protection of its products, processes and materials to be more dependent upon
+proprietary knowledge and on rapid assimilation of innovations than on patent
+protection. The Company's porcelain and ceramic formulations are considered
+trade secrets which are protected by internal non-disclosure safeguards and
+employee confidentiality agreements. There can be no assurance that the steps
+taken by the Company to protect its rights will be adequate to deter
+misappropriation, or that an independent third party will not develop
+functionally equivalent technology.
+
+     EMPLOYEES
+
+     At June 30, 2006, the Company employed 458 persons at its facilities in New
+York, of which 12 were employed on a part-time basis; 303 persons at its
+facilities in Florida, of which none were employed on a part-time basis; 10
+persons in sales offices in Asia and 11 persons in sales offices in Europe, of
+which 1 was employed on a part-time basis.
+
+
+                                       9
+
+<PAGE>
+
+Of the 782 persons employed by the Company, 668 were involved in manufacturing
+and testing activities and as support personnel, 100 were involved in selling,
+general and administrative activities and 14 were involved in research and
+development activities. None of the Company's employees are covered by
+collective bargaining agreements. The Company considers its relations with its
+employees to be satisfactory.
+
+     CAUTIONARY STATEMENTS REGARDING FORWARD-LOOKING STATEMENTS
+
+     Statements in this Annual Report on Form 10-K under the captions "Business"
+and "Management's Discussion and Analysis of Financial Condition and Results of
+Operations", as well as statements made in press releases and oral statements
+that may be made by the Company or by officers, directors or employees of the
+Company acting on the Company's behalf that are not statements of historical
+fact, constitute "forward-looking statements" within the meaning of the Private
+Securities Litigation Reform Act of 1995. Such forward-looking statements
+involve known and unknown risks, uncertainties and other factors that could
+cause the actual results of the Company to be materially different from the
+historical results or from any future results expressed or implied by such
+forward-looking statements. The risk factors set forth below under the caption
+"Item 1A. RISK FACTORS" identify certain factors that could cause such
+differences. In addition to statements which explicitly describe risks and
+uncertainties, readers are urged to consider statements labeled with terms such
+as "believes", "belief", "expects", "plans", "anticipates", or "intends" to be
+uncertain and forward-looking. All cautionary statements made and risk factors
+contained in this Annual Report on Form 10-K should be read as being applicable
+to all related forward-looking statements wherever they appear. Any
+forward-looking statement represents the Company's expectations or forecasts
+only as of the date it was made and should not be relied upon as representing
+its expectations or forecasts as of any subsequent date. The Company undertakes
+no obligation to correct or update any forward-looking statements, whether as a
+result of new information, future events or otherwise, even if its expectations
+or forecasts change.
+
+ITEM 1A. RISK FACTORS
+
+     The Company's business, operations, and financial condition are subject to
+various risks. Some of these risks are described below. This section does not
+describe all risks that may be applicable to the Company, the Company's
+industry, or the Company's business, and it is intended only as a summary of
+certain material risk factors.
+
+     The Company's products are used in the production of a variety of highly
+complex electronic products manufactured for the military and for commercial
+use. Accordingly, demand for the Company's products is highly dependent upon
+demand for the products in which they are used. From time to time, including the
+first half of fiscal year 2004, the Company's results have been negatively
+impacted by a general decrease in demand for technology and electronic products
+in the United States and abroad. There can be no assurance that, if demand for
+such products declines, it will increase again or that, even if it does
+increase, the demand for the Company's products will increase. In addition,
+there can be no assurance that the Company will not receive order cancellations
+after orders are booked into backlog. Moreover, a majority of the Company's
+costs are fixed, and the Company may not be able to reduce costs if sales
+volumes were to decline.
+
+     The Company produces and ships product based upon orders received from its
+customers. If these orders are cancelled prior to shipment, it could affect the
+Company's profitability. See "Item 1. BUSINESS -- CUSTOMERS AND MARKETING."
+
+     The Company offers a broad variety of products to its customers. Gross
+margins can vary significantly from product to product and across product lines.
+Accordingly, a change in the mix of products sold by the Company during a
+particular period could lead to distinctly different financial results for that
+period as compared to other periods.
+
+     The Company expects that international sales will continue to constitute a
+substantial portion of its total sales. These sales expose the Company to
+certain risks, including, without limitation, barriers to trade, fluctuations in
+foreign currency exchange rates (which may make the Company's products less
+price competitive), political and economic instability, changes in monetary
+policy, tariff regulations and other United States and foreign laws and
+regulations that may apply to the export of the Company's products, as well as
+the generally greater difficulties of doing business abroad.
+
+
+                                       10
+
+<PAGE>
+
+     During fiscal year 2006, the Company's ten largest customers accounted for
+approximately 25% of net sales. The Company expects that sales to a relatively
+small number of customers will continue to account for a significant portion of
+its net sales for the foreseeable future. A loss of one or more of such key
+customers could affect the Company's profitability. Moreover, an increasing
+amount of the Company's sales are to contract manufacturers. Several contract
+manufacturers to whom the Company sells parts could be selling their products to
+the same end customer. The discontinued use of these contract manufacturers'
+products (or of their products which incorporate the Company's parts) by the end
+customer could affect the Company's profitability. See "Item 1. BUSINESS --
+CUSTOMERS AND MARKETING."
+
+     The technology upon which the Company's products are based is subject to
+continuous development of materials and processes. The Company's business is in
+large part contingent upon the continuous refinement of its technological and
+engineering expertise and the development of new or enhanced products and
+technologies to meet the rapidly developing demands of new applications and
+increased competition. There can be no assurance that the Company will continue
+to be successful in its efforts to develop new or refine existing products, that
+such new products will meet with anticipated levels of market acceptance or that
+the Company will otherwise be able to timely identify and respond to
+technological improvements made by its competitors. Significant technological
+breakthroughs by others could also have a material adverse effect on the
+Company's business.
+
+     The Company's business may be adversely affected by difficulties in
+obtaining raw materials and other items needed for the production of its
+products, the effects of quality deviations in raw materials and fluctuations in
+prices of such materials. Palladium, a precious metal used in the production of
+the Company's capacitors, is currently available from a limited number of metal
+dealers who obtain product from the Republic of South Africa or the Russian
+Federation. A prolonged cessation or reduction of exports of palladium by the
+Republic of South Africa or the Russian Federation, or a significant increase in
+the price of palladium, could have a material adverse effect on the Company's
+business. See "Item 1. BUSINESS -- RAW MATERIALS" and "Item 7. MANAGEMENT'S
+DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS."
+
+     Certain raw materials used by the Company may fluctuate in price. To the
+extent that the Company is unable to pass on increases in the costs of such
+materials to its customers, this may adversely affect the gross profit margins
+of those products using such materials. At times, the Company will enter into
+contracts to purchase certain raw materials in the future at agreed upon prices
+in order to protect against shortages and rising prices. If the Company were to
+do so and prices were to decline, the Company would be required to purchase such
+raw materials at or above market prices which would also negatively impact gross
+profit margins.
+
+     Competition in the MLC industry is intense and, in general, is based
+primarily on price. In the RF/Microwave market segments, where price has
+historically been less important, competition has been based primarily on high
+performance product specifications, achieving consistent product reliability,
+fast deliveries and high levels of customer service. The Company competes with a
+number of large MLC manufacturers who have broader product lines and greater
+financial, marketing and technical resources than the Company. Growth of some
+commercial market applications has increased, and is expected to continue to
+increase, the competitive importance of price. There can be no assurance that
+the Company will be able to improve the productivity and efficiency of its
+manufacturing processes in order to respond to pricing pressures, or to
+successfully design new processes and products; and the failure to do so could
+have a material adverse effect on the Company's business.
+
+     The Company produces hazardous wastes in the production of its capacitors.
+Accordingly, the inherent risks of environmental liability and remediation costs
+associated with the Company's manufacturing operations may result in substantial
+unforeseen liabilities.
+
+     The Company is also subject to various federal, state, local and foreign
+laws regulating or prohibiting the use of certain materials in the manufacture
+of its products. As part of its research and development efforts, the Company
+continues to develop and test new materials and products designed to comply with
+these laws. However, there can be no assurance that the Company will be able to
+develop replacement materials or products for those which may become prohibited
+in the future, or that competitors will not develop superior compliant products.
+See "Item 1. BUSINESS -- ENVIRONMENTAL COMPLIANCE."
+
+
+                                       11
+
+<PAGE>
+
+     The Company has not received any claims that its products or the
+technologies upon which they are based infringe the intellectual property rights
+of others. Any such claims in the future may result in the Company being
+required to enter into royalty arrangements, cease manufacturing the infringing
+products or utilizing the infringing technologies, pay damages or defend
+litigation, any of which could have a material adverse effect on the Company's
+business.
+
+     The Company's business may also be adversely affected by matters and events
+affecting businesses generally, including, without limitation, political and
+economic events, labor unrest, acts of God, war, acts of terrorism and other
+events outside of the Company's control.
+
+ITEM 2. PROPERTIES
+
+     The Company's primary production facilities are located in Huntington
+Station, New York and Jacksonville, Florida. The Company's principal executive
+office is located in Huntington Station, New York, and its principal research
+and development facility is located in Jacksonville, Florida. The following
+table sets forth the address of each facility, its primary function, the square
+footage occupied by the Company and whether the facility is leased or owned.
+
+<FONT size="1">
+
+ADDRESS OF FACILITY            PRIMARY FUNCTION           SQUARE FOOTAGE OCCUPIED   TYPE OF OCCUPANCY
+----------------------------   ------------------------   -----------------------   ---------------------
+
+10 Stepar Place
+Huntington Station, New York   Production                          11,200           Owned
+
+11 - 13 Stepar Place           Production and
+Huntington Station, New York   production support (1)              20,000           Owned
+
+15 Stepar Place                                                                     Leased from Principal
+Huntington Station, New York   Production                          35,700           Stockholder (2)
+
+One Norden Lane
+Huntington Station, New York   Production                           8,700           Owned
+
+17 Stepar Place
+Huntington Station, New York   Sales and administration            18,000           Owned
+
+2201 Corporate Square Blvd.    Production, research                                 Leased from Principal
+Jacksonville, Florida          and development                     99,700           Stockholder (2)
+
+8810 Corporate Square Court
+Jacksonville, Florida          Production                          10,000           Owned
+
+Ellipsvaegen 5
+SE-141 75                      Sales and                                            Leased
+Kungens Kurva, Sweden          distribution office                  3,400
+
+Rm. 621-623, International
+Culture Building, No. 3039
+Shennan Centre Rd., Futian
+District, Shenzhen, PR China   Sales office                         1,950           Leased
+</FONT>
+
+(1)  In fiscal year 2001, the Company purchased a 20,000 square foot facility
+     adjacent to its existing New York facilities. This facility was placed into
+     operation during fiscal year 2005 and houses production and production
+     support activities.
+
+(2)  See "Item 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS" and Notes 4
+     and 7 of Notes to Consolidated Financial Statements.
+
+
+                                       12
+
+<PAGE>
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     The Company is not currently a party to any material legal proceedings.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     No matters were submitted to a vote of security holders during the quarter
+ended June 30, 2006.
+
+     EXECUTIVE OFFICERS
+
+     The executive officers of the Company are as follows:
+
+     Victor Insetta, age 66, co-founded the Company in 1966 and has served as
+President, Chief Executive Officer and a director of the Company since its
+organization.
+
+     Richard Monsorno, age 54, has been employed by the Company in various
+capacities since 1983. In August 1996, he was appointed Senior Vice President -
+Technology.
+
+     Kathleen M. Kelly, age 52, has been employed by the Company in various
+capacities since 1974. She has served as Vice President - Administration and as
+corporate Secretary since November 1989.
+
+     David B. Ott, age 64, joined the Company in June 1999 as Vice President -
+New York Manufacturing. In December 2000, he was appointed Senior Vice President
+- New York Manufacturing. In April 2004, he was appointed Senior Vice President
+- New York Operations.
+
+     Judah Wolf, age 60, has been managing the Company's thin film operations in
+Jacksonville, Florida since 1993. In 1999, he was appointed Vice President -
+Thin Film Operations. In August 2001, he was appointed Senior Vice President -
+Thin Film Products.
+
+     Andrew R. Perz, age 47, has been with the Company as Controller since 1998,
+and was appointed Vice President, Controller in November 2000. In August 2005,
+he was appointed Vice President - Finance.
+
+     Harrison Tarver, age 60, has been employed by the Company in various
+capacities since 1973, principally in positions relating to quality assurance.
+He was appointed Vice President - Quality Assurance in December 2000.
+
+     William Johnson, age 54, joined the Company in June 2005, as Vice President
+of Sales. From 2003 until his employment by the Company, he served as Vice
+President of Sales for Precision Technology USA, Inc., a manufacturer of linear
+actuation and power transmission equipment. From 1996 to 2003, he was the Vice
+President of Worldwide Sales for Kemet Corporation, a manufacturer of electronic
+components.
+
+     The officers serve at the discretion of the Board of Directors and there
+are no family relationships among the officers listed and any directors of the
+Company.
+
+
+                                       13
+
+<PAGE>
+
+                                     PART II
+
+ITEM  5. MARKET FOR COMPANY'S COMMON STOCK, RELATED
+         STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+     MARKET INFORMATION
+
+     The Company's common stock is traded on the American Stock Exchange
+("AMEX") under the symbol "AMK". The table below sets forth the quarterly high
+and low sales prices for the common stock on the AMEX for the fiscal years ended
+June 30, 2006 and June 30, 2005.
+
+                   FISCAL 2006      FISCAL 2005
+                 --------------   --------------
+Quarter Ended:    High     Low     High     Low
+--------------   ------   -----   ------   -----
+September        $13.86    9.89   $ 9.30   $6.53
+December          11.46    8.40    12.00    8.90
+March             15.75    8.61    10.58    7.50
+June              16.05   11.90    11.09    7.77
+
+     NUMBER OF STOCKHOLDERS
+
+     As of September 12, 2006, there were approximately 316 holders of record of
+the Company's common stock. The Company believes numerous shares are held of
+record by brokerage and other institutional firms for their customers.
+
+     DIVIDENDS
+
+     The Company has not paid any cash dividends on its common stock during the
+past two fiscal years. It is the present policy of the Company's Board of
+Directors to retain earnings to finance the expansion of the Company's
+operations and not to pay cash dividends on its common stock.
+
+     SECURITIES AUTHORIZED FOR ISSUANCE UNDER EQUITY COMPENSATION PLANS
+
+     The following table details securities authorized for issuance under equity
+compensation plans as of June 30, 2006:
+
+<FONT size="1">
+
+                                                                                       Number of securities
+                                                                                      remaining available for
+                                                                                       future issuance under
+                            Number of securities to                                     equity compensation
+                            be issued upon exercise     Weighted-average exercise        plans (excluding
+                            of outstanding options,   price of outstanding options,   securities reflected in
+                              warrants and rights          warrants and rights              column (a))
+      Plan category                   (a)                          (b)                          (c)
+-------------------------   -----------------------   -----------------------------   -----------------------
+
+Equity compensation plans
+approved by security
+holders                             862,745                       $8.83                       167,600
+</FONT>
+
+     The Company has no securities authorized for issuance under equity
+compensation plans that have not been approved by security holders.
+
+
+                                       14
+
+<PAGE>
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+     The following information should be read in conjunction with the
+Consolidated Financial Statements and Notes thereto and other information set
+forth following Item 15 of this report.
+
+<FONT size="1">
+
+                                                        FISCAL YEARS ENDED JUNE 30,
+                                                 (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+                                             -----------------------------------------------
+                                               2006      2005      2004      2003      2002
+                                             -------   -------   -------   -------   -------
+
+INCOME STATEMENT DATA:
+Net sales                                    $84,131   $72,965   $61,183   $49,048   $49,585
+Gross profit                                 $29,097   $24,582   $20,437   $14,332   $ 9,624
+Income/(loss) from operations                $ 8,953   $ 6,467   $ 2,528   $  (755)  $(6,596)
+Net income/(loss)                            $ 5,988   $ 4,268   $ 2,176   $  (501)  $(4,243)
+Basic net income/(loss) per common share     $  0.70   $  0.51   $  0.27   $ (0.06)  $ (0.53)
+Diluted net income/(loss) per common share   $  0.67   $  0.49   $  0.25   $ (0.06)  $ (0.53)
+Cash dividends paid per common share         $    --   $    --   $    --   $    --   $    --
+
+BALANCE SHEET DATA:
+Property, plant and equipment, net           $31,375   $29,502   $26,141   $27,174   $29,740
+Total assets                                 $90,543   $77,872   $69,853   $63,548   $66,574
+Long-term debt, net of current portion       $ 7,229   $ 5,276   $ 2,896   $ 3,290   $ 2,368
+Working capital                              $46,649   $39,032   $34,900   $31,332   $28,375
+</FONT>
+
+                            QUARTERLY FINANCIAL DATA:
+              (In thousands, except per share amounts) (unaudited)
+
+<FONT size="1">
+
+                                                                BASIC               DILUTED
+                                            NET (LOSS)   NET INCOME/ (LOSS)   NET INCOME/ (LOSS)
+QUARTER ENDED    NET SALES   GROSS PROFIT     /INCOME       PER SHARE (1)        PER SHARE (1)
+--------------   ---------   ------------   ----------   ------------------   ------------------
+
+Fiscal 2006
+September         $17,502       $ 3,875       $ (691)          $(0.08)              $(0.08)
+December           19,678         7,965        1,929             0.23                 0.22
+March              22,690         8,570        2,089             0.24                 0.23
+June               24,261         8,687        2,661             0.31                 0.30
+                  -------       -------       ------            -----               ------
+   Fiscal Year    $84,131       $29,097       $5,988            $0.70               $ 0.67
+                  -------       -------       ------            -----               ------
+Fiscal 2005
+September         $16,928       $ 5,292       $  600            $0.07               $ 0.07
+December           16,229         5,670          766             0.09                 0.09
+March              18,991         6,667        1,380             0.16                 0.16
+June               20,817         6,953        1,522             0.18                 0.17
+                  -------       -------       ------            -----               ------
+   Fiscal Year    $72,965       $24,582       $4,268            $0.51               $ 0.49
+                  -------       -------       ------            -----               ------
+</FONT>
+
+(1)  Earnings per share amounts for each quarter are required to be computed
+     independently. As a result, the sum may differ from the total year earnings
+     per share amounts.
+
+
+                                       15
+
+<PAGE>
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS
+
+     The following information should be read in conjunction with the
+Consolidated Financial Statements and Notes thereto and other information set
+forth following Item 15 of this Report. See also "CAUTIONARY STATEMENTS
+REGARDING FORWARD-LOOKING STATEMENTS" and "Item 1A. RISK FACTORS" in Part I of
+this Report.
+
+     GENERAL
+
+     Bookings reached record levels and sales were near record levels for the
+fiscal year ended June 30, 2006. The Company experienced increased sales and
+bookings to customers in most of the Company's major markets, particularly the
+wireless infrastructure, fiber optic and semiconductor equipment markets.
+Management believes that these increases resulted from improved market
+conditions, increased market share and the growth in sales of new products.
+
+     Sales growth was exceptionally strong in Asia. In order to improve service
+to our Asian customers and further foster sales growth in that region, the
+Company began stocking inventory in China late in fiscal year 2006. The Company
+believes maintaining inventory in the Far East will help it develop a
+competitive advantage in terms of delivery.
+
+     Net income increased from the prior fiscal year due to the increased sales
+volume. However, profits were adversely impacted in the first quarter of fiscal
+year 2006 by difficulties encountered while converting certain of the Company's
+operations to its Enterprise Resource Planning ("ERP") system. As the Company
+began to implement the conversion, it encountered a series of unanticipated
+problems beyond the planned closure period that disrupted its ability to book
+orders, manufacture and ship product. As a result, the Company decided to revert
+to its legacy systems for these functions so that it could resume shipping
+products and restore the high level of service its customers have grown to
+expect. The Company incurred substantial costs related to these efforts, thereby
+tempering profit improvement. The Company's preliminary analysis of the problems
+encountered indicates that they can be successfully overcome, and the Company is
+reformulating its ERP implementation plans accordingly.
+
+     The Company continues to develop new products and processes. A considerable
+portion of the capital expenditures for the fiscal year ended June 30, 2006 were
+for equipment related to new processes or new product manufacturing. During
+fiscal year 2006, the Company purchased $2.8 million of equipment from CTS
+Corporation. The equipment will be used to increase overall capacity and add
+additional capabilities to the Company's co-fired ceramic packaging product
+line. The Company is in the process of qualifying the equipment.
+
+     The Company funded its capital expenditures through cash flow from
+operations and its credit facility with General Electric Capital Corporation
+("GECC"). During the fiscal year ended June 30, 2006, the Company borrowed
+approximately $2.5 million under its credit facility with GECC, and the
+Company's Swedish subsidiary borrowed an additional $1.5 million from Svenska
+Handelsbanken, AB ("Handelsbanken"). The funds borrowed by the Company's Swedish
+subsidiary were used to pay a dividend to the Company, a portion of which was
+made under the repatriation provisions of the American Jobs Creation Act of
+2004.
+
+
+                                       16
+
+<PAGE>
+
+     RESULTS OF OPERATIONS
+
+KEY COMPARATIVE PERFORMANCE INDICATORS
+
+                                   Fiscal Year Ended
+                     ---------------------------------------------
+                     June 30, 2006   June 30, 2005   June 30, 2004
+                     -------------   -------------   -------------
+Sales                 $84,131,000     $72,965,000     $61,183,000
+Bookings              $89,163,000     $73,419,000     $65,517,000
+Gross Margin          $29,097,000     $24,582,000     $20,437,000
+Gross Margin                 34.6%           33.7%           33.4%
+Operating Expenses    $20,144,000     $18,115,000     $17,909,000
+Operating Expenses           23.9%           24.8%           29.3%
+
+SIGNIFICANT HIGHLIGHTS
+
+     Sales and bookings for the fiscal year ended June 30, 2006 increased 15%
+and 21%, respectively, over the prior fiscal year.
+
+     FISCAL YEAR 2006 COMPARED WITH FISCAL YEAR 2005
+
+     Net sales for the fiscal year ended June 30, 2006 were $84,131,000, an
+increase of 15% from the $72,965,000 recorded in the fiscal year ended June 30,
+2005. Domestic sales increased by 10% to $42,744,000 in fiscal year 2006 from
+$38,819,000 in fiscal year 2005. International sales increased by 21% to
+$41,387,000 in fiscal year 2006 from $34,146,000 in fiscal year 2005. The
+increase in sales is due to the improved business climate in a majority of the
+markets the Company serves, increased market penetration and growth in sales of
+newer product lines. Sales growth has been particularly robust in the wireless
+infrastructure and semiconductor equipment markets since the second half of
+fiscal year 2005.
+
+     Bookings have improved significantly from the levels experienced in fiscal
+year 2005. Total bookings in fiscal year 2006 were $89,163,000, compared to
+$73,419,000 in fiscal year 2005, representing an increase of approximately 21%.
+Growth has come from a majority of the markets the Company serves, but was
+particularly strong in the wireless infrastructure, semiconductor equipment and
+fiber optic markets.
+
+     Gross margins were 35% of net sales in fiscal year 2006, compared to 34% in
+fiscal year 2005. The increase in gross margins is attributable to higher sales
+volume and the economics associated with higher production volumes, offset in
+part by increased precious metal costs and difficulties encountered while
+converting certain of the Company's operations to its ERP system during the
+first quarter of fiscal year 2006.
+
+     Operating expenses totaled $20,144,000, or 24% of net sales, in fiscal year
+2006, compared to $18,115,000, or 25% of net sales, in fiscal year 2005. The
+increase in operating expenses in absolute terms compared to the prior fiscal
+year is attributable to increased commissions as a result of increased sales and
+bookings, increased bonus expense as a result of increased profit levels,
+increased stock related compensation due to the adoption of a new accounting
+standard on share-based payments, increased professional fees (in part related
+to the adoption of the new accounting standard), increased depreciation and
+increased costs relating to the Company's sales office in China. The trend
+toward customers moving production offshore has continued. Accordingly, a
+growing portion of the Company's sales are to customers in Asia. Consequently,
+the Company continues to expand its sales offices in China to better service its
+customers in that region.
+
+
+                                       17
+
+<PAGE>
+
+     Research and development expenses for the fiscal year ended June 30, 2006
+decreased 8% to $1,986,000, compared to $2,161,000 in the prior fiscal year. The
+decrease was primarily the result of decreased headcount and decreased supply
+consumption.
+
+     The effective income tax rate for both fiscal year 2006 and 2005 was
+approximately 29%. In fiscal year 2006, the Company's effective tax rate was
+favorably impacted by an approximately $500,000 reduction of tax reserves
+primarily due to the expiration of a statute of limitations and audit
+settlements for less than the amounts reserved. In fiscal year 2005, the
+Company's effective tax rate was favorably impacted by Extraterritorial Income
+Exclusion benefits and benefits from state tax law changes.
+
+     As a result of the foregoing, the Company reported net income of
+$5,988,000, or $0.70 per common share and $0.67 per common share assuming
+dilution, for fiscal year 2006, compared to net income of $4,268,000, or $0.51
+per common share and $0.49 per common share assuming dilution, for fiscal year
+2005.
+
+     FISCAL YEAR 2005 COMPARED WITH FISCAL YEAR 2004
+
+     Net sales for the fiscal year ended June 30, 2005 were $72,965,000, an
+increase of 19% from the $61,183,000 recorded in the fiscal year ended June 30,
+2004. Domestic sales increased by 20% to $38,819,000 in fiscal year 2005 from
+$32,234,000 in fiscal year 2004. International sales increased by 18% to
+$34,146,000 in fiscal year 2005 from $28,949,000 in fiscal year 2004. The
+increase in sales was due to the improved business climate in a majority of the
+markets the Company serves, increased market penetration and growth in sales of
+newer product lines. Sales growth was particularly significant in the wireless
+infrastructure and semiconductor equipment markets in the second half of fiscal
+year 2005.
+
+     Bookings improved significantly in fiscal year 2005 from the levels
+experienced in fiscal year 2004. Total bookings in fiscal year 2005 were
+$73,419,000, compared to $65,517,000 in fiscal year 2004, representing an
+increase of approximately 12%. Growth has come from a majority of the markets
+the Company serves, but was particularly strong in the wireless infrastructure
+and semiconductor equipment markets.
+
+     Gross margins were 34% of net sales in fiscal year 2005, compared to 33% in
+fiscal year 2004. The increase in gross margins was attributable to higher sales
+volume and the economics associated with higher production volumes, offset in
+part by increased fixed overhead and increased levels of scrap. During fiscal
+year 2005, the Company continued to expand its capacity in order to meet the
+increased demand for its products and to accommodate expected future growth
+resulting in increased fixed costs.
+
+     Operating expenses totaled $18,115,000, or 25% of net sales, in fiscal year
+2005, compared to $17,909,000, or 29% of net sales, in fiscal year 2004. The
+increase in operating expenses in absolute terms compared to the prior fiscal
+year is attributable to increased sales staff in response to increased booking
+and quoting activity and increased commissions, partially offset by lower
+research and development expense. The trend toward customers moving production
+offshore has continued. Accordingly, a growing portion of the Company's sales
+are to customers in Asia and Europe. Consequently, the Company continues to
+expand its foreign sales offices in China and Europe to better service its
+customers.
+
+     Research and development expenses for the fiscal year ended June 30, 2005
+decreased 30% to $2,161,000, compared to $3,067,000 in the prior fiscal year.
+The decrease was primarily the result of redesignation of certain research and
+development personnel to production support in connection with the maturation of
+certain new products from the development stage to commercial acceptance.
+
+
+                                       18
+
+<PAGE>
+
+     The effective income tax rate for fiscal year 2005 was approximately 29%,
+as compared to 2% for fiscal year 2004. In fiscal year 2005, the Company's
+effective tax rate was favorably impacted primarily by Extraterritorial Income
+Exclusion benefits and benefits from State tax law changes. In fiscal year 2004,
+the Company benefited from the reduction of tax reserves due to audit
+settlements and updated evaluations and the impact of foreign tax benefits in
+relation to the lower level of pre-tax income.
+
+     As a result of the foregoing, the Company reported net income of
+$4,268,000, or $0.51 per common share and $0.49 per common share assuming
+dilution, for fiscal year 2005, compared to net income of $2,176,000, or $0.27
+per common share and $0.25 per common share assuming dilution, for fiscal year
+2004.
+
+     LIQUIDITY AND CAPITAL RESOURCES
+
+                                June 30, 2006   June 30, 2005
+                                -------------   -------------
+Cash and Investments             $ 8,324,000     $ 6,950,000
+Working Capital                  $46,649,000     $39,032,000
+Operating Cash Flow              $ 5,668,000     $ 4,526,000
+Capital Expenditures             $ 8,309,000     $ 8,784,000
+Depreciation and Amortization    $ 6,207,000     $ 5,383,000
+
+Current Ratio                          4.8:1           5.3:1
+Quick Ratio                            1.7:1           1.9:1
+
+     The Company's financial position at June 30, 2006 remains strong as
+evidenced by working capital of $46,649,000, compared to working capital of
+$39,032,000 at June 30, 2005. The Company's current ratio and quick ratio at
+June 30, 2006 remain strong although slightly lower than at June 30, 2005.
+
+     Cash and investments increased to $8,324,000 at June 30, 2006, compared to
+$6,950,000 at June 30, 2005. The increase in cash and investments is primarily
+the result of positive cash flow from operations, cash from stock option
+exercises and loan proceeds in excess of capital expenditures. Accounts
+receivable increased by $2,711,000 to $12,719,000 at June 30 2006, compared to
+$10,008,000 at June 30, 2005. The increase is primarily due to improved sales in
+the fourth quarter of fiscal year 2006 compared to the fourth quarter of fiscal
+year 2005. Inventories increased by $5,715,000 to $33,255,000 at June 30, 2006,
+compared to $27,540,000 at June 30, 2005, primarily as a result of precious
+metal purchases during the year, higher precious metal costs, increases to
+finished goods inventories to support higher sales levels and increases in
+inventory levels of newer product lines. The precious metal purchases were made
+in anticipation of future production requirements and potential price increases.
+The Company continues to maintain high finished goods inventory levels to keep
+customer lead times to a minimum and maintain good customer service.
+
+     Current portion of long-term debt increased due to borrowings under the
+GECC line of credit and borrowings at the Company's Swedish subsidiary. Accounts
+payable increased by $556,000, to $3,005,000 at June 30, 2006 compared to
+$2,449,000 at June 30, 2005, due in part to increased purchasing activity to
+keep pace with higher production levels and in part to capital expenditures.
+Accrued expenses increased by $603,000 to $6,192,000 at June 30, 2006, compared
+to $5,589,000 at June 30, 2005, due to increased commission accruals as the
+result of increased bookings and sales, increased bonus accruals as a result of
+improved profits and increased payroll related accruals. Income taxes payable
+increased $1,002,000 to $1,002,000 at June 30, 2006 compared to $14,000 income
+tax receivable at June 30, 2005, primarily due to increased taxable income,
+partially offset by tax reserve reductions.
+
+     The Company leases its facilities in Jacksonville, Florida from a
+partnership controlled by the Company's President, Chief Executive Officer and
+principal stockholder under a capital lease. The rental payments under this
+lease have been adjusted several times, primarily to reflect certain additions
+to the facilities and market value adjustments as
+
+
+                                       19
+
+<PAGE>
+
+required by the terms of the lease based upon independent appraisals and for
+Consumer Price Index adjustments. See "Item 2. PROPERTIES." The Company is
+currently obligated to pay approximately $780,000 per annum under this lease.
+The payments due over the remaining five years of this capital lease, including
+the portion related to interest, total approximately $3,315,000. See "Item 13.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS" and Note 4 of Notes to
+Consolidated Financial Statements.
+
+     In April 2004, the Company entered into a $4,000,000 credit facility with
+GECC for the purchase of equipment. In May 2005, the credit facility was
+increased to $6,000,000. Borrowings under the line bear interest, at the
+Company's option, at either a fixed rate of 3.47% above the five year Treasury
+Bond yield at the time of election or a floating rate of 3.65% above LIBOR.
+Borrowings under the line are secured by the equipment purchased thereunder.
+Each separate borrowing under the line will be a fully amortizing term loan with
+a maturity of five years from the date the funds are drawn down. The line of
+credit will expire on March 24, 2007. GECC has the option to securitize these
+loans with a third party. Loans securitized with a third party increase the
+available line of credit to the Company. As of June 30, 2006, the Company had
+$5,059,000 of borrowings outstanding under this facility and, as a result of
+third party securitizations, $6,000,000 available to borrow.
+
+     In December 2004, the Company entered into a credit facility with Commerce
+Bank, N.A. Under the terms of this facility, the Company may request advances
+from time to time up to an aggregate of $5,000,000. Any advance made bears
+interest at the Prime Rate as reported in the Wall Street Journal. Borrowings
+under the facility are secured by a lien on the Company's accounts receivable
+and inventory. Each borrowing under the line will expire on November 30, 2006.
+The facility is subject to certain financial covenants, including minimum
+tangible net worth and liability percentage ratios. As of June 30, 2006, the
+Company had no outstanding borrowings under this credit facility.
+
+     In September 2005, the Company's wholly-owned subsidiary in Sweden obtained
+a series of five term loans aggregating 12,000,000 Swedish Krona ("SEK")
+(approximately $1,700,000) from Handelsbanken. The loans are unsecured and bear
+interest at fixed rates ranging from 3.56% to 4.59%. The five loans are each for
+a principal amount of 2,400,000 SEK and are fully amortizing. The loans mature
+in one to five years with the first maturing on September 30, 2006 and one other
+maturing on each succeeding September 30th through 2010. In connection with, and
+as an inducement to Handelsbanken to make the loans, the Company entered into a
+Guaranty and Agreement with the Handelsbanken whereby the Company has agreed to
+guarantee the payment of all its Swedish subsidiary's obligations under the
+loans.
+
+     Capital expenditures for the fiscal year ended June 30, 2006 totaled
+$8,309,000, including expenditures for buildings, machinery and equipment and
+planned leasehold improvements. The Company intends to use cash on hand, cash
+generated through operations and available credit to finance budgeted capital
+expenditures, primarily for equipment acquisition, of approximately $6,900,000
+in fiscal year 2007.
+
+     Aggregate contractual obligations, including interest, as of June 30, 2006
+mature as follows:
+
+<FONT size="1">
+
+                                                   Payments Due by Period
+                                ------------------------------------------------------------
+                                                 Less
+                                                than 1        1- 3         4- 5      After 5
+Contractual Obligations            Total         year         years        years      years
+-----------------------------   -----------   ----------   ----------   ----------   -------
+
+Bank Debt                       $ 7,774,000   $1,884,000   $3,730,000   $2,160,000     $--
+Capital Lease Obligations         3,315,000      780,000    1,560,000      975,000      --
+Operating Leases                    719,000      515,000      204,000           --      --
+Purchase Obligations              6,423,000    6,423,000           --           --      --
+                                -----------   ----------   ----------   ----------     ---
+Total Contractual Obligations   $18,231,000   $9,602,000   $5,494,000   $3,135,000     $--
+                                ===========   ==========   ==========   ==========     ===
+</FONT>
+
+     The Company routinely enters into binding and non-binding purchase
+obligations in the ordinary course of business, primarily covering anticipated
+purchases of inventory and equipment. The terms of these commitments generally
+do not extend beyond six months. None of these obligations are individually
+significant. The Company does not expect that these commitments will materially
+adversely affect its liquidity in the foreseeable future.
+
+
+                                       20
+
+<PAGE>
+
+     CRITICAL ACCOUNTING POLICIES
+
+     The Securities and Exchange Commission ("SEC") has issued disclosure
+guidance for "critical accounting policies." The SEC defines "critical
+accounting policies" as those that require the application of management's most
+difficult, subjective or complex judgments, often as a result of the need to
+make estimates about the effect of matters that are inherently uncertain and may
+change in subsequent periods. The Company's significant accounting policies are
+described in Note 1 to its consolidated financial statements contained in "Item
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA" of this report. The Company
+believes that the following accounting policies require the application of
+management's most difficult, subjective or complex judgments:
+
+     ALLOWANCES FOR DOUBTFUL ACCOUNTS RECEIVABLE
+
+     The Company performs ongoing credit evaluations of its customers and
+adjusts credit limits based upon payment history and a customer's current
+creditworthiness, as determined by its review of the customer's current credit
+information. The Company continuously monitors collections and payments from its
+customers and maintains an allowance for estimated credit losses based upon its
+historical experience and any specific customer collection issues that the
+Company has identified. While such credit losses have historically been within
+the Company's expectations and the allowances established, the Company cannot
+guarantee that it will continue to experience the same credit loss rates that it
+has in the past. Should the financial position of its customers deteriorate
+resulting in an impairment of their ability to pay amounts due, the Company's
+revised estimate of such losses and any actual losses in excess of previous
+estimates may negatively impact its operating results.
+
+     SALES RETURNS AND ALLOWANCES
+
+     In the ordinary course of business, the Company accepts returns of products
+sold for various reasons and grants sales allowances to customers. While the
+Company engages in extensive product quality control programs and processes, its
+level of sales returns is affected by, among other things, the quality of its
+manufacturing processes. The Company maintains an allowance for sales returns
+and allowances based upon historical returns and allowances granted. While such
+returns and allowances have historically been within the Company's expectations,
+actual return and allowance rates in the future may differ from current
+estimates, which could negatively impact the Company's operating results.
+
+     INVENTORY VALUATION
+
+     The Company values inventory at the lower of aggregate cost (first-in,
+first-out) or market. When the cost of inventory is determined by management to
+be in excess of its market value, such inventory is written down to its
+estimated net realizable value. This requires the Company to make estimates and
+assumptions about several factors (e.g., future sales quantities and selling
+prices, and percentage complete and failure rates for work in process) based
+upon historical experience and its projections for future periods. Changes in
+factors such as the level of order bookings, the product mix of order bookings
+and the Company's manufacturing processes could have a material impact on the
+Company's assessment of the net realizable value of inventory in the future.
+
+     VALUATION OF DEFERRED TAX ASSETS
+
+     The Company regularly evaluates its ability to recover the reported amount
+of its deferred income taxes considering several factors, including its estimate
+of the likelihood of the Company generating sufficient taxable income in future
+years during the period over which temporary differences reverse. Management
+also considers the expected reversal of deferred tax liabilities, the Company's
+historic taxable income and tax planning strategies in making this assessment.
+Based upon the level of historical taxable income and the expected future
+taxable income over the periods in which the deferred tax assets are deductible
+as well as reversals of deferred tax liabilities, management believes, although
+there can be no assurance, that it is more likely than not that the Company will
+realize the net benefits of these deductible differences. The Company has
+available State net operating loss carry forwards in Florida, which expire in
+various years through 2025. Due to uncertainties about the realization of these
+loss carryforwards, a valuation
+
+
+                                       21
+
+<PAGE>
+
+allowance has been provided against the associated deferred tax asset. In the
+event that actual results differ from its estimates, or the Company adjusts
+these estimates in future periods, the Company may need to establish additional
+valuation allowances against a portion or all of its deferred tax assets, which
+could materially impact its financial position or results of operations in
+future periods.
+
+     VALUATION OF LONG-LIVED ASSETS
+
+     The Company assesses the recoverability of long-lived assets whenever the
+Company determines that events or changes in circumstances indicate that the
+carrying amount may not be recoverable. Its assessment is primarily based upon
+its estimate of future cash flows associated with these assets. The Company
+believes that the carrying amount of its long-lived assets is recoverable.
+However, should its operating results deteriorate, or anticipated new product
+launches not occur or not attain the commercial acceptance that the Company
+anticipates, the Company may determine that some portion of its long-lived
+assets are impaired. Such determination could result in non-cash charges to
+income that could materially affect the Company's financial position or results
+of operations for that period.
+
+     INFLATION
+
+     The Company does not expect the effects of inflation to have a significant
+impact on its liquidity or results of operations.
+
+     ACCOUNTING STANDARDS ISSUED BUT NOT YET ADOPTED
+
+     In July 2006, the Financial Accounting Standard Board ("FASB") issued FASB
+Interpretation No. 48, "Accounting for Uncertainty in Income Taxes - an
+Interpretation of FASB Statement No. 109" ("FIN 48"). to address the
+noncomparability in reporting tax assets and liabilities resulting from a lack
+of specific guidance in FASB Statement of Financial Accounting Standards
+("SFAS") No. 109 ("SFAS No. 109"), "Accounting for Income Taxes," on the
+uncertainty in income taxes recognized in an enterprise's financial statements.
+Specifically, FIN No. 48 prescribes (a) a consistent recognition threshold, and
+(b) a measurement attribute for the financial statement recognition and
+measurement of a tax position taken or expected to be taken in a tax return, and
+provides related guidance on derecognition, classification, interest and
+penalties, accounting in interim periods, disclosure and transition. FIN No. 48
+will apply to fiscal years beginning after December 15, 2006. The Company is
+currently assessing the impact of the adoption of FIN No. 48 on its financial
+position and consolidated results of operations.
+
+     In September 2006, the Securities and Exchange Commission Staff issued
+Staff Accounting Bulletin No. 108, "Considering the Effects of Prior Year
+Misstatements when Quantifying Misstatements in Current Year Financial
+Statements" ("SAB No. 108"), which addresses how the effects of prior-year
+uncorrected misstatements should be considered when quantifying misstatements in
+current-year financial statements. SAB No. 108 will require registrants to
+quantify misstatements using both the balance sheet and income-statement
+approaches and to evaluate whether either approach results in quantifying an
+error that is material in light of relevant quantitative and qualitative
+factors. When the effect of initial adoption is determined to be material, SAB
+No. 108 allows registrants to record that effect as a cumulative effect
+adjustment to beginning-of-year retained earnings. The requirements are
+effective for annual financial statements covering the first fiscal year ending
+after November 15, 2006. The Company is in the process of assessing the effect
+of SAB No. 108 on its consolidated financial statements.
+
+
+                                       22
+
+<PAGE>
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     The Company has identified four market risks relative to its business:
+foreign currency exchange rate risk, commodity price risk, security price risk
+and interest rate risk. The Company has managed its market risk exposures in
+order to minimize their potential impact on its consolidated financial condition
+and results of operations. Specifically:
+
+     a)   Foreign currency exchange rate risk. With the exception of
+          transactions by the Company's wholly-owned subsidiary in Sweden (which
+          are denominated in Krona), all transactions are, and are anticipated
+          to be, denominated in U.S. Dollars. Fluctuations in exchange rates
+          could impact revenues with an offsetting impact on costs and expenses.
+          The Company does not believe that the impact on net earnings of a 10%
+          shift in exchange rates would be material.
+
+     b)   Commodity price risk. The Company uses certain precious metals in the
+          manufacturing of its products (primarily palladium, gold and silver),
+          and is therefore subject to certain commodity price risks. In the last
+          several years, the price of precious metals rose due to the higher
+          demand coming from the electronics industry and other industries.
+          Consequently, the Company has purchased a quantity of these metals to
+          protect against rising prices. In addition, in July 2006, the Company
+          exchanged silver for palladium to better align its inventory of
+          precious metals against expected production requirements. The Company
+          believes that, based upon its current levels of production and
+          inventories of precious metals, it has a sufficient supply of precious
+          metals such that the Company would not have to buy any additional
+          quantities for the next six months. See "Item 1. BUSINESS - RAW
+          MATERIALS."
+
+     c)   Security price risk. The Company's current portfolio of marketable
+          securities consists of U.S. Treasury notes and other government
+          securities with maturities of less than one year. The Company believes
+          it can effectively manage any exposure resulting from declining prices
+          by holding any securities which decline substantially in value until
+          maturity.
+
+     d)   Interest rate risk. The Company earns interest income on cash and
+          investment balances and pays interest on debt incurred. In light of
+          the Company's existing cash, results of operations, the terms of its
+          debt obligations and projected capital needs, it does not believe that
+          a 10% change in interest rates would have a significant impact on its
+          consolidated financial position. See "Item 7. MANAGEMENT'S DISCUSSION
+          AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS --
+          LIQUIDITY AND CAPITAL RESOURCES."
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The Company's Consolidated Financial Statements and the Notes thereto begin
+on page F-2 of this report.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+
+     None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+     Evaluation of Disclosure Controls and Procedures. In response to the
+requirements of the Sarbanes-Oxley Act of 2002, within 90 days prior to the date
+of this report (the "Evaluation Date"), the Company's President and Chief
+Executive Officer and Vice President - Finance carried out an evaluation of the
+effectiveness of the Company's "disclosure controls and procedures" (as defined
+in the Securities Exchange Act of 1934 Rules 13a-15(e) and 15d-15(e)). Based on
+that evaluation, these officers concluded that, as of the Evaluation Date, the
+Company's disclosure controls and procedures were adequate and effective to
+ensure that material information relating to the Company and the Company's
+consolidated subsidiaries was made known to them by others within those
+entities, particularly during the period in which this report was being
+prepared.
+
+
+                                       23
+
+<PAGE>
+
+     Changes in Internal Controls. Except as noted below, there were no changes
+in the Company's internal controls over financial reporting, identified in
+connection with the evaluation of such internal controls that occurred during
+the Company's last fiscal quarter, that have materially affected, or are
+reasonably likely to materially affect, the Company's internal controls over
+financial reporting.
+
+     Management has determined that the Company has a significant deficiency due
+to the fact that the Company has not adequately documented and implemented
+certain controls over information technology. These areas include certain change
+management and customer management procedures. In addition, certain financial
+computer program application controls and related access controls relating to
+information security were not adequately implemented. Back-up and recovery
+processes were not adequately documented, and testing of recovery procedures was
+not implemented. The Company has drafted, and is in the process of implementing,
+remedial procedures to address these matters.
+
+ITEM 9B. OTHER INFORMATION
+
+     None.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE COMPANY
+
+     The information set forth under the captions "Election of Directors",
+"Compliance with Section 16(a) of the "Exchange Act" and "Code of Ethics" in the
+Company's Proxy Statement to be furnished in connection with its Annual Meeting
+of Stockholders to be held November 14, 2006 is hereby incorporated by
+reference.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+     The information set forth under the caption "Executive Compensation" in the
+Company's Proxy Statement to be furnished in connection with its Annual Meeting
+of Stockholders to be held November 14, 2006 is hereby incorporated by
+reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     The information set forth under the caption "Security Ownership of Certain
+Beneficial Owners and Management" and the information relating to beneficial
+ownership of the Company's common stock in the table under the caption "Election
+of Directors" in the Company's Proxy Statement to be furnished in connection
+with its Annual Meeting of Stockholders to be held November 14, 2006 is hereby
+incorporated by reference. See also "Item 5. MARKET FOR COMPANY'S COMMON STOCK,
+RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES -- EQUITY
+COMPENSATION PLAN INFORMATION."
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     The information set forth under the caption "Certain Relationships and
+Related Transactions" in the Company's Proxy Statement to be furnished in
+connection with its Annual Meeting of Stockholders to be held November 14, 2006
+is hereby incorporated by reference.
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+     The information set forth under the caption "Principal Accounting Fees and
+Services" in the Company's Proxy Statement to be furnished in connection with
+its Annual Meeting of Stockholders to be held November 14, 2006 is hereby
+incorporated by reference.
+
+
+                                       24
+
+<PAGE>
+
+                                     PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+(A)   FINANCIAL STATEMENTS                                              PAGE NO.
+                                                                        --------
+Index to Consolidated Financial Statements ..........................      F
+Report of Independent Registered Public Accounting Firm .............      F-1
+Consolidated Financial Statements
+   Balance Sheets as of June 30, 2006 and 2005 ......................      F-2
+   Statements of Operations
+      Fiscal Years Ended June 30, 2006, 2005 and 2004 ...............      F-3
+   Statements of Stockholders' Equity and Comprehensive Income
+      Fiscal Years Ended June 30, 2006, 2005 and 2004 ...............      F-4
+   Statements of Cash Flows
+      Fiscal Years Ended June 30, 2006, 2005 and 2004 ...............      F-5
+   Notes to Consolidated Financial Statements .......................      F-6
+
+(B)  EXHIBITS
+
+     Unless otherwise indicated, the following exhibits were filed as part of
+the Company's Registration Statement on Form S-18 (No. 2-96925-NY) and are
+incorporated herein by reference to the same exhibit thereto.
+
+EXHIBIT NO.   DESCRIPTION
+-----------   -----------
+3.1         - Certificate of Incorporation of the Company.
+
+3.2         - Amendment to Certificate of Incorporation. (3)
+
+3.3         - Amended and restated By-laws of the Company. (21)
+
+9.1         - Restated Shareholders' Agreement, dated April 15, 1985, among
+              Victor Insetta, Joseph Mezey, Joseph Colandrea and the Company.
+
+10.1        - Lease, dated September 1, 2002, between Stepar Leasing, LLC and
+              the Company for premises at 15 Stepar Place, Huntington Station,
+              N.Y. (11)
+
+10.2        - Form of 1985 Employee Stock Sale Agreement between the Company and
+              various employees.
+
+10.3        - Form of Employee Stock Bonus Agreement, dated as of July 1, 1993,
+              between the Company and various employees. (2)
+
+10.4        - Form of Employee Stock Bonus Agreement, dated as of April 19,
+              1994, between the Company and various employees. (2)
+
+10.5        - Form of Employee Stock Bonus Agreement, dated as of April 20,
+              1995, between the Company and various employees. (3)
+
+10.6        - Second Amended and Restated Lease, dated as of May 16, 2000,
+              between V.P.I. Properties Associates, d/b/a V.P.I. Properties
+              Associates, Ltd., and American Technical Ceramics (Florida), Inc.
+              (7)
+
+10.7        - Profit Bonus Plan, dated April 19, 1995, and effective for the
+              fiscal years beginning July 1, 1994. (3)
+
+
+                                       25
+
+<PAGE>
+
+10.8        - Employment Agreement, dated April 3, 1985, between Victor Insetta
+              and the Company, and Amendments No. 1 through 4 thereto. (1)
+
+10.9        - Amendment No. 5, dated as of September 11, 1998, to Employment
+              Agreement between Victor Insetta and the Company. (4)
+
+10.10       - Amendment No. 6, dated as of January 3, 2001, to Employment
+              Agreement between Victor Insetta and the Company. (8)
+
+10.11       - Employment Agreement, dated October 1, 2003, between the Company
+              and Richard Monsorno. (13)
+
+10.12       - Managers Profit Bonus Plan, dated December 7, 1999 and effective
+              January 1, 2000. (6)
+
+10.13       - Officers Profit Bonus Plan, dated October 30, 2003 and effective
+              June 30, 1992. (13)
+
+10.14       - Consulting Agreement, dated January 1, 2004, between the Company
+              and Northport Systems, Inc. (14)
+
+10.15       - Letter extending the Consulting Agreement with Northport System,
+              Inc. until December 31, 2006. (19)
+
+10.16       - American Technical Ceramics Corp. 1997 Stock Option Plan. (4)
+
+10.17       - American Technical Ceramics Corp. 2000 Incentive Stock Plan. (6)
+
+10.18       - Master Loan Agreement, dated April 2, 2004, between the Company
+              and General Electric Capital Corporation. (14)
+
+10.19       - Letter from General Electric Capital Corporation, dated as of
+              March 30, 2006. (20)
+
+10.20       - Second Amended and Restated Employment Agreement, dated as of
+              December 31, 2001, between Judah Wolf and the Company. (9)
+
+10.20 (i)   - Letter Agreement, dated December 22, 2005, between the Company and
+              Judah Wolf. (18)
+
+10.21       - Employment Agreement, dated January 1, 2004, between the Company
+              and David Ott. (14)
+
+10.22       - Severance Agreement, dated November 1, 2003, between the Company
+              and Kathleen Kelly. (13)
+
+10.23       - Severance Agreement, dated November 1, 2003, between the Company
+              and Andrew Perz. (13)
+
+10.24       - Severance Agreement, dated November 1, 2003, between the Company
+              and Harrison Tarver. (13)
+
+10.25       - Loan and Security Agreement, dated November 30, 2004, between the
+              Company and Commerce Bank N.A. (15)
+
+10.26       - Security Agreement, dated November 30, 2004, between American
+              Technical Ceramics (Florida) Inc. and Commerce Bank N.A. (15)
+
+10.27       - Surety Agreement, dated November 30, 2004, between American
+              Technical Ceramics (Florida) Inc. and Commerce Bank N.A. (15)
+
+10.28       - Victor Insetta Compensation Arrangement. (16)
+
+10.29       - Stuart Litt Consulting Arrangement. (16)
+
+
+                                       26
+
+<PAGE>
+
+10.30       - Executive Compensation Arrangement. (16)
+
+10.31       - Director Compensation Arrangement. (16)
+
+10.32       - William Johnson Compensation Arrangement. (17)
+
+10.33       - Financial Obligation, dated as of September 16, 2005, between
+              American Technical Ceramics Europe AB and Svenska Handelsbanken,
+              AB. (17) *
+
+10.34       - Guaranty and Agreement, dated as of September 9, 2005, between the
+              Company and Svenska Handelsbanken, AB. (17)
+
+21.1        - Subsidiaries of the Company. (10)
+
+23.1        - Consent of KPMG LLP. (22)
+
+31.1        - Section 302 Certification of Chief Executive Officer. (22)
+
+31.2        - Section 302 Certification of Principal Accounting Officer. (22)
+
+32.1        - Section 906 Certification of Chief Executive Officer. (22)
+
+32.2        - Section 906 Certification of Principal Accounting Officer. (22)
+
+----------
+1.   Incorporated by reference to the Company's Annual Report on Form 10-K for
+     the fiscal year ended June 30, 1993.
+
+2.   Incorporated by reference to the Company's Annual Report on Form 10-KSB for
+     the fiscal year ended June 30, 1994.
+
+3.   Incorporated by reference to the Company's Annual Report on Form 10-KSB for
+     the fiscal year ended June 30, 1995.
+
+4.   Incorporated by reference to the Company's Annual Report on Form 10-K for
+     the fiscal year ended June 30, 1997.
+
+5.   Incorporated by reference to the Company's Annual Report on Form 10-K for
+     the fiscal year ended June 30, 1998.
+
+6.   Incorporated by reference to the Company's Annual Report on Form 10-K/A for
+     the fiscal year ended June 30, 2000.
+
+7.   Incorporated by reference to the Company's Quarterly Report on Form 10-Q
+     for the quarterly period ended September 30, 2000.
+
+8.   Incorporated by reference to the Company's Annual Report on Form 10-Q for
+     the quarterly period ended December 31, 2000.
+
+9.   Incorporated by reference to the Company's Quarterly Report on Form 10-Q/A
+     for the quarterly period ended March 31, 2002.
+
+
+                                       27
+
+<PAGE>
+
+10.  Incorporated by reference to the Company's Annual Report on Form 10-K for
+     the fiscal year ended June 30, 2002.
+
+11.  Incorporated by reference to the Company's Quarterly Report on Form 10-Q
+     for the quarterly period ended September 30, 2002.
+
+12.  Incorporated by reference to the Company's Quarterly Report on Form 10-Q
+     for the quarterly period ended March 31, 2003.
+
+13.  Incorporated by reference to the Company's Quarterly Report on Form 10-Q
+     for the quarterly period ended December 31, 2003.
+
+14.  Incorporated by reference to the Company's Quarterly Report on Form 10-Q
+     for the quarterly period ended March 31, 2004.
+
+15.  Incorporated by reference to the Company's Quarterly Report on Form 10-Q
+     for the quarterly period ended December 31, 2004.
+
+16.  Incorporated by reference to the Company's Quarterly Report on Form 10-Q
+     for the quarterly period ended March 31, 2005.
+
+17.  Incorporated by reference to the Company's Annual Report on Form 10-K for
+     the fiscal year ended June 30, 2005.
+
+18.  Incorporated by reference to the Company's Quarterly Report on Form 10-Q
+     for the quarterly period ended December 31, 2005.
+
+19.  Incorporated by reference to the Company's Quarterly Report on Form 10-Q
+     for the quarterly period ended March 31, 2006.
+
+20.  Incorporated by reference to the Company's Current Report on Form 8-K,
+     dated April 4, 2006.
+
+21.  Incorporated by reference to the Company's Current Report on Form 8-K,
+     dated May 8, 2006.
+
+22.  Filed herewith.
+
+*    Summary of document written in Swedish.
+
+(C)  FINANCIAL STATEMENT SCHEDULES
+
+     Schedules have been omitted since they either are not applicable, not
+required or the information is included elsewhere herein.
+
+
+                                       28
+
+<PAGE>
+
+                                   SIGNATURES
+
+     PURSUANT TO THE REQUIREMENTS OF SECTION 13 OR 15 (d) OF THE SECURITIES
+EXCHANGE ACT OF 1934, THE COMPANY HAS DULY CAUSED THIS REPORT TO BE SIGNED ON
+ITS BEHALF BY THE UNDERSIGNED, THEREUNTO DULY AUTHORIZED.
+
+                                        AMERICAN TECHNICAL CERAMICS CORP.
+
+
+                                        BY: /S/ VICTOR INSETTA
+                                            ------------------------------------
+                                            VICTOR INSETTA
+                                            President
+
+Dated: September 26, 2006
+
+     PURSUANT TO THE REQUIREMENTS OF THE SECURITIES EXCHANGE ACT OF 1934, THIS
+REPORT HAS BEEN SIGNED BELOW BY THE FOLLOWING PERSONS ON BEHALF OF THE COMPANY
+IN THE CAPACITIES AND ON THE DATES INDICATED:
+
+            NAME                          TITLE                     DATE
+            ----                          -----                     ----
+
+
+/S/ VICTOR INSETTA               President and Director      September 26, 2006
+---------------------------   (Principal Executive Officer)
+Victor Insetta
+
+
+/S/ ANDREW R. PERZ              Vice President - Finance     September 26, 2006
+---------------------------  (Principal Accounting Officer)
+Andrew R. Perz
+
+
+/S/ STUART P. LITT                      Director             September 26, 2006
+---------------------------
+Stuart P. Litt
+
+
+/S/ O. JULIAN GARRARD III               Director             September 26, 2006
+---------------------------
+O. Julian Garrard III
+
+
+/S/ CHESTER E. SPENCE                   Director             September 26, 2006
+---------------------------
+Chester E. Spence
+
+
+/S/ THOMAS J. VOLPE                     Director             September 26, 2006
+---------------------------
+Thomas J. Volpe
+
+
+/S/ DOV S. BACHARACH                    Director             September 26, 2006
+---------------------------
+Dov S. Bacharach
+
+
+                                       29
+
+<PAGE>
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+               AMERICAN TECHNICAL CERAMICS CORP. AND SUBSIDIARIES
+                   INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                                     Page Number
+                                                                     -----------
+Report of Independent Registered Public Accounting Firm ..........       F-1
+Consolidated Balance Sheets as of June 30, 2006 and 2005 .........       F-2
+Consolidated Statements of Operations
+   Fiscal Years Ended June 30, 2006, 2005 and 2004 ...............       F-3
+Consolidated Statements of Stockholders' Equity and
+   Comprehensive Income
+   Fiscal Years Ended June 30, 2006, 2005 and 2004 ...............       F-4
+Consolidated Statements of Cash Flows
+   Fiscal Years Ended June 30, 2006, 2005 and 2004 ...............       F-5
+Notes to Consolidated Financial Statements .......................       F-6
+
+
+                                        F
+
+<PAGE>
+
+             REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+The Board of Directors and Stockholders
+American Technical Ceramics Corp.:
+
+We have audited the accompanying consolidated balance sheets of American
+Technical Ceramics Corp. and subsidiaries (the Company) as of June 30, 2006 and
+2005, and the related consolidated statements of operations, stockholders'
+equity and comprehensive income and cash flows for each of the years in the
+three-year period ended June 30, 2006. These consolidated financial statements
+are the responsibility of the Company's management. Our responsibility is to
+express an opinion on these consolidated financial statements based on our
+audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of American Technical
+Ceramics Corp. and subsidiaries as of June 30, 2006 and 2005, and the results of
+their operations and their cash flows for each of the years in the three-year
+period ended June 30, 2006, in conformity with U.S. generally accepted
+accounting principles.
+
+As discussed in Notes 1 and 6 to the consolidated financial statements, the
+Company adopted Statement of Financial Accounting Standards No. 123(R),
+"Shared-Based Payment", effective July 1, 2005.
+
+
+                                        /S/ KPMG LLP
+
+Melville, New York
+September 26, 2006
+
+
+                                       F-1
+
+<PAGE>
+
+               AMERICAN TECHNICAL CERAMICS CORP. AND SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+
+<FONT size="1">
+
+                                                                                   JUNE 30,       JUNE 30,
+                                                                                     2006           2005
+                                                                                 ------------   -----------
+
+                                     ASSETS
+CURRENT ASSETS
+   Cash (including cash equivalents of $2,000 and
+      $4,000, respectively)                                                      $  6,230,000   $ 4,927,000
+   Investments                                                                      2,094,000     2,023,000
+   Accounts receivable, (net of allowance for doubtful accounts
+      of $401,000 and $300,000, respectively)                                      12,719,000    10,008,000
+   Inventories                                                                     33,255,000    27,540,000
+   Deferred income taxes, net                                                       3,472,000     2,668,000
+   Prepaid and other current assets                                                 1,035,000     1,007,000
+                                                                                 ------------   -----------
+      TOTAL CURRENT ASSETS                                                         58,805,000    48,173,000
+                                                                                 ------------   -----------
+PROPERTY, PLANT AND EQUIPMENT
+   Land                                                                               738,000       738,000
+   Buildings and leasehold improvements                                            19,418,000    18,426,000
+   Machinery and equipment                                                         53,474,000    47,038,000
+   Computer equipment and software                                                  7,508,000     7,187,000
+   Furniture, fixtures and other                                                    3,064,000     3,256,000
+                                                                                 ------------   -----------
+                                                                                   84,202,000    76,645,000
+   Less: Accumulated depreciation and amortization                                 52,827,000    47,143,000
+                                                                                 ------------   -----------
+                                                                                   31,375,000    29,502,000
+OTHER ASSETS                                                                          363,000       197,000
+                                                                                 ------------   -----------
+         TOTAL ASSETS                                                            $ 90,543,000   $77,872,000
+                                                                                 ============   ===========
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES
+   Current portion of long-term debt
+      (including related party debt of $485,000 and $437,000, respectively)      $  1,957,000   $ 1,103,000
+   Accounts payable                                                                 3,005,000     2,449,000
+   Accrued expenses                                                                 6,192,000     5,589,000
+   Income taxes payable                                                             1,002,000            --
+                                                                                 ------------   -----------
+         TOTAL CURRENT LIABILITIES                                                 12,156,000     9,141,000
+
+LONG-TERM DEBT, NET OF CURRENT PORTION
+     (including related party debt of $1,974,000 and $2,459,000, respectively)      7,229,000     5,276,000
+DEFERRED INCOME TAXES                                                               3,091,000     3,308,000
+         TOTAL LIABILITIES                                                         22,476,000    17,725,000
+                                                                                 ------------   -----------
+COMMITMENTS AND CONTINGENCIES
+STOCKHOLDERS' EQUITY
+   Common Stock -- $0.01 par value; authorized 20,000,000
+      shares; issued 9,104,613 and 8,917,463 shares,
+      outstanding 8,690,473 and 8,503,323  shares, respectively                        91,000        89,000
+   Capital in excess of par value                                                  15,000,000    13,195,000
+   Retained earnings                                                               54,102,000    48,114,000
+   Accumulated  other comprehensive income:
+      Unrealized loss on investments available-for-sale, net                           (1,000)           --
+      Cumulative foreign currency translation adjustment                              271,000       145,000
+                                                                                 ------------   -----------
+                                                                                      270,000       145,000
+                                                                                 ------------   -----------
+   Less: Treasury stock, at cost (414,140 and 414,140  shares, respectively)        1,396,000     1,396,000
+                                                                                 ------------   -----------
+         TOTAL STOCKHOLDERS' EQUITY                                                68,067,000    60,147,000
+                                                                                 ------------   -----------
+         TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY                              $ 90,543,000   $77,872,000
+                                                                                 ============   ===========
+</FONT>
+
+See accompanying notes to consolidated financial statements.
+
+
+                                       F-2
+
+<PAGE>
+
+               AMERICAN TECHNICAL CERAMICS CORP. AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                 FISCAL YEARS ENDED JUNE 30, 2006, 2005 AND 2004
+
+<FONT size="1">
+
+                                                         2006          2005         2004
+                                                     -----------   -----------   -----------
+
+Net sales                                            $84,131,000   $72,965,000   $61,183,000
+Cost of sales                                         55,034,000    48,383,000    40,746,000
+                                                     -----------   -----------   -----------
+   Gross profit                                       29,097,000    24,582,000    20,437,000
+                                                     -----------   -----------   -----------
+Selling, general and administrative expenses          18,092,000    15,935,000    14,815,000
+Research and development expenses                      1,986,000     2,161,000     3,067,000
+Other                                                     66,000        19,000        27,000
+                                                     -----------   -----------   -----------
+   Operating expenses                                 20,144,000    18,115,000    17,909,000
+                                                     -----------   -----------   -----------
+   Income from operations                              8,953,000     6,467,000     2,528,000
+                                                     -----------   -----------   -----------
+Other expense (income)
+   Interest expense                                      643,000       475,000       365,000
+   Interest income                                       (86,000)      (57,000)      (68,000)
+   Other                                                      --         8,000         2,000
+                                                     -----------   -----------   -----------
+                                                         557,000       426,000       299,000
+                                                     -----------   -----------   -----------
+   Income before provision for income taxes            8,396,000     6,041,000     2,229,000
+Provision for income taxes                             2,408,000     1,773,000        53,000
+                                                     -----------   -----------   -----------
+   Net Income                                        $ 5,988,000   $ 4,268,000   $ 2,176,000
+                                                     ===========   ===========   ===========
+Basic net income per common share                    $      0.70   $      0.51   $      0.27
+Diluted net income per common share                  $      0.67   $      0.49   $      0.25
+                                                     -----------   -----------   -----------
+Basic weighted average common shares outstanding       8,573,000     8,402,000     8,132,000
+                                                     ===========   ===========   ===========
+
+                                                     -----------   -----------   -----------
+Diluted weighted average common shares outstanding     8,891,000     8,738,000     8,583,000
+                                                     ===========   ===========   ===========
+</FONT>
+
+See accompanying notes to consolidated financial statements.
+
+
+                                       F-3
+
+<PAGE>
+
+               AMERICAN TECHNICAL CERAMICS CORP. AND SUBSIDIARIES
+    CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY AND COMPREHENSIVE INCOME
+                 FISCAL YEARS ENDED JUNE 30, 2006, 2005 AND 2004
+
+<FONT size="1">
+
+                                                                                             Accumulated
+                                                                                                Other
+                                                 Common Stock      Capital in               Comprehensive
+                               Comprehensive  ------------------   Excess of     Retained       Income       Treasury
+                                   Income       Shares    Amount   Par Value     Earnings       (Loss)        Stock        Total
+                               -------------  ---------  -------  -----------  -----------  -------------  -----------  -----------
+
+BALANCE AT JUNE 30, 2003                      8,502,758  $85,000  $11,418,000  $41,670,000    $ 176,000    $(1,396,000) $51,953,000
+Net income                      $2,176,000           --       --           --    2,176,000           --             --    2,176,000
+Tax benefit of stock options
+   exercised                            --           --       --       55,000           --           --             --       55,000
+Stock awards                            --       21,350       --      190,000           --           --             --      190,000
+Stock option compensation
+   expense                              --           --       --       10,000           --           --             --       10,000
+Exercise of stock options               --      119,950    1,000      341,000           --           --             --      342,000
+Other comprehensive income,
+   net of tax:
+   Unrealized losses on
+      investments
+      available-for-sale, net
+      of reclassification
+      adjustment                    (5,000)
+   Foreign currency
+      translation adjustment       106,000
+                                ----------
+Other comprehensive income,
+   net of tax                      101,000           --       --           --           --      101,000             --      101,000
+                                ----------
+Comprehensive income            $2,277,000
+                                ==========
+BALANCE AT JUNE 30, 2004                      8,644,058  $86,000  $12,014,000  $43,846,000    $ 277,000    $(1,396,000) $54,827,000
+Net income                      $4,268,000           --       --           --    4,268,000           --             --    4,268,000
+Tax benefit of stock options
+   exercised                            --           --       --      215,000           --           --             --      215,000
+Stock awards                            --       22,000       --      120,000           --           --             --      120,000
+Stock option compensation
+   expense                              --           --       --       44,000           --           --             --       44,000
+Exercise of stock options               --      251,405    3,000      802,000           --           --             --      805,000
+Other comprehensive loss, net
+   of tax:
+   Unrealized gain on
+      investments
+      available-for-sale,
+      net of reclassification
+      adjustment                     5,000
+   Foreign currency
+      translation adjustment      (137,000)
+                                ----------
+Other comprehensive loss, net
+   of tax                         (132,000)          --       --           --           --     (132,000)            --     (132,000)
+                                ----------
+Comprehensive income            $4,136,000
+                                ==========
+BALANCE AT JUNE 30, 2005                      8,917,463  $89,000  $13,195,000  $48,114,000    $ 145,000    $(1,396,000) $60,147,000
+Net income                      $5,988,000           --       --           --    5,988,000           --             --    5,988,000
+Tax benefit of stock options
+   exercised                            --           --       --      458,000           --           --             --      458,000
+Stock awards                            --       16,450       --      209,000           --           --             --      209,000
+Stock option compensation
+   expense                              --           --       --      279,000           --           --             --      279,000
+Exercise of stock options               --      170,700    2,000      859,000           --           --             --      861,000
+Other comprehensive income,
+   net of tax:
+   Unrealized gain on
+      investments
+      available-for-sale, net
+      of reclassification
+      adjustment                    (1,000)
+   Foreign currency
+      translation adjustment       126,000
+                                ----------
+Other comprehensive income,
+   net of tax                      125,000           --       --           --           --      125,000             --      125,000
+                                ----------
+Comprehensive income            $6,113,000
+                                ==========
+BALANCE AT JUNE 30, 2006                      9,104,613  $91,000  $15,000,000  $54,102,000    $ 270,000    $(1,396,000) $68,067,000
+                                              ======================================================================================
+</FONT>
+
+SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+
+
+                                       F-4
+
+<PAGE>
+
+               AMERICAN TECHNICAL CERAMICS CORP. AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                 FISCAL YEARS ENDED JUNE 30, 2006, 2005 AND 2004
+
+<FONT size="1">
+
+                                                                 2006          2005          2004
+                                                             -----------   -----------   -----------
+
+CASH FLOWS FROM OPERATING ACTIVITIES:
+   Net income                                                $ 5,988,000   $ 4,268,000   $ 2,176,000
+   Adjustments to reconcile net income to net cash
+      provided by/(used in)  operating activities:
+      Depreciation and amortization                            6,207,000     5,383,000     5,152,000
+      Loss/(gain) on disposal of fixed assets                    246,000       (12,000)      373,000
+      Stock based compensation expense                           488,000       164,000       200,000
+      Excess tax benefits from stock based
+         compensation arrangements                              (458,000)     (215,000)      (55,000)
+      Provision for doubtful accounts and sales returns          101,000      (170,000)       32,000
+      Deferred income taxes                                   (1,021,000)      (99,000)     (570,000)
+      Investment interest accretion, net                         (46,000)      (17,000)      (21,000)
+      Realized loss on sale of investments                            --         7,000         2,000
+   Changes in operating assets and liabilities:
+      Accounts receivable                                     (2,626,000)      651,000    (3,781,000)
+      Inventories                                             (5,580,000)   (5,348,000)   (7,038,000)
+      Other assets                                              (200,000)     (147,000)     (224,000)
+      Accounts payable, accrued expenses and
+         income taxes payable                                  2,569,000        61,000     3,606,000
+                                                             -----------   -----------   -----------
+   Net cash provided by/(used in) operating activities         5,668,000     4,526,000      (148,000)
+                                                             -----------   -----------   -----------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+      Capital expenditures                                    (8,309,000)   (8,784,000)   (4,506,000)
+      Purchase of investments                                 (3,125,000)   (3,508,000)   (3,482,000)
+      Proceeds from sale of investments                        3,100,000     4,010,000     3,997,000
+      Proceeds from sale of fixed assets                          35,000        49,000        22,000
+                                                             -----------   -----------   -----------
+   Net cash used in investing activities                      (8,299,000)   (8,233,000)   (3,969,000)
+                                                             -----------   -----------   -----------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+      Repayment of long-term debt                             (1,269,000)   (2,661,000)     (355,000)
+      Proceeds from exercise of stock options                    861,000       805,000       342,000
+      Excess tax benefits from stock based
+      compensation arrangements                                  458,000       215,000        55,000
+      Proceeds from issuance of debt                           3,956,000     5,750,000            --
+                                                             -----------   -----------   -----------
+   Net cash provided by financing activities                   4,006,000     4,109,000        42,000
+                                                             -----------   -----------   -----------
+      Effect of exchange rate changes on cash                    (72,000)       (9,000)      (76,000)
+                                                             -----------   -----------   -----------
+      Net increase/(decrease) in cash and cash equivalents     1,303,000       393,000    (4,151,000)
+
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR                   4,927,000     4,534,000     8,685,000
+                                                             -----------   -----------   -----------
+CASH AND CASH EQUIVALENTS, END OF YEAR                       $ 6,230,000   $ 4,927,000   $ 4,534,000
+                                                             ===========   ===========   ===========
+
+Supplemental cash flow information:
+      Interest paid                                          $   650,000   $   468,000   $   364,000
+      Income taxes paid                                      $ 1,967,000   $ 2,764,000   $   237,000
+</FONT>
+
+See accompanying notes to consolidated financial statements.
+
+
+                                       F-5
+
+<PAGE>
+
+               AMERICAN TECHNICAL CERAMICS CORP. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     DESCRIPTION OF BUSINESS AND NATURE OF OPERATIONS
+
+     American Technical Ceramics Corp. and its wholly-owned subsidiaries (the
+"Company") are engaged in the design, development, manufacture and sale of
+electronic components, including ceramic multilayer capacitors and custom thin
+film circuits. These products are primarily used for commercial and military
+purposes in the United States and for export, primarily to Western Europe,
+Canada and the Far East. In fiscal years 2006, 2005 and 2004, no one customer
+accounted for more than 10% of consolidated net sales. The Company operates in
+one industry segment - the electronic components industry.
+
+     BASIS OF PRESENTATION
+
+     The accompanying consolidated financial statements include the accounts of
+American Technical Ceramics Corp. and its wholly-owned subsidiaries. All
+intercompany balances and transactions have been eliminated in consolidation.
+
+     REVENUE RECOGNITION
+
+     The Company generates revenue from product sales to original equipment
+manufacturers and resellers. The Company recognizes revenue when persuasive
+evidence of an arrangement exists (which is evidenced by written purchase
+arrangements), delivery has occurred and title has passed to the customer, the
+selling price is fixed or determinable and collectibility of the resulting
+receivable is reasonably assured. The Company does not perform any installation
+services and does not have any post-shipment obligations. The Company typically
+warranties that its products will be free from defects in material and
+workmanship for 90 days. However, defective product may be accepted beyond this
+period. The Company provides for estimated sales returns when the underlying
+sale is made, based upon historical experience and known events or trends, in
+accordance with Statement of Financial Accounting Standards No. 48, "Revenue
+Recognition when Right of Return Exists". Historically, product returns and
+associated warranty costs have not been significant. Shipping and handling fees
+charged to customers are included in net sales, and related costs are included
+in cost of sales.
+
+     CASH EQUIVALENTS
+
+     The Company considers all highly liquid debt instruments with a maturity of
+three months or less when purchased to be cash equivalents, including money
+market accounts and certificates of deposit.
+
+     INVESTMENTS
+
+     The Company classifies its investments in debt and equity securities as
+available-for-sale. Accordingly, these investments are reported at fair value
+with unrealized holding gains and losses excluded from earnings and reported as
+a component of accumulated other comprehensive income/loss within stockholders'
+equity, net of tax. Classification of investments is determined at acquisition
+and reassessed at each reporting date. Realized gains and losses are included in
+the determination of net earnings at the time of sale and are derived using the
+specific identification method for determining cost of securities sold.
+
+
+                                      F-6
+
+<PAGE>
+
+     INVENTORIES
+
+     Inventories are stated at the lower of aggregate cost (first-in, first-out)
+or market.
+
+     COMPREHENSIVE INCOME
+
+     The following table sets forth the components of the change in net
+unrealized gains/(losses) on investments available-for-sale for the fiscal years
+ended June 30, 2006, 2005 and 2004:
+
+                                                     2006     2005      2004
+                                                   -------   ------   -------
+Unrealized holding losses
+   arising during the period, net of tax           $(1,000)  $   --   $(7,000)
+Less: reclassification adjustment for
+   losses included in net income, net of tax            --    5,000     2,000
+                                                   -------   ------   -------
+Change in net unrealized (losses)/gains on
+   investments available-for-sale                  $(1,000)  $5,000   $(5,000)
+                                                   =======   ======   =======
+
+     The deferred tax (benefit)/liability associated with unrealized holding
+gains/(losses) arising during the fiscal years 2006, 2005 and 2004 was nil, nil
+and ($3,000), respectively. The tax benefit of the reclassification adjustments
+for gains on sales of investments included in net income was nil, $3,000 and nil
+for fiscal years 2006, 2005 and 2004, respectively.
+
+     LONG-LIVED ASSETS
+
+     Property, plant and equipment are stated at cost. Repairs and maintenance
+costs are expensed as incurred. Depreciation and amortization are provided
+primarily using the straight-line method over the estimated useful lives of the
+related assets as follows:
+
+Buildings                                                              30 years
+Leasehold improvements            Lesser of the remaining lease term or 5 years
+Machinery and equipment                                           3 to 10 years
+Computer equipment and software                                    2 to 5 years
+Furniture, fixtures and other                                      3 to 8 years
+
+     The Company reviews its long-lived assets for impairment whenever events or
+circumstances indicate that the carrying amount of an asset may not be
+recoverable. If the sum of the expected cash flows, undiscounted and without
+interest, is less than the carrying amount of the asset, an impairment loss is
+recognized as the amount by which the carrying amount of the asset exceeds its
+fair value.
+
+     INCOME TAXES
+
+     Deferred tax assets and liabilities are recognized for the future tax
+consequences attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases. Deferred tax assets and liabilities are measured using enacted tax rates
+expected to apply to taxable income in the years in which those temporary
+differences are expected to be realized or settled. The effect on deferred tax
+assets and liabilities of a change in tax rates is recognized in income in the
+period that includes the enactment date.
+
+
+                                      F-7
+
+<PAGE>
+
+     FOREIGN CURRENCY TRANSLATION
+
+     The Company translates the financial statements of its foreign subsidiaries
+(located in Sweden and China) by applying the current exchange rate as of the
+balance sheet date to the assets and liabilities of the subsidiary and a
+weighted average rate to such subsidiary's results of operations. The resulting
+translation adjustment is recorded as a component of stockholders' equity.
+
+     STOCK-BASED COMPENSATION
+
+     On July 1, 2005, the Company adopted Statement of Financial Accounting
+Standards No. 123 (revised 2004), "Share-Based Payment" ("SFAS No. 123 (R)").
+This Statement is a revision of SFAS No. 123, "Accounting for Stock-Based
+Compensation." SFAS No. 123 (R) supersedes APB Opinion No. 25 and its related
+implementation guidance. Under SFAS No. 123 (R), stock compensation expense will
+be recognized for the portion of all awards for which the requisite service has
+not been rendered based upon the award's fair value on the date of grant.
+
+     During the years ended June 30, 2006, 2005 and 2004, there were 65,000,
+50,000 and 13,000 options granted, respectively. The average per share fair
+value of stock options granted during fiscal years 2006, 2005 and 2004 was
+$8.62, $5.68 and $3.57, respectively, as determined by the Black-Scholes option
+pricing model (assuming a risk-free interest rate of 4.40%, 3.79% and 3.30%,
+respectively, expected life of five years, expected volatility of 73.7%, 69.3%
+and 71.5%, respectively, and no dividends). The weighted average remaining
+contractual life of options outstanding as of June 30, 2006 was 4.8 years.
+
+     Had compensation expense with respect to options and awards been determined
+based on the fair value method on the date of grant consistent with the
+methodology prescribed under SFAS No. 123 prior to July 1, 2003, the Company's
+net income and earnings per share would have approximated the pro forma amounts
+indicated below:
+
+<FONT size="1">
+
+                                                                  For Year Ended June 30,
+                                                                 ------------------------
+                                                                    2005         2004
+                                                                 ----------   -----------
+
+Net income, as reported                                          $4,268,000   $ 2,176,000
+Add: Stock-based employee compensation expense
+   included in reported net income, net of related tax effects      117,000       154,000
+Deduct: Total stock-based employee compensation
+   expense determined under fair value based method for all
+   awards, net of related tax effects                              (424,000)   (1,410,000)
+                                                                 ----------   -----------
+Pro forma net income                                             $3,961,000   $   920,000
+                                                                 ==========   ===========
+Income per share:
+   Basic - as reported                                           $     0.51   $      0.27
+   Basic - pro forma                                             $     0.47   $      0.11
+   Diluted - as reported                                         $     0.49   $      0.25
+   Diluted - pro forma                                           $     0.45   $      0.11
+</FONT>
+
+     The weighted-average fair value of each stock option included in the
+preceding pro forma amounts is estimated using the Black-Scholes option pricing
+model and is amortized ratably over the vesting period of the options which is
+typically four years.
+
+
+                                      F-8
+
+<PAGE>
+
+     EARNINGS PER SHARE
+
+     Basic earnings per share ("EPS") is computed by dividing income available
+to common stockholders (which for the Company equals its net income) by the
+weighted average number of common shares outstanding, and dilutive EPS adds the
+dilutive effect of stock options and other common stock equivalents.
+Antidilutive shares aggregating 147,121, 372,000 and 520,000, respectively, have
+been omitted from the calculation of dilutive EPS for the fiscal years ended
+June 30, 2006, 2005 and 2004, respectively. A reconciliation between numerators
+and denominators of the basic and diluted earnings per share is as follows:
+
+<FONT size="1">
+
+                                         YEAR ENDED JUNE 30, 2006                  YEAR ENDED JUNE 30, 2005
+                                 ---------------------------------------   ---------------------------------------
+                                    INCOME         SHARES      PER-SHARE     INCOME         SHARES       PER-SHARE
+                                 (NUMERATOR)   (DENOMINATOR)     AMOUNT    (NUMERATOR)   (DENOMINATOR)     AMOUNT
+                                 -----------   -------------   ---------   -----------   -------------   ---------
+
+Basic EPS                        $5,988,000      8,573,000       $ 0.70     $4,268,000     8,402,000       $0.51
+Effect of Dilutive Securities:
+   Stock Options                         --        312,000        (0.03)            --       328,000       (0.02)
+   Stock Awards                          --          6,000           --             --         8,000          --
+                                 ----------      ---------       ------     ----------     ---------       -----
+Diluted EPS                      $5,988,000      8,891,000       $ 0.67     $4,268,000     8,738,000       $0.49
+                                 ==========      =========       ======     ==========     =========       =====
+
+
+                                         YEAR ENDED JUNE 30, 2004
+                                 ---------------------------------------
+                                    INCOME         SHARES      PER-SHARE
+                                 (NUMERATOR)   (DENOMINATOR)     AMOUNT
+                                 -----------   -------------   ---------
+
+Basic EPS                         $2,176,000     8,132,000       $0.27
+Effect of Dilutive Securities:
+Stock Options                             --       444,000       (0.02)
+Stock Awards                              --         7,000          --
+                                  ----------     ---------       -----
+Diluted EPS                       $2,176,000     8,583,000       $0.25
+                                  ==========     =========       =====
+</FONT>
+
+     IMPACT OF NEW ACCOUNTING STANDARDS
+
+     On July 1, 2005, the Company adopted SFAS No. 123 (R). This Statement is a
+revision of FASB Statement No. 123, "Accounting for Stock-Based Compensation."
+SFAS No. 123 (R) supersedes Accounting Principles Board Opinion No. 25,
+"Accounting for Stock Issued to Employees" ("APB No. 25"), and its related
+implementation guidance. SFAS No. 123 (R) establishes standards for the
+accounting for transactions in which an entity exchanges its equity instruments
+for goods or services. It also addresses transactions in which an entity incurs
+liabilities in exchange for goods or services that are based on the fair value
+of the entity's equity instruments, or that may be settled by the issuance of
+those equity instruments. The adoption of this standard resulted in an
+additional expense of $120,000 ($0.01 per basic and diluted common share) being
+recorded in fiscal year 2006, which related to options granted prior to July 1,
+2003 that were not fully vested before July 1, 2005.
+
+     On July 1, 2005, the Company adopted Statement of Financial Accounting
+Standards No. 151 "Inventory Costs - an amendment of ARB No. 43, Chapter 4,
+Inventory Pricing" ("SFAS No. 151"). SFAS No. 151 amends the guidance in ARB No.
+43, Chapter 4 to clarify the accounting for abnormal amounts of idle facility
+expense, freight, handling costs and wasted material (spoilage). SFAS No. 151
+requires that those items be recognized as current period charges regardless of
+whether they meet the criterion of "so abnormal." In addition, SFAS No. 151
+requires that allocation of fixed production overhead to the costs of conversion
+be based on the normal capacity of the production facilities. The adoption of
+SFAS No. 151 did not have a material impact on the Company's consolidated
+results of operations or financial position.
+
+     On December 31, 2004, FASB issued Staff Position No. FAS 109-2,
+"Application of FASB Statement No. 109, Accounting for Income Taxes, to the Tax
+Deduction on Qualified Production Activities Provided by the American Jobs
+Creation Act of 2004" ("FSP No. 109-1"), and Staff Position No. 109-2,
+"Accounting and Disclosure Guidance for the Foreign Earnings Repatriation
+Provision within the American Jobs Creation Act of 2004" ("FSP No. 109-2").
+These staff positions provide accounting guidance on how companies should
+account for the effects for the American Jobs Creation Act of 2004 ("AJCA") that
+was signed into law on October 22, 2004. FSP No. 109-1 states that the tax
+relief (special tax deduction for domestic manufacturing) from this legislation
+should be accounted for as a "special deduction" instead of a tax rate
+reduction. The Company has assessed the repatriation provisions and repatriated
+a dividend, as defined in the AJCA, during its second fiscal quarter ended
+December 31, 2005.
+
+
+                                      F-9
+
+<PAGE>
+
+     In March 2005, the Financial Accounting Standards Board issued FASB
+Interpretation No. 47, "Accounting for Conditional Asset Retirement Obligations"
+("FIN No. 47"). This Interpretation clarifies that the term "conditional asset
+retirement obligation" as used in FASB Statement No. 143, Accounting for Asset
+Retirement Obligations, refers to a legal obligation to perform an asset
+retirement activity in which the timing and (or) method of settlement are
+conditional on a future event that may or may not be within the control of the
+entity. The obligation to perform the asset retirement activity is unconditional
+even though uncertainty exists about the timing and (or) method of settlement.
+Accordingly, an entity is required to recognize a liability for the fair value
+of a conditional asset retirement obligation if the fair value of the liability
+can be reasonably estimated. The fair value of a liability for the conditional
+asset retirement obligation should be recognized when incurred, generally upon
+acquisition, construction, or development and (or) through the normal operation
+of the asset. This Interpretation also clarifies when an entity would have
+sufficient information to reasonably estimate the fair value of an asset
+retirement obligation. The adoption of FIN No. 47 did not have a material impact
+on the Company's financial position and consolidated results of operations.
+
+     ACCOUNTING ESTIMATES
+
+     The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the consolidated
+financial statements and the reported amounts of revenues and expenses during
+the reporting period. Such estimates include, but are not limited to, provisions
+for doubtful accounts receivable and sales returns, net realizable value of
+inventory, and assessments of the recoverability of the Company's long lived
+assets (including deferred taxes). Actual results could differ from those
+estimates.
+
+     SUPPLEMENTAL CASH FLOW INFORMATION
+
+     During fiscal year 2006, significant non-cash activities included (i) a tax
+benefit of $458,000 resulting from stock options exercised, (ii) compensation
+expense of $210,000 in connection with awards of an aggregate of 16,450 shares
+of common stock, and (iii) compensation expense of $279,000 recognized in
+connection with 859,000 stock options which will also result in compensation
+expense of $698,000 to be recognized ratably over the next three years.
+
+     During fiscal year 2005, significant non-cash activities included (i) a tax
+benefit of $215,000 resulting from stock options exercised, (ii) compensation
+expense of $120,000 in connection with awards of an aggregate of 15,000 shares
+of common stock, and (iii) compensation expense of $44,000 recognized in
+connection with 38,000 stock options which will also result in compensation
+expense of $122,000 to be recognized ratably over the next three years.
+
+     During fiscal year 2004, significant non-cash activities included (i) a tax
+benefit of $55,000 resulting from stock options exercised, (ii) compensation
+expense of $317,000 in connection with awards of an aggregate of 28,350 shares
+of common stock, and (iii) compensation expense of $10,000 recognized in
+connection with 13,000 stock options which will also result in compensation
+expense of $37,000 to be recognized ratably over the next four years.
+
+
+                                      F-10
+
+<PAGE>
+
+NOTE 2. INVESTMENTS
+
+     Investments consist of the following:
+
+                                              Gross        Gross
+                                           Unrealized   Unrealized
+       June 30, 2006             Cost         Gains       Losses     Fair Value
+---------------------------   ----------   ----------   ----------   -----------
+U.S. Government obligations   $2,096,000       $--        $2,000      $2,094,000
+                              ----------       ---        ------      ----------
+                              $2,096,000       $--        $2,000      $2,094,000
+                              ==========       ===        ======      ==========
+
+                                              Gross        Gross
+                                           Unrealized   Unrealized
+       June 30, 2005             Cost         Gains       Losses     Fair Value
+---------------------------   ----------   ----------   ----------   -----------
+U.S. Government obligations   $1,024,000       $--        $1,000      $1,023,000
+N.J. Municipal bonds           1,000,000        --            --       1,000,000
+                              ----------       ---        ------      ----------
+                              $2,024,000       $--        $1,000      $2,023,000
+                              ==========       ===        ======      ==========
+
+     All of the Company's investments at June 30, 2006 contractually mature
+within one year.
+
+NOTE 3. INVENTORIES
+
+     Inventories consist of the following:
+
+                                   June 30, 2006   June 30, 2005
+                                   -------------   -------------
+Raw materials                       $17,095,000     $14,122,000
+Work in process                       8,605,000       7,382,000
+Finished goods                        7,555,000       6,036,000
+                                    -----------     -----------
+                                    $33,255,000     $27,540,000
+                                    ===========     ===========
+
+NOTE 4. LONG-TERM DEBT
+
+     Long-term debt consists of the following:
+
+                                   June 30, 2006   June 30, 2005
+                                   -------------   -------------
+Notes payable to banks               $6,727,000      $3,483,000
+Obligations under capital leases      2,459,000       2,896,000
+                                     ----------      ----------
+                                      9,186,000       6,379,000
+Less: Current portion                 1,957,000       1,103,000
+                                     ----------      ----------
+   Long-term debt                    $7,229,000      $5,276,000
+                                     ==========      ==========
+
+     NOTES PAYABLE TO BANKS
+
+     In April 2004, the Company entered into a $4,000,000 credit facility with
+General Electric Capital Corporation ("GECC") for the purchase of equipment. In
+May 2005, the credit facility was increased to $6,000,000. Borrowings under the
+line bear interest, at the Company's option, at either a fixed rate of 3.47%
+above the five year Treasury Bond yield at the time of election or a floating
+rate of 3.65% above LIBOR. Borrowings under the line are secured by the
+equipment purchased thereunder. Each separate borrowing under the line will be a
+fully amortizing term loan with a maturity of five years from the date the funds
+are drawn down. The line of credit will expire on March 24, 2007. GECC has the
+option to securitize these loans with a third party. Loans securitized with a
+third party increase the available line of credit to the Company. As of June 30,
+2006, the Company had $5,059,000 of borrowings outstanding under this facility
+at fixed interest rates ranging from 7.15% and 7.93%. At June 30, 2006, the
+Company had $6,000,000 available to borrow under this credit facility.
+
+
+                                      F-11
+
+<PAGE>
+
+     In December 2004, the Company entered into a credit facility with Commerce
+Bank, N.A. Under the terms of this facility, the Company may request advances
+from time to time up to an aggregate of $5,000,000. Any advance made bears
+interest at the Prime Rate as reported in the Wall Street Journal. Borrowings
+under the facility are secured by a lien on the Company's accounts receivable
+and inventory. Borrowings under the line expire on November 30, 2006. The
+facility is subject to certain financial covenants, including minimum tangible
+net worth and liability percentage ratios. As of June 30, 2006, the Company had
+no outstanding borrowings under this credit facility.
+
+     In September 2005, the Company's wholly-owned subsidiary in Sweden obtained
+a series of five term loans aggregating 12,000,000 Swedish Krona ("SEK")
+(approximately $1,700,000) from Svenska Handelsbanken, AB ("Handelsbanken"). The
+loans are unsecured and bear interest at fixed rates ranging from 3.56% to
+4.59%. The five loans are each for a principal amount of 2,400,000 SEK and are
+fully amortizing. The loans mature in one to five years with the first maturing
+on September 30, 2006 and one other maturing on each succeeding September 30th
+through 2010. In connection with, and as an inducement to Handelsbanken to make
+the loans, the Company entered into a Guaranty and Agreement with Handelsbanken
+whereby the Company has agreed to guarantee the payment of all its Swedish
+subsidiary's obligations under the loans.
+
+     The following table sets forth the contractual maturity of notes payable to
+banks as of June 30, 2006:
+
+2007                          $1,472,000
+2008                           1,560,000
+2009                           1,654,000
+2010                           1,375,000
+2011 and thereafter              666,000
+                              ----------
+Total minimum debt payments    6,727,000
+Less: Current portion          1,472,000
+                              ----------
+                              $5,255,000
+                              ==========
+
+     OBLIGATIONS UNDER CAPITAL LEASES
+
+     The Company leases an administrative office, manufacturing and research and
+development complex located in Jacksonville, Florida (the "Jacksonville
+Facility") from a partnership controlled by the Company's President, Chief
+Executive Officer and principal stockholder under a capital lease. At June 30,
+2006, the Jacksonville Facility has an aggregate cost of $5,104,000 and a net
+book value of $1,587,000. The lease is for a period of 30 years, was capitalized
+using an interest rate of 10.5% and expires on September 30, 2010. The lease
+currently provides for base rent of approximately $780,000 per annum. The lease
+further provides for annual increases in base rent for years beginning after May
+1, 1999, based on the increase in the Consumer Price Index since May 1, 1998
+applied to base rent. The lease also provides for increases to the base rent in
+connection with any new construction at the Jacksonville Facility. Under the
+lease, upon any new construction being placed into use, the base rental is
+subject to increase to the fair market rental of the Jacksonville Facility,
+including the new construction.
+
+
+                                      F-12
+
+<PAGE>
+
+     The following table sets forth the future minimum lease payments (excluding
+contingent rental adjustments) under this capital lease by fiscal year and the
+present value of the minimum lease payments as of June 30, 2006:
+
+2007                                 $  719,000
+2008                                    719,000
+2009                                    719,000
+2010                                    719,000
+2011 and thereafter                     180,000
+                                     ----------
+Total minimum lease payments          3,056,000
+Less: Amount representing interest      597,000
+                                     ----------
+Present value at June 30, 2006        2,459,000
+Less: Current portion                   485,000
+                                     ----------
+                                     $1,974,000
+                                     ==========
+
+     Contingent rentals of $55,000, $32,000 and $11,000 were expensed during
+fiscal years 2006, 2005 and 2004, respectively.
+
+NOTE 5. INCOME TAXES
+
+     The components of income before income taxes are as follows:
+
+                Fiscal Years Ended June 30,
+           ------------------------------------
+              2006          2005         2004
+           ----------   ----------   ----------
+Domestic   $7,492,000   $5,577,000   $1,940,000
+Foreign       904,000      464,000      289,000
+           ----------   ----------   ----------
+           $8,396,000   $6,041,000   $2,229,000
+           ==========   ==========   ==========
+
+     The provision for income taxes consists of the following:
+
+                               Years Ended June 30,
+                       -----------------------------------
+                          2006         2005         2004
+                       ----------   ----------   ---------
+CURRENT:
+   Federal             $2,705,000   $1,737,000   $ 951,000
+   State                   41,000       13,000    (110,000)
+   Foreign                177,000      122,000    (218,000)
+                       ----------   ----------   ---------
+      Total current     2,923,000    1,872,000     623,000
+                       ----------   ----------   ---------
+DEFERRED:
+   Federal               (736,000)     (95,000)   (561,000)
+   State                  193,000      (38,000)         --
+   Foreign                 28,000       34,000      (9,000)
+                       ----------   ----------   ---------
+      Total deferred     (515,000)     (99,000)   (570,000)
+                       ----------   ----------   ---------
+                       $2,408,000   $1,773,000   $  53,000
+                       ==========   ==========   =========
+
+
+                                      F-13
+
+<PAGE>
+
+     The following table reconciles the Federal statutory rate to the Company's
+effective tax rate:
+
+                                                                Years Ended
+                                                                  June 30,
+                                                            -------------------
+                                                            2006   2005    2004
+                                                            ----   ----   -----
+Tax provision computed at statutory rate                    34.0%  34.0%   34.0%
+State tax and State tax credit, net of Federal tax effect    1.2    0.9     1.1
+EIE Manufacturer deduction benefit                          (3.6)  (4.0)   (7.5)
+Foreign tax                                                 (0.5)  (0.7)   (4.9)
+Changes in tax contingency estimates
+   and audit settlements (1)                                (6.5)  (0.5)  (19.9)
+Deferred tax benefit from State tax law change               0.9   (1.9)     --
+Tax credits and other, net                                   3.2    1.5    (0.4)
+                                                            ----   ----   -----
+                                                            28.7%  29.3%    2.4%
+                                                            ====   ====   =====
+
+     (1) The Company has undergone tax audits in various jurisdictions which are
+substantially complete. In fiscal years 2006, 2005 and 2004, the Company
+recognized benefits as a result of audit settlements and the reevaluation of
+certain tax contingency estimates relating to these jurisdictions.
+
+     The tax effects of temporary differences that give rise to significant
+portions of the deferred tax assets and deferred tax liabilities at June 30,
+2006 and 2005, are presented below.
+
+<FONT size="1">
+
+                                                                  June 30,
+                                                         -------------------------
+                                                             2006          2005
+                                                         -----------   -----------
+
+Deferred tax assets:
+   Allowance for doubtful accounts receivable
+      and sales returns                                  $   145,000   $   106,000
+   Inventories                                             2,620,000     1,715,000
+   Accrued expenses                                          819,000       737,000
+   Net operating loss
+      and tax credit carry forwards                        1,135,000     1,457,000
+                                                         -----------   -----------
+   Total deferred tax assets                               4,719,000     4,015,000
+                                                         -----------   -----------
+   Valuation allowance                                    (1,247,000)   (1,347,000)
+                                                         -----------   -----------
+      Net deferred tax assets                              3,472,000     2,668,000
+                                                         -----------   -----------
+Deferred tax liabilities:
+   Plant and equipment, principally due to differences
+      in depreciation and capital leases                  (3,091,000)   (3,308,000)
+                                                         -----------   -----------
+      Total deferred tax liabilities                      (3,091,000)   (3,308,000)
+                                                         -----------   -----------
+         Net deferred tax asset/(liability)              $   381,000   $  (640,000)
+                                                         ===========   ===========
+</FONT>
+
+     In assessing the realizability of deferred tax assets, management considers
+whether it is more likely than not that some portion or all of the deferred tax
+assets will not be realized. The ultimate realization of deferred tax assets is
+dependent upon the generation of future taxable income during the periods in
+which those temporary differences become deductible. Management considers the
+expected reversal of deferred tax liabilities, expected future taxable income
+and tax planning strategies in making this assessment. Based upon the level of
+historical taxable income, expected future taxable income over the periods in
+which the deferred tax assets are deductible, and reversals of deferred tax
+liabilities, management believes (although there can be no assurance) that it is
+more likely than not that the Company will realize the benefits of these
+deductible differences in the United States. The Company has available state net
+operating loss carryforwards which expire in various years through 2025.
+However, due to the uncertainties of realizing certain tax loss carryforwards, a
+valuation allowance of $1,247,000 has been provided against the associated
+deferred tax asset.
+
+
+                                      F-14
+
+<PAGE>
+
+     The Company had $770,000 of undistributed earnings of foreign subsidiaries
+as of June 30, 2006. No accrual of U.S. income taxes on the earnings of these
+subsidiaries has been recorded because, at June 30, 2006, management's intention
+is to reinvest such earnings in the operations of such subsidiaries.
+Determination of the amount of unrecognized deferred U.S. income tax liabilities
+is not practicable to calculate because of the complexity of this hypothetical
+calculation.
+
+     The Company has assessed the repatriation provisions of the "American Jobs
+Creation Act of 2004" and has repatriated a dividend during the fiscal year
+ended June 30, 2006.
+
+NOTE 6. STOCK-BASED COMPENSATION
+
+          STOCK OPTIONS
+
+     On April 1, 1997, the Board of Directors approved the American Technical
+Ceramics Corp. 1997 Stock Option Plan (the "1997 Option Plan") pursuant to which
+the Company may grant options to purchase up to 800,000 shares of the Company's
+common stock. On April 11, 2000, the Board of Directors approved the American
+Technical Ceramics Corp. 2000 Incentive Stock Plan (the "2000 Plan", and
+collectively with the 1997 Option Plan, the "Plans") pursuant to which the
+Company may grant options or stock awards covering up to 1,200,000 shares of the
+Company's common stock. Options granted under the Plans may be either incentive
+or non-qualified stock options. The term of each incentive stock option shall
+not exceed ten years from the date of grant (five years for grants to employees
+who own 10% or more of the voting power of the Company's common stock), and
+options may vest in accordance with a vesting schedule established by the plan
+administrator (typically 25% per year during the first four years of their
+term). Unless terminated earlier by the Board, the 1997 Option Plan will
+terminate on March 31, 2007. Unless terminated earlier by the Board, the 2000
+Plan will terminate on April 10, 2010.
+
+     Disposition of shares acquired pursuant to the exercise of incentive stock
+options under both Plans may not be made by the optionees within two years
+following the date that the option is granted, nor within one year after the
+exercise of the option, without the written consent of the Company.
+
+     Prior to fiscal year 2004, the Company did not recognize compensation cost
+for these options upon grant as the exercise price was equal to or greater than
+the fair market value of the underlying stock at the date of grant. In July
+2003, the Company adopted Statement of Financial Accounting Standards No. 123
+("SFAS No. 123"), using the prospective method as prescribed in Statement of
+Financial Accounting Standards No. 148 ("SFAS No. 148"). The Company applied
+SFAS No. 123 in accounting for employee stock-based compensation awarded or
+granted after June 30, 2003, and applied Accounting Principles Board Opinion No.
+25, "Accounting for Stock Issued to Employees" ("Opinion No. 25"), in accounting
+for employee stock-based compensation awarded or granted prior to July 1, 2003,
+and makes pro-forma disclosures of net income and net income per share as if the
+fair value method under SFAS No. 123, as amended by SFAS No. 148, had been
+applied. The Company has recognized $159,000, $44,000 and $10,000 in
+compensation expense for the fiscal years ended June 30, 2006, 2005 and 2004,
+respectively, for options granted after June 30, 2003.
+
+     On January 16, 2002, the Company filed a Schedule TO with the Securities
+and Exchange Commission and commenced an offer to exchange outstanding options
+under the Plans having an exercise price per share of $19.50 or more for new
+options. The offer expired on February 13, 2002. The Company accepted for
+exchange options to purchase an aggregate of 432,000 shares of common stock. On
+August 15, 2002, the Company issued 407,000 new options in exchange for the
+options tendered and accepted for exchange. The new options were issued at the
+closing price of the Company's common stock on August 15, 2002, which was $2.35
+per share. No compensation expense was recognized as a result of these
+exchanges.
+
+     On July 1, 2005, the Company adopted Statement of Financial Accounting
+Standards No. 123 (revised 2004), "Share-Based Payment" ("SFAS No. 123 (R)").
+This Statement is a revision of SFAS No. 123. SFAS No. 123 (R)
+
+
+                                      F-15
+
+<PAGE>
+
+supersedes Opinion No. 25 and its related implementation guidance. SFAS No. 123
+(R) establishes standards for the accounting for transactions in which an entity
+exchanges its equity instruments for goods or services. It also addresses
+transactions in which an entity incurs liabilities in exchange for goods or
+services that are based on the fair value of the entity's equity instruments, or
+that may be settled by the issuance of those equity instruments.
+
+     During the years ended June 30, 2006, 2005 and 2004, there were 65,000,
+50,000 and 13,000 options granted, respectively. The weighted average grant-date
+fair value of stock options granted during each fiscal year was $8.62, $5.68 and
+$3.57 per share, respectively, as determined by the Black-Scholes option pricing
+model (assuming a risk-free interest rate of 4.40%, 3.98% and 3.80%,
+respectively, expected life of six years, five years, and five years,
+respectively, expected volatility of 73.7%, 69.3% and 67.0%, respectively, and
+no dividends). The total intrinsic value of options exercised during fiscal
+years ended June 30, 2006, 2005 and 2004 was $1,421,000, $1,592,000 and
+$662,000, respectively.
+
+     Expected volatility is calculated using historical volatility. The expected
+term (life) of options granted represents the period of time that options
+granted are expected to be outstanding. In determining expected life, the
+Company uses historical data to estimate option exercise and employee departure
+behavior. Groups of employees that have similar historical behavior are
+considered separately for valuation purposes. The risk free interest rate is
+based on the US Treasury Yield curve in effect at the time of grant for the
+expected life of the option.
+
+     A summary of the status of the Company's nonvested options at June 30,
+2006, and changes during the year then ended is presented below:
+
+                                               Weighted
+                                   Shares       Average
+                                   Subject    Grant Date
+                                 to Options   Fair Value
+                                 ----------   ----------
+Nonvested, beginning of period    121,000        $4.73
+Granted                            65,000         8.62
+Vested                            (65,500)        4.64
+Forfeited                            (750)        5.44
+                                  -------
+Nonvested, end of period          119,750        $6.88
+                                  =======
+
+     As of June 30, 2006, there was $698,000 of total unrecognized compensation
+costs related to nonvested options granted under the Plans. That cost is
+expected to be recognized over a weighted average period of 3.2 years. The total
+fair value of shares vested during the fiscal years ended June 20, 2006, 2005
+and 2004 was $300,000, $822,000 and $1,223,000, respectively. Compensation cost
+capitalized in inventory and fixed assets for the fiscal year ended June 30,
+2006 was $45,000. Compensation cost recognized in income for amounts previously
+capitalized in inventory and fixed assets for fiscal year 2006 was $34,000.
+
+     Cash received from the exercise of options for the fiscal years ended June
+30, 2006, 2005 and 2004 was $861,000, $805,000 and $342,000, respectively. The
+related tax benefit recognized for the fiscal years ended June 30, 2006, 2005
+and 2004 was $458,000, $215,000 and $55,000, respectively. The total
+compensation cost related to options for the fiscal years 2006, 2005 and 2004
+was $279,000, $44,000 and $10,000, respectively.
+
+
+                                      F-16
+
+<PAGE>
+
+     Stock option activity for fiscal years 2006, 2005 and 2004 is as follows:
+
+<FONT size="1">
+
+                                          2006                   2005                   2004
+                                 ---------------------   --------------------   --------------------
+                                              Weighted     Shares    Weighted     Shares    Weighted
+                                   Shares      Average    Subject     Average    Subject     Average
+                                   Subject    Exercise       to      Exercise       to      Exercise
+                                 to Options     Price     Options      Price     Options      Price
+                                 ----------   --------   ---------   --------   ---------   --------
+
+Outstanding, beginning of year     990,945     $ 7.91    1,257,400     $6.97    1,380,200     $6.63
+Granted                             65,000      13.21       50,000      9.45       13,000      5.85
+Canceled                              (750)      9.09      (32,250)     8.08       (6,250)     9.11
+Expired                            (21,750)      9.73      (32,800)     9.95       (9,600)     7.35
+Exercised                         (170,700)      5.05     (251,405)     3.20     (119,950)     2.84
+                                  --------               ---------              ---------
+Outstanding, end of year           862,745     $ 8.83      990,945     $7.91    1,257,400     $6.97
+                                  ========               =========              =========
+</FONT>
+
+     As of June 30, 2006, there were 862,745 stock options outstanding. These
+options had a weighted average remaining contractual term of 4.8 years and an
+aggregate intrinsic value of $4,310,000. At June 30, 2006, 742,995 stock options
+were exercisable having a weighted average remaining contractual term of 4.2
+years and an aggregate intrinsic value of $4,024,000.
+
+     The following table summarizes significant ranges of outstanding and
+exercisable options at June 30, 2006:
+
+<FONT size="1">
+
+                                Options Outstanding                        Options Exercisable
+                 -------------------------------------------------   ------------------------------
+ Actual Range                      Weighted
+  of Exercise                      -Average
+    Prices          Number         Remaining      Weighted-Average      Number     Weighted-Average
+150% Increment   Outstanding   Contractual Life    Exercise Price    Exercisable    Exercise Price
+--------------   -----------   ----------------   ----------------   -----------   ----------------
+
+$ 2.35 -  4.13     231,650            2.6              $ 3.17          227,150          $ 3.18
+  4.31 -  8.79     144,445            5.6              $ 5.93          112,945          $ 5.50
+  8.89 - 10.10     141,650            6.1              $ 9.16          122,900          $ 9.01
+ 11.40 - 11.40     202,000            4.4              $11.40          202,000          $11.40
+ 13.20 - 19.50     135,000            6.7              $15.36           70,000          $17.36
+ 44.00 - 44.00       8,000            3.9              $44.00            8,000          $44.00
+                   -------                                             -------
+$ 2.35 - 44.00     862,745            4.8              $ 8.83          742,995          $ 8.51
+                   =======                                             =======
+</FONT>
+
+     At June 30, 2006, an aggregate of 167,600 shares were available for option
+grants or awards under the Plans.
+
+          OTHER STOCK-BASED COMPENSATION
+
+     In fiscal years 2006, 2005 and 2004, the Company awarded an aggregate of
+16,450, 15,000 and 28,350 shares of common stock, respectively, to officers and
+certain other employees. These awards resulted in compensation expense of
+$336,000, $197,000 and $317,000, respectively (including $126,000, $77,000 and
+$127,000 of payments made to offset tax liabilities associated with these
+awards), measured by the market value of the shares on their respective grant
+dates.
+
+
+                                      F-17
+
+<PAGE>
+
+NOTE 7. COMMITMENTS AND CONTINGENCIES
+
+          OPERATING LEASES
+
+     The Company has a related party operating lease with an entity owned by the
+Company's President, Chief Executive Officer and principal stockholder, for a
+rented facility, pursuant to which the Company pays $410,000 per annum, subject
+to annual increases based upon increases in the Consumer Price Index. The lease
+expires in September 2007, subject to four five-year renewal options. Rent
+expense under this related party operating lease was approximately $438,000,
+$424,000 and $413,000 for the fiscal years ended June 30, 2006, 2005 and 2004,
+respectively.
+
+     Rent expense to unrelated parties, primarily for office space, was
+approximately $266,000, $180,000 and $157,000 for the fiscal years ended June
+30, 2006, 2005 and 2004, respectively. Minimum rent payments under existing
+lease commitments with unrelated parties extending through the year ending June
+30, 2007 are approximately $6,000 per month.
+
+          CONTINGENCIES
+
+     The Company is party to certain legal proceedings that arose in the normal
+course of its business. The Company does not believe that the resolution of such
+matters will have a significant effect on the Company's financial position or
+results of operations.
+
+          EMPLOYMENT AGREEMENTS
+
+     The Company has an employment agreement with its President and Chief
+Executive Officer which currently provides for annual base compensation of
+$425,000 as well as additional annual compensation equal to 2.5% of net income
+before such additional compensation and income taxes. The Company, at its
+option, may pay the additional annual compensation in stock, cash or a
+combination thereof, subject to certain limitations.
+
+     The agreement expires March 1st of each year but is renewed automatically
+for an additional one year in the absence of written notice to the contrary by
+either party at least 120 days prior to the March 1st renewal date. In addition,
+if there is a change in control of the Company or the employee's employment is
+terminated by the Company before the expiration of the agreement other than for
+cause (as defined in the agreement), the employee is entitled to the greater of
+(a) all compensation due under the remaining term of the agreement, or (b) a
+payment equal to three times his average annual compensation (including any
+incentives) over the last five years.
+
+     In December 2001, the Company renewed a four year employment agreement with
+an executive officer. The agreement provides for annual base compensation of
+$125,000, with annual increases of 8% over the rate in effect during the
+immediately preceding year, plus additional compensation based upon specific
+performance measures. The agreement includes termination provisions providing
+for conditional payments depending on the nature of the termination. The
+agreement expired in December 2005. The Company and the executive have entered
+into a letter agreement pursuant to which they have mutually agreed to continue
+the executive's employment on the terms set forth in the agreement until a new
+long-term agreement is negotiated.
+
+     In October 2003, the Company entered into a three year employment agreement
+with an executive officer. The agreement provides initially for annual base
+compensation of $208,428 and participation in the Company's Officers' Bonus
+Plan. If the officer is terminated by the Company during the term of the
+agreement other than for cause (as defined in the agreement), (i) the officer
+will be entitled to receive his base salary for a period of 15 months, (ii) the
+Company shall continue to provide family medical coverage for a period of 18
+months, and (iii) all exercisable options may be exercised for a period of one
+year after termination.
+
+
+                                      F-18
+
+<PAGE>
+
+     In November 2003, the Company entered into severance agreements with three
+executive officers. If the officer is terminated by the Company during the term
+of the agreement other than for cause (as defined in the agreement), (i) the
+officer will be entitled to receive his or her base salary for a period of
+months equal to the number of years the employee has been an executive officer
+plus three months up to a maximum of 15 months, (ii) the Company shall continue
+to provide family medical coverage for the severance period, and (iii) all
+exercisable options may be exercised for the lesser of the severance period or
+the expiration of the options.
+
+     In January 2004, the Company entered into a three year agreement with
+another executive officer. The agreement provides for annual base compensation
+of $165,500 and participation in the Company's Officers' Bonus Plan. In April
+2004, the annual compensation was increased to $200,000 in connection with a
+promotion. If the officer is terminated by the Company during the term of the
+agreement other than for cause (as defined in the agreement), the officer will
+be entitled to receive his base salary for one year.
+
+     In June 2005, the Company entered into an employment arrangement with an
+executive officer. The arrangement provides for annual base compensation of
+$175,000 plus additional compensation based upon specific performance measures.
+
+NOTE 8. OTHER DATA
+
+          ACCRUED EXPENSES
+
+     Accrued expenses consist of the following:
+
+                            June 30,     June 30,
+                              2006         2005
+                           ----------   ----------
+
+Accrued commissions        $  935,000   $  784,000
+Accrued salaries              407,000      392,000
+Accrued bonus               1,260,000      928,000
+Accrued vacation            1,096,000      977,000
+Accrued medical expenses    1,308,000    1,219,000
+Other                       1,186,000    1,289,000
+                           ----------   ----------
+                           $6,192,000   $5,589,000
+                           ==========   ==========
+
+          VALUATION AND QUALIFYING ACCOUNTS
+
+     Valuation and qualifying accounts included in the accompanying consolidated
+financial statements consist of the following:
+
+<FONT size="1">
+
+                                                                  Balance -    Additions   Deductions   Balance -
+                                                                  Beginning     Charged      / Other      End of
+                       Classification                             of Period   to Expense    Additions     Period
+------------------------------------------------------------      ---------   ----------   ----------   ---------
+
+For the year ended June 30, 2006:
+   Allowance for doubtful accounts receivable and sales returns    $300,000      137,000       36,000    $401,000
+For the year ended June 30, 2005:
+   Allowance for doubtful accounts receivable and sales returns    $470,000      968,000    1,138,000    $300,000
+For the year ended June 30, 2004:
+   Allowance for doubtful accounts receivable and sales returns    $438,000    1,192,000    1,160,000    $470,000
+</FONT>
+
+
+                                      F-19
+
+<PAGE>
+
+          EMPLOYEE BENEFIT DEFINED CONTRIBUTION PLAN
+
+     Effective November 1, 1985, the Company established a voluntary savings and
+defined contribution plan under Section 401(k) of the Internal Revenue Code.
+This Plan covers all U.S. employees meeting certain eligibility requirements and
+allows participants to contribute a portion of their annual compensation. For
+the fiscal years ended June 30, 2006, 2005 and 2004, the Company provided a
+matching contribution of $707,000, $602,000, and $575,000, respectively, which
+was equal to 50% of each participant's contribution up to a maximum of 6% of
+annual compensation. Employees are 100% vested in their own contributions and
+become fully vested in the employer contributions over five years.
+
+          PROFIT BONUS PLAN
+
+     Effective commencing in fiscal year 1995, the Company adopted a Profit
+Bonus Plan for the benefit of eligible employees, as defined. The plan provides
+that, for each fiscal year, the Board of Directors, in its discretion, may
+establish a bonus pool not to exceed 10% of pretax income of the Company for the
+subject fiscal year. The bonus pool is then allocated among eligible employees
+in accordance with the terms of the plan. As of June 30, 2006, 2005 and 2004,
+$839,000, $610,000 and $224,000, respectively, was accrued pursuant to this
+plan.
+
+     Effective January 1, 2000, the Company adopted a Managers' Profit Bonus
+Plan for the benefit of eligible employees, as defined. The plan provides that,
+for each fiscal year, the Board of Directors, in its discretion, may allocate a
+percentage of the Company's pre-tax profits (not to exceed 2.5% of such profits)
+for equal distribution among participants in the plan. Participants in the
+Managers' Profit Bonus Plan are no longer eligible to participate in the Profit
+Bonus Plan described above. For fiscal years 2006, 2005 and 2004, the Company
+recognized compensation expense of $210,000, $152,000 and $56,000, respectively,
+in respect of this plan.
+
+     The Company has a bonus plan for executive officers. This plan provides for
+a majority of the eligible employees to receive a cash bonus equal to at least
+0.5% of the Company's pre tax income. In addition, two of the employees have
+different plans that provide for bonus calculations based upon other factors,
+including product line profitability and achievement of bookings quotas. For
+fiscal years 2006, 2005 and 2004, the Company recognized compensation expense of
+$604,000, $381,000 and $294,000, respectively, in respect of this plan.
+
+NOTE 9. FOREIGN OPERATIONS
+
+     The Company markets and distributes a portion of its products sold abroad
+through its wholly-owned subsidiary, American Technical Ceramics Europe AB,
+located in Sweden. During fiscal year 2002, the Company established a
+wholly-owned subsidiary in the United States which established a representative
+office in the People's Republic of China to service the Asian market. The
+following table summarizes certain financial information covering the Company's
+operations by geographic area for fiscal years 2006, 2005 and 2004. Net sales
+information is based upon country of origin.
+
+                          2006          2005          2004
+                      -----------   -----------   -----------
+Net sales
+      United States   $71,273,000   $60,739,000   $51,831,000
+      Sweden           12,858,000    12,226,000     9,352,000
+                      -----------   -----------   -----------
+   Total              $84,131,000   $72,965,000   $61,183,000
+                      ===========   ===========   ===========
+Long-lived assets
+      United States   $31,644,000   $29,593,000   $26,209,000
+      Sweden               68,000        70,000        90,000
+      China                26,000        36,000        39,000
+                      -----------   -----------   -----------
+   Total              $31,738,000   $29,699,000   $26,338,000
+                      =======-===   ===========   ===========
+
+
+                                      F-20
+
+<PAGE>
+
+     U.S. sales include $28,529,000, $21,920,000 and $19,597,000 for export in
+fiscal years 2006, 2005 and 2004, respectively. Export sales were primarily to
+customers in Western Europe, Canada and the Far East.
+
+NOTE 10. DISCLOSURES ABOUT THE FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+          CASH AND CASH EQUIVALENTS, ACCOUNTS RECEIVABLE, ACCOUNTS PAYABLE AND
+          ACCRUED EXPENSES
+
+     The carrying amount approximates fair value due to the short maturity of
+these instruments.
+
+          INVESTMENTS
+
+     Cost and fair value of the Company's investments is presented in Note 2.
+Fair value is based upon quoted market prices.
+
+          LONG-TERM DEBT
+
+     At June 30, 2006, the Company's debt obligation had a fair value of
+$6,578,000 and a book value of $6,727,000, and the Company's capital lease
+obligation with respect to its Jacksonville, Florida facility had a fair value
+of $2,808,000 and a book value of $2,459,000. Fair value is based on the present
+value of future cash flows and the Company's estimated incremental borrowing
+rate of 8.25%.
+
+     Fair value estimates are made at a specific point in time, based on
+relevant market information and information about the financial instrument.
+These estimates are subjective in nature and involve uncertainties and matters
+of significant judgment and, therefore, cannot be determined with precision.
+Changes in assumptions could significantly affect the estimates.
+
+
+                                      F-21
+</PRE>
+</BODY>
+</HTML>
+
+
+</TEXT>
+</DOCUMENT>
+

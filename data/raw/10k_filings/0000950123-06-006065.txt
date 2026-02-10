@@ -1,0 +1,4705 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>y21001e10vk.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>FORM 10-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 10-K</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>(Mark
+One)</B>
+</DIV>
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 12pt">
+<TR style="font-size: 6pt">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="center"><FONT face="Wingdings">&#254;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 12%"><B><B>For the fiscal year ended February&nbsp;25, 2006</B>
+</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>OR</B></DIV>
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 12pt">
+<TR style="font-size: 6pt">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="center"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 12%"><B><B>For the transition period from&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to</B>
+</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Commission file number 0-15817</B></DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 1pt"><B>THE TOPPS COMPANY, INC.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>11-2849283</B></TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction of<BR>
+incorporation or organization)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer<BR>
+Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>One Whitehall Street, New York, NY</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>10004</B></TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of principal executive offices)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>(212)&nbsp;376-0300</B><BR>
+(Registrant&#146;s telephone number, including area code)</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Securities registered pursuant to Section&nbsp;12(b) of the Act:</B><BR>
+Not Applicable</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Securities registered pursuant to Section&nbsp;12(g) of the Act:</B><BR>
+Common Stock par value $.01<BR>
+(Title of class)</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in
+Rule&nbsp;405 of the Securities
+Act&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes <FONT face="Wingdings">&#111;</FONT> No <FONT face="Wingdings">&#254;</FONT>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark if the registrant is not required to file reports pursuant to Section
+13 or Section 15(d) of the Act. Yes <FONT face="Wingdings">&#111;</FONT> No <FONT face="Wingdings">&#254;</FONT>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed
+by Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12&nbsp;months (or
+for such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been
+subject to such filing requirements for the past 90&nbsp;days. Yes <FONT face="Wingdings">&#254;</FONT> No <FONT face="Wingdings">&#111;</FONT>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark if disclosure of delinquent filers pursuant to Item&nbsp;405 of Regulation
+S-K is not contained herein, and will not be contained, to the best of registrant&#146;s knowledge, in
+definitive proxy or information statements incorporated by reference in Part&nbsp;III of this form 10-K
+or any amendment of this Form 10-K. <FONT face="Wingdings">&#111;</FONT>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark whether the registrant is a large accelerated filer, an accelerated
+filer or a non-accelerated filer. See definition of &#147;accelerated filer&#148; and &#147;large accelerated
+filer&#148; in Rule&nbsp;12b-2 of the Exchange Act.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">Large accelerated filer <FONT face="Wingdings">&#111;</FONT> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accelerated filer <FONT face="Wingdings">&#254;</FONT> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Non-accelerated filer <FONT face="Wingdings">&#111;</FONT>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark whether the registrant is a shell company (as defined in Rule&nbsp;12b-2 of
+the Act). Yes <FONT face="Wingdings">&#111;</FONT> No <FONT face="Wingdings">&#254;</FONT>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The aggregate market value of Common Stock held by non-affiliates as of the last business day
+of the most recently completed fiscal second quarter was approximately $384,077,750.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The number of outstanding shares of Common Stock as of May&nbsp;4, 2006 was 39,380,471.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="88%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="7%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000"><B>Documents incorporated by reference</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000"><B>Part</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Annual Report to Stockholders for the Year Ended February&nbsp;25, 2006</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">I,II,IV</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Proxy Statement for the 2006 Annual Meeting of Stockholders</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">III</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART I</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 1. BUSINESS</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>General Development</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Topps Company, Inc. was incorporated in Delaware on February&nbsp;24, 1987. The Company is
+the successor to Topps Chewing Gum, Inc., which was established as a partnership in 1938 and was
+incorporated under the laws of New York in 1947. All references in this Annual Report on Form 10-K
+to &#147;Topps&#148; or the &#147;Company&#148; are to The Topps Company, Inc. and its subsidiaries.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are two principle segments of the business, Confectionery and Entertainment. In the
+Confectionery segment, Topps markets premium confectionery brands including lollipops such as Push
+Pop, Baby Bottle Pop and Juicy Drop Pop, Bazooka brand bubble gum and certain licensed candy items.
+The Company also manufactures and markets Ring Pop lollipops. In the Entertainment segment, the
+Company markets branded products including trading cards and sticker album collections featuring
+professional athletes and popular television, movie and other licensed characters. The Company
+also markets branded collectible strategy games.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In 1995, the Company acquired Merlin Publishing International Limited (&#147;Merlin&#148;), a U.K.-based
+marketer of licensed collectibles, primarily sticker album collections. While continuing to market
+products under the Merlin brand, Topps changed its corporate name to Topps Europe Ltd. (&#147;Topps
+Europe&#148;) in March&nbsp;1997. In July&nbsp;2003, Topps acquired Wizkids, LLC (&#147;WizKids&#148;), a designer and
+marketer of collectible strategy games.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Headquartered in New York, N.Y., Topps also has offices in Pennsylvania, Delaware, the State
+of Washington, Canada, the U.K., Ireland, Italy and Argentina, and distributes its products in many
+countries around the world.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Products</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><I>Confectionery</I>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company markets premium-quality lollipop brands and other non-chocolate confectionery
+products in the United States, Canada, Europe and parts of Asia, Latin America, New Zealand and
+Australia. Branded lollipops include Ring Pop (candy molded into the form of an exaggerated
+precious gem stone and anchored to a plastic ring), Push Pop (a cylinder-shaped lollipop packaged
+in a plastic container with a removable cap, designed to enable consumers to eat a portion of the
+pop and save the rest for later), Baby Bottle Pop (a miniature baby bottle filled with powder,
+candy juice, or crunchy candies and topped with a candy nipple) and Juicy Drop Pop (a lollipop in a
+plastic case which also contains candy juice to be squirted onto the pop for boosting its flavor).
+</DIV>
+
+<DIV align="left">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 100%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Trademarks of The Topps Company, Inc. and subsidiaries appearing in this report: Baby Bottle
+Pop, Bazooka, Bazooka Joe, Bowman, etopps, Garbage Pail Kids, Heroclix, Juicy Drop Pop, Mage
+Knight, Mars Attacks, MechWarrior, Merlin, Push Pop, Ring Pop, thePit.com, Topps, Topps Chrome,
+Topps Finest, Topps Heritage, Topps Pristine, Wacky Packages and WizKids.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Unless otherwise indicated, all date references refer to fiscal years.
+</DIV>
+
+
+<P align="right" style="font-size: 10pt">2
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company also distributes and markets Bazooka brand bubble gum originally introduced
+in 1947. In fiscal 2007, the Company will relocate Bazooka manufacturing to a lower cost producer
+in Mexico, and relaunch the brand. The product line will be expanded to feature a new twist wrap
+format, with each individually-wrapped piece containing a comic featuring Bazooka Joe, a
+copyrighted cartoon character, as well as gum-filled lollipops and gum balls. The Company intends
+to support the relaunch of the brand with national television advertising.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Licensed confectionery products include containers replicating the Pok&#232;mon ball with candy and
+a decorated Pok&#232;mon figure inside. Sales of Pok&#232;mon confectionery products began in fiscal 2000 and
+continue today, though at lesser volumes. Additionally, in recent years the Company has marketed
+Yu-Gi-Oh! lollipops and containers and World Wrestling Entertainment lollipops.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the U.S., the Company&#146;s confectionery focus is on providing children with compelling
+high-quality products, expanding product availability (distribution points and in-store location)
+and advertising on children&#146;s television. Going forward, the Company believes that distribution,
+advertising, and new products represent viable sources of growth and is directing its focus
+accordingly. Overseas, the primary emphasis is on delivering innovative products to the
+marketplace and securing new listings in key retailers. Over the last three years, confectionery
+distribution in Europe and Japan has been expanded to include Wal-Mart in the United Kingdom and
+Germany, Tesco in the United Kingdom, Norgen Gruppen and Narvisson in Norway, Coop, Kiosk, and Volg
+in Switzerland, Albert Heijn in Holland, Inex in Finland and Aeon &#038; Daiei in Japan.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><I>Entertainment</I>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Entertainment segment consists of publishing products in the form of trading cards
+and sticker album collections featuring sports and non-sports licenses and strategy games created
+by WizKids, acquired by Topps in July&nbsp;2003.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the U.S. and Canada, publishing products are generally sold in the form of cards, while in
+the rest of the world, publishing products are typically sold in the form of sticker album
+collections. The Company markets cards in various size packages for distribution through a variety
+of trade channels. Sticker album products are designed so that stickers, which are sold in
+packages, can be placed in an associated album that contains detailed information on the subject.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sports card and sticker album products contain photographs of athletes as well as other
+features, including player and team statistics, biographical material and, in certain cases, pieces
+of memorabilia and/or players&#146; autographs. Sports card products have historically featured
+professional sports figures from Major League Baseball, NFL Football, NBA Basketball and NHL
+Hockey, while sports sticker album products have featured athletes from English Premier League
+Football (soccer). The Company has not produced NHL Hockey products during the two most recent
+seasons and does not expect to do so in the foreseeable future. Additionally, in fiscal 2005 the
+Company sold sticker album products associated with the European Football Championship, which
+occurs every four years. The Company also markets bubble gum with mini stickers and albums
+featuring Italy&#146;s professional soccer league (Calcio).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company distributes sports card products in North America under brand names including, but
+not limited to, Topps, Topps Heritage, Topps Finest, Topps Chrome, Topps Pristine and Bowman. The
+Company attempts to ensure that each brand of sports cards has its own unique positioning in the
+marketplace. For example, Topps Heritage, a retro brand with bubble gum in every pack, addresses a
+perceived consumer demand for nostalgia-based products and capitalizes on Topps&#146; heritage and
+</DIV>
+
+<P align="right" style="font-size: 10pt">3
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">history in the sports collectible industry. Internationally, the Company distributes sticker album
+collections under the Merlin and Topps brands.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company has also marketed non-sports trading cards and sticker album products since the
+1950&#146;s, featuring some of the dominant entertainment properties of all time, including The Beatles,
+Elvis Presley, Star Wars, Michael Jackson, E.T.: The Extra-Terrestrial, Indiana Jones, Batman,
+Teenage Mutant Ninja Turtles, Jurassic Park, Pok&#233;mon and Yu-Gi-Oh!. From time to time, the Company
+has also sold cards and stickers featuring self-created entertainment properties such as Wacky
+Packages, Garbage Pail Kids and Mars Attacks. During the fiscal 2000 to 2003 periods, the Company
+distributed Pok&#233;mon products in over 44 countries and 25 languages.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In fiscal 2006, the Company marketed non-sports trading card and sticker album products
+featuring licensed properties including Star Wars, King Kong, World Wrestling Entertainment, Wacky
+Packages, Garbage Pail Kids, Batman, Lord of the Rings, Teenage Mutant Ninja Turtles, Dora The
+Explorer, Barbie, Yu-Gi-Oh! (sticker albums only), SpongeBob Square Pants and Pok&#233;mon.
+Entertainment cards and sticker album collections have experienced peaks and valleys of consumer
+interest, a fact which has prompted the Company to be highly selective in determining which
+entertainment licenses to pursue.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Card and sticker album collections are prepared with care and often use special technologies
+and reproduction techniques. Cards may include features such as foil stamping, film lamination,
+autographs and/or small pieces of memorabilia. The Company continuously strives to update the
+features of its cards and sticker album collections and seeks new ideas and printing technologies.
+Suggested retail prices for cards generally range from $0.99 to $7.00 per pack, while overseas
+sticker pack prices are generally the equivalent of approximately fifty cents. The Company also
+sells certain sports products in pack configurations at price points of $50 and higher per pack and
+in box configurations that are offered to consumers at a variety of suggested retail price points.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In October&nbsp;2001, the Company launched etopps, a trading card brand sold exclusively on the
+Internet at www.etopps.com. Each week on the etopps website, a limited number of cards featuring
+distinguished athletes, current events, and other features are offered for sale. In April&nbsp;2004,
+additional features were added to the etopps website enabling card holders to play a variety of
+fantasy-style games and to trade their etopps cards more easily. The Company also markets
+memorabilia over the Internet through ToppsVault.com. During fiscal 2006, the Company decided to
+exit one of its Internet operations, thePit.com and recognized a $2.7&nbsp;million after-tax loss from
+the discontinuation of this operation.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In July&nbsp;2003, the Company acquired WizKids for a cash purchase price of approximately $28.4
+million. Headquartered in Bellevue, Washington, WizKids is a designer and marketer of collectible
+and constructible strategy games. Some games are played with miniature figurines on bases
+containing game-specific information. Core products are sold under the MechWarrior, Mage Knight
+and HeroClix brand names and are marketed primarily through the hobby channel. In fiscal 2006,
+WizKids broadened its product line to include constructible strategy games and has since introduced
+products licensed under the NASCAR name and its own Pirates and Football Flix brands.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a schedule of net sales by key business segment for the past three fiscal years, see
+&#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations&#148; and Note 18
+- Segment and Geographic Information in the Company&#146;s
+</DIV>
+
+<P align="right" style="font-size: 10pt">4
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Annual Report to Stockholders for the year ended February&nbsp;25, 2006 (the &#147;Annual Report&#148;), which is hereby incorporated by reference.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Distribution and Marketing</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><I>Sales and Distribution</I>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the U.S. and Canada, internal and field sales employees handle sales of confectionery
+products to national accounts. Confectionery sales to other channels are handled by broker
+organizations managed by Topps employees. In fiscal 2005, Topps consolidated much of its broker
+network, joining forces with a strong national organization, which provides greater retail coverage
+and increased focus. Topps confectionery products reach tens of thousands of retail outlets
+including supermarkets, drugstores, convenience stores, mass merchandisers, warehouse clubs, dollar
+stores, video outlets and other specialty accounts. The Company&#146;s employees also handle U.S. sales
+of entertainment card products to hobby stores, hobby distributors, national accounts and category
+managers who service major retail outlets.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In most of Europe, as well as in Latin America, Japan and Australia, sales are generated
+primarily through distributors serviced by Topps employees. In the U.K., sales of both
+confectionery and entertainment products are handled by a dedicated field sales force augmented by
+wholesalers selling to independent retailers. Together, the sales force and wholesalers reach
+approximately 30,000 retail news and confectionery outlets.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WizKids&#146; products have traditionally been sold primarily to gaming stores via distributors.
+Topps&#146; sales force is also assisting WizKids in reaching mass retailers in the U.S. and Europe.
+WizKids uses a network of 3,500 volunteers to run approximately 10,000 in-store tournaments a month
+for its customers.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><I>Advertising and Promotion</I>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company utilizes a variety of marketing techniques, including television, radio and
+print advertising campaigns, sweepstakes, on-line ads and promotions designed to create consumer
+awareness and stimulate retail sales of its products. Advertising and marketing expenses (which
+encompass media spending, consumer promotions and research) included in selling, general and
+administrative expenses amounted to $26,772,000 in fiscal 2006, $23,336,000 in fiscal 2005 and
+$23,820,000 in fiscal 2004.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Approximately 68% of the Company&#146;s fiscal 2006 sales, 74% of the Company&#146;s fiscal 2005 sales,
+and 75% of fiscal 2004 sales were made on a returnable basis. Consolidated return provisions as a
+percentage of net sales for the fiscal years ended 2006, 2005 and 2004 were 10.2%, 7.5% and 5.9%,
+respectively. Returns increased in fiscal 2006 as a result of a slowdown in sales of
+entertainment products in Italy and WizKids&#146; expansion into the mass market channel of
+distribution. Returns significantly in excess of the Company&#146;s returns reserve could have a
+material adverse effect on the Company.
+</DIV>
+
+<P align="right" style="font-size: 10pt">5
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Production</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><I>Confectionery</I>
+</DIV>
+
+
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ring Pop lollipops for sale in North America are manufactured at the Company&#146;s Scranton,
+Pennsylvania factory. Raw materials required for the manufacture of these products are generally
+available to the Company. Ring Pop lollipops for sale in international markets as well as all Push
+Pops, Baby Bottle Pops, Juicy Drop Pops and many of the Company&#146;s other lollipop products are
+manufactured by a single independent supplier in factories located in Taiwan, Thailand and China. The loss of
+production at one or more of these facilities due to civil unrest or for any other reason could
+have a material adverse effect on the Company until the Company could make other arrangements.
+Contracts with third party manufacturers protect the Company from increases in raw material prices
+over the next year. However, longer term, fluctuations in prices of key raw materials, for example
+sugar and petroleum, could impact financial results.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bazooka bubble gum had been manufactured exclusively by The Hershey Foods Corporation
+(&#147;Hershey&#148;) pursuant to a Manufacturing Agreement executed in 1998. The Company entered into a
+letter agreement on April&nbsp;26, 2006 with Hershey to terminate the Manufacturing Agreement. The
+Company has agreed, in principle, to enter into a new non-exclusive agreement with a manufacturer
+located in Mexico to supply Bazooka bubble gum. The new agreement is expected to have a term that
+expires on December&nbsp;31, 2008 which automatically extends for one year terms at the conclusion of
+each year, so that there are always three (3)&nbsp;years remaining in the term, except that each party
+retains the right to terminate the agreement upon eighteen (18)&nbsp;months notice. Failure by the new
+manufacturer to supply the Company with quality product on a timely basis could have a material
+adverse effect on sales of Bazooka.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><I>Entertainment</I>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the U.S., photographs of athletes used in the Company&#146;s products are generally taken
+by free-lance photographers on special assignment with the Company. In addition, certain
+photography is provided by the organizations representing the leagues and their member teams.
+Pictures of non-sports entertainment subjects are generally furnished by the respective licensor or
+created by artists retained by the Company. Computerized graphic artwork and design development
+for all of the Company&#146;s products is done by staff artists and through independent design agencies
+under the Company&#146;s direction. The Company&#146;s Graphic Services Department also utilizes
+computerized technology to enhance and color-correct photography and computer imaging to
+create interesting and unusual backgrounds and visual effects.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;High-quality substrates (paperboard, foilboard) are sent directly to outside printers by the
+Company&#146;s suppliers. Pictures are printed utilizing a variety of techniques and sometimes include
+foil stamping and UV (ultra violet) coating. Cards that require specialized printing and the
+combination of various substrates like plastic, polystyrene and holographic foils are purchased in
+full sheet form from specialty printers. Full sheets are then cut into individual cards, collated,
+wrapped in a variety of package configurations, and shipped to customers by these same outside
+printers or by contract packers.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sticker production in Europe is subcontracted and coordinated by a single supplier in Italy,
+and album production is subcontracted to three suppliers in Italy. Adhesive material and packaging
+are sourced and printed by various subcontractors in Italy. The Company believes that there are
+other suitable sources available to meet its requirements if the current suppliers were unable to
+meet the Company&#146;s needs.
+</DIV>
+
+<P align="right" style="font-size: 10pt">6
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figures for collectible strategy games are designed by the Company, and the tooling
+manufacture is subcontracted to a variety of tool and die manufacturers in China and Taiwan.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paperboard, packaging materials, foil stamping and UV coating for cards, and other raw
+materials required to manufacture the Company&#146;s total line of entertainment
+products are generally available to the Company. The Company relies on single producers for
+several of these materials or processes, although alternative suppliers are generally available.
+If any of these single sources were no longer available to the Company, some adjustment in product
+specification might be required in order to avoid a material adverse effect.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Trademarks and License Agreements</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company considers its trademarks and license agreements to be of material importance
+to its business. Most of the Company&#146;s principal trademarks have been registered in the United
+States and many other countries where its products are sold. Sports picture products marketed in
+the U.S. are generally produced under license agreements with individual athletes and/or their
+players&#146; associations, as well as under the licensing bodies of the professional sports leagues.
+These agreements cover the following sports: Major League Baseball, NBA Basketball and NFL
+Football. The Company also has a contract with Premier League Soccer in England and with players
+and teams with regard to soccer in Italy, Denmark, and Spain. The Company&#146;s inability to renew, or
+continue to operate under licenses relating to Major League Baseball, the National Football League,
+or England Premier League soccer, and its inability to market products in these sports, could have
+a material adverse effect on the Company.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company has an individual license agreement with virtually every Major League Baseball
+player. Each baseball player&#146;s license agreement is initially for four major league baseball
+seasons and may be extended for additional seasons as rights are used, if the player and the
+Company agree. Typically, these agreements are extended annually. Among the rights the Company
+receives are rights to use a player&#146;s name, picture, facsimile signature and biographical
+description in the form of two or three dimensional pictures, trading cards, postcards, stickers,
+stamps, transfers, decals, medallions or coins, each within certain size limitations. These
+licenses are non- exclusive. The Company also conducts a licensing program with minor league
+baseball players and continuously seeks to supplement its relationship with the baseball community
+by personal visits and corporate identification. The Company considers it&#146;s relationships to be
+good and to be of great importance to it. However, should an appreciable number of Major League
+Baseball players refuse to sign the Company&#146;s license agreement, it could have a material adverse
+effect on the Company.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company has a related agreement with the Major League Baseball Players Association, which
+governs certain terms of the individual player contracts. The Company also has an agreement with
+Major League Baseball Properties, Inc., which, among other things, covers the use of the names and
+insignias of the baseball teams and leagues in connection with its baseball picture products.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Effective January&nbsp;1, 2006, the Company reached agreement on new terms with the Major League
+Baseball Players&#146; Association and Major League Baseball Properties, Inc. (the &#147;Licensors&#148;) with
+respect to the distribution of baseball trading cards whereby the Company is obligated to pay
+certain royalty, minimum guarantee and advertising fees provided the Licensors limit the number of
+licensees and releases they will
+</DIV>
+
+<P align="right" style="font-size: 10pt">7
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">authorize. Although there is a signed letter of intent with Major
+League Baseball Players&#146; Association, these agreements have not yet been executed.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company also enters into license agreements with non-sports entertainment companies to
+produce certain products. The terms of these contracts depend on a variety of factors.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total royalty expense under the Company&#146;s sports and non-sports entertainment licensing
+contracts for the fiscal years ended 2006, 2005 and 2004 was $25,117,000, $24,916,000 and
+$23,912,000, respectively. See Note 23 of Notes to Consolidated Financial Statements in the Annual
+Report.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In fiscal 2004, the Company initiated a program of licensing its own Bazooka, Bazooka Joe,
+Ring Pop, Push Pop, and Baby Bottle Pop trademarks to third parties. Subsequently, the Company has
+expanded the program to include additional licensees and product categories including its Wacky
+Packages brand. Additionally, WizKids licenses out its trademarks, primarily MechWarrior, for
+fantasy books.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Competition</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company competes for sales as well as counter and shelf space with large corporations
+in the food, candy, publishing, toy and other industries. Many of these corporations have
+substantially greater resources than the Company. More narrowly, the Company competes with other
+companies, large and small, which market gum, candy, trading cards, sticker albums and strategy
+games for the spending money of children and adult collectors. The Company believes that the
+industries in which it operates are highly competitive.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Seasonality</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s sales of Confectionery products are generally stronger in the first two
+fiscal quarters of each year. However, sales can be significantly impacted by the introduction of
+new products and line extensions as well as by advertising and consumer and trade support programs.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the Entertainment segment, sales of U.S. sports card products are sold throughout the year,
+spanning the three major sports seasons in which the Company currently participates, i.e. baseball,
+football, and basketball. The new baseball agreement condensed the period during which baseball
+products are sold causing certain products previously sold in the third quarter to be pushed to the
+forth quarter of fiscal 2006. Generally, Topps Europe&#146;s sales of sports sticker album products are
+driven by shipments of Premier League Soccer products, with much of the sales activity occurring in
+the fourth fiscal quarter. Sales of non-sports cards, sticker albums and games tend to be driven by
+the timing of product introductions and the property on which they are based, often peaking with
+the release of a movie or the rise in popularity of a particular licensed property. Hence,
+quarterly results may vary. See Note 22 &#147;Quarterly Results of Operations&#148; to the Consolidated
+Financial Statements in the Company&#146;s Annual Report.
+</DIV>
+
+<P align="right" style="font-size: 10pt">8
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Dependence on Certain Customers</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;McLane Distribution Services, Inc. accounted for approximately 13% and 12% of
+consolidated net sales in fiscal 2006 and fiscal 2005, respectively. McLane purchases primarily
+confectionery products from the Company and distributes them to Wal-Mart, Sam&#146;s Club, Southland
+Corp., and convenience stores in the U.S. The loss of this
+customer could have a material adverse effect on the Company&#146;s results of operations and
+future plans.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Environment</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company believes that it is in compliance in all material respects with existing
+federal, state and local regulations relating to the protection of the environment. Such
+environmental regulations have not had a material impact on the Company&#146;s capital expenditures,
+earnings or competitive position.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Employees</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company employed 487 people in fiscal 2006.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All of the production employees at the Company&#146;s factory in Scranton, Pennsylvania are
+represented by a union. The current union agreement expires in February&nbsp;2008. The Company
+considers relations with its employees to be good.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Financial Information About Industry Segments, Foreign and Domestic<BR>
+Operations and Export Sales</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company operates in two business segments. They are: (i)&nbsp;the marketing and
+distribution of confectionery products; (ii)&nbsp;the marketing and distribution of entertainment
+products. See Note 18 of the Notes to Consolidated Financial Statements included in the Annual
+Report for further information.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Availability of this Report</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s financial information, including the information contained in this report
+filed on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments
+to the above mentioned reports may be viewed on the Internet at <U>www.topps.com</U>. Copies are
+also available, without charge, from the Company. Alternatively, reports filed with the Securities
+and Exchange Commission (the &#147;SEC&#148;) may be viewed or obtained at the SEC Public Reference Room in
+Washington, D.C., or at the SEC&#146;s Internet site at <U>www.sec.gov</U>.
+</DIV>
+
+<P align="right" style="font-size: 10pt">9
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 1A. RISK FACTORS</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Cautionary Statements</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In connection with the &#147;safe harbor&#148; provisions of the Private Securities Litigation
+Reform Act of 1995 (the &#147;Reform Act&#148;), the Company is hereby filing cautionary statements
+identifying important factors that could cause actual results to differ materially from those
+projected in any forward-looking statements of the Company made by or on behalf of the Company,
+whether oral or written. The Company wishes to ensure that any forward-looking statements are
+accompanied by meaningful cautionary statements in order to maximize to the fullest extent possible
+the protections of the safe harbor established in the Reform Act. Accordingly, any such statements
+are qualified in their entirety by reference to, and are accompanied by, the following important
+factors, among others, that could cause the Company&#146;s actual results to differ materially from
+those projected in forward-looking statements of the Company:
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;Dependence on Licenses. The Company&#146;s trading card and sticker album businesses are
+highly dependent upon licensing arrangements with third parties. These licenses, which have varying
+expiration dates, are obtained from the various professional sports leagues, players associations
+and, in certain instances, the players themselves as well as from non-sports entertainment
+companies. The Company&#146;s inability to renew or retain certain of these licenses, or the lack of
+vitality of these licenses, could materially adversely affect its future plans and results.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;Contraction in Sports Card Industry. The sports card industry as a whole has contracted
+significantly over at least the last ten years. Further prolonged and material contraction in the
+sports card industry, whether caused by labor strife or otherwise, could materially adversely
+affect the Company&#146;s future plans and results.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;New Products. The Company may be unable to produce timely, or at all, certain new planned
+products. The inability of the Company to produce planned products could materially adversely
+affect its future plans and results.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;Returns. Approximately 68% of the Company&#146;s fiscal 2006 sales were made on a returnable
+basis. Although the Company maintains returns provisions, returns considerably in excess of the
+Company&#146;s provisions could materially adversely affect its future plans and results.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;Suppliers. The Company has a single source of supply for most of its lollipop products.
+The loss of this supplier due to civil unrest or for any other reason could materially adversely
+affect the Company&#146;s future plans and results. Additionally, failure of the new Bazooka
+manufacturer to supply the Company with quality products on a timely basis could have a material
+adverse effect on the sales of Bazooka.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.&nbsp;Customers. The Company has several large customers, some of which are serviced by single
+distributors. The loss of any of these customers or distributors could materially adversely affect
+the Company&#146;s future plans and results.
+</DIV>
+
+<P align="right" style="font-size: 10pt">10
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.&nbsp;International, Political and Economic Risk. There is an increase in risk generally
+associated with operating outside of the U.S. Events such as civil unrest, currency devaluation,
+political upheaval and health-related issues could materially adversely affect the Company&#146;s future
+plans and results.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.&nbsp;Legal Proceedings. See Item&nbsp;3: Legal Proceedings for a discussion of legal matters that
+could materially adversely affect the Company&#146;s future plans and results.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.&nbsp;Raw materials. Raw materials required for production of the Company&#146;s products are
+generally available. However, the unavailability of certain raw materials or a significant
+increase in their cost could materially adversely affect future plans and results.
+</DIV>
+
+<P align="right" style="font-size: 10pt">11
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 1B. UNRESOLVED STAFF COMMENTS</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NONE
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 2. PROPERTIES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The location and general description of the principal properties owned or leased by the
+Company are as follows:
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="64%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">Owned or Leased;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">Area/Facility</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">If Leased,</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Location</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Type of Facility</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Square Footage</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Expiration Year</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Duryea, Pennsylvania***</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center" nowrap>Office and warehouse</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">70,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Leased; 2009</TD>
+</TR>
+<TR valign="top"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Scranton, Pennsylvania*</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Manufacturing plant</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">41,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Owned</TD>
+</TR>
+<TR valign="top"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Seattle, Washington**</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Office</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">19,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Leased; 2006</TD>
+</TR>
+<TR valign="top"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Cork, Ireland*</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Office</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">8,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Leased; 2019</TD>
+</TR>
+<TR valign="top"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">New York, New York***</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Executive offices</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">60,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Leased; 2009</TD>
+</TR>
+<TR valign="top"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Cincinnati, Ohio**</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Warehouse</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">14,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Leased; 2006</TD>
+</TR>
+<TR valign="top"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Milton Keynes, United
+Kingdom***</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Office and warehouse</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">12,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Leased; 2014</TD>
+</TR>
+<TR valign="top"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Milan, Italy***</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Office</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Leased; 2008</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company also leases offices in Delaware, Canada and Argentina. The Company believes that
+its active facilities are in good repair and are suitable for its needs for the foreseeable future.
+</DIV>
+
+
+<DIV align="left">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 18%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+
+<TR valign="top">
+    <TD nowrap align="left">*</TD>
+    <TD>&nbsp;</TD>
+    <TD>Serves confectionery segment.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">**</TD>
+    <TD>&nbsp;</TD>
+    <TD>Serves entertainment segment.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">***</TD>
+    <TD>&nbsp;</TD>
+    <TD>Serves both business segments.</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="right" style="font-size: 10pt">12
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 3. LEGAL PROCEEDINGS</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In November&nbsp;2000, the Commission of the European Communities (the &#147;Commission&#148;) began an
+investigation into whether Topps Europe&#146;s past distribution arrangements for the sale of Pok&#233;mon
+products complied with European law (the &#147;EU investigation&#148;). On June&nbsp;17, 2003, the Commission
+filed a Statement of Objections against The Topps Company, Inc. and its European subsidiaries,
+therein coming to a preliminary conclusion that these entities infringed Article&nbsp;81 of the EC
+treaty during 2000 by preventing parallel trade between member states of the European Union. A
+hearing in front of the European Commission Tribunal took place on October&nbsp;23, 2003, and on May&nbsp;27,
+2004, the Commission found the Topps Company, Inc. and its European subsidiaries jointly and
+severally liable for infringement of Article&nbsp;81(1) of the EC treaty. The commission imposed a
+total fine of 1.6&nbsp;million euros ($1.9&nbsp;million) which was paid and expensed during fiscal 2005.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In another matter, on November&nbsp;19, 2001 Media Technologies, Inc. sued the Company and nine
+other manufacturers of trading cards (the &#147;Defendants&#148;) in the Federal District Court for the
+Central District of California for their sales of all types of &#147;relic&#148; cards that contain an
+authentic piece of equipment, i.e., a piece of sporting equipment or jersey. Plaintiffs alleged
+infringement of U.S. Patent Nos. 5,803,501 and 6,142,532. On May&nbsp;23, 2005 the Company entered into
+a settlement agreement in which it paid Media Technologies, Inc. a sum of $2,000,000 which is being
+amortized over the term of the contract. Media Technologies Inc. agreed to dismiss all claims
+against the Company and to issue a license to the Company to distribute relic cards for seven
+years. The Company further agreed that under certain conditions which may arise in the future, it
+would make additional payments to Media Technologies, Inc. as part of the ongoing license.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In another matter, in September of 1999, the Company filed a lawsuit against Cadbury Stani
+S.A.I.C. (&#147;Stani&#148;), a corporation organized and existing under the laws of Argentina, in federal
+court in the Southern District of New York. The case centers on the licensing relationship the
+parties had since 1957 in which the Company had granted Stani the exclusive right to manufacture
+and distribute gum using the Bazooka brand and related formulas and technologies in Argentina,
+Bolivia, Chile, Paraguay and Uruguay. In particular, at issue is a 1980 Licensing Agreement (the
+&#147;Agreement&#148;) between the parties and a 1985 Amendment to that Agreement. In its September&nbsp;17, 2003
+Fourth Amended complaint, the Company alleges that Stani continued to use the Company&#146;s proprietary
+and specialized knowledge and experience, and its trade secrets, regarding the production of gum
+after the Agreement&#146;s expiration in April&nbsp;1996, that it unlawfully disclosed this information to
+Cadbury Schweppes PLC (&#147;Schweppes&#148;) which purchased Stani in 1993 and that it deliberately
+concealed its use and disclosure from the Company. The Company has filed claims for breach of
+contract, misappropriation of trade secrets and fraudulent inducement to enter into the 1985
+Amendment. The Company is seeking to recover disgorgement of Stani&#146;s profits, certain lost
+royalties and punitive damages, interest and costs. It is also seeking a permanent injunction
+against Stani&#146;s future use and dissemination of the Company&#146;s proprietary information and trade
+secrets. In the Fourth Amended Complaint, the Company demanded damages in excess of $250&nbsp;million.
+The Fourth Amended Complaint also initially contained claims against Schweppes, which the parties
+agreed to dismiss on February&nbsp;4, 2003.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On December&nbsp;17, 2003, Stani moved for partial summary judgment and to limit the Company&#146;s
+possible damages. In its August&nbsp;2, 2005 decision, the Court denied
+</DIV>
+
+<P align="right" style="font-size: 10pt">13
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Stani&#146;s summary judgment
+motion, in part, and ruled that (i)&nbsp;the Company&#146;s claims were not barred by the statute of
+limitations; and (ii)&nbsp;disgorgement of profits and punitive
+damages are available remedies on the Company&#146;s misappropriation of trade secrets claims. The
+Court granted Stani&#146;s summary judgment motion, in part, and ruled that (i)&nbsp;disgorgement of profits
+and punitive damages are not available remedies on the Company&#146;s breach of contract and fraudulent
+inducement claims; and (ii)&nbsp;Stani was not estopped from claiming the 1985 Amendment altered the
+1980 Agreement.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On February&nbsp;9, 2006, the Court adjourned the trial which had been scheduled for March&nbsp;13, 2006
+and ruled it would consider a new motion by Stani for partial summary judgment which argues that
+the Agreement permitted Stani to use the Company&#146;s information and trade secrets after the
+Agreement&#146;s expiration in 1996. Oral argument was held on March&nbsp;15, 2006 and the parties await a
+decision. If the Company ultimately prevails in this litigation, it could have a material impact
+on the Company&#146;s consolidated financial statements.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In another matter, on December&nbsp;12, 2003, WizKids, Inc. (&#147;Wizkids&#148;) and Jordan Weisman filed a
+complaint in Washington state court for professional malpractice, breach of fiduciary duty and
+disgorgement of fees against the law firm Michael, Best &#038; Friedrich, LLP (&#147;MB&#038;F), and Timothy
+Kelley, one of its partners, based on their submission of a PCT patent application for WizKids&#146;
+combat dial that alleged to have prejudiced WizKids&#146; United States patent rights by failing to
+designate the United States as one of the member states for subsequent conversion to a national
+application. In a settlement reached on October&nbsp;31, 2005, defendants agreed to pay Wizkids
+$2,950,000.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company is a party in several other civil actions which are routine and incidental to its
+business. In management&#146;s opinion, after consultation with legal counsel, these other actions will
+not have a material adverse effect on the Company&#146;s financial condition or results of operations.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There were no matters submitted to a vote of security holders during the fourth
+quarter of the fiscal year ended February&nbsp;25, 2006.
+</DIV>
+
+<P align="right" style="font-size: 10pt">14
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART II</B>
+</DIV>
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 5.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>MARKET FOR COMPANY&#146;S COMMON STOCK AND RELATED STOCKHOLDER MATTERS</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reference is made to the data appearing in the Annual Report under the heading
+&#147;Market and Dividend Information&#148; which is hereby incorporated by reference and reference is
+also made to the Equity Compensation Plan Information contained within the 2006 Proxy.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information regarding the Company&#146;s repurchase of shares during the fiscal fourth quarter
+of 2006 is shown below.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="52%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Maximum Number of</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Total</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Total Number of</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Shares that May Yet</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Number of</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Average</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Shares Purchased</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Be Purchased Under</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Shares</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Price Paid</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">as Part of Publicly</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">the Plans or</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Peroid</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">Purchased</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">per Share</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">Announced Plans</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">Programs</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">November&nbsp;27, 2005
+to December&nbsp;24,
+2005</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">166,660</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">7.45</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">166,660</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4,403,754</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">December&nbsp;25, 2005
+to January&nbsp;28, 2006</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">228,326</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">7.45</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">228,326</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4,175,428</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">January&nbsp;29, 2006 to
+February&nbsp;25, 2006</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">203,327</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">7.76</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">203,327</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,972,101</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Total</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">598,313</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">7.56</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">598,313</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,972,101</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 6.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>SELECTED CONSOLIDATED FINANCIAL DATA</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reference is made to the data appearing in the Annual Report under the heading
+&#147;Selected Consolidated Financial Data&#148; which is hereby incorporated by reference.
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 7.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reference is made to the data appearing in the Annual Report under the heading
+&#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations&#148; which
+is hereby incorporated by reference.
+</DIV>
+
+<P align="right" style="font-size: 10pt">15
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 7A.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reference is made to the data appearing in the Annual Report under the heading
+&#147;Disclosures about Market Risk&#148; which is hereby incorporated by reference.
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 8.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reference is made to the Consolidated Financial Statements and to the Report of
+Independent Registered Public Accounting Firm appearing in the Annual Report which are hereby
+incorporated by reference.
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 9.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>CHANGES IN ACCOUNTANTS AND DISAGREEMENTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 9A.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>CONTROLS AND PROCEDURES</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">(a)&nbsp;Evaluation of disclosure controls and procedures.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We maintain disclosure controls and procedures that are designed to ensure that
+information required to be disclosed in our reports filed pursuant to the Securities and
+Exchange Act or 1934, as amended (the &#147;Exchange Act&#148;) is recorded, processed, summarized and
+reported within the time periods specified in the Securities and Exchange Commission&#146;s rules
+and forms, and that such information is accumulated and communicated to our management,
+including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow
+for timely decisions regarding required disclosure. In designing and evaluating the
+disclosure controls and procedures, management recognizes that any controls and procedures, no
+matter how well designed and operated, can provide only reasonable assurance of achieving the
+desired control objectives, and management is required to apply its judgment in evaluating the
+cost-benefit relationship of possible controls and procedures.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As of the end of the period covered by this report (the &#147;Evaluation Date&#148;), we carried
+out an evaluation, under the supervision and with the participation of our management, of the
+effectiveness of the design and operation of our disclosure
+</DIV>
+
+<P align="right" style="font-size: 10pt">16
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">controls and procedures. Based on
+the foregoing, we have concluded that, as of the Evaluation Date, our disclosure controls and
+procedures were effective.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In response to a significant deficiency in our internal controls surrounding fixed assets raised
+by our independent registered public accounting firm in 2005, we completed a full inventory of all property and
+equipment owned by the Company and installed a system that tracks each asset for accounting purposes.
+As a result of these measures taken by the Company, we identified an error in previously reported fixed
+asset balances and depreciation expense that resulted in a restatement of our previously filed financial
+statements for 2003, 2004 and 2005. In addition, upon completing our control assessment over accounting
+for income taxes at February&nbsp;25, 2006, we identified an error in our previously reported income tax
+provision for 2005. Both of these items raised by the Company have been reflected as a correction of an error
+in our consolidated financial statements for the year ended
+February&nbsp;25, 2006.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">(b)&nbsp;Design and Evaluation of Internal Control over Financial Reporting.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under Section&nbsp;404 of the Sarbanes-Oxley Act of 2002, we are required to include in this
+Annual Report on Form 10-K (i)&nbsp;a report from our management regarding the Company&#146;s internal
+controls over financial reporting, which report is required to include, among other things, an
+assessment and statement as to the effectiveness of our internal controls over financial
+reporting as of February&nbsp;25, 2006 and (ii)&nbsp;an attestation report from our independent
+registered public accounting firm on management&#146;s assessment and effectiveness of such internal
+controls. This report is included in the Annual Report and is hereby incorporated by
+reference.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">(c)&nbsp;Changes in Internal Control over Financial Reporting.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;There have not been any changes in our internal controls over financial reporting during
+the fiscal quarter ended February&nbsp;25, 2006 that have materially affected, or are reasonable
+likely to materially affect, our internal control over financial reports, with the exception of implementation of
+the fixed asset system described previously, and the hiring of an independent public accounting firm to act as a
+consultant to prepare our tax provision for financial statement purposes.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 9B. OTHER INFORMATION</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.
+</DIV>
+
+<P align="right" style="font-size: 10pt">17
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART III</B>
+</DIV>
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 10.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>DIRECTORS AND EXECUTIVE OFFICERS OF THE COMPANY</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item with respect to the directors of the Company and
+those executive officers who are also directors appearing in the Proxy Statement for the annual
+meeting of stockholders scheduled to be held on July&nbsp;19, 2006 (&#147;2006 Proxy Statement&#148;) is hereby
+incorporated by reference thereto. Set forth below is information required by this item covering
+the other executive officers of the Company.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="15%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="83%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left"><B>Position with the Company and business experience</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Name</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left"><B>during the past five years</B></TD>
+</TR>
+<TR><TD>&nbsp;</TD></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">John S. Budd
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President &#151; Confectionery Marketing of the Company
+since October&nbsp;2005. Prior to that Mr.&nbsp;Budd was Group
+Marketing Director &#151; Confectionery since 2003 and
+Marketing Director &#151; Candy Brands since 2001. Mr.&nbsp;Budd
+joined the Company in December&nbsp;1994. Mr.&nbsp;Budd is 46
+years of age.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">John C. Buscaglia
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President &#151; Entertainment Sales of the Company
+since October&nbsp;2005. Prior to that Mr.&nbsp;Buscaglia was
+National Sales Manager &#151; Retail Entertainment since
+1998. Mr.&nbsp;Buscaglia joined the Company in September
+1989. Mr.&nbsp;Buscaglia is 46&nbsp;years of age.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Michael P. Clancy
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President &#151; International of the Company since
+December&nbsp;1998 and Vice President since February&nbsp;1995.
+Mr.&nbsp;Clancy has been Managing Director, Topps
+International Ltd. (formerly Topps Ireland) since July
+1990 and was Joint Managing Director, Topps Europe Ltd.
+from January&nbsp;1997 to December&nbsp;1998. Mr.&nbsp;Clancy joined
+the Company in 1979. Mr.&nbsp;Clancy is 51&nbsp;years of age.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Ira Friedman
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President &#151; Publishing and New Product Development
+of the Company since September&nbsp;1991. Mr.&nbsp;Friedman
+joined the Company in October&nbsp;1988. Mr.&nbsp;Friedman is 52
+years of age.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Warren Friss
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President &#151; General Manager Entertainment of the
+Company since February&nbsp;2005. Prior to that Mr.&nbsp;Friss was
+Vice President and Internet Business General Manager
+since June&nbsp;2001, and General Counsel of the Company
+since February&nbsp;2000. Mr.&nbsp;Friss joined the Company as
+Deputy General Counsel in May&nbsp;1995. Mr.&nbsp;Friss is 42
+years of age.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="right" style="font-size: 10pt">18
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="15%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="83%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left"><B>Position with the Company and business experience</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Name</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left"><B>during the past five years</B></TD>
+</TR>
+<TR><TD>&nbsp;</TD></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Catherine K. Jessup
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President &#151; Chief Financial Officer and
+Treasurer. Ms.&nbsp;Jessup was Treasurer of the Company
+since July&nbsp;2004 and Chief Financial Officer of the
+Company since July&nbsp;1995. Prior to joining the
+Company, Ms.&nbsp;Jessup held a number of positions with
+PepsiCo (a food products company) from 1981 to July
+1995. Ms.&nbsp;Jessup is 50&nbsp;years of age.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Michael K. Murray
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President &#151; Confectionery Sales of the Company
+since October&nbsp;2004. Prior to joining the Company, Mr.
+Murray was Vice President &#151; Regional Director of
+Sales North America for Reckitt Benckiser PLC. Mr.
+Murray is 48&nbsp;years of age.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">William G. O&#146;Connor
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President &#151; Administration of the Company since
+September&nbsp;1991. Mr.&nbsp;O&#146;Connor was an Assistant
+Secretary of the Company from June&nbsp;1982 until June
+1994. Mr.&nbsp;O&#146;Connor is 57&nbsp;years of age.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Christopher Rodman
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President &#151; Topps Europe of the Company since
+October&nbsp;2004. Previously, Mr.&nbsp;Rodman was Managing
+Director, Topps Europe since November&nbsp;1997. Mr.&nbsp;Rodman
+joined the Company in July&nbsp;1995 with the acquisition
+of Merlin Publishing. Mr.&nbsp;Rodman is 49&nbsp;years of age.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Scott Silverstein
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">President of the Company and Chief Operating Officer
+since August&nbsp;2004. Previously, Mr.&nbsp;Silverstein was
+Executive Vice President of the Company since February
+2000, with responsibilities including, among other
+things, oversight of the U.S Entertainment business.
+Prior thereto, Mr.&nbsp;Silverstein ran the Pok&#233;mon
+business for Topps since 1999 and was Vice President
+&#151; Business Affairs and General Counsel of the Company
+since February&nbsp;1995. Mr.&nbsp;Silverstein held the
+position of General Counsel from July&nbsp;1993 until
+February&nbsp;2000. Mr.&nbsp;Silverstein is the son-in-law of
+Mr.&nbsp;Shorin, the Company&#146;s Chairman of the Board and
+Chief Executive Officer. Mr.&nbsp;Silverstein is 44&nbsp;years
+of age.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="right" style="font-size: 10pt">19
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 11.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>EXECUTIVE COMPENSATION</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information required by this item appears in the 2006 Proxy Statement and is hereby
+incorporated by reference.
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 12.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information required by this item appears in the 2006 Proxy Statement and is hereby
+incorporated by reference.
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 13.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information required by this item appears in the 2006 Proxy Statement and is hereby
+incorporated by reference.
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 14.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>PRINCIPAL ACCOUNTANT FEES AND SERVICES</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information required by this item appears in the 2006 Proxy Statement and is hereby
+incorporated by reference.
+</DIV>
+
+<P align="right" style="font-size: 10pt">20
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART IV</B>
+</DIV>
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>ITEM 15.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>(a) (1&#038;2) Financial Statements and Financial Statement Schedules</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Index to Financial Statements:</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 3%">The following Consolidated Financial Statements included in the Annual Report are hereby
+incorporated by reference to Item&nbsp;8:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 3%">Consolidated Statements of Operations &#151; For Fiscal Years Ended February&nbsp;28, 2004
+(restated), February&nbsp;26, 2005 (restated)&nbsp;and February&nbsp;25, 2006.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 3%">Consolidated Balance Sheets as of February&nbsp;26, 2005 (restated)&nbsp;and February&nbsp;25, 2006.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 3%">Consolidated Statements of Cash Flows For Fiscal Years Ended February&nbsp;28, 2004 (restated),
+February&nbsp;26, 2005 (restated)&nbsp;and February&nbsp;25, 2006.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 3%">Consolidated Statements of Stockholders&#146; Equity and Comprehensive Income For Fiscal Years
+Ended February&nbsp;28, 2004 (restated), February&nbsp;26, 2005 (restated)&nbsp;and February&nbsp;25, 2006.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 3%">Notes to Consolidated Financial Statements.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Index to Independent Registered Public Accounting<BR><BR>
+Firm&#146;s Report and Financial Statement Schedule:</B>
+
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="88%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Report of Registered Public Accounting Firm</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">S-1</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom"><!-- Blank space -->
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Schedule&nbsp;I &#151; Valuation and Qualifying Accounts</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">For Fiscal Years Ended February&nbsp;28, 2004, February&nbsp;26, 2005 and February&nbsp;25, 2006 </DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">S-2</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 3%">Schedules other than those listed above are omitted because they are either not required or
+not applicable or the required information is shown in the Consolidated Financial Statements
+or Notes thereto.
+</DIV>
+
+<P align="right" style="font-size: 10pt">21
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>(3)&nbsp;Listing of Exhibits</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="4%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="90%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Agreement and Plan of Merger of Wizkids, LLC dated
+as of June
+23, 2003 (Incorporated by reference to the Company&#146;s Report on Form
+8-K dated July&nbsp;24, 2003).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">3.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Restated Certificate of Incorporation of the Company
+(Incorporated by reference to Exhibit&nbsp;3.1 to the Company&#146;s Report on Form
+8-K dated December&nbsp;2, 1991 SEC File Number 000-15817).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">3.2</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Restated By-laws of the Company (Incorporated by
+reference to Exhibit&nbsp;3.2 to the Company&#146;s Report on Form&nbsp;8-K dated December
+2, 1991 SEC File Number 000-15817).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">The Topps Company, Inc. Fiscal Year 2007 Executive
+Officers&#146; Annual Bonus Plan (Incorporated by reference to Exhibit&nbsp;99.1 to the
+Company&#146;s Report on Form&nbsp;8-K dated April&nbsp;17, 2006).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.2</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Supplemental Pension Agreement with Arthur T. Shorin
+(Incorporated by reference to Exhibit&nbsp;10.16 to the Company&#146;s Registration
+Statement on Form&nbsp;S-1 No.&nbsp;33-130821).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.3</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amendment to Supplemental Pension Agreement with Arthur T.
+Shorin dated May&nbsp;18, 1994 (Incorporated by reference to the Company&#146;s Annual
+Report on Form&nbsp;10-K for the fiscal year ended February&nbsp;25, 1995 SEC File
+Number 000-15817).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.4</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">License Agreement and Letter Amendment thereto with Major
+League Baseball Promotion Corporation (Incorporated by reference to Exhibit
+10.12 to the Company&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended
+March&nbsp;2, 1991 SEC File Number 000-15817).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.5</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Letter Amendment effective January&nbsp;1, 2001 to the License
+Agreement dated January&nbsp;1, 1969 and Letter Amendments thereto between the
+Company and Major League Baseball Properties, Inc. Confidential treatment has
+been requested with respect to portions of this exhibit. Omitted portions
+have been filed with the Securities and Exchange Commission pursuant to Rule
+24b-2 of the Securities Exchange Act of 1934, as amended. (Incorporated by
+reference to Exhibit&nbsp;10.1 to the Company&#146;s Quarterly Report for the quarter
+ended November&nbsp;29, 2003.)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.6</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Stock Option Agreement with Arthur T. Shorin dated March
+29, 1995 (Incorporated by reference to Exhibit&nbsp;10.12 to the Company&#146;s Annual
+Report on Form&nbsp;10-K for the fiscal year ended February&nbsp;25, 1995 SEC File
+Number 000-15817).</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="right" style="font-size: 10pt">22
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Index to Exhibits (continued)</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="4%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="90%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.7</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Agreement of Lease with One Whitehall Company dated
+February&nbsp;24, 1994 (Incorporated by reference to the
+Company&#146;s Annual Report on Form&nbsp;10-K for the fiscal
+year ended February&nbsp;26, 1994 SEC File Number
+000-15817).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.8</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amendment and Restatement of the 1994 Non-Employee
+Director Stock Option Plan. (Incorporated by reference
+to the Company&#146;s 1998 Proxy Statement filed on May&nbsp;28,
+1998 SEC File Number 000-15817).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.9</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Corporate Guaranty in favor of the Bank of Scotland
+(Incorporated by reference to the Company&#146;s Quarterly Report on Form&nbsp;10-Q for
+the quarter ended November&nbsp;25, 1995 SEC File Number 000-15817).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.10</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated Manufacturing Agreement with
+Hershey Foods Corporation, dated March&nbsp;13, 1998. (Incorporated by reference
+to the Company&#146;s Quarterly Report on Form&nbsp;10-Q for the quarter ended August
+29, 1998).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.11</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Letter Agreement with Hershey Foods Corporation, dated
+April&nbsp;26, 2006. (Incorporated by reference to Exhibit&nbsp;10.1 to the Company&#146;s
+Report on Form&nbsp;8-K dated April&nbsp;26, 2006).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.12</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Credit Agreement, dated September&nbsp;7, 2004, between The
+Topps Company, Inc. and The JPMorganChase Bank. (Incorporated by reference to
+the Company&#146;s Quarterly Report on Form&nbsp;10-Q for the period year ended August
+28, 2004).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.13</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Memorandum of Agreement between the Company and Major
+League Baseball Players&#146; Association dated January&nbsp;6, 2003 (Incorporated by
+reference to the Company&#146;s Annual Report on Form&nbsp;10-K for the fiscal year
+ended March&nbsp;1, 2003).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.14</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Letter Amendment, dated July&nbsp;19, 2005, to the Memorandum
+of Agreement, dated January&nbsp;6, 2003, between the Company and Major League
+Baseball Players Association. Confidential treatment has been requested with
+respect to portions of this exhibit. Omitted portions have been filed with
+the Securities and Exchange Commission pursuant to Rule&nbsp;24b-2 of the
+Securities Exchange Act of 1934, as amended. (Incorporated by reference to
+the Company&#146;s Quarterly Report on Form&nbsp;10-Q for the period ended August&nbsp;27,
+2005).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.15</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated Employment Agreement (the
+&#147;Agreement&#148;), effective as of the 1st day of June, 2001, by and between The
+Topps Company, Inc., a Delaware corporation (the &#147;Company&#148;), and Arthur T.
+Shorin, a resident of New York (the &#147;Executive&#148;) (Incorporated by reference to
+the Company&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended March&nbsp;1,
+2003).</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="right" style="font-size: 10pt">23
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Index to Exhibits (continued)</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="4%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="90%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.16</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">First Amendment, effective October&nbsp;11, 2004 to the Amended and
+Restated Employment Agreement, by and between The Topps Company, Inc. and
+Arthur T. Shorin in which he consented to remove the title of President of the
+Corporation. (Incorporated by reference to the Company&#146;s Form&nbsp;10-Q filed
+November&nbsp;27, 2004).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.17</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Employment Agreement, dated as of July&nbsp;9, 2003 between
+WizKids LLC and Jordan K. Weisman. (Incorporated by reference to Exhibit&nbsp;10.1
+to the Company&#146;s Form&nbsp;10-Q filed November&nbsp;29, 2003).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.18</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">First Amendment, effective August&nbsp;1, 2003, to the
+Employment Agreement, dated as of July&nbsp;9, 2003 between WizKids LLC and Jordan
+K. Weisman. (Incorporated by reference to Exhibit&nbsp;10.1 to the Company&#146;s Form
+10-Q filed November&nbsp;29, 2003).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.19</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Second Amendment, effective October&nbsp;1, 2003, to the
+Employment Agreement, dated as of July&nbsp;9, 2003 between WizKids LLC and Jordan
+K. Weisman. (Incorporated by reference to Exhibit&nbsp;10.1 to the Company&#146;s Form
+8-K filed July&nbsp;24, 2003).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.20</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">License Agreement between The Topps Company, Inc. and
+National Football League Players&#146; Association, effective March&nbsp;1, 2004.
+Confidential treatment has been requested with respect to portions of this
+exhibit. Omitted portions have been filed with the Securities and Exchange
+Commission Pursuant to Rule&nbsp;24b-2 of the Securities Exchange Act of 1934, as
+amended.*</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.21</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Service Agreement between The Topps Company, Inc. and
+National Football League Players&#146; Incorporated, effective March&nbsp;1, 2004.
+Confidential treatment has been requested with respect to portions of this
+exhibit. Omitted portions have been filed with the Securities and Exchange
+Commission pursuant to Rule&nbsp;24b-2 of the securities Exchange Act of 1934, as
+amended.*</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.22</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">License Agreement between Topps Europe Ltd., a
+wholly-owned subsidiary of The Topps Company, Inc., and The Football
+Association Premier League Ltd. dated September&nbsp;30, 2003. Confidential
+treatment has been requested with respect to portions of this exhibit.
+Omitted portions have been filed with the Securities and Exchange Commission
+pursuant to Rule&nbsp;24b-2 of the Securities Exchange Act of 1934, as amended.
+(Incorporated by reference to the Company&#146;s Quarterly Report on Form&nbsp;10-Q for
+the period year ended August&nbsp;28, 2004).</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="right" style="font-size: 10pt">24
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Index to Exhibits (continued)</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="4%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="90%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.23</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">License Agreement between Topps Europe Ltd., a wholly-owned subsidiary
+of The Topps Company, Inc., and The Football Association Premier League Ltd.
+dated January&nbsp;20, 2006. Confidential treatment has been requested with respect
+to portions of this exhibit. Omitted portions have been filed with the
+Securities and Exchange Commission pursuant to Rule&nbsp;24b-2 of the Securities
+Exchange Act of 1934, as amended.*</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.24</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">The Topps Company, Inc. Executive Severance Plan, Amended
+and Restated as of June&nbsp;30, 2005. (Incorporated by reference to Exhibit&nbsp;10.3
+to the Company&#146;s Form&nbsp;8-K filed July&nbsp;7, 2005).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.25</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">The Topps Company, Inc. 2001 Stock Incentive Plan, Amended
+and Restated as of June&nbsp;30, 2005. (Incorporated by reference to the Company&#146;s
+Quarterly Report on Form&nbsp;10-Q for the period ended August&nbsp;27, 2005).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.26</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">The Topps Company, Inc. 1996 Stock Option Plan, Amended
+and Restated as of June&nbsp;30, 2005 (Incorporated by reference to Exhibit&nbsp;10.2 to
+the Company&#146;s Form&nbsp;8-K filed July&nbsp;7, 2005).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">13</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Annual Report (except for those portions specifically
+incorporated by reference, the 2006 Annual Report to Stockholders is furnished
+for the information of the Commission and is not to be deemed &#147;filed as part
+of this filing&#148;).*</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">21</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Significant subsidiaries of the Company (Incorporated by
+reference in the Annual Report to Stockholders).</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">23</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Deloitte &#038; Touche LLP Consent.*</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">31.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certification of Principal Executive Officer pursuant to
+Rules&nbsp;13(a)-14(a) and 15(d)-14(a) under the Securities Exchange Act of 1934.*</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">31.2</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certification of Principal Financial Officer pursuant to
+Rules&nbsp;13(a)-14(a) and 15(d)-14(a) under the Securities Exchange Act of 1934.*</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">32.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certification of Arthur T. Shorin, Chairman and Chief
+Executive Officer, pursuant to 18 U.S.C. Section&nbsp;1350, as adopted pursuant to
+Section&nbsp;906 of the Sarbanes-Oxley Act of 2002.*</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">32.2</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certification of Catherine K. Jessup, Vice-President and
+Chief Financial Officer pursuant to 18 U.S.C. Section&nbsp;1350, as adopted
+pursuant to Section&nbsp;906 of the Sarbanes-Oxley Act of 2002.*</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<DIV align="left">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 18%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+
+<TR valign="top">
+    <TD nowrap align="left">*</TD>
+    <TD>&nbsp;</TD>
+    <TD>filed herewith</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="right" style="font-size: 10pt">25
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+<DIV align="left">
+<A name="133"></A>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>SIGNATURES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act
+of 1934, the Registrant has duly caused this Report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="16%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Dated: May&nbsp;10, 2006
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><U><B>THE TOPPS COMPANY, INC.</B></U></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Registrant</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">/s/Arthur T. Shorin/</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>Arthur T. Shorin</B></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Chairman and</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Chief Executive Officer</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, this Report has been
+signed on the 10th day of May&nbsp;2006 by the following persons on behalf of the Registrant and in
+the capacities indicated.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="20%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="20%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/Arthur T. Shorin/
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">/s/Catherine K. Jessup/</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Arthur T. Shorin</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>Catherine K. Jessup</B></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">Chairman and Chief Executive
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Vice President &#151; Chief Financial Officer</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">Officer
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">and Treasurer</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">(Principal Executive Officer)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"> (Principal Financial Accounting Officer)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/Allan A. Feder/
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">/s/David Mauer/</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Allan A. Feder</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>David Mauer</B></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">Director
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Director</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/Stephen D. Greenberg/
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">/s/Jack H. Nusbaum/</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Stephen D. Greenberg</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>Jack H. Nusbaum</B></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">Director
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Director</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/Ann Kirschner/
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">/s/Richard Tarlow/</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Ann Kirschner</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>Richard Tarlow</B></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">Director
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Director</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/Edward Miller/</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Edward Miller</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">Director</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="right" style="font-size: 10pt">26
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left">
+<A name="300"></A>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>To the Board of Directors and Stockholders of The Topps Company, Inc.</B>
+
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">We have audited the consolidated financial statements of The Topps Company, Inc. and its
+subsidiaries (the &#147;Company&#148;) as of February&nbsp;25, 2006 and February&nbsp;26, 2005, and for each of the
+three fiscal years in the period ended February&nbsp;25, 2006, management&#146;s assessment of the effectiveness of
+the Company&#146;s internal control over financial reporting as of February&nbsp;25, 2006, and the
+effectiveness of the Company&#146;s internal control over financial reporting as of February&nbsp;25, 2006,
+and have issued our reports thereon dated May&nbsp;9, 2006; such consolidated financial statements and
+reports are included in your 2006 Annual Report to Stockholders and are incorporated herein by
+reference. Our audits also included the consolidated financial statement schedule of the Company
+listed in Item&nbsp;15. This consolidated financial statement schedule is the responsibility of the
+Company&#146;s management. Our responsibility is to express an opinion based on our audits. In our
+opinion, such consolidated financial statement schedule, when considered in relation to the basic
+consolidated financial statements taken as a whole, present fairly, in all material respects, the
+information set forth therein.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">As
+discussed in Note 2 to the consolidated financial statements, the
+accompanying consolidated financial statements for fiscal 2005 and
+2004 have been restated.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">DELOITTE &#038; TOUCHE LLP
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">New York, New York<BR>
+May&nbsp;9, 2006
+
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt">S-1
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="margin-top: 6pt"><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><U><B>Valuation and Qualifying Accounts </B></U>&#151;  Years Ended February&nbsp;28, 2004, February&nbsp;26,
+2005 and February&nbsp;25, 2006
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>THE TOPPS COMPANY, INC. AND SUBSIDIARIES</B>
+</DIV>
+
+<DIV align="left">
+<A name="301"></A>
+</DIV>
+<DIV align="center" style="font-size: 10pt"><B>SCHEDULE I. VALUATION AND QUALIFYING ACCOUNTS</B></DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Amounts in thousands)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="40%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Balance</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Charged to</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Charged</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Balance</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>at Beginning</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Costs and</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Against</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Additions/</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>At End</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center"><B>Description</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>of Period</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Expenses</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Sales</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>(Deductions)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>of Period</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Year Ended February&nbsp;28, 2004</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Estimated Returns</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">16,443</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">17,404</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(14,331</TD>
+    <TD nowrap>)(a)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">19,516</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Doubtful Accounts</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">1,602</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(143</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(810</TD>
+    <TD nowrap>)(b)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">649</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Cash Discounts</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">965</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">3,882</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(3,410</TD>
+    <TD nowrap>)(c)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">1,437</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Customer Deductions</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">528</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">1,132</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(528</TD>
+    <TD nowrap>)(d)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">1,132</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Obsolete Inventory</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">3,527</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">7,462</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">.$(3,874</TD>
+    <TD nowrap>)(e)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">7,115</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Year Ended February&nbsp;26, 2005</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Estimated Returns</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">19,516</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">22,020</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(20,712</TD>
+    <TD nowrap>)(a)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">20,824</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Doubtful Accounts</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">649</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(110</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(276</TD>
+    <TD nowrap>)(b)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">263</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Cash Discounts</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">1,437</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">4,692</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(4,685</TD>
+    <TD nowrap>)(c)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">1,444</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Customer Deductions</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">1,132</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">883</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(1,132</TD>
+    <TD nowrap>)(d)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">883</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Obsolete Inventory</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">7,115</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">4,917</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(7,741</TD>
+    <TD nowrap>)(e)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">4,291</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Year Ended February&nbsp;25, 2006</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Estimated Returns</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">20,824</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">29,840</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(29,483</TD>
+    <TD nowrap>)(a)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">21,181</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Doubtful Accounts</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">263</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">468</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(576</TD>
+    <TD nowrap>)(b)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">155</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Cash Discounts</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">1,444</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">2,900</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(2,805</TD>
+    <TD nowrap>)(c)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">1,539</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Customer Deductions</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">883</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">1,189</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(883</TD>
+    <TD nowrap>)(d)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">1,189</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Reserve for Obsolete Inventory</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">4,291</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">5,360</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(4,655</TD>
+    <TD nowrap>)(e)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">4,996</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<DIV align="left">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 18%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+
+<TR valign="top">
+    <TD nowrap align="left">a)</TD>
+    <TD>&nbsp;</TD>
+    <TD>Returns charged against provision, net of recoveries</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">b)</TD>
+    <TD>&nbsp;</TD>
+    <TD>Bad debt write-offs</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">c)</TD>
+    <TD>&nbsp;</TD>
+    <TD>Early payment discounts taken by customers</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">d)</TD>
+    <TD>&nbsp;</TD>
+    <TD>Pricing allowance and slotting credits issued to customers</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">e)</TD>
+    <TD>&nbsp;</TD>
+    <TD>Disposals, net of recoveries</TD>
+</TR>
+
+</TABLE>
+
+
+
+
+
+<P align="center" style="font-size: 10pt">S-2
+</DIV>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+

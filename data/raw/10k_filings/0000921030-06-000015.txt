@@ -1,0 +1,3634 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>mity10k06.txt
+<DESCRIPTION>10-K
+<TEXT>
+<PAGE> 1
+------------------------------------------------------------------------------
+               United States Securities and Exchange Commission
+                          Washington, D.C. 20549
+                    ------------------------------------
+                                 Form 10-K
+(Mark One)
+          [ x ]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+          For the fiscal year ended March 31, 2006
+                                    OR
+       [    ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+          For the transition period from            to
+                    Commission file number 0-23898
+                    ------------------------------------
+                          MITY ENTERPRISES, INC.
+           (Exact name of registrant as specified in its charter)
+
+     Utah                                               87-0448892
+(State or other jurisdiction of                    (I.R.S Employer
+incorporation or organization)                     Identification No.)
+
+                           1301 West 400 North
+                             Orem, Utah 84057
+           (Address of principal executive offices, zip code)
+                    ------------------------------------
+     Registrant's telephone number, including area code:  (801) 224-0589
+
+     Securities registered pursuant to Section 12(b) of the Act:  None
+       Securities registered pursuant to Section 12(g) of the Act:
+                              Title of class
+                      Common Stock, par value $.01
+                    ------------------------------------
+     Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act.    Yes        No   x
+     Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. Yes        No   x
+     Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.  Yes   x    No
+     Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [ x ]
+     Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, or a non-accelerated filer.  See definition of
+"accelerated filer and large accelerated filer" in Rule 12b-2 of the Exchange
+Act. (Check one): Large Accelerated Filer       Accelerated Filer
+Non-Accelerated Filer   x
+     Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Exchange Act).  Yes        No   x
+<PAGE> 2
+     The aggregate market value of the registrant's voting Common Stock held
+by non-affiliates of the registrant was approximately $44,771,000 (computed
+using the closing price of $17.01 per share of Common Stock on September 30,
+2005 as reported by Nasdaq).  Shares of Common Stock held by each officer and
+director (and their affiliates) and each person who owns 5 percent or more of
+the outstanding Common Stock have been excluded in that such persons may be
+deemed affiliates for purposes of this calculation.  The determination of
+affiliate status is not necessarily a conclusive determination for other
+purposes.
+     There were 3,850,785 shares of the registrant's Common Stock, par value
+$.01 per share, outstanding on May 23, 2006.
+     Portions of the registrant's definitive Proxy Statement for the Annual
+Meeting of Shareholders scheduled to be held on August 3, 2006, which Proxy
+Statement will be filed no later than 120 days after the close of the
+registrant's fiscal year ended March 31, 2006, are incorporated by reference
+in Part III of this Annual Report on Form 10-K.
+
+<PAGE> 3
+                      FORWARD LOOKING STATEMENTS
+
+This Annual Report on Form 10-K, in particular "Item 1. Business" and "Item 7.
+Management's Discussion and Analysis of Financial Condition and Results of
+Operations," contains forward-looking statements within the meaning of Section
+21E of the Securities Exchange Act of 1934, as amended.  These statements
+represent the Company's expectations or beliefs concerning, among other
+things, future revenue, earnings and other financial results, new products,
+marketing, operations and manufacturing.  The Company wishes to caution and
+advise readers that these statements involve risks and uncertainties that
+could cause actual results to differ materially from the expectations and
+beliefs contained herein.  For a summary of certain risks related to the
+Company's business see "Item 1A. Risk Factors" beginning on page 7 and "Item
+7. Management's Discussion and Analysis of Financial Condition and Results of
+Operations - Forward-Looking Statements and Factors That May Affect Future
+Results of Operations" beginning on page 23.
+
+Unless the context otherwise requires, references to the Company or MITY
+Enterprises are to MITY Enterprises, Inc. and its subsidiaries.  Mity-Lite(R),
+MityTuff(R), MityStack(R), MityHost(TM), SwiftSet(R), Xpeditor(TM), Xtreme
+Edge(TM), Summit(TM) Lectern, MitySnap(TM), BRODA(TM), Versipanel(TM),
+Intellicore(R), SwiftSet(R) HD(TM), and SwiftSet(R) Courtside(TM) are
+trademarks or trade names of the Company.
+
+                                   (i)
+<PAGE> 4
+
+                                 PART I
+
+ITEM 1.  BUSINESS
+
+BACKGROUND
+
+MITY Enterprises, Inc. (the "Company", "we" or "us") designs, manufactures and
+markets premium quality, innovative institutional furniture created to meet
+the efficiency needs of its customers.  The Company's product lines include
+multipurpose room furniture and healthcare seating.  The Company's line of
+multipurpose room furniture is sold both domestically and internationally in
+educational, recreational, hotel and hospitality, government, office,
+healthcare, church and other public assembly markets.  The Company's
+healthcare seating is sold mainly in Canada and the United States in the
+long-term healthcare market.  Recently, the Company has also started
+designing, manufacturing and marketing a line of rotomolded fence panel
+products to be used in commercial and residential fencing applications.  A
+summary of our net sales, income from continuing operations and assets for our
+business segments is found in Note 12 to the Consolidated Financials
+Statements in Item 8, which is included herein by reference.
+
+INSTITUTIONAL FURNITURE PRODUCTS
+
+MULTIPURPOSE ROOM FURNITURE.  The Company's multipurpose room furniture
+consists of lightweight, durable, folding leg tables, stacking chairs, folding
+chairs, lecterns, portable partitions and other related products used in
+multipurpose rooms.
+
+Lightweight, highly durable tables.  The Company has developed and currently
+manufactures and markets more than 50 different plastic table sizes.  The
+Company has successfully applied engineering grade plastics and sophisticated
+manufacturing and assembly methods to the production of tables that weigh less
+and are more durable than competing particle board or plywood table products
+of similar size.  The Company's plastic tables are manufactured using
+abrasion, stain and water resistant materials.  The Company's cornered tables
+are constructed using its proprietary high-impact corners which can withstand
+a two-foot drop without sustaining debilitating damage.  All of the Company's
+plastic tables include reinforced edging.  Cornered tables are equipped with
+non-skid pads which facilitate stacking and storage.  Management believes the
+Company's plastic table products appeal to its customers because they are
+durable, lightweight, easy to handle and attractive.
+
+Folding and stacking chairs.  The Company currently offers four lines of
+stacking chairs and three lines of folding chairs:  MityHost, SwiftSet
+Stacking, Steelcore Chiavari, and SwiftSet HD  chair lines and the SwiftSet
+Folding, Duramax Resin, and SwiftSet Courtside folding chair lines.  The
+MityHost, and SwiftSet  lines are manufactured in-house while the Steelcore
+Chiavari and Duramax Resin chair lines are purchased from suppliers and
+marketed under the Mity-Lite name.  These chair lines are designed with
+various high-performance characteristics including improved comfort and
+durability, lighter weight and improved stackability as compared to other
+chair lines.
+
+<PAGE> 5
+
+Other multipurpose room products.  The Company markets the Summit lectern, a
+line of lightweight, durable lecterns.  The lecterns are made of high quality
+polyethylene and can withstand abusive environments.  The Company offers these
+lecterns in a variety of colors, with custom inserts that allow customers to
+match decor.  On April 1, 2004, the Company acquired the assets of Versipanel
+LLC ("Versipanel"), a marketer of a variety of portable partitions.  The
+Company has added this  line of partitions to its product offering.  This
+product line includes room dividers, portable partitions, moveable walls and
+acoustic panels.  In addition to lightweight, durable tables, chairs,
+lecterns, and partitions, the Company manufactures and/or markets accessory
+products including table and chair carts, tablecloths, skirting and skirt
+clips.
+
+HEALTHCARE SEATING.  Through its wholly owned subsidiary, Broda Enterprises,
+Inc. (Broda), the Company designs, manufactures and markets healthcare seating
+and accessories used in long-term healthcare facilities located primarily in
+the United States and Canada.  The Company also markets its healthcare seating
+products through distributors in Germany and Australia.  Broda has developed
+and manufactures a line of premium wheeled and stationary specialty chairs.
+Most chair models come in two standard seat widths and six standard colors.
+The Company also manufactures chairs with custom seat widths, seat depths, and
+seat heights to accommodate special needs of residents including bariatric
+sizes.  Heavy gauge steel tube chair frames and large wheels and casters allow
+for greater weight capacity and maneuverability.  In addition, a powder coated
+finish provides a scratch-resistant surface.  Broda's high end seating
+products offer a combination of features that differentiate them from the
+competition. Broda chairs have been tested for interface pressures and
+stability that, combined with their rigid and durable design, make Broda
+chairs suitable seating for long-term care residents including those with
+Huntington's Chorea Disease, Alzheimer's or Acquired Brain Injury.  In
+addition, nursing home residents susceptible to skin breakdown, suffering from
+loss of upper body strength, or with other conditions that might otherwise
+restrict them to bed or place them at risk of self injury or falls, can be
+safely and comfortably seated in a Broda chair.
+
+FENCE PRODUCTS
+
+During the fiscal year ended March 31, 2005, the Company discontinued
+development work on a next generation table project.  In its place, the
+Company began to explore how it might use its equipment and technology
+developed on that project towards other products that do not require the same
+level of precision as tables.  As a result of this process, during the fiscal
+year ended March 31, 2006, the Company developed a fence panel that is
+rotationally molded so that each side is in the shape of real rock.  The
+initial product line has the look of stacked rock, but the Company believes
+that it can also create the look of other styles as well.  The Company's fence
+product is manufactured using plastic resins which are more durable under
+extended ultraviolet light exposure than vinyl.  By using granite-colored
+resins, a panel is able to be produced that has the look of real stone.  This
+product provides the advantages of low maintenance and ease of assembly
+combined with added aesthetics and increased durability as compared to other
+products.  Only a limited amount of product has been manufactured to date.
+Management is currently increasing its production capability and establishing
+its distribution channel and believes that it will be able to successfully
+enter the fence market.  During the year ended March 31, 2006, sales volumes
+of this product and other metrics were not significant enough for its
+classification as a separate segment.
+
+<PAGE> 6
+
+MARKET OVERVIEW
+
+Based upon management's analysis of companies known to sell multipurpose room
+furniture and based upon management's experience and contacts in its industry,
+management estimates that the domestic market for multipurpose room furniture
+exceeds $1.3 billion annually.  It is estimated that folding tables alone make
+up more than $300 million of this domestic market.  Chairs and other related
+seating products are estimated to account for approximately $900 million of
+the domestic multipurpose room furniture market.  Other products such as
+staging, risers, partitions, lecterns, and flooring account for the balance of
+the estimated domestic market.
+
+In the healthcare seating market, management estimates that in the United
+States and Canada there are more than 28,000 nursing homes with over 1.8
+million beds.  Nursing homes and their residents represent the typical Broda
+customer.  In addition, Broda's market also includes chronic care, psychiatric
+care or long-term care facilities.  Management estimates that the North
+American market for its current healthcare seating products is approximately
+$60 million.
+
+Based upon management's analysis, in 2003, the fence market represented a $4.3
+billion industry in the United States of which $2.3 billion was at the
+manufacturer level, and has been growing at 8 percent per year since 1997.
+The fence industry is heavily dependent upon residential home construction and
+remodeling for growth.  One of the fastest growing product segments in the
+fencing industry is vinyl which in 2003 was 18 percent of the total fence
+market and grew at a 37 percent compounded annual growth rate between 1997 and
+2003.  This rapid growth is expected to continue.
+
+SALES AND MARKETING
+
+MULTIPURPOSE ROOM FURNITURE.  The Company primarily markets its multipurpose
+room products directly to end users in the educational, recreational, hotel
+and hospitality, governmental, office products, healthcare, public assembly
+and church markets.  This strategy enables the Company to manage selling costs
+more effectively and maintain direct contact with its customers.  The Company
+currently employs 57 full-time in-house sales and customer service employees.
+The Company's sales and customer service personnel are compensated on a salary
+or commission basis and may qualify for other incentive bonuses based on
+individual, sales team and Company performance.  Each sales and customer
+service employee receives training in product attributes, customer service,
+use of the Company's computerized sales management system and all aspects of
+the sales cycle.
+
+The Company typically markets its products by first identifying customers
+through internal market research, referrals, trade shows, customer networking
+and test marketing.  Once a market has been identified, the Company's sales
+and marketing staff will attempt to generate leads for prospective purchasers
+in such markets by attending trade shows, performing mass mailings and using
+lead-oriented advertising.  The Company uses a proprietary, computer-based
+sales management system to qualify, track and manage sales leads for
+prospective and existing customers and to compile customer feedback.  While
+each sales and customer service employee maintains some in-person contact with
+such employee's assigned customers, most of the Company's sales efforts are
+pursued using the telephone, fax machine, e-mail, internet, videotapes and
+mail services.
+
+<PAGE> 7
+
+The Company's plastic table, SwiftSet chair, cart, and lectern products are
+sold with a twelve-year pro-rata warranty covering materials and workmanship.
+The MityHost is sold with a fifteen-year warranty covering the structural
+integrity of the metal frame and a one-year warranty covering the upholstery.
+Versipanel partitions are sold with a one-year warranty covering materials and
+workmanship.  The Company's Steelcore Chiavari and Duramax Resin chairs are
+sold with three-year warranties covering materials and workmanship.
+
+HEALTHCARE SEATING.  The Company markets its healthcare seating products to
+end users and care givers in healthcare markets through its own sales
+representatives, distributors and retailers of durable medical equipment.  The
+Company currently employs 24 full-time sales and customer service employees
+and 20 independent distributors in its healthcare seating operations.  The
+Company's internal sales and customer service employees are compensated with a
+base salary and may qualify for commission, incentive or bonus pay.  The
+Company promotes its products through print advertising, trade shows, mass
+mailings and telephone solicitations targeted to healthcare professionals.
+The Company has a sampling program and provides many prospective purchasers
+with product samples for 14-day trial periods.  All of Broda's chairs carry a
+limited three-year warranty on the steel frame and a limited one year warranty
+on the other components for defects and failure in normal use.
+
+
+INTERNATIONAL SALES
+
+Since its inception in 1987, the Company has focused its marketing efforts
+primarily on domestic markets.  The Company has, however, sold its products in
+Canada, Latin America, Europe, Asia, the Middle East and Australia.  For the
+fiscal years ended March 31, 2004, 2005, and 2006, the Company's international
+sales accounted for 13.3 percent, 14.7 percent and 15.1 percent of the
+Company's total sales, respectively.  The Company has been successful in
+establishing distributor relationships in Canada, Australia, Mexico, the
+United Kingdom, France, Spain, the United Arab Emirates, Portugal, Italy,
+Qatar, and Saudi Arabia.  Approximately 28 percent of healthcare seating sales
+are in Canada, and 5 percent are in other countries outside of the United
+States.
+
+MANUFACTURING AND MATERIALS
+
+MULTIPURPOSE ROOM FURNITURE.  The Company's manufacturing process for its
+plastic table products consists principally of bonding a thermoformed ABS
+plastic shell to a wood core frame.  Metal legs, which are manufactured and
+painted in-house, and edge trim are then attached to the table to complete the
+process.  Since its inception, the Company has implemented a number of changes
+to its manufacturing process and product design which have resulted in
+increased production volumes, improved production quality and increased
+on-time shipping performance.  The Company has designed and manufactured
+certain proprietary equipment used in its manufacturing process.  The Company
+believes that its manufacturing innovations give it a competitive advantage,
+allowing the Company to reduce production costs and increase productivity.
+The Company's typical order to delivery lead time is between three and five
+weeks.
+
+<PAGE> 8
+
+The Company's manufacturing process for its multipurpose chair products
+consists principally of the manufacturing and painting of legs and frames,
+upholstering seat and back cushions for the MityHost and SwiftSet upholstered
+chairs, injection molding the seat and back for the SwiftSet chairs, and final
+assembly of the components.  The Chiavari, and Duramax chairs are distributed
+by the Company under original equipment manufacturer (OEM) arrangements with
+the chair manufacturers.  The MityHost stacking chair, SwiftSet folding
+chairs, and SwiftSet stacking chair are manufactured in-house at the Company's
+facility in Orem, Utah.  The frame for the SwiftSet HD chair is outsourced
+with final assembly occurring at the Company's facility in Orem, Utah.  The
+Company's manufacturing process for its lectern products consists primarily of
+manufacturing the plastic shell, assembling electronic components, attaching
+the laminated insert to the shell, and final assembly of the components.  The
+manufacturing process for the Company's portable partitions involves
+principally cutting and forming an internal foamed structure, laminating an
+acoustical fabric onto the structure and attaching additional hardware
+components.
+
+HEALTHCARE SEATING.  The Company's manufacturing process for its healthcare
+seating products includes such metal fabricating processes as welding,
+bending, punching, drilling and painting.  The Company also performs cut and
+sew operations to produce its chair cushions and accessories.  Metal
+components are typically powder coated or painted for corrosion protection.
+Components purchased for assembly into chairs includes casters, gas springs,
+cables, vinyl fabric, strapping, and plastic parts.
+
+Raw materials used in all of the Company's products such as plastic, wood,
+metal and fabric are generally available from a number of suppliers.  The
+plastic used in the Company's multipurpose room products and tubing used in
+the metal legs are manufactured according to the Company's specifications.
+Certain parts of the multipurpose room operations operate without a
+substantial raw materials inventory by depending on certain key suppliers to
+provide raw materials on a "just-in-time" basis.  Other raw material items are
+purchased in larger quantities and stored at the Company's location in order
+to take advantage of price discounts.  Component parts are provided by a
+number of suppliers to the Company's specifications.  The Company's other raw
+materials such as wood, formed metal, laminate, fabric and certain welding
+compounds are commodity items.  The Company believes that most of its raw
+materials are available from alternative suppliers.  However, any significant
+interruption in delivery of such items could have a material adverse effect on
+the Company's operations.
+
+COMPETITION
+
+The markets in which the Company participates are highly competitive.  The
+institutional furniture industry consists of a fragmented group of large
+manufacturers and a host of smaller manufacturers.  The healthcare seating
+industry also includes a fragmented group of major medical device
+manufacturers and many small manufacturers.
+
+<PAGE> 9
+
+MULTIPURPOSE ROOM FURNITURE.  The Company markets its table products based
+primarily on product performance (lightweight and durable) and reputation, not
+price.  The Company's average table price is generally higher than the average
+price of competing particle board, plywood, plastic or metal table products of
+its competitors.  The Company believes that it has a respected reputation for
+product quality, convenience and customer service and that for these reasons,
+end users often choose its table products over competitors' lower cost table
+products. Because only certain elements of the Company's table design are
+patented, the Company's tables may be reverse engineered and duplicated by
+competitors who are able to develop the manufacturing equipment and processes
+to do so.  In the past few years, several competitors have introduced other
+thermoformed plastic tables with many similar characteristics to the Company's
+products.  More recently, other competitors have introduced blow molded
+plastic tables that, although not currently as durable, are cheaper than the
+Company's table products.  These introductions have increased price and profit
+margin pressures on the Company's products.  Further improvements in these
+products or introductions of new competing products by lower cost producers
+would put additional price and profit margin pressure on the Company which
+could have a material adverse effect on the Company's results of operations.
+
+Among the Company's primary competitors in the table market are Palmer-Snyder,
+Inc., McCourt Manufacturing, Inc., Midwest Folding Products, Krueger
+International, Inc., SICO and Virco Manufacturing Corporation, which market a
+thermoformed plastic table; Southern Aluminum, Inc., which produces an
+aluminum table; Lifetime Products, McCourt Manufacturing, Krueger
+International, Inc., which market a blow molded plastic table; Krueger
+International, Inc., Bevis Custom Furniture, Inc., Globe Business Furniture
+and Virco Manufacturing Corporation, Inc., which produce particle board
+tables; and Midwest Folding Products, Maywood Furniture, Corp., and
+Palmer-Snyder, Inc., which produce plywood tables.
+
+Management believes that customers purchase the Company's multipurpose room
+chair products primarily because of product performance, reputation, warranty
+service and convenience.  The market for institutional chairs is highly
+competitive and fragmented.  The Company believes that its SwiftSet folding
+chair and stacking chair lines have technological and performance advantages
+over their competitors.  Although the Company's other chair lines do not offer
+the same  advances as the Company's table and SwiftSet chair products, the
+Company believes they do have distinct selling features.  Among the Company's
+primary competitors in the multipurpose chair market are Commercial Furniture
+Group, Virco Manufacturing Corporation, Artco-Bell Corporation, Globe Business
+Furniture, Shelby Williams Industries, Inc., MTS Seating, Daniel Paul Chairs,
+Krueger International, Inc., Clarin, a division of Greenwich Industries, Meco
+Corporation, Gasser Chair Company, Inc., Bertolini, Inc., and Church Chair
+Industries, Inc.  Management believes that the primary competitors for its new
+portable partition product include ScreenFlex, SICO, Bertolini, Inc.,
+Panelfold, Inc., Curtition, Inc., Hufcor, Inc., Modernfold, Inc., and Clone
+Office Cubicles.
+
+<PAGE> 10
+
+HEALTHCARE SEATING.  Management believes that customers purchase the Company's
+healthcare seating products primarily because of product performance,
+reputation and service, not price.  The Company's average healthcare chair
+price is generally higher than the average price of competing chairs.  The
+Company's chairs generally offer significantly greater performance in terms of
+function and durability and for these reasons are chosen over lower cost
+competitors' products.  Among the Company's primary competitors in the
+healthcare seating market are Invacare Corp., L.P.A. Medical Inc.,
+Graham-Field Inc., Maple Leaf Wheelchair Manufacturing Inc., Sunrise Medical
+Inc., Hillenbrand Industries Inc., Winco Inc., Dolomite, Homecrest Industries
+Incorporated, and Future Mobility.
+
+INTELLECTUAL PROPERTY
+
+The Company has been granted two utility patents relating to the construction
+of its table tops.  A design patent and six utility patents have been granted
+on the SwiftSet chair.  A utility patent has been granted on a flex mechanism
+for the Host chair.  The Company has been granted a design patent related to
+its SwiftSet Stacking chair.  The Company has filed seven other patents
+related to its furniture and rotationally molded products. At this time, the
+Company has chosen not to apply for international patent protection for any of
+these concepts.  The Company does not believe this will have a material
+adverse effect on the Company.  The Company also has several trademarks and
+trade names as referenced on page (i) of this report.
+
+Utility patents relating to the function of one of its healthcare chair models
+have been granted to the Company in the United States and Canada.  A utility
+patent on its flipdown footrest has been granted in the United States and is
+pending in Canada.  The Company does have international patents pending on
+healthcare chairs in Canada, Japan, Germany, the United Kingdom, and France.
+The Company has been granted design patents on its geriatric accessory tray,
+healthcare chair back, flipdown footrest, and healthcare chair for Canada and
+the United States.  Design patents are pending for a bariatric chair.  The
+stylized word "BRODA" has been trademarked for Canada and the United States
+and trademark registration has been applied for in Europe.  Broda's "Comfort
+Tension Seating" has been trademarked in Canada and the United States.  The
+"Pedal Chair" trademark has been registered in the United States and Canada.
+
+The Company believes that aspects of its manufacturing processes are trade
+secrets of the Company.  The Company relies on trade secret law and
+nondisclosure agreements to protect its trade secrets.  The Company believes
+that its patents and trade secrets provide it with competitive advantages.
+
+GOVERNMENT REGULATION
+
+The Company is subject to various local, state, provincial and federal laws
+and regulations including, without limitation, regulations promulgated by
+federal, state and provincial environmental and health agencies, the Federal
+Occupational Safety and Health Administration, the Food and Drug
+Administration, North American Free Trade Agreement, and laws pertaining to
+the hiring, treatment, safety and discharge of employees.  The Company's
+manufacturing operations must also meet federal, state, provincial and local
+regulatory standards in the areas of labor, safety and health.  Historically,
+the cost of regulatory compliance has not had a material adverse effect on the
+Company's sales or operations.
+
+<PAGE> 11
+
+EMPLOYEES
+
+As of March 31, 2006, the Company had approximately 378 full-time and 14
+part-time employees.  No employees have union representation.  The Company
+believes that its relationship with its employees is good.
+
+AVAILABLE INFORMATION
+
+Information regarding the Company's annual reports on Form 10-K, quarterly
+reports on Form 10-Q, current reports on Form 8-K, and any amendments to these
+reports, are available, free of charge, at the Company's internet website at
+www.mityenterprises.com, as soon as reasonably practicable after the Company
+electronically files such reports with or furnishes them to the Securities and
+Exchange Commission.
+
+
+ITEM 1A.  RISK FACTORS
+
+WE MAY NOT BE ABLE TO DEVELOP NEW PRODUCTS.  The Company's expansion of its
+current product lines is contingent, among other things, upon the Company's
+ability to develop and/or acquire additional lines of complementary
+institutional furniture which can be purchased or manufactured in a cost
+efficient manner and sold at competitive prices in the Company's markets.
+Developing viable new products requires capital and takes time.  The Company
+may not be able to develop new products at a speed or cost that allow us to
+timely capitalize on market opportunities or counter competition.  Over the
+past few years, the Company worked at developing a new generation multipurpose
+room table and invested substantial capital resources in its development.  The
+Company ultimately was unsuccessful at developing a cost-effective repeatable
+process to manufacture the table.  The Company cannot guarantee that it will
+be successful in developing new products to expand its product line.
+
+OUR NEW FENCE PRODUCT MAY NOT BE ACCEPTED BY THE MARKET.  The Company has
+recently begun manufacturing a fence product using the assets initially
+purchased for its next generation table line.  This is a new product line and
+market for the Company.  Further, the Company does not have previous
+experience with this new product line or product market.  Developing viable
+new products requires capital and takes time.  The Company may not be able to
+launch this new product at a speed or cost that will allow us to timely
+capitalize on market opportunities or counter competition and customers may
+not be willing to accept the new product.  Also, since this is a new product
+line, the Company cannot predict the long-term product performance.  Although
+the Company has performed testing on the product and believes that its
+performance will be better than competitive products, it cannot ensure that
+this will be the case.
+
+<PAGE> 12
+
+A DOWN-TURN IN THE FURNITURE INDUSTRY WOULD HARM OUR BUSINESS.  Beginning in
+fiscal 2002, and continuing through fiscal 2004, the Company faced one of the
+most significant down-turns ever in the global furniture industry.  Industry
+analysts reported declines in the United States office furniture market of 18%
+for calendar year 2001, 19% in  2002, and 4% in 2003.  These years constitute
+an unprecedented three consecutive year decline in an industry that only had
+three down years between 1971 and 2000.  Companies throughout the world
+reduced their spending across many capital goods categories, including
+furniture.  Revenue and order rates across the industry fell throughout
+calendar 2001, 2002, and 2003 as customers delayed and canceled orders.
+Demand for furniture products continued to soften as corporate profits
+remained under pressure during recent years.  Demand for the Company's
+products was also adversely impacted by declines after September 11, 2001 in
+the hospitality and recreational markets.  Terror threats, war, economic
+uncertainty, and related uncertainties contributed to the downturn.  Although
+the outlook has improved, if conditions do not continue to improve, or begin
+to decline again, the Company would be negatively impacted.
+
+INFLATION AND INCREASING RAW MATERIAL COSTS COULD HARM OUR BUSINESS.  During
+the fiscal years ended March 31, 2005 and 2006, the Company experienced
+rapidly increasing costs in most of its raw materials, including steel,
+plastic, and wood.  In addition, rising fuel costs have increased
+transportation costs.  In response to these increases, the Company implemented
+price increases on most of its product lines.  The Company has been able to
+achieve most of the price increases, but some product lines have been slower
+in responding to the price increase.  However, the Company cannot predict
+whether it will be able to achieve the implemented price increases or what
+effects the price increases might have on sales volumes.  Sales may decline.
+Although the Company is unable to predict whether the price of its raw
+materials will continue to increase, further  increases would erode the
+Company's gross margin without additional price increases for the Company's
+products.
+
+COMPETITION COULD HARM OUR BUSINESS.  The Company is facing increased
+competition because of innovations in competitors' products and lower pricing
+brought on by the general down-turn in the furniture industry.  More of the
+Company's competitors have begun introducing products that directly compete
+with the products offered by the Company, including competitors who are
+manufacturing their products offshore at a lower cost. The Company's products
+are generally more expensive than products sold by the Company's competitors
+in the same markets.  The Company believes that competition for its products
+is generally based on product quality and characteristics, service and price.
+Unless the Company adapts and responds to these competitive threats, the
+Company will face margin pressure from low cost producers.  Only certain
+elements of the Company's products are patented, so unpatented elements could
+be reverse engineered and duplicated by competitors who are able to develop
+the manufacturing equipment and processes to do so.  The Company's continued
+success will depend upon, among other things, its ability to continue to
+manufacture and market high quality, high performance products at prices
+competitive in the markets served by the Company.  Although the Company is
+developing new products, it is uncertain at this time what the marketplace
+acceptance will be for these products.
+
+<PAGE> 13
+
+OFF-SHORE MANUFACTURING BY COMPETITORS IS PUTTING INCREASED MARGIN PRESSURE ON
+US.  The Company is facing increased competition, particularly in its chair
+product lines, from off-shore manufacturing, primarily from Asia.  These lower
+cost producers are putting margin pressure on us.  There can be no assurance
+that the Company will be successful in countering this competition through its
+own offshore manufacturing efforts.
+
+A POTENTIAL DECREASE IN DEMAND FOR HEALTHCARE SEATING PRODUCTS WOULD HARM OUR
+BUSINESS.  Although the Company believes that the specialty healthcare seating
+market is less subject to economic pressures than the Company's multipurpose
+room operations, the medical and healthcare industry is more subject to
+regulatory changes that could affect the demand for Broda's products.  Recent
+changes in the durable medical equipment marketplace relating to government
+reimbursements for these products in the United States at the federal and
+state level has negatively impacted Broda's business.  The Company is not
+currently aware of any other regulatory changes in the near future that would
+have a substantial and negative impact on this business.  During the past few
+years, the Company has hired direct employees in the United States to market
+its healthcare seating products, replacing some of the dealers and
+distributors that it previously had in those areas.  Although the Company
+intends to expand this presence in coming years, the Company may be unable to
+expand its geographic markets for healthcare seating products.
+
+THE LOSS OF KEY CUSTOMERS COULD HARM OUR BUSINESS.  The loss of any key
+customers of the Company would decrease the Company's revenue.  Given the
+current environment in the furniture industry, the Company cannot assure that
+it would be able to replace such revenue or reduce its costs and, therefore,
+the Company's profitability would be adversely impacted.
+
+THE LOSS OF KEY RAW MATERIAL SOURCES COULD HARM OUR BUSINESS. Both the plastic
+used in the Company's products and the tubing used in its table legs and
+chairs are manufactured according to Company specifications.  Portions of the
+Company's multipurpose room operations operate without substantial inventory
+levels of raw materials by depending on certain key suppliers to provide raw
+materials on a "just-in-time" basis.  The Company believes that necessary
+materials are generally available from alternate suppliers.  However, any
+shortages or significant interruptions in the delivery of raw materials could
+have a material adverse effect on the Company's production schedule and
+operations.
+
+AN INCREASE IN WARRANTY SERVICE COSTS COULD HARM OUR BUSINESS. The Company
+intends to continue to offer warranties covering materials and workmanship on
+its existing products and anticipates providing a warranty covering materials
+and workmanship for all complementary product lines developed or acquired by
+the Company.  While the Company has implemented improved quality control
+measures that it expects will reduce warranty claims, it is possible that
+warranty servicing costs will increase in future periods.  Furthermore, the
+Company is not in a position to anticipate the additional warranty service
+costs that may be incurred as a result of the Company's expansion into new or
+complementary product lines.
+
+<PAGE> 14
+
+WE COULD BE SUBJECT TO FUTURE VARIATIONS IN OPERATING RESULTS.  The Company's
+short-term profitability could be adversely affected by its decision to
+develop or acquire complementary product lines, hire additional sales staff,
+and pursue additional acquisitions.  Various factors, including acquisition
+related expenses, the ability to find and train qualified personnel,
+operational transitions, timing of new product introductions and the cost of
+developing and marketing new products and penetrating new markets as well as
+changes in product mix, may have an adverse effect on the Company's results of
+operations.  There can be no assurance that the Company will continue to
+experience profitability at historical rates.  The Company may experience
+temporary fluctuations in operations and quarterly variations in the future.
+
+FORWARD-LOOKING STATEMENTS AND FACTORS THAT MAY AFFECT FUTURE RESULTS OF
+OPERATIONS.  Forward-looking statements contained herein include plans and
+objectives of management for future operations, including plans and objectives
+relating to the products, marketing, customers, product line expansions,
+warranty expense, and cost reductions to preserve margins.  These
+forward-looking statements involve risks and uncertainties and are based on
+certain assumptions that may not be realized.  Actual results and outcomes may
+differ materially from those discussed or anticipated.
+
+All forward-looking statements involve predictions and are subject to known
+and unknown risks and uncertainties, including, without limitation, those
+discussed above as well as general economic and business conditions, that
+could cause actual results to differ materially from historical results and
+those presently anticipated or projected.  Readers should not place undue
+reliance on any such forward-looking statements, which speak only as of the
+date made.  The considerations described above and elsewhere in this filing
+could affect the Company's financial performance and could cause the Company's
+actual results for future periods to differ materially from any views or
+statements expressed with respect to future periods.  Important factors and
+risks that might cause such differences, include, but are not limited to those
+factors referenced above and in "Item 7.  Management's Discussion and Analysis
+of Financial Condition and Results of Operations - Forward Looking Statements
+and Factors That May Affect Future Operating Results."
+
+
+ITEM 1B.  UNRESOLVED STAFF COMMENTS
+
+None
+
+<PAGE> 15
+
+ITEM 2.  PROPERTIES
+
+The Company's corporate headquarters and multipurpose room furniture
+manufacturing facilities are located in Orem, Utah (approximately 40 miles
+south of Salt Lake City).  The Company's headquarters and multipurpose room
+table and cart manufacturing facility consists of approximately 71,000 square
+feet of manufacturing, office, research and development and storage space
+located on approximately four acres of land.  In addition, the Company owns
+approximately ten acres of land across the street from its corporate
+headquarters.  On a portion of this property, the Company has built a 79,000
+square foot office and manufacturing facility to house its sales force and
+multipurpose room chair operations.  The Company has also built a 63,000
+square foot facility which was anticipated to be used for the manufacturing of
+its next generation of multipurpose room tables.  However, with the decision
+to discontinue development on that product line, the Company is currently
+using the facility for warehousing some of its raw materials as well as
+manufacturing space for its new fence product line.  The Company estimates
+this property includes enough real estate to build approximately an additional
+140,000 square feet of facility to support the future growth of the Company.
+The Company also owns an adjacent 2,400 square foot building that sits on this
+property.  During the quarter ended March 31, 2006, the Company purchased
+approximately 2 acres located adjacent to its corporate headquarters.  The
+Company currently intends to construct an additional manufacturing and
+warehousing facility on this land during fiscal 2007.  The Company believes
+that by adding this new facility as well as additional equipment and
+production shifts, its existing facilities will serve its current product
+lines for the next year.  However, if the operation adds additional product
+lines and/or significantly modifies its existing products lines, additional
+facilities may need to be constructed on the Company's existing land.
+
+The Company's healthcare seating manufacturing facilities are located in
+Waterloo, Ontario, Canada (approximately 60 miles west of Toronto).  These
+facilities consist of two adjacent buildings with approximately 30,000 square
+feet of leased manufacturing, office, research and development and storage
+space. The facilities and related real estate are leased under an agreement
+for a one-year term expiring in August 2006.  The base monthly lease payment
+is approximately $14,000.  Broda pays all maintenance costs, taxes and
+insurance.  The Company believes that these facilities will serve its
+healthcare seating manufacturing needs for the term of the lease.  Subsequent
+to the year ended March 31, 2006, the Company purchased approximately 4 acres
+in Waterloo, Ontario, Canada for $570,000.  The Company intends to construct a
+new facility during the upcoming fiscal year and will relocate its healthcare
+seating operations to that facility.
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+From time to time, the Company is subject to legal proceedings and other
+claims arising in the ordinary course of its business. The Company maintains
+insurance coverage against potential claims in an amount which it believes to
+be adequate.   During the quarter ended March 31, 2006, the Company reached a
+settlement agreement for certain alleged obligations related to a defined
+benefit pension plan resulting from exiting and selling its specialty office
+seating and systems business in fiscal 2002.  The Company also successfully
+defended itself in a wage dispute also resulting from exiting and selling its
+specialty office seating and systems business in fiscal 2002.  The litigation
+resulted in a judgment in the Company's favor and had no material impact on
+the consolidated financial statements.  There are no material pending legal
+proceedings against the Company, other than routine litigation incidental to
+the business.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of security holders during the fourth
+quarter of the fiscal year ended March 31, 2006.
+
+<PAGE> 16
+
+                                      PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS
+AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+The Company's common stock is traded on the Nasdaq National Market System
+under the symbol "MITY".  The Company's common stock first began trading on
+April 29, 1994.  The following table outlines the Company's quarterly stock
+price performance during the last two years.
+
+
+                                                     High          Low
+                                                   -------       -------
+Fiscal Year Ended March 31, 2006:
+  First Quarter . . . . . . . . . . . . . . . . .   $17.53        $13.72
+  Second Quarter. . . . . . . . . . . . . . . . .    17.59         14.99
+  Third Quarter . . . . . . . . . . . . . . . . .    18.74         16.55
+  Fourth Quarter. . . . . . . . . . . . . . . . .    19.58         17.05
+
+Fiscal Year Ended March 31, 2005:
+  First Quarter . . . . . . . . . . . . . . . . .   $19.30        $16.52
+  Second Quarter. . . . . . . . . . . . . . . . .    17.95         15.05
+  Third Quarter . . . . . . . . . . . . . . . . .    16.75         14.25
+  Fourth Quarter. . . . . . . . . . . . . . . . .    16.22         13.36
+
+There were 143 security holders of record as of May 23, 2006.  In addition,
+management estimates that there were approximately 2,000 beneficial
+shareholders.  Since the closing of its public offering, the Company has not
+declared dividends and does not currently anticipate paying dividends.
+
+The following table presents information about the Company's common stock that
+may be issued upon the exercise of options, warrants and rights under existing
+equity compensation plans at March 31, 2006:
+
+                     EQUITY COMPENSATION PLAN INFORMATION
+
+                            Number of      Weighted-      Number of securities
+                            securities     average        remaining available
+                            to be          exercise       for future issuance
+                            issued upon    price of       under equity compen-
+                            exercise of    outstanding    sation plans (exclu-
+                            outstanding    options,       ding securities
+                            options,       warrants       reflected in column
+Plan Category               and rights     and rights     (a))
+--------------------------  ----------     -----------    ---------------
+
+                                (a)            (b)                (c)
+Equity compensation plans
+ approved by security
+ holders                      375,371        $12.28            12,080
+
+Equity compensation plans
+ not approved by security
+ holders                         --             --               --
+--------------------------  ----------     -----------    ---------------
+Total                         375,371        $12.28            12,080
+==========================  ===========    ===========    ===============
+
+<PAGE> 17
+
+The following table presents information about repurchases of the Company's
+common stock that were made during the fourth quarter of the fiscal year ended
+March 31, 2006:
+
+                    ISSUER PURCHASES OF EQUITY SECURITIES*
+                                                               MAXIMUM NUMBER
+                                             TOTAL NUMBER OF     OF SHARES
+                       TOTAL      AVERAGE    SHARES PURCHASED   THAT MAY YET
+                     NUMBER OF     PRICE       AS PART OF       BE PURCHASED
+                      SHARES        PAID    PUBLICLY ANNOUNCED UNDER THE PLANS
+PERIOD               PURCHASED   PER SHARE  PLANS OR PROGRAMS   OF PROGRAMS
+-------------------  ---------   ---------  ------------------ ---------------
+February 1 -
+ February 28, 2006      8,800       $19.00
+
+March 1 - March 31,
+ 2006                  75,482        18.88         481,846       368,154
+-------------------  ---------   ---------  ------------------ ---------------
+Total                  84,282       $18.89         481,846       368,154
+===================  =========   =========  ================== ===============
+* On June 7, 2005, the Company announced its intention to repurchase up to
+500,000 shares of the Company's common stock.  On January 24, 2006, the board
+of directors increased the share repurchase authorization by 150,000 shares.
+On May 18, 2006, the board of directors increased the share repurchase
+authorization by an additional 200,000 shares, bringing the total to 850,000
+shares.  This table details the activity in the share repurchase program for
+the three month period ended March 31, 2006.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+The following selected financial data should be read in conjunction with the
+Financial Statements and the Notes thereto included in this Form 10-K.  The
+statement of income data set forth below with respect to the fiscal years
+ended March 31, 2006, 2005 and 2004 and the balance sheet data at March 31,
+2006 and 2005 are derived from, and should be read in conjunction with the
+audited Financial Statements included in this Form 10-K.  The statement of
+income data set forth below with respect to the fiscal year ended March 31,
+2003 and 2002 and the balance sheet data at March 31, 2004, 2003 and 2002 are
+derived from audited financial statements not included in this Form 10-K.
+
+<PAGE> 18
+
+STATEMENT OF INCOME DATA
+
+Year Ended March 31,        2006      2005      2004      2003      2002
+                          -------   -------   -------   -------   -------
+                  (in thousands, except per share data)
+Net sales                 $55,701   $50,272   $45,210   $40,965   $40,841
+Cost of products sold      35,947    33,537    28,037    24,457    24,485
+                          -------   -------   -------   -------   -------
+Gross profit               19,754    16,735    17,173    16,508    16,356
+Expenses:
+ Selling                    7,903     7,427     6,452     6,172     6,363
+ General and
+  administrative            2,012     1,980     1,787     2,504     2,028
+ Research and development   1,734     1,265     1,393     1,541     1,158
+ Asset impairment             -       2,226       -         -         -
+                          -------   -------   -------   -------   -------
+Income from continuing
+ operations                 8,105     3,837     7,541     6,291     6,807
+Interest and other, net       247        58      (101)      132       368
+                          -------   -------   -------   -------   -------
+Income before provision
+ for income taxes           8,352     3,895     7,440     6,423     7,175
+Provision for income taxes  2,811     1,448     2,766     2,367     2,772
+                          -------   -------   -------   -------   -------
+Net income from continuing
+ operations before
+ minority interest          5,541     2,447     4,674     4,056     4,403
+Minority interest             -          22        79         7       -
+                          -------   -------   -------   -------   -------
+Net income from continuing
+ operations                 5,541     2,469     4,753     4,063     4,403
+                          -------   -------   -------   -------   -------
+Loss from discontinued
+ operations, net of
+ applicable income tax        -         -         -         -        (271)
+
+Gain (loss) on disposal,
+ net of applicable income
+ tax                          -         -         -         745    (3,256)
+                          -------   -------   -------   -------   -------
+Net income                 $5,541   $ 2,469   $ 4,753   $ 4,808     $ 876
+                          =======   =======   =======   =======   =======
+
+Basic earnings per share
+ from continuing
+ operations                 $1.34     $0.57     $1.14     $0.90     $0.86
+Basic loss per share from
+ discontinued operations      -         -         -         -       (0.05)
+Basic gain (loss) per
+ share on disposal of
+ discontinued operations      -         -         -        0.17     (0.64)
+                          -------   -------   -------   -------   -------
+Basic earnings per share    $1.34     $0.57     $1.14     $1.07     $0.17
+                          =======   =======   =======   =======   =======
+Weighted average common
+  shares outstanding -
+  basic                 4,124,189 4,296,525 4,157,081 4,501,342 5,071,125
+                        ========= ========= ========= ========= =========
+<PAGE> 19
+
+Diluted earnings per
+ share from continuing
+ operations                 $1.30     $0.55     $1.09     $0.86     $0.85
+Diluted loss per share
+ from discontinued
+ operations                  -          -         -         -       (0.05)
+Diluted gain (loss) per
+ share on disposal of
+ discontinued operations     -          -         -        0.16     (0.63)
+                          -------   -------   -------   -------   -------
+Diluted earnings per share  $1.30     $0.55     $1.09     $1.02     $0.17
+                          =======   =======   =======   =======   =======
+Weighted average common
+ and common equivalent
+ shares outstanding -
+ diluted                4,270,962 4,474,111 4,364,683 4,711,420 5,208,924
+                        ========= ========= ========= ========= =========
+
+BALANCE SHEET DATA
+
+March 31,                   2006      2005      2004      2003      2002
+                          -------   -------   -------   -------   -------
+                                          (in thousands)
+Working capital           $15,230   $16,732   $13,060   $ 8,069   $18,365
+
+Total assets               34,819    35,616    31,956    25,402    33,369
+
+Stockholders' equity       30,403    31,264    27,799    21,454    27,319
+
+
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+
+GENERAL
+
+The Company designs, manufactures, and markets institutional furniture.  The
+Company's current product lines consist of multipurpose room furniture and
+healthcare seating.  In addition, the Company continues to pursue development
+of new products and the acquisitions of product lines or companies that will
+be complementary to the Company's businesses.
+
+MULTIPURPOSE ROOM FURNITURE.  The Company's multipurpose room furniture line
+consists of lightweight, durable, folding leg tables; stacking and folding
+chairs; lecterns; portable partitions; and other related products.  These
+products are used in multipurpose rooms of educational, recreational, hotel
+and hospitality, government, office, healthcare, religious and other public
+assembly facilities.  Historically,  growth in this segment has come from an
+expanding base of new customers, from increasing sales to existing customers
+and from expansion of the Company's multipurpose room product line.  The
+current and future growth of the Company's multipurpose room furniture
+operations is largely dependent upon its ability to successfully introduce and
+market new product lines of multipurpose room furniture and its ability to
+profitably increase its market penetration into existing and new markets.
+
+<PAGE> 20
+
+MULTIPURPOSE ROOM FURNITURE OUTLOOK.  After three years of declines in the
+institutional furniture marketplace due to the downturn in the domestic and
+international economy, the institutional furniture marketplace started to grow
+again in calendar year 2004.  This accelerated in calendar year 2005 and has
+continued so far in 2006.  For the Company's fiscal year ending March 31,
+2006, the Company experienced growth of 12 percent in its multipurpose room
+furniture segment which was slightly higher than the industry growth during
+the same time period of 11 percent.  For the current calendar year, industry
+analysts are estimating that shipments will slow down from the fast pace of
+the prior year and are estimating growth for the year of 7 percent for
+calendar year 2006 as compared to calendar year 2005.  The Company is
+encouraged by these forecasts as well as the strengthening of the economy in
+general, and is cautiously optimistic that the industry will continue its
+rebound and that the Company's multipurpose room sales volumes will likewise
+continue to grow.
+
+In January 2005, the Company announced its intention to cut off funding on its
+current next generation table.  The Company had been working on developing a
+table with improved performance characteristics than its existing table.  With
+the decision to discontinue funding on the new table, the Company has
+refocused its efforts on the existing table to enhance its performance as well
+as attempt to further drive down costs.  The Company is also focused on
+increasing its chair offering and has added four new chair lines during the
+last fiscal year.  The Company is also pursuing uses for the rotational
+molding facility built for production of the new table.  The Company has
+started using the facility for the manufacture of fence panels and posts,
+which are outside of its current institutional furniture market.  The Company
+is encouraged by the response from customers who have purchased the product,
+as well as the response from potential customers who have viewed and handled
+the product.  The Company plans to continue building its capacity and refining
+its manufacturing techniques as it breaks into this marketplace and is hopeful
+that fencing will contribute to its sales growth in the upcoming year.
+However, the Company cannot guarantee that it will be successful in marketing
+these fencing products or in utilizing its existing capacity.
+
+During the past few years, chair sales have begun to make up a larger portion
+of the sales of the Company's multipurpose room operations.  Although table
+sales still predominate the volume of this operation, much  of the increases
+in sales can be attributed to increases in chair sales.  During the upcoming
+fiscal year, the Company anticipates launching at least one additional chair
+line to complement its existing chair lines as well as enhancing its current
+offering.  Beyond the upcoming year, the Company anticipates developing
+additional complementary chair lines to continue to grow this portion of its
+business as well as further penetrating its existing marketplace with its
+current lines of chairs.  However, the Company cannot guarantee that it will
+be able to successfully develop and launch such chair lines or further
+penetrate its existing marketplace.
+
+HEALTHCARE SEATING.  Through Broda, the Company markets a line of healthcare
+seating products primarily to customers in Canada and the United States.
+Broda's operations are based in Waterloo, Ontario, Canada.  Broda focuses on
+providing products which assist long-term care patients with advanced needs
+due to a debilitating condition or disease, and has developed a line of
+premium-priced geriatric seating products.  Broda chairs are serving a very
+specific niche in the healthcare market and thus are not competing in the
+commodity-oriented general healthcare seating market.
+
+<PAGE> 21
+
+HEALTHCARE SEATING OUTLOOK.  The Company believes that the specialty
+healthcare seating market is less subject to economic pressures than the
+Company's multipurpose room furniture operations.  However, the medical and
+healthcare industry is more subject to regulatory changes that could affect
+the demand for Broda's products.  The Company is not aware of any regulatory
+changes in the near future that would have a substantial and negative impact
+on this business.  The Company's healthcare seating operation's future growth
+depends largely upon increasing its market penetration into the U.S. market
+and other foreign markets as well as its ability to successfully introduce new
+product lines.
+
+GENERAL NEAR-TERM OUTLOOK.  Based on the reasons stated above, the Company
+anticipates that sales volumes during the quarter ending June 30, 2006 will be
+up to 10 percent higher as compared to the prior year's first quarter.
+Despite these expectations, the Company, for a variety of reasons including
+those described in Item 1A "Risk Factors", may not be successful in achieving
+this sales level in the first quarter.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+This discussion and analysis of financial condition and results of operations
+is based upon the Company's consolidated financial statements which have been
+prepared in accordance with accounting principles generally accepted in the
+United States.  These principles require the use of estimates and assumptions
+that affect amounts reported and disclosed in the financial statements and
+footnotes.  The critical accounting policies for the Company which require
+management to make judgments and assumptions about matters that are uncertain
+at the time of the estimate include the allowance for doubtful accounts
+receivable, the reserve for obsolete inventory, accruals for warranty expense,
+assets related to the discontinued next generation table line (see Note 4,
+Impairment of Assets), goodwill and other intangible assets, notes receivable,
+income taxes, and revenue recognition.
+
+ALLOWANCE FOR DOUBTFUL ACCOUNTS RECEIVABLE: The Company exercises considerable
+judgment in determining the ultimate collectability of its accounts
+receivable.  Several factors are used in making these judgments including the
+customer credit quality, historical write-off experience and current economic
+trends.  The Company reviews these factors quarterly, and the allowance is
+adjusted accordingly.  If the financial condition of the Company's customers
+were to deteriorate, an additional allowance may be required.
+
+RESERVE FOR OBSOLETE INVENTORY: Inventories are stated at the lower of cost,
+on a first in, first out basis, or market.  Additionally, the Company
+evaluates its inventory reserves in terms of excess and obsolete exposures.
+This evaluation includes such factors as anticipated usage, inventory turnover
+and ultimate product sales value (see Note 4 in the consolidated financial
+statements).
+
+ACCRUALS FOR WARRANTY EXPENSE:  The Company's warranty service costs for
+fiscal years ended March 31, 2006, 2005, and 2004 totaled 1.6 percent of net
+sales or $869,000, 1.3 percent of net sales or $637,000 and 1.4 percent of net
+sales or $619,000, respectively.  The Company provides for the estimated cost
+of product warranties at the time revenue is recognized.  This warranty
+obligation is affected by failure rates, the introduction of new products, and
+the costs of material and labor to repair or replace the product.  The Company
+regularly assesses the adequacy of its accrual for warranty expense based upon
+historical warranty rates and anticipated future warranty rates.
+
+<PAGE> 22
+
+ASSETS RELATED TO THE DISCONTINUED NEXT GENERATION TABLE LINE: Due to the
+decision by the board of directors in January 2005 to discontinue the next
+generation table project, the Company has impaired certain long-term assets
+during the quarter ending March 31, 2005.  The Company utilized an outside
+specialist to help management establish the fair value of the assets which
+involved considerable judgment.  This resulted in an impairment charge of $2.0
+million related to the fixed assets (see Note 4 in the consolidated financial
+statements).
+
+GOODWILL AND OTHER INTANGIBLE ASSETS: The Company reviews annually the
+carrying value of its goodwill and other intangible assets.  The goodwill
+arose from the Broda and Versipanel acquisitions.  The other intangible asset
+at March 31, 2004 was intellectual property related to certain rights the
+Company obtained to utilize new technology in its next generation table
+product development efforts.  During the quarter ended June 30, the Company
+annually reviews the goodwill related to the Broda and Versipanel acquisitions
+and the intellectual property related to the startup development company.
+This review is performed by calculating the present value of estimated future
+cash flows.  If the carrying value of the intangible asset is considered
+impaired, an impairment charge would be recorded for the amount by which the
+carrying value of the intangible asset exceeds its fair value.  Goodwill is
+also tested for impairment between annual tests if an event occurs or
+circumstances change that would more likely than not reduce the fair value of
+a reporting unit below its carrying amount.  No impairment charges have been
+recorded related to the Broda or Versipanel goodwill.  However, due to the
+decision by the board of directors in January 2005 to discontinue the next
+generation table project, the Company fully impaired the other intangible
+asset related to this intellectual property during the quarter ended March 31,
+2005.  This resulted in an impairment charge of $227,000 related to other
+intangible assets (see Note 4 in the consolidated financial statements).
+
+NOTES RECEIVABLE: The Company reviews its notes receivable to determine likely
+collectability.  Since the notes are with entities without a long history of
+an ability to create future cash flows, the Company bases its belief in their
+collectability upon its understanding of what the liquidation value of the
+operation would be and the likelihood of the Company being able to recover the
+outstanding balances.  Due to the level of uncertainty in the success of these
+entities, these notes receivable ultimately may not be fully realized.
+
+INCOME TAXES: The Company evaluates quarterly the realizability of its
+deferred tax assets based upon expected future taxable income.  Management
+believes that it is more likely than not that future earnings will be
+sufficient to recover deferred tax assets.
+
+REVENUE RECOGNITION:  The Company recognizes revenue in accordance with Staff
+Accounting Bulletin (SAB) No. 101, "Revenue Recognition," as revised by SAB
+No. 104. Sales are recorded when title passes and collectability is reasonably
+assured under its various shipping terms.  Revenue is normally recognized upon
+shipment of goods to customers. In certain circumstances revenue is not
+recognized until the goods are received by the customer based on the terms of
+the sale agreement.  Discounts directly related to the sale are recorded as a
+reduction to net sales.
+
+<PAGE> 23
+
+RECENTLY ISSUED FINANCIAL ACCOUNTING STANDARDS
+
+In December 2004, the Financial Accounting Standards Board (FASB) issued
+Statement of Financial Accounting Standards (SFAS) No. 123R, "Share-Based
+Payment," which replaces SFAS No. 123, "Accounting for Stock-Based
+Compensation," and supersedes APB Opinion No. 25, "Accounting for Stock Issued
+to Employees."  SFAS No. 123R eliminates the alternative of applying the
+intrinsic value measurement provisions of Opinion 25 to stock compensation
+awards issued to employees.  Rather, the new standard requires enterprises to
+measure the cost of employee services received in exchange for an award of
+equity instruments based on the grant-date fair value of the award.  That cost
+will be recognized over the period during which an employee is required to
+provide services in exchange for the award, known as the requisite service
+period (usually the vesting period).
+
+SFAS No. 123R, as amended by the Securities Exchange Commission, will be
+effective for the Company's first quarter in its fiscal year beginning April
+1, 2006, and requires the use of the Modified Prospective Application Method.
+Under this method, SFAS No. 123R is applied to new awards and to awards
+modified, repurchased, or cancelled after the effective date.  Additionally,
+compensation cost for the portion of awards for which the requisite service
+has not been rendered (such as unvested options) that are outstanding as of
+the date of adoption shall be recognized as the remaining requisite services
+are rendered.  The compensation cost relating to unvested awards at the date
+of adoption shall be based on the grant-date fair value of those awards as
+calculated for pro forma disclosures under the original SFAS No. 123.  In
+addition, companies may use the Modified Retrospective Application Method.
+This method may be applied to all prior years for which the original SFAS No.
+123 was effective or only to prior interim periods in the year of initial
+adoption.  If the Modified Retrospective Application Method is applied,
+financial statements for prior periods shall be adjusted to give effect to the
+fair-value-based method of accounting for awards on a consistent basis with
+the pro forma disclosures required for those periods under the original SFAS
+No. 123.  The Company anticipates using the Modified Prospective Application
+Method.
+
+The Company has not yet quantified the effects of the adoption of SFAS No.
+123R, but it is expected that the new standard will result in significant
+stock-based compensation expense.  The pro forma effects on net income and
+earnings per share if the Company had applied the fair value recognition
+provisions of SFAS No. 123 on stock compensation awards (rather than applying
+the intrinsic value measurement provisions of Opinion 25) are disclosed in the
+notes to the consolidated financial statements.  Although such pro forma
+effects of applying original SFAS No. 123 may be indicative of the effects of
+adopting SFAS No. 123R, the provisions of these two statements differ in some
+important respects.  The actual effects of adopting SFAS No. 123R will be
+dependent on numerous factors including, but not limited to, the valuation
+model chosen by the Company to value stock-based awards; the assumed award
+forfeiture rate; the accounting policies adopted concerning the method of
+recognizing the fair value of awards over the requisite service period; and
+the transition method (as described below) chosen for adopting SFAS No. 123R.
+
+<PAGE> 24
+
+In November 2004, the FASB issued SFAS No. 151, "Inventory Costs."  SFAS No.
+151 amends the guidance in ARB No. 43, Chapter 4, "Inventory Pricing," to
+clarify the accounting for abnormal amounts of idle facility expense, freight,
+handling costs, and wasted material. SFAS No. 151 requires that those items be
+recognized as current-period charges regardless of whether they meet the
+criterion of "so abnormal."  In addition, this Statement requires that
+allocation of fixed production overheads to the costs of conversion be based
+on the normal capacity of the production facilities.  SFAS No. 151 is
+effective for fiscal years beginning after June 15, 2005.  The Company intends
+to adopt SFAS No. 151 on April 1, 2006.  The adoption of SFAS No. 151 is not
+expected to have a material impact on the Company's consolidated financial
+statements.
+
+In January 2003, the FASB issued Interpretation No. 46, "Consolidation of
+Variable Interest Entities", ("FIN No. 46") an interpretation of ARB No. 51.
+FIN No. 46, as amended, addresses consolidation by business enterprises of
+variable interest entities.  FIN No. 46 applies immediately to variable
+interest entities created after January 31, 2003 and to variable interest
+entities in which an enterprise obtains an interest after that date.  FIN No.
+46 applies in the first year or interim period ending after December 15, 2003
+to variable interest entities in which an enterprise holds a variable interest
+that it acquired before February 1, 2003.  The Company does not have an
+interest in any variable interest entity and therefore the adoption of FIN No.
+46 did not impact the consolidated financial statements.
+
+In May 2003, the FASB issued SFAS No. 150, "Accounting for Certain Financial
+Instruments with Characteristics of both Liability and Equity", which
+establishes standards for how an issuer classifies and measures certain
+financial instruments with characteristics of both liability and equity in its
+statement of financial position.  SFAS No. 150 is effective for new or
+modified financial instruments beginning June 1, 2003, and for existing
+instruments beginning August 1, 2003.  The adoption of SFAS No. 150 did not
+have an impact on our consolidated financial statements.
+
+In April 2003, the FASB issued SFAS No. 149, "Amendment of Statement 133 on
+Derivative Instruments and Hedging Activities", which amends and clarifies
+accounting for derivative instruments, including certain derivative
+instruments embedded in other contracts, and for hedging activities under SFAS
+No. 133.  SFAS No. 149 is effective for contracts entered into or modified
+after June 30, 2003 and for hedging relationships designated after June 30,
+2003.  The adoption of SFAS No. 149 did not have an impact on our consolidated
+financial statements.
+
+RESULTS OF OPERATIONS
+
+The following table sets forth, for the periods indicated, the percentage of
+net sales represented by items included in or derived from the Company's
+Statements of Income.
+
+<PAGE> 25
+
+Year Ended March 31,      2006       2005       2004       2003       2002
+                         ------     ------     ------     ------     ------
+  Net sales              100.0%     100.0%     100.0%     100.0%     100.0%
+  Cost of products sold   64.5       66.7       62.0       59.7       60.0
+                         ------     ------     ------     ------     ------
+  Gross profit            35.5       33.3       38.0       40.3       40.0
+  Operating expenses:
+    Selling               14.2       14.9       14.2       15.1       15.5
+    General and
+     administrative        3.6        3.9        4.0        6.1        5.0
+    Research and
+     development           3.1        2.5        3.1        3.7        2.8
+    Asset impairment        -         4.4         -          -          -
+                         ------     ------     ------     ------     ------
+  Income from continuing
+   operations             14.6        7.6       16.7       15.4       16.7
+  Interest and other, net  0.4        0.2       (0.1)       0.3        0.9
+                         ------     ------     ------     ------     ------
+  Income before tax       15.0        7.8       16.6       15.7       17.6
+  Provision for income
+   taxes                   5.1        2.9        6.1        5.8        6.8
+                         ------     ------     ------     ------     ------
+  Net income from
+   continuing operations   9.9%       4.9%      10.5%       9.9%      10.8%
+                         ======     ======     ======     ======     =======
+
+
+COMPARISON OF FISCAL YEARS 2006, 2005 AND 2004
+
+NET SALES
+
+The Company's fiscal 2006 net sales of $55.7 million were up 11 percent or
+$5.4 million as compared to net sales in fiscal 2005.  The increase in sales
+in 2006 resulted primarily from increased sales in both the Company's
+healthcare seating and  multipurpose room furniture segments.  For fiscal
+2006, the multipurpose room furniture segment experienced a sales increase of
+12 percent and the healthcare seating segment experienced sales growth of
+almost 4 percent.  Within the multipurpose room furniture segment, chair sales
+accounted for most of the increase, as sales of this product line were 34
+percent higher than the prior year.  Table sales also increased by 4 percent.
+Other sales, consisting primarily of sales of portable partitions, lecterns,
+and carts, increased 11 percent.  International sales for all product lines
+represented 15 percent of net sales for both fiscal 2006 and 2005.
+
+The Company's fiscal 2005 net sales of $50.3 million were up $5.1 million as
+compared to net sales in fiscal 2004.  The 11 percent increase in sales in
+fiscal 2005 resulted from increased sales in most of the Company's product
+lines.  The Company's healthcare seating segment increased by 16 percent and
+the Company's multipurpose room furniture segment increased 10 percent.  For
+fiscal 2005, the multipurpose room furniture segments increase was due to an 8
+percent increase in table sales, a 7 percent increase in chair sales, and a 61
+percent increase in other sales, primarily due to sales of portable partitions
+related to the acquisition of Versipanel in April of 2004.  International
+sales for all product lines represented 15 percent and 13 percent of net sales
+for fiscal 2005 and 2004, respectively.
+
+<PAGE> 26
+
+GROSS PROFIT
+
+Fiscal 2006 gross profit as a percentage of net sales increased to 35 percent
+from 33 percent in the prior fiscal year.  Of this increase, approximately 2
+percentage points were due to lower overhead costs associated primarily with
+the unsuccessful startup of the manufacturing operation for the Company's next
+generation table in the prior fiscal year and approximately 1 percentage point
+was due to an inventory charge in the prior fiscal year of $324,000 related to
+the decision to discontinue funding the next generation table project.  No
+similar charge occurred in fiscal 2006.  The gross margin increase was
+partially offset by approximately 1 percentage point in higher material costs
+at the Company's multipurpose room operations due to the higher volume of
+chair sales in the period.  The Company also experienced higher material costs
+as a percentage of sales at the health care seating operations as compared to
+the prior year's comparative period.
+
+Fiscal 2005 gross profit as a percentage of net sales decreased to 33 percent
+as compared to 38 percent in the prior year.  The decrease in gross profit was
+due primarily to three factors. The first was higher labor and overhead costs
+associated with the attempted startup of manufacturing operations for the
+Company's next generation table.  Prior to the decision in January 2005 to
+discontinue the funding on this operation, a considerable amount of labor and
+overhead costs related to this potential new product line were expended.
+These costs account for approximately 5 percentage points of the deterioration
+in gross margin in the current year as compared to 3 percentage points in the
+prior year.  The second factor was higher material costs due to increases in
+almost all of the Company's raw materials.  These increases were partially
+offset by sales price increases that were implemented earlier in the year, but
+were not enough to fully offset the costs.  Material costs as a percentage of
+sales increased by 2 percentage points.  The third factor was a charge to
+inventory related to the next generation table project.  This charge reduced
+its value from cost to its market valuation resulting from the Company's
+decision to discontinue funding this operation.  This charge totaled $324,000
+and represents an additional 1 percentage point in reduced margin.
+
+OPERATING EXPENSES
+
+For fiscal 2006, selling expenses were down at 14 percent of net sales as
+compared to 15 percent in the prior fiscal year.  Actual expenses increased by
+$0.48 million, or 6 percent. Multipurpose room furniture selling costs
+increased by $0.46 million over the prior fiscal year.  This increase resulted
+primarily from higher commission costs due to the higher sales volume.  This
+increase was partially offset by lower salary costs for new sales
+representatives.  Selling expenses at the healthcare seating operations
+increased by $0.02 million over the prior fiscal year.
+
+For fiscal 2005, selling expenses were up at 15 percent of net sales as
+compared to 14 percent in the prior fiscal year.  Actual expenses increased by
+$0.97 million, or 15 percent.   Multipurpose room furniture selling costs
+increased by $0.83 million compared to the prior fiscal year.  This increase
+resulted primarily from increased personnel and commission costs due to the
+higher sales volume.  Selling expenses in the healthcare seating operations
+increased by $0.14 million compared to the prior fiscal year due primarily to
+increased personnel costs.
+
+<PAGE> 27
+
+General and administrative expenses were 4 percent of net sales in fiscal
+2006, 2005 and 2004.  Actual expenses increased by 2 percent or $0.03 million
+in fiscal 2006 over fiscal 2005.  The increase was due to higher outside
+services, training and professional fees.  This increase was partially offset
+by lower personnel costs.
+
+Actual general and administrative expenses increased by 11 percent or $0.20
+million in fiscal 2005 over fiscal 2004.  The increase was due to the receipt
+in the prior year of a settlement in a legal suit as well as higher
+professional fees in the 2005 fiscal year.  This increase was partially offset
+by lower insurance costs.
+
+Research and development expenses were 3 percent of sales in fiscal 2006,
+2005, and 2004.  For fiscal 2006, actual spending increased by 37 percent, or
+$0.47 million, as compared to fiscal 2005.  This increase was primarily due to
+higher personnel costs and prototyping costs related primarily to efforts to
+utilize the existing rotomolding equipment. This increase was partially offset
+by lower costs for outside services.
+
+For fiscal 2005, actual research and development spending decreased by 9
+percent, or $0.13 million, as compared to fiscal 2004.  This decrease resulted
+mainly from lower costs for personnel at the Company's multipurpose room
+operations.  This decrease was partially offset by increased spending at the
+Company's healthcare seating operations related to new products.
+
+For fiscal 2005, the Company realized an impairment charge of $2.2 million
+related to the Company's decision to discontinue funding its next generation
+table.  The Company realized an impairment on some of the assets involved in
+the project to reduce their carrying amounts to their estimated fair value.
+The fair value was determined by the amount at which the assets could be
+bought or sold in a current transaction between willing parties.  The Company
+utilized an outside specialist to help establish the fair value of the assets.
+The impairment consisted of $2.0 million in impairment of fixed assets and
+$0.2 million in impairment of other intangible asset.  No impairment charge
+occurred in fiscal 2006 or fiscal 2004.
+
+OTHER INCOME/EXPENSE
+
+Other income netted to $0.25 million in income in fiscal 2006.  Investment
+income was $0.31 million, an increase of $0.14 million from the prior fiscal
+year due to a higher average balance of cash and cash equivalents and
+available-for-sale securities in the current fiscal year as well as higher
+rates of return.  Other expenses in fiscal 2006, which totaled $0.06 million,
+consisted of $0.05 million in realized foreign currency exchange losses and
+$0.02 million in net losses on asset disposals, partially offset by $0.01
+million in other income.
+
+Other income and expenses netted to $0.06 million in fiscal 2005.  Investment
+income was $0.17 million, an increase of $0.09 million from the prior fiscal
+year due to a higher average balance of cash and cash equivalents and
+available-for-sale securities in the current fiscal year as well as higher
+rates of return.  Other expenses in fiscal 2005, which totaled $0.11 million,
+consisted of $0.13 million in realized foreign currency exchange losses, which
+were partially offset by $0.02 million in other income.
+
+<PAGE> 28
+
+MINORITY INTEREST
+
+On September 30, 2004, the Company sold its 50 percent equity interest in a
+startup development company.  During the preceding six months ended September
+30, 2004, this startup development company realized a pre-tax net loss of
+$143,000.  Since the Company consolidated this entity within its financial
+statements and eliminated the other owner's 50 percent interest in the net
+profits or losses, 50 percent of the loss, or $71,000, was eliminated as a
+minority interest.  However, the $71,000 elimination amount exceeded the
+amount of minority interest represented by the other partner's capital
+contribution by $37,000.  Consequently, for the year ended March 31, 2005,
+$37,000 was fully recognized, while $34,000, or $22,000 after-tax, was
+allocated to the minority interest.  Since the Company sold its interest in
+the company in fiscal 2005, no minority interest was recognized in fiscal
+2006.
+
+For the year ended March 31, 2004, the startup development company realized a
+net loss of $249,000.  Upon consolidation, 50 percent of the loss, or
+$125,000, was allocated to the minority interest.  Tax effected, this amount
+nets to $79,000.
+
+INCOME TAXES
+
+Provision for income taxes was $2.81 million in fiscal 2006 as compared to
+$1.45 million in fiscal 2005 and $2.77 million in fiscal 2004.  The effective
+tax rates for these years were 34 percent, 37 percent, and 37.2 percent,
+respectively.  The reduction in effective rate for fiscal 2006 as compared to
+fiscal 2005 was due primarily to increases in tax exempt interest income, a
+research and development tax credit associated with the Company's healthcare
+seating operations, and benefits resulting from the implementation of the
+American Jobs Creation Act of 2004.
+
+NET INCOME
+
+For reasons stated above, the Company's net income for fiscal 2006 was $5.54
+million, an increase of $3.07 million or 124 percent compared to fiscal 2005.
+For fiscal 2005, net income was $2.47 million, a decrease of $2.28 million or
+48 percent compared to net income in fiscal 2004.
+
+QUARTERLY RESULTS OF OPERATIONS
+
+The following table sets forth selected unaudited quarterly financial data for
+the most recent twelve quarters.  This quarterly financial data reflects, in
+the opinion of management, all adjustments necessary to present fairly the
+results of operations for such periods.   The operating results for any
+quarter are not necessarily indicative of results for any future period.   The
+Company anticipates that operating results may fluctuate on a quarterly basis
+depending upon a number of factors including those described in "Risk Factors
+That May Affect Future Operations."  Earnings per share information may not
+add to match annual earnings per share information due to rounding.
+
+<PAGE> 29
+
+UNAUDITED QUARTERLY FINANCIAL INFORMATION:
+(in thousands, except per share amounts)
+
+                              Q1 2004     Q2 2004     Q3 2004     Q4 2004
+                              -------     -------     -------     -------
+  Net sales                   $11,562     $11,497     $11,199     $10,952
+  Gross profit                  4,441       4,489       4,212       4,031
+  Income before provision
+   for income tax               2,026       2,070       1,836       1,508
+  Net income from operations    1,262       1,303       1,146       1,042
+  Basic earnings per share       0.31        0.32        0.28        0.25
+  Diluted earnings per share     0.29        0.30        0.26        0.23
+
+
+                              Q1 2005     Q2 2005     Q3 2005     Q4 2005
+                              -------     -------     -------     -------
+  Net sales                   $12,046     $13,378     $11,872     $12,976
+  Gross profit                  4,141       4,602       4,005       3,987
+  Income (loss) before
+   provision for income tax     1,666       1,815       1,254        (840)
+  Net income (loss) from
+   operations                   1,071       1,140         795        (537)
+  Basic earnings (loss)
+   per share                     0.25        0.27        0.18       (0.12)
+  Diluted earnings (loss)
+   per share                     0.24        0.25        0.18       (0.12)
+
+
+                              Q1 2006     Q2 2006     Q3 2006     Q4 2006
+                              -------     -------     -------     -------
+  Net sales                   $14,384     $14,053     $13,408     $13,856
+  Gross profit                  5,319       5,124       4,546       4,765
+  Income before provision for
+   income tax                   2,380       2,188       1,720       2,064
+  Net income from operations    1,518       1,445       1,199       1,379
+  Basic earnings per share       0.36        0.35        0.29        0.34
+  Diluted earnings per share     0.34        0.34        0.28        0.33
+
+The Company's quarterly operating results can fluctuate significantly
+depending on factors such as timing of new product introductions, market
+acceptance of new products, increased competitive pressures, growth in the
+institutional furniture market, acquisitions, expansion of international
+operations, timing and expansion into complementary products such as chairs,
+changes in raw material sources and costs, and adverse changes in general
+economic conditions in any of the countries in which the Company does
+business.   The Company may experience quarterly variations in operating
+results in the future.
+
+<PAGE> 30
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash and cash equivalents, which consist primarily of high-quality commercial
+paper and repurchase agreements collateralized with U.S. Treasury securities,
+totaled $4.79 million at March 31, 2006 which compared to $3.94 million at
+March 31, 2005.   In addition, the Company held available-for-sale securities
+which totaled $4.55 million at March 31, 2006  as compared to $7.15 million at
+March 31, 2005.
+
+The following table highlights certain key cash flow and capital information
+pertinent to the discussion that follows:
+
+YEAR ENDED MARCH 31,                               2006               2005
+                                               -----------        -----------
+Net cash provided by operations                 $7,245,000         $6,364,000
+Net sales (purchases) of available-for-sale
+ securities                                      2,612,000         (6,113,000)
+Purchases of property and equipment             (2,236,000)        (2,142,000)
+Purchase of Versipanel                                -            (1,201,000)
+Net proceeds from exercise of stock options
+ and issuance of shares to the 401(k) plan       1,123,000            614,000
+Purchase and retirement of common stock         (8,035,000)              -
+
+
+The increase in cash and cash equivalents for fiscal 2006 as compared to
+fiscal 2005 was due primarily to cash from operations of $7.24 million, net
+sales of available-for-sale securities of $2.61 million, and the net proceeds
+related to the exercise of stock options of $1.12 million.  This increase was
+partially offset by purchases of property and equipment of $2.24 million, and
+the purchase and retirement of common stock of $8.03 million.
+
+Historically, the Company has financed its growth primarily through cash from
+operations.  The Company's subsidiary, Broda Enterprises, has a line of
+credit.  The limit on this facility is $0.86 million.  As of March 31, 2006,
+no amount was drawn under this facility.  Among other restrictions, this
+credit facility requires the maintenance of certain financial ratios and
+levels of working capital.  As of March 31, 2006, management of the Company
+believes it was in full compliance with the loan covenants related to this
+credit facility.
+
+The Company's material cash commitments at March 31, 2006 consisted primarily
+of current liabilities of $4.42 million to be paid from funds generated from
+operations.  Current liabilities consisted of the following:
+
+
+
+YEAR ENDED MARCH 31,                         2006                     2005
+                                         -----------              -----------
+Accounts payable                          $1,989,000               $1,736,000
+Accrued payroll and payroll taxes          1,080,000                1,155,000
+Accrued warranty                             470,000                  439,000
+Deferred revenue                             492,000                  374,000
+Income taxes payable                          88,000                  152,000
+Other                                        297,000                  496,000
+                                         -----------              -----------
+Total current liabilities                 $4,416,000               $4,352,000
+                                         ===========              ===========
+
+<PAGE> 31
+
+The Company's contractual commitments consisted of two lease agreements for
+Broda's production and office facilities under which it is obligated to pay
+$16,000 Canadian (approximately US $14,000 as of March 31, 2006) per month
+through August 2006.  Management expects to renew these leases based upon
+similar terms.  As of March 31, 2006, the Company had no operating leases with
+terms in excess of one year.  At March 31, 2006, the Company also has fixed
+price commitments to purchase $321,000 in raw material inventory during the
+following year.
+
+On June 7, 2005, the Company announced its intention to repurchase up to
+500,000 shares of the Company's common stock.  On January 24, 2006, the board
+of directors increased the share repurchase authorization by 150,000 shares.
+On May 18, 2006, the board of directors increased the share repurchase
+authorization by an additional 200,000 shares, bringing the total to 850,000
+shares.  As of March 31, 2006, 481,846 shares had been repurchased for $8.0
+million.  As of the date of this report, an additional 144,071 shares had been
+repurchased for $2.7 million.  This brings the number of shares remaining in
+the authorization to 224,083.  Additional repurchases will reduce the
+Company's liquidity.
+
+The Company has recently purchased land for the construction of new facilities
+at both its multipurpose room furniture operations in Orem, Utah as well as
+its healthcare seating operations in Waterloo, Ontario, Canada.  The Company
+anticipates capital expenditures during the coming year of approximately $4.5
+million related to this construction.  The Company currently anticipates
+funding these capital expenditures using any of existing cash reserves,
+available lines of credit as well as cash from operations.
+
+The Company currently believes that cash flow from its current operations
+together with existing cash reserves and available lines of credit will be
+sufficient to support its working capital requirements for its existing
+operations for at least the next 12 months.  The Company cannot guarantee that
+its working capital will be sufficient to support the Company's operations.
+If the existing cash reserves, cash flow from operations and debt financing
+are insufficient or if working capital requirements are greater than currently
+estimated, the Company could be required to raise additional capital.  The
+Company may not be capable of raising additional capital or the terms upon
+which such capital may be available to the Company may not be acceptable.
+Additional sources of equity capital are available to the Company through the
+exercise by holders of outstanding options.  At March 31, 2006, the proceeds
+which would have been received by the Company upon exercise of outstanding
+options which were exercisable on that date were approximately $3.35 million.
+There is no assurance that such options will be exercised.
+
+<PAGE> 32
+
+IMPACT OF INFLATION AND ENVIRONMENTAL REGULATIONS
+
+During the fiscal year ended March 31, 2005, the Company experienced inflation
+on several of its raw materials including steel, plastic and wood.  During the
+fiscal year ended March 31, 2006, the inflationary pressures continued, but at
+a reduced rate.  However, transportation costs have continued to increased as
+fuel prices have increased.  During these two fiscal years, the Company has
+implemented price increases on its products in response to these increases and
+has been able to recover part of its increased costs.  However, the Company
+has been unable to fully maintain its previous margins.  The Company plans to
+continue to implement these price increases and is hopeful to regain its
+previous position with respect to margins, but can give no assurance that it
+will be successful in doing so.  The Company estimates that the effects of
+inflation on its material costs has been to increase the costs of materials as
+a percent of sales by less than one percentage point during the fiscal year
+ended March 31, 2006 as compared to the prior fiscal year.  At the current
+time, pricing of the Company's raw materials has appeared generally to
+stabilize.  However, significant increases in the price of raw materials could
+occur and have a material adverse impact on the Company's results of
+operations.
+
+The Company believes that compliance with environmental laws and regulations
+has not materially affected the Company's operations.
+
+FORWARD-LOOKING STATEMENTS AND FACTORS THAT MAY AFFECT FUTURE RESULTS OF
+OPERATIONS
+
+Certain statements made above in this filing that are not historical facts are
+"forward-looking statements" within the meaning of the Private Securities
+Litigation Reform Act of 1995 (the "Reform Act").  In addition, when used in
+this filing, the words or phrases "may," "will," "Management believes,"
+"Company believes," "Company intends," "estimates," "projects," "anticipates,"
+"expects" and similar expressions are intended to identify "forward-looking
+statements" within the meaning of the Reform Act.
+
+Forward-looking statements contained in this Annual Report on Form 10-K
+include plans and objectives of management for future operations, including
+plans and objectives relating to the products, marketing, customers, product
+line expansions, liquidity and capital resources, and cost reductions to
+preserve margins.  These forward-looking statements involve risks and
+uncertainties and are based on certain assumptions that may not be realized.
+Actual results and outcomes may differ materially from those discussed or
+anticipated.  These forward-looking statements relate to:
+
+     -  references to predicted increases in the institutional furniture and
+United States office furniture markets and the Company's belief of a rebound
+in the office furniture business;
+     -  statements regarding the contribution of fencing to the Company's
+sales growth, and the industry's growth;
+     -  statements regarding the Company's belief that it will be able to
+increase fence production and successfully enter the fence market;
+     -  statements regarding the Company's beliefs about economic pressures on
+the healthcare seating market and the multipurpose room furniture operations;
+     -  statements that the Company anticipates that its sales volumes during
+the first quarter of fiscal 2007 may increase by up to 10 percent as compared
+to the sales levels of the prior year's first quarter;
+
+<PAGE> 33
+
+     -  statements that the Company anticipates developing additional
+complementary chair lines and further penetrating its existing marketplace
+with its current line of chairs;
+     -  statements that the Company plans to sell Versipanel products through
+its existing sales system to current customers and that such products will
+allow the Company to expand its product line and better penetrate the
+institutional furniture markets;
+     -  statements relating to the Company's belief that cash flow from its
+current operations, existing cash reserves, and available line of credit will
+be sufficient to support its working capital requirements to fund existing
+operations for at least the next 12 months; and
+     -  statements related to anticipated capital expenditures.
+
+All forward-looking statements involve predictions and are subject to known
+and unknown risks and uncertainties, that could cause actual results to differ
+materially from historical results and those presently anticipated or
+projected.  Readers should not place undue reliance on any such
+forward-looking statements, which speak only as of the date made.  The
+considerations listed below and elsewhere in this filing could affect the
+Company's financial performance and could cause the Company's actual results
+for future periods to differ materially from any views or statements expressed
+with respect to future periods.  Important factors and risks that might cause
+such differences, include, but are not limited to:
+
+     -  a repeated downturn in domestic and international economies and
+business conditions, specifically in the institutional furniture industry;
+     -  war, terrorist acts, and threats of war and terrorist acts;
+     -  increased competition in the Company's institutional furniture market;
+     -  loss of important customer contracts through increased price-based and
+product quality competition, especially in the Company's multipurpose room
+furniture segment;
+     -  limited management and key employee resources;
+     -  declines in sales volumes and profit margins in the Company's
+multipurpose room furniture and healthcare seating businesses;
+     -  lower than expected revenue, revenue growth, cash flow and gross
+margins from the multipurpose room and healthcare seating operations, higher
+materials and labor costs, or the Company's inability, for any reason, to
+profitably introduce new products or implement its marketing strategies in the
+healthcare seating and multipurpose room markets;
+     -  the Company's inability for any reason to develop new products and
+expand successfully into new markets;
+     -  the Company's ability to manufacture and market at current margins
+high quality, high performance products at competitive prices;
+     -  import restrictions and economic conditions in the Company's foreign
+markets and foreign currency risks associated therewith;
+     -  the Company's ability to maintain relatively low cost labor rates;
+     -  the Company's ability to source a sufficient volume of acceptable raw
+materials at current prices;
+     -  increased product warranty service costs if warranty claims increase
+as a result of the Company's new product introductions or acquisitions or for
+any other reason;
+     -  the Company's ability to refine and enhance the quality and
+productivity of its manufacturing process;
+     -  the Company's ability to locate and successfully consummate and
+integrate acquisitions, if any, of complementary product lines or companies on
+terms acceptable to the Company;
+
+<PAGE> 34
+
+     -  the Company's ability to retain and maintain relationships with key
+customers;
+     -  the availability of insurance funding or government reimbursement for
+the Company's healthcare seating products;
+     -  regulatory developments that adversely affect demand for the Company's
+products, particularly the Company's healthcare seating products;
+     -  adverse regulatory developments in the healthcare industry affecting
+our healthcare seating business; and
+     -  other factors noted in "Item 1.  Business-Risk Factors That May Affect
+Future Results of Operations."
+
+In light of the significant uncertainties inherent in forward-looking
+statements, the inclusion of any such statement should not be regarded as a
+representation by the Company or any other person that the objectives or plans
+of the Company will be achieved.  The Company disclaims any obligation or
+intent to update any such factors or forward-looking statements to reflect
+future events or developments.
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Company manufactures its products in the United States and Canada and
+sells its products in those markets as well as in other countries.  The
+majority of the Company's sales and expenses are transacted in U.S. dollars
+with limited transactions occurring in Canadian dollars or other foreign
+currencies.  For the years ended March 31, 2006 and 2005, approximately 5
+percent of the Company's net sales, 7 percent of the Company's cost of
+products sold, and 12 percent of the Company's operating expenses were
+denominated in currencies other than the U.S. dollar.  For the year ended
+March 31, 2004, approximately 7 percent of the Company's net sales, 7 percent
+of the Company's cost of products sold, and 14 percent of the Company's
+operating expenses were denominated in currencies other than the U.S. dollar.
+Foreign currency exchange rate fluctuations did not have a material impact on
+the financial results of the Company during fiscal 2006.  The Company's
+healthcare chair operations have occasionally entered into forward contracts
+for specific U.S. dollar denominated accounts receivable.  As of March 31,
+2006, 2005, and 2004, no forward contracts were outstanding.
+
+The economic impact of foreign exchange rate movements on the Company is
+complex because such changes are often linked to variability in real growth,
+inflation, interest rates, governmental actions and other factors.  The
+Company estimates that a 10 percent adverse change in foreign exchange rates
+could have reduced operating profit by as much as $145,000, $148,000 and
+$96,000 for the fiscal years ended March 31, 2006, 2005 and 2004.  As
+mentioned above, this quantitative measure has inherent limitations and the
+sensitivity analysis disregards the possibility of other effects that may
+offset such adverse change.
+
+<PAGE> 35
+
+MANAGEMENT'S STATEMENT
+
+The Company's financial statements were prepared by management.  Management is
+responsible for the integrity and objectivity of the financial information
+presented, including amounts that must necessarily be based on judgments and
+estimates.  The Company's financial statements were prepared in accordance
+with accounting principles generally accepted in the United States of America.
+
+The Company's independent registered public accounting firm, Deloitte & Touche
+LLP, have audited these financial statements in accordance with auditing
+standards generally accepted in the United States of America.
+
+The Audit Committee of the Board of Directors is composed of directors who are
+free of any relationship or personal interest that, in the opinion of the
+Board of Directors, would interfere with their ability to exercise sound
+judgment as a committee member.  The purpose of the Audit Committee is to
+provide assistance to the overall Board of Directors in fulfilling the Board's
+responsibility to the shareholders, potential shareholders, and investment
+community relating to corporate accounting, reporting practices of the
+corporation, and the quality and integrity of the financial reports of the
+corporation.  In so doing, it is the responsibility of the Audit Committee to
+establish and maintain free and open means of communication between the
+directors, the independent auditor, and the financial management of the
+Company.
+
+Based on a review and discussions of the Company's 2006 audited consolidated
+financial statements with management and discussions with the independent
+registered public accounting firm, the Audit Committee recommended to the
+Board of Directors that the Company's fiscal 2006 audited consolidated
+financial statements be included in the Company's Annual Report on Form 10-K.
+The Board of Directors concurred.
+
+<PAGE> 36
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTING FIRM
+
+To the Board of Directors and
+  Shareholders of MITY Enterprises, Inc.:
+
+We have audited the accompanying consolidated balance sheets of MITY
+Enterprises, Inc. and subsidiaries (the "Company") as of March 31, 2006 and
+2005, and the related consolidated statements of income, stockholders' equity,
+and cash flows for each of the three years in the period ended March 31, 2006.
+These financial statements are the responsibility of the Company management.
+Our responsibility is to express an opinion on these financial statements
+based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States).  Those standards require that we
+plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement.  The Company is not
+required to have, nor were we engaged to perform, an audit of its internal
+control over financial reporting.  Our audits included consideration of
+internal control over financial reporting as a basis for designing audit
+procedures that are appropriate in the circumstances, but not for the purpose
+of expressing an opinion on the effectiveness of the Company's internal
+control over financial reporting.  Accordingly, we express no such opinion.
+An audit also includes examining, on a test basis, evidence supporting the
+amounts and disclosures in the financial statements, assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation.  We believe that our
+audits provide a reasonable basis for our opinion.
+
+In our opinion, such consolidated financial statements present fairly, in all
+material respects, the financial position of MITY Enterprises, Inc. and
+subsidiaries at March 31, 2006 and 2005, and the results of their operations
+and their cash flows for each of the three years in the period ended March 31,
+2006 in conformity with accounting principles generally accepted in the United
+States of America.
+
+May 19, 2006
+
+<PAGE> 37
+
+CONSOLIDATED BALANCE SHEETS
+
+MARCH 31,                                      2006               2005
+                                           ------------       ------------
+ASSETS
+Current assets:
+  Cash and cash equivalents                 $ 4,787,000        $ 3,940,000
+  Available-for-sale securities               4,547,000          7,151,000
+  Accounts receivable, less allowances
+   of $140,000 and $147,000 at March 31,
+   2006 and 2005, respectively                6,718,000          6,463,000
+  Inventories                                 2,587,000          2,518,000
+  Prepaid expenses and other current assets     655,000            311,000
+  Deferred income tax assets                    402,000            701,000
+                                           ------------       ------------
+Total current assets                         19,696,000         21,084,000
+
+Property and equipment, net                  12,485,000         11,714,000
+Deferred income tax assets                      248,000            403,000
+Goodwill                                      2,358,000          2,306,000
+Notes receivable, net                            32,000            109,000
+                                           ------------       ------------
+                                            $34,819,000        $35,616,000
+                                           ============       ============
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+  Accounts payable                          $ 1,989,000        $ 1,736,000
+  Accrued expenses and other current
+   liabilities                                2,427,000          2,616,000
+                                           ------------       ------------
+Total current liabilities                     4,416,000          4,352,000
+
+                                           ------------       ------------
+Total liabilities                             4,416,000          4,352,000
+
+Commitments and contingencies (Note 11)            -                  -
+
+Stockholders' equity:
+  Preferred stock, par value $.10 per
+   share; authorized 3,000,000 shares;
+   no shares issued and outstanding                -                  -
+Common stock, par value $.01 per share;
+  authorized 10,000,000 shares; issued
+   and outstanding 3,990,303 shares at
+   March 31, 2006 and 4,325,434 shares
+   at March 31, 2005                             40,000             43,000
+Additional paid-in capital                   12,244,000         12,208,000
+Retained earnings                            17,247,000         18,337,000
+Accumulated other comprehensive income          872,000            676,000
+                                           ------------       ------------
+Total stockholders' equity                   30,403,000         31,264,000
+                                           ------------       ------------
+                                            $34,819,000        $35,616,000
+                                           ============       ============
+       (See accompanying notes to consolidated financial statements)
+
+<PAGE) 38
+
+
+CONSOLIDATED STATEMENTS OF INCOME
+
+YEAR ENDED MARCH 31,                  2006            2005            2004
+                                  -----------     -----------     -----------
+Net sales                         $55,701,000     $50,272,000     $45,210,000
+Cost of products sold              35,947,000      33,537,000      28,037,000
+                                  -----------     -----------     -----------
+Gross profit                       19,754,000      16,735,000      17,173,000
+Operating expenses:
+  Selling                           7,903,000       7,427,000       6,452,000
+  General and administrative        2,012,000       1,980,000       1,787,000
+  Research and development          1,734,000       1,265,000       1,393,000
+  Asset impairment                       -          2,226,000            -
+                                  -----------     -----------     -----------
+Total operating expenses           11,649,000      12,898,000       9,632,000
+
+
+                                  -----------     -----------     -----------
+Income from operations              8,105,000       3,837,000       7,541,000
+Other income (expense):
+  Investment income                   310,000         171,000          79,000
+  Other                               (63,000)       (113,000)       (180,000)
+                                  -----------     -----------     -----------
+Total other income (expense), net     247,000          58,000        (101,000)
+Income before provision for
+  income taxes and minority
+  interest                          8,352,000       3,895,000       7,440,000
+Provision for income taxes          2,811,000       1,448,000       2,766,000
+                                  -----------     -----------     -----------
+Net income before minority
+  interest                          5,541,000       2,447,000       4,674,000
+Minority interest                        -             22,000          79,000
+                                  -----------     -----------     -----------
+Net income                        $ 5,541,000     $ 2,469,000     $ 4,753,000
+                                  ===========     ===========     ===========
+Basic earnings per share                $1.34           $0.57           $1.14
+                                  ===========     ===========     ===========
+Weighted average number of
+ common shares - basic              4,124,189       4,296,525       4,157,081
+                                  ===========     ===========     ===========
+Diluted earnings per share              $1.30           $0.55           $1.09
+                                  ===========     ===========     ===========
+Weighted average number of
+ common and common equivalent
+ shares - diluted                   4,270,962       4,474,111       4,364,683
+                                  ===========     ===========     ===========
+
+       (See accompanying notes to consolidated financial statements)
+
+<PAGE> 39
+
+<TABLE>
+<CAPTION>
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+                                                                            Accumulated
+                                                 Additional                       Other         Total
+                                        Common      Paid-In     Retained  Comprehensive  Stockholders'
+                                         Stock      Capital     Earnings    Income(Loss)       Equity
+                                       -------  -----------  -----------  -------------   -----------
+<S>                                    <C>      <C>          <C>          <C>             <C>
+Balance at April 1, 2003               $41,000   $9,925,000  $11,376,000       $112,000   $21,454,000
+Comprehensive income:
+     Net income                                                4,753,000
+     Unrealized gains on available-
+          for-sale securities                                                     2,000
+     Foreign currency translation                                               305,000
+                                                                                          -----------
+Total comprehensive income                                                                  5,060,000
+Issuance of 166,493 shares of common
+     stock from the exercise of options  2,000    1,076,000                                 1,078,000
+Issuance of 7,916 shares of common
+     stock to the Company's 401(k) plan             103,000                                   103,000
+Purchase and retirement of 31,000
+     shares of common stock                         (75,000)    (261,000)                    (336,000)
+Tax benefit of employee stock options               440,000                                   440,000
+                                       -------  -----------  -----------  -------------   -----------
+Balance at March 31, 2004               43,000   11,469,000   15,868,000        419,000    27,799,000
+Comprehensive income:
+     Net income                                                2,469,000
+     Unrealized losses on available-
+          for-sale securities                                                   (12,000)
+     Foreign currency translation                                               269,000
+                                                                                          -----------
+Total comprehensive income                                                                  2,726,000
+Issuance of 63,189 shares of common
+     stock from the exercise of options             555,000                                   555,000
+Issuance of 3,655 shares of common
+     stock to the Company's 401(k) plan              59,000                                    59,000
+Tax benefit of employee stock options               125,000                                   125,000
+                                       -------  -----------  -----------  -------------   -----------
+Balance at March 31, 2005               43,000   12,208,000   18,337,000        676,000    31,264,000
+
+<PAGE> 40
+
+Comprehensive income:
+     Net income                                                5,541,000
+     Unrealized gains on available-
+          for-sale securities                                                     8,000
+     Foreign currency translation                                               188,000
+                                                                                          -----------
+Total comprehensive income                                                                  5,737,000
+Issuance of 159,983 shares of common
+     stock from the exercise of options  2,000    1,385,000                                 1,387,000
+Surrender of 17,224 shares of common
+     stock for issuance of common stock
+     from the exercise of options                  (327,000)                                 (327,000)
+Issuance of 3,956 shares of common
+     stock to the Company's 401(k) plan              63,000                                    63,000
+Purchase and retirement of 481,846
+     shares of common stock             (5,000)  (1,399,000)  (6,631,000)                  (8,035,000)
+Tax benefit of employee stock options               314,000                                   314,000
+                                       -------  -----------  -----------  -------------   -----------
+Balance at March 31, 2006              $40,000  $12,244,000  $17,247,000       $872,000   $30,403,000
+                                       =======   ==========  ===========  =============   ===========
+
+                       (See accompanying notes to consolidated financial statements)
+
+</TABLE>
+<PAGE> 41
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+YEAR ENDED MARCH 31,                      2006          2005          2004
+                                      -----------   -----------   -----------
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income                            $ 5,541,000   $ 2,469,000   $ 4,753,000
+Adjustments to reconcile net income to
+  net cash provided by operating
+  activities:
+   Asset impairment                          -        2,226,000          -
+   Depreciation and amortization        1,474,000     1,830,000     1,634,000
+   Deferred taxes                         456,000      (473,000)      383,000
+   Loss (gain) on disposal of
+    property and equipment                 29,000        (6,000)      114,000
+   Tax benefit from exercise of
+    stock options                         314,000       125,000       440,000
+   Changes in assets and liabilities:
+    Accounts receivable                  (180,000)     (652,000)   (1,667,000)
+    Inventories                           (43,000)      (88,000)     (913,000)
+    Tax receivable                           -          784,000       508,000
+    Prepaid expenses and other current
+     assets                              (341,000)      107,000      (194,000)
+    Accounts payable                      194,000      (420,000)     (137,000)
+    Accrued expenses and other current
+     liabilities                         (199,000)      462,000       373,000
+                                      -----------   -----------   -----------
+Net cash provided by operating
+ activities                             7,245,000     6,364,000     5,294,000
+                                      -----------   -----------   -----------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchases of available-for-sale
+ securities                            (4,664,000)   (7,591,000)   (1,463,000)
+Sales and maturities of available-
+ for-sale securities                    7,276,000     1,478,000     2,750,000
+Proceeds from sale of property and
+ equipment                                 32,000        85,000         1,000
+Purchases of property and equipment    (2,236,000)   (2,142,000)   (3,270,000)
+Purchase of Versipanel                       -       (1,201,000)         -
+Decrease (increase) in notes receivable    77,000       (30,000)       87,000
+                                      -----------   -----------   -----------
+Net cash provided by (used in)
+ investing activities                     485,000    (9,401,000)   (1,895,000)
+                                      -----------   -----------   -----------
+<PAGE> 42
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+
+Net proceeds from exercise of stock
+ options and issuance of shares to
+ the 401(k) plan                        1,123,000       614,000     1,181,000
+Minority interest                            -          (34,000)      (91,000)
+Purchase and retirement of common
+ stock                                 (8,035,000)         -         (336,000)
+                                      -----------   -----------   -----------
+Net cash provided by (used in)
+ financing activities                  (6,912,000)      580,000       754,000
+                                      -----------   -----------   -----------
+Effect of exchange rate changes on cash    29,000        15,000        26,000
+                                      -----------   -----------   -----------
+Net increase (decrease) in cash and
+ cash equivalents                         847,000    (2,442,000)    4,179,000
+                                      -----------   -----------   -----------
+Cash and cash equivalents at
+ beginning of year                      3,940,000     6,382,000     2,203,000
+                                      -----------   -----------   -----------
+Cash and cash equivalents at end of
+ year                                 $ 4,787,000   $ 3,940,000   $ 6,382,000
+                                      ===========   ===========   ===========
+                                                                  (continued)
+
+       (See accompanying notes to consolidated financial statements)
+
+<PAGE> 43
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+
+
+YEAR ENDED MARCH 31,                      2006          2005          2004
+                                      -----------   -----------   -----------
+Cash paid during the year for
+ income taxes                         $ 2,358,000   $   772,000   $ 1,701,000
+
+
+SUPPLEMENTAL SCHEDULE OF NONCASH INVESTING AND FINANCING ACTIVITIES
+
+As of March 31, 2006, $45,000 of additions to property and equipment were
+accrued as accounts payable.
+
+During the year ended March 31, 2006, 17,224 matured shares (i.e. shares owned
+for more than six months) of the Company's common stock with a value of
+approximately $327,000 were surrendered in exchange for the exercise of stock
+options.
+
+In April of 2004, the Company purchased the assets of Versipanel LLC for
+$1,201,000.  In conjunction with the acquisition, liabilities were assumed as
+follows:
+
+          Fair value of assets acquired           $   219,000
+          Cost in excess of fair value of
+            assets (goodwill)                       1,085,000
+          Cash paid for assets                     (1,201,000)
+                                                  -----------
+          Liabilities assumed                     $   103,000
+                                                  ===========
+
+
+
+
+                                                       (concluded)
+
+       (See accompanying notes to consolidated financial statements)
+
+<PAGE> 44
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For each of the three years in the period ended March 31, 2006
+
+
+1.  DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+MITY Enterprises, Inc. (the Company) designs and manufactures multipurpose
+room furniture, healthcare seating and fencing and markets these products in
+niche markets.  In addition, the Company continues to pursue acquisitions of
+product lines or companies that will be complementary to the Company's
+businesses.  The Company markets its products throughout the United States,
+Canada and in certain foreign countries.
+
+PRINCIPLES OF CONSOLIDATION
+The consolidated financial statements of the Company include the accounts of
+MITY Enterprises, Inc. and all wholly owned and partially owned subsidiaries
+for which the Company exercises control.  All significant intercompany
+accounts and transactions have been eliminated in consolidation.
+
+CASH AND CASH EQUIVALENTS
+Cash and cash equivalents include highly liquid investments which have an
+original maturity not greater than three months.
+
+AVAILABLE-FOR-SALE SECURITIES
+Debt securities, which consist of corporate bonds and government agency
+securities, are classified as available-for-sale and are recorded at their
+fair value.  When the fair value of available-for-sale securities differs from
+the amortized cost, the resulting unrealized gain or loss is recorded as a
+component of comprehensive income.  The amortization of premiums and discounts
+on debt securities in this category are included in investment income and
+reflected in the net carrying amount of the debt securities.  The cost of
+securities sold during the period is based on the specific identification
+method.  Interest on securities in this category are included in investment
+income.  As of March 31, 2006 and 2005, the Company had unrealized holding
+losses on available-for-sale securities of $6,000 and $19,000, respectively.
+These losses were related to fluctuations in interest rates and are not
+considered to be other than temporary losses.
+
+The contractual maturities of the available-for-sale securities held are
+summarized below:
+
+MARCH 31,                         2006                         2005
+                       --------------------------  --------------------------
+                       Amortized Cost  Fair Value  Amortized Cost  Fair Value
+                       --------------  ----------  --------------  ----------
+Due in one year or less  $2,703,000    $2,697,000    $1,950,000    $1,942,000
+
+Due after one through
+ five years                 250,000       250,000     2,220,000     2,209,000
+
+Due after five through
+ ten years                     -             -             -             -
+
+Due after ten years       1,600,000     1,600,000     3,000,000     3,000,000
+                       --------------  ----------  --------------  ----------
+                         $4,553,000    $4,547,000    $7,170,000    $7,151,000
+                       ==============  ==========  ==============  ==========
+
+<PAGE> 45
+
+These available-for-sale securities consisted of the following (at fair
+value):
+                                           Gross       Gross
+MARCH 31, 2006              Amortized   Unrealized  Unrealized     Fair
+                              Cost         Gains       Losses      Value
+                           ----------   ----------  ----------  ----------
+U.S. government securities $1,370,000        -        $ 3,000   $1,367,000
+
+Corporate notes             1,333,000        -          3,000    1,330,000
+
+Auction preferred stock       200,000        -           -         200,000
+
+Auction rate notes          1,650,000        -           -       1,650,000
+                           ----------   ----------  ----------  ----------
+Balance at end of period   $4,553,000        -        $ 6,000   $4,547,000
+                           ==========   ==========  ==========  ==========
+
+                                           Gross       Gross
+MARCH 31, 2005              Amortized   Unrealized  Unrealized     Fair
+                              Cost         Gains       Losses      Value
+                           ----------   ----------  ----------  ----------
+U.S. government securities $2,920,000        -        $19,000   $2,901,000
+
+Asset-backed securities       200,000        -           -         200,000
+
+Auction rate notes          4,050,000        -           -       4,050,000
+                           ----------   ----------  ----------  ----------
+Balance at end of period   $7,170,000        -        $19,000   $7,151,000
+                           ==========   ==========  ==========  ==========
+
+Investments that have been in a continuous unrealized loss position for more
+than 12 months as of March 31, 2006 and 2005 were not significant.  For the
+years ended March 31, 2006 and 2005, proceeds from the sale of securities
+available-for-sale amounted to $7,276,000 and $1,478,000, respectively.  Gross
+realized gains amounted to $8,000 and $0 for the years ended March 31, 2006
+and 2005, respectively.  There were no gross realized losses for the years
+ended March 31, 2006 and 2005.
+
+INVENTORIES
+Inventories are stated at the lower of cost, on a first in, first out basis,
+or market.  The Company has established a reserve on this inventory of
+$225,000 and $372,000 as of March 31, 2006 and 2005, respectively (See Note 4,
+Impairment of Assets).
+
+PROPERTY AND EQUIPMENT
+Property and equipment are stated at cost.  Maintenance and repairs are
+charged to operations as incurred, whereas major replacements and improvements
+are capitalized and subsequently depreciated.  Leasehold improvements are
+amortized over the shorter of the useful life of the asset or the lease term.
+Depreciation and amortization on the Company's property and equipment are
+provided on a straight-line basis over the estimated useful lives of the
+related assets as follows:
+
+<PAGE> 46
+
+                                                     Estimated Useful
+                                                      Life (in years)
+                                                     ----------------
+Machinery and equipment                                    3 to 10
+
+Furniture and fixtures                                      3 to 5
+
+Leasehold improvements                                     2 to 15
+
+Buildings and improvements                                      30
+
+
+GOODWILL AND OTHER INTANGIBLE ASSETS
+The Company reviews annually the carrying value of its goodwill and other
+intangible assets during the first quarter of each fiscal year.  The goodwill
+arose from its acquisitions of Broda Enterprises and Versipanel and the other
+intangible asset was represented by intellectual property related to certain
+rights the Company obtained to utilize new technology in its next generation
+table product development efforts.  During the quarter ended June 30, 2005,
+the Company reviewed the goodwill related to the Broda and Versipanel
+acquisitions and determined that there was no impairment.  This review is
+performed using estimates of future cash flows.  If the carrying value of the
+intangible asset is considered impaired, an impairment charge is recorded for
+the amount by which the carrying value of the intangible asset exceeds its
+fair value.  During the prior fiscal year, the board of directors in January
+2005 decided to discontinue the next generation table project, resulting in
+the full impairment of the other intangible assets related to intellectual
+property.  This resulted in an impairment charge of $227,000 related to the
+other intangible assets in the March 31, 2005 quarter (See Note 4, Impairment
+of Assets).
+
+REVENUE RECOGNITION
+The Company recognizes revenue in accordance with Staff Accounting Bulletin
+(SAB) No. 101, "Revenue Recognition," as revised by SAB No. 104. Sales are
+recorded when title passes and collectability is reasonably assured under its
+various shipping terms.  Revenue is normally recognized upon shipment of goods
+to customers. In certain circumstances revenue is not recognized until the
+goods are received by the customer based on the terms of the sale agreement.
+Discounts directly related to the sale are recorded as a reduction to net
+sales.
+
+SHIPPING COSTS
+In accordance with Emerging Issues Task Force (EITF) No. 00-10, "Accounting
+for Shipping and Handling Fees and Costs," the Company classifies shipping
+costs billed to customers as revenue.
+
+CONCENTRATION OF CREDIT RISK
+Financial instruments which potentially subject the Company to concentrations
+of credit risk consist primarily of trade receivables and cash equivalents.
+In the normal course of business, the Company provides credit terms to its
+customers.  Accordingly, the Company performs ongoing credit evaluations of
+its customers and maintains allowances for possible losses which, when
+realized, have been within the range of management's expectations.
+
+<PAGE> 47
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+Available-for-sale securities are carried at fair value.  The carrying amount
+reported in the balance sheets for cash and cash equivalents, accounts
+receivable, notes receivable, and accounts payable approximates fair value
+because of the immediate or short-term maturity of these financial
+instruments.
+
+INCOME TAXES
+The Company uses an asset and liability approach for financial accounting and
+reporting for income taxes.  Deferred income taxes are provided for temporary
+differences in the bases of assets and liabilities as reported for financial
+statement purposes and income tax purposes.  The undistributed earnings of the
+Canadian operation are permanently reinvested.
+
+STOCK-BASED COMPENSATION
+In December 2002, the Financial Accounting Standards Board (FASB) issued
+Statement of Financial Accounting Standards (SFAS) No. 148, "Accounting for
+Stock-Based Compensation - Transition and Disclosure - an amendment of FASB
+Statement No. 123" which provides alternative methods of transition for a
+voluntary change to the fair value based method of accounting for stock-based
+employee compensation.  The Company has decided to continue applying
+Accounting Principle Board (APB) Statement No. 25 (as permitted by SFAS No.
+123 and SFAS No. 148).  The required disclosure of the effects of SFAS No. 123
+and SFAS No. 148 are included in the notes to the consolidated financial
+statements.  Accordingly, no compensation cost has been recognized for its
+stock option plans.  Had compensation cost of the Company's two stock-based
+compensation plans been determined based on the fair value at the grant dates
+for awards under those plans consistent with SFAS No. 123, the Company's net
+income and earnings per share would have changed to the pro forma amounts
+indicated below:
+
+YEAR ENDED MARCH 31,                  2006            2005            2004
+                                  -----------     -----------     -----------
+  Net income:
+    As reported                   $ 5,541,000     $ 2,469,000     $ 4,753,000
+    Deduct stock-based employee
+     compensation expense
+     determined under the
+     fair-value based method,
+     net of related tax effects       241,000         254,000         156,000
+                                  -----------     -----------     -----------
+    Pro forma                     $ 5,300,000     $ 2,215,000     $ 4,597,000
+                                  ===========     ===========     ===========
+   Earnings per share - basic:
+    As reported                         $1.34           $0.57           $1.14
+    Pro forma                           $1.29           $0.52           $1.11
+
+   Earnings per share - diluted:
+    As reported                         $1.30           $0.55           $1.09
+    Pro forma                           $1.24           $0.49           $1.05
+
+<PAGE> 48
+
+USE OF ESTIMATES
+The preparation of these consolidated financial statements in conformity with
+accounting principles generally accepted in the United States of America
+requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements and the reported amounts
+of revenues and expenses during the reporting period.  Significant estimates
+subject to change include the allowance for doubtful accounts receivable, the
+reserve for obsolete inventory, accruals for warranty expense, goodwill and
+intangible assets, reserve on notes receivable, litigation reserves, and
+valuation of  the assets related to its discontinued next generation table
+line (see Note 4, Impairment of Assets).  Actual results could differ from
+these estimates.
+
+LONG-LIVED ASSETS
+The Company adopted SFAS No. 144, "Accounting for the Impairment or Disposal
+of Long-Lived Assets" which requires that all long-lived assets to be disposed
+of by sale be carried at the lower of carrying amount or fair value less cost
+to sell, and that depreciation cease to be recorded on such assets.  Fair
+market value is determined primarily using the anticipated cash flows
+discounted at a rate commensurate with the risk involved.  Long-lived assets
+to be disposed of other than by sale are considered held and used until
+disposed of.  Due to the decision by the board of directors in January 2005 to
+discontinue the next generation table project, the Company has  impaired
+certain long-term assets during the quarter ended March 31, 2005.  This
+resulted in an impairment charge of $2.2 million, including $2.0 million
+related to fixed assets and $0.2 million related to other intangible assets
+(See Note 4, Impairment of Assets). There were no additional long-lived assets
+which were considered impaired as of March 31, 2006.
+
+COMPREHENSIVE INCOME
+The Company's comprehensive income consists of foreign currency adjustments,
+unrealized holding gains and losses on available-for-sale securities, and net
+income.
+
+ACCRUED WARRANTY
+The Company provides for the estimated cost of product warranties at the time
+revenue is recognized.  This warranty obligation is affected by failure rates,
+the introduction of new products, and the costs of material and labor to
+repair or replace the product.  The Company regularly assesses the adequacy of
+its accrual for warranty expense based upon historical warranty rates and
+anticipated future warranty rates.  Activity associated with the accrued
+warranty is as follows:
+
+
+YEAR ENDED MARCH 31,                        2006        2005        2004
+                                          --------    --------    --------
+Balance at beginning of period            $439,000    $415,000    $365,000
+
+Accruals for warranties issued during
+ the period                                900,000     661,000     669,000
+
+Settlements made during the period        (869,000)   (637,000)   (619,000)
+                                          --------    --------    --------
+Balance at end of period                  $470,000    $439,000    $415,000
+                                          ========    ========    ========
+
+<PAGE> 49
+
+FOREIGN CURRENCY EFFECTS
+The financial statements of the Company's foreign subsidiary is measured using
+the Canadian dollar as the functional currency.  Assets and liabilities are
+translated into U.S. dollars at year-end rates of exchange and results of
+operations are translated at average rates for the year.  Gains and losses
+resulting from these translations are included in accumulated other
+comprehensive income as a separate component of stockholders' equity.  The
+Company also recognizes foreign currency gains and losses for transactions
+related to its foreign subsidiary as well as note payments from its Australian
+dealer.
+
+RESEARCH AND DEVELOPMENT
+Research and development costs are expensed as incurred.  Patent expenses,
+including legal expenses, are expensed in the period in which they are
+incurred and are generally not significant.  Patent expenses are included in
+research and development expenses in our consolidated statements of income.
+
+EARNINGS PER SHARE
+Basic earnings per share is based on the weighted effect of all common shares
+issued and outstanding, and is calculated by dividing net income by the
+weighted average shares outstanding during the period.  Diluted earnings per
+share is calculated by dividing net income by the weighted average number of
+common shares used in the basic earnings per share calculation plus the number
+of common shares that would be issued assuming exercise or conversion of all
+potentially dilutive common shares outstanding.  The Company excludes equity
+instruments from the calculation of diluted weighted average shares
+outstanding if the effect of including such instruments is antidilutive to
+earnings per share.  The following table sets forth the computation of basic
+and diluted earnings per share for each of the past three fiscal years:
+
+
+YEAR ENDED MARCH 31,                      2006          2005          2004
+                                      -----------   -----------   -----------
+Numerator:
+  Net income                          $ 5,541,000   $ 2,469,000   $ 4,753,000
+                                      ===========   ===========   ===========
+Denominator:
+  Weighted average shares outstanding:
+    Basic                               4,124,189     4,296,525     4,157,081
+    Employee stock options and other      146,773       177,586       207,602
+                                      -----------   -----------   -----------
+    Diluted                             4,270,962     4,474,111     4,364,683
+                                      ===========   ===========   ===========
+Earnings per common share:
+    Basic                                   $1.34         $0.57         $1.14
+    Diluted                                 $1.30         $0.55         $1.09
+
+
+<PAGE> 50
+
+RECENTLY ISSUED FINANCIAL ACCOUNTING STANDARDS
+In December 2004, the FASB issued SFAS No. 123R, "Share-Based Payment," which
+replaces SFAS No. 123, "Accounting for Stock-Based Compensation," and
+supersedes APB Opinion No. 25, "Accounting for Stock Issued to Employees."
+SFAS No. 123R eliminates the alternative of applying the intrinsic value
+measurement provisions of Opinion 25 to stock compensation awards issued to
+employees.  Rather, the new standard requires enterprises to measure the cost
+of employee services received in exchange for an award of equity instruments
+based on the grant-date fair value of the award.  That cost will be recognized
+over the period during which an employee is required to provide services in
+exchange for the award, known as the requisite service period (usually the
+vesting period).
+
+SFAS No. 123R, as amended by the Securities Exchange Commission, will be
+effective for the Company's first quarter in its fiscal year beginning April
+1, 2006, and requires the use of the Modified Prospective Application Method.
+Under this method, SFAS No. 123R is applied to new awards and to awards
+modified, repurchased, or cancelled after the effective date.  Additionally,
+compensation cost for the portion of awards for which the requisite service
+has not been rendered (such as unvested options) that are outstanding as of
+the date of adoption shall be recognized as the remaining requisite services
+are rendered.  The compensation cost relating to unvested awards at the date
+of adoption shall be based on the grant-date fair value of those awards as
+calculated for pro forma disclosures under the original SFAS No. 123.  In
+addition, companies may use the Modified Retrospective Application Method.
+This method may be applied to all prior years for which the original SFAS No.
+123 was effective or only to prior interim periods in the year of initial
+adoption.  If the Modified Retrospective Application Method is applied,
+financial statements for prior periods shall be adjusted to give effect to the
+fair-value-based method of accounting for awards on a consistent basis with
+the pro forma disclosures required for those periods under the original SFAS
+No. 123.  The Company anticipates using the Modified Prospective Application
+Method.
+
+The Company has not yet quantified the effects of the adoption of SFAS No.
+123R, but it is expected that the new standard will result in significant
+stock-based compensation expense.  The pro forma effects on net income and
+earnings per share if the Company had applied the fair value recognition
+provisions of SFAS No. 123 on stock compensation awards (rather than applying
+the intrinsic value measurement provisions of Opinion 25) are disclosed above.
+Although such pro forma effects of applying original SFAS No. 123 may be
+indicative of the effects of adopting SFAS No. 123R, the provisions of these
+two statements differ in some important respects.  The actual effects of
+adopting SFAS No. 123R will be dependent on numerous factors including, but
+not limited to, the valuation model chosen by the Company to value stock-based
+awards; the assumed award forfeiture rate; the accounting policies adopted
+concerning the method of recognizing the fair value of awards over the
+requisite service period; and the transition method (as described below)
+chosen for adopting SFAS No. 123R.
+
+<PAGE> 51
+
+In November 2004, the FASB issued SFAS No. 151, "Inventory Costs."  SFAS No.
+151 amends the guidance in ARB No. 43, Chapter 4, "Inventory Pricing," to
+clarify the accounting for abnormal amounts of idle facility expense, freight,
+handling costs, and wasted material. SFAS No. 151 requires that those items be
+recognized as current-period charges regardless of whether they meet the
+criterion of "so abnormal."  In addition, this Statement requires that
+allocation of fixed production overheads to the costs of conversion be based
+on the normal capacity of the production facilities.  SFAS No. 151 is
+effective for fiscal years beginning after June 15, 2005.  The Company intends
+to adopt SFAS No. 151 on April 1, 2006.  The adoption of SFAS No. 151 is not
+expected to have a material impact on the Company's consolidated financial
+statements.
+
+In January 2003, the FASB issued Interpretation No. 46, "Consolidation of
+Variable Interest Entities", (FIN No. 46) an interpretation of ARB No. 51.
+FIN No. 46, as amended, addresses consolidation by business enterprises of
+variable interest entities.  FIN No. 46 applies immediately to variable
+interest entities created after January 31, 2003 and to variable interest
+entities in which an enterprise obtains an interest after that date.  FIN No.
+46 applies in the first year or interim period ending after December 15, 2003
+to variable interest entities in which an enterprise holds a variable interest
+that it acquired before February 1, 2003.  The Company does not have an
+interest in any variable interest entity and therefore the adoption of FIN No.
+46 did not impact the consolidated financial statements.
+
+In May 2003, the FASB issued SFAS No. 150, "Accounting for Certain Financial
+Instruments with Characteristics of both Liability and Equity," which
+establishes standards for how an issuer classifies and measures certain
+financial instruments with characteristics of both liability and equity in its
+statement of financial position.  SFAS No. 150 is effective for new or
+modified financial instruments beginning June 1, 2003, and for existing
+instruments beginning August 1, 2003.  The adoption of SFAS No. 150 did not
+have an impact on the consolidated financial statements.
+
+In April 2003, the FASB issued SFAS No. 149, "Amendment of Statement 133 on
+Derivative Instruments and Hedging Activities", which amends and clarifies
+accounting for derivative instruments, including certain derivative
+instruments embedded in other contracts, and for hedging activities under SFAS
+No. 133.  SFAS No. 149 is effective for contracts entered into or modified
+after June 30, 2003 and for hedging relationships designated after June 30,
+2003.  The adoption of SFAS No. 149 did not have an impact on the consolidated
+financial statements.
+
+2.  INVENTORIES
+
+Inventories consisted of the following:
+
+
+MARCH 31,                                  2006            2005
+                                       -----------     -----------
+   Materials and supplies              $ 1,730,000     $ 1,522,000
+   Work-in-progress                        174,000         161,000
+   Finished goods                          683,000         835,000
+                                       -----------     -----------
+                                       $ 2,587,000     $ 2,518,000
+                                       ===========     ===========
+
+<PAGE> 52
+
+3.  PROPERTY AND EQUIPMENT
+
+Property and equipment consisted of the following:
+
+MARCH 31,                                  2006            2005
+                                       -----------     -----------
+  Land and improvements                $ 2,710,000     $ 2,179,000
+  Machinery and equipment                9,274,000       7,994,000
+  Furniture and fixtures                 2,304,000       2,279,000
+  Leasehold improvements                 1,013,000         960,000
+  Building and improvements              6,818,000       6,818,000
+                                       -----------     -----------
+                                       $22,119,000     $20,230,000
+Less accumulated depreciation and
+  amortization                          (9,634,000)     (8,516,000)
+                                       -----------     -----------
+                                       $12,485,000     $11,714,000
+                                       ===========     ===========
+
+4.  IMPAIRMENT OF ASSETS
+
+During a meeting of the Company's board of directors on January 25, 2005, the
+board decided to discontinue funding the Company's initiative to develop its
+next generation table.  The decision was made based on the difficulties
+encountered and additional expenses required to achieve a consistent,
+repeatable manufacturing process.  At this time, the decision was also made to
+redirect some of the resources previously focused on the next generation table
+project towards using the same technology and equipment for other products
+that do not require the same level of precision as tables.  Currently, the
+Company is using these assets for the production of its new fence product
+line.
+
+As a result, during the quarter ending March 31, 2005, in accordance with SFAS
+No. 144, the Company realized an impairment on some of the assets involved in
+that project to reduce their carrying amounts to their estimated fair value.
+As per SFAS No. 144, the fair value was determined by the amount at which the
+assets could be bought or sold in a current transaction between willing
+parties.  The Company utilized an outside specialist to establish the fair
+value of the assets.  The impairment totaled $2,226,000 and consisted of
+$1,999,000 in impairment of fixed assets and $227,000 in impairment of other
+intangible asset.
+
+In connection with the decision to discontinue the next generation table line,
+it was determined that the value of the inventory associated with the project
+was less than its cost.  So, in accordance with Accounting Research Bulletin
+43 (ARB 43), this inventory was revalued at market value through a reserve
+which resulted in an adjustment down in the value of inventory of $324,000.
+This charge was included in the cost of products sold.
+
+The fair value of the assets previously associated with the next generation
+table project that were redirected on other processes as of March 31, 2005,
+consisted of $2,528,000 in building, $1,045,000 for equipment, and $272,000 in
+inventory.  The Company believes that it will be able to fully realize the
+value of these assets.
+
+<PAGE> 53
+
+5.  NOTES RECEIVABLE AND INVESTMENT IN SUBSIDIARY
+
+In 2002, the Company acquired a 50 percent interest in a startup development
+company.  On September 30, 2004, the Company sold its 50 percent equity
+ownership interest in the startup development company to the other 50 percent
+owner.  The Company exchanged its ownership interest for an exclusive license
+for furniture products and selected other products, release of all royalty
+obligations on existing and future products, and other considerations.  The
+Company retained most of the tangible assets and liabilities of the startup
+development company including cash, inventory, fixed assets, and accounts
+payable.  Due to the decision by the board of directors in January 2005 to
+discontinue funding the Company's initiative to develop its next generation
+table, the Company impaired certain of the remaining assets (See Note 4,
+Impairment of Assets).
+
+During the quarter ended March 31, 2002, the Company entered into an agreement
+with a dealer for the Company's multipurpose room furniture in Australia and
+created a note receivable for $365,000.  This note, which bears interest at
+the prime rate, requires monthly payments of interest and principal in the
+amount of $8,000 (US$) and is being amortized over a six and one half year
+period.  The note is secured by all of the assets of the dealership and by
+personal guarantees from the principals of the dealership.  The Company has a
+reserve of $0 and $20,000, for this note receivable as of March 31, 2006 and
+2005, respectively.  At March 31, 2006 and 2005, the gross value of this note
+receivable was $80,000 and $159,000, respectively.  At March 31, 2005, $64,000
+was the current portion of this note receivable, which is included in prepaid
+expenses and other current assets.  As of March 31, 2006, the dealer was
+current on payments on this note receivable.  The Company has another note
+receivable for $26,000, of which $10,000 is current.
+
+
+6.  LINE OF CREDIT
+
+The Company's wholly-owned subsidiary, Broda Enterprises, had a line of
+credit, bearing interest at Canadian prime (5.50 percent at March 31, 2006)
+which is secured by a General Security Agreement, an assignment of insurance
+and guarantees by the Company.  The limit on this line is $857,000 (US$).  At
+March 31, 2006 and 2005, no balance was outstanding.  Among other
+restrictions, this credit facility requires the maintenance of certain
+financial ratios and levels of working capital.  As of March 31, 2006,
+management of the Company believes it was in full compliance with the loan
+covenants related to this credit facility.
+
+7.  ACCRUED EXPENSES AND OTHER CURRENT LIABILITIES
+
+Accrued expenses and other current liabilities consisted of the following:
+
+MARCH 31,                                  2006            2005
+                                       -----------     -----------
+  Accrued payroll and payroll taxes    $ 1,080,000     $ 1,155,000
+  Accrued warranty                         470,000         439,000
+  Deferred revenue                         492,000         374,000
+  Tax payable                               88,000         152,000
+  Other                                    297,000         496,000
+                                       -----------     -----------
+                                       $ 2,427,000     $ 2,616,000
+                                       ===========     ===========
+
+<PAGE> 54
+
+8.  COMMON STOCK OPTIONS
+
+At March 31, 2006, the Company has two stock incentive plans, the 1990 Stock
+Option Plan (the "1990 Plan") and the 1997 Stock Incentive Plan (the "1997
+Plan").  The Company authorized and reserved 750,000 shares of common stock
+for issuance under the 1990 Plan and 900,000 shares of common stock for
+issuance under the 1997 Plan. The purchase price for the shares under the
+Plans is equal to the fair value of the common stock at the date the options
+are granted as determined by the closing price listed on the Nasdaq Stock
+Exchange except for shareholders holding more than ten percent of the
+outstanding stock, whose options are issued at a ten percent premium to the
+then current market value.  A table of stock option activity is shown below:
+
+
+                                           Number            Weighted Average
+                                        of Options            Exercise Price
+                                         ---------               ---------
+Outstanding at April 1, 2003              628,748                  $ 8.43
+
+  Granted                                 115,000                   17.02
+  Exercised                              (166,493)                   6.47
+  Forfeited                               (13,893)                  11.23
+                                         ---------               ---------
+Outstanding at March 31, 2004             563,362                   10.70
+
+  Granted                                  58,499                   14.92
+  Exercised                               (63,189)                   8.78
+  Forfeited                               (13,844)                  14.64
+                                         ---------               ---------
+Outstanding at March 31, 2005             544,828                   11.27
+
+  Granted                                       0                     -
+  Exercised                              (159,983)                   8.67
+  Forfeited                                (9,474)                  15.14
+                                         ---------               ---------
+Outstanding at March 31, 2006             375,371                  $12.28
+                                         =========               =========
+
+Options exercisable at March 31, 2006, 2005 and 2004 were 296,729, 405,679,
+and 387,138, respectively.  Options vest over a one- to four-year period and
+are generally exercisable over ten-years.
+
+The following table summarizes the combined information of the 1990 and 1997
+Plans' options outstanding at March 31, 2006:
+
+<PAGE> 55
+
+                 Options Outstanding                    Options Exercisable
+    -------------------------------------------------   --------------------
+                                Weighted
+                                 Average
+     Range of                  Remaining    Weighted                Weighted
+     Exercise       Number    Contractual    Average       Number    Average
+     Prices      Outstanding      Life      Exercise     Exercis-   Exercise
+                              (in years)       Price         able      Price
+ -------------   -----------  -----------   --------     --------   --------
+  $6.78-$8.20         91,375      4.45       $  6.98       91,375    $  6.98
+   9.70-11.75         94,726      3.52         10.22       93,026      10.21
+  12.10-12.15         20,518      6.84         12.12       18,018      12.13
+  12.96-15.50         79,118      7.46         14.73       47,466      14.95
+  16.55-17.90         89,634      8.10         17.75       46,844      17.81
+ -------------   -----------  -----------   --------     --------   --------
+ $6.78-$17.90        375,371      5.85       $ 12.28      296,729    $ 11.29
+ =============    ========== ============   ========     ========   ========
+
+The fair value of each option grant is estimated on the date of grant using
+the Black-Scholes option-pricing model with the following weighted-average
+assumptions used for grants in 2005 and 2004, respectively: expected
+volatility of 41 percent and 44 percent, risk free interest rates of 3.31
+percent and 2.24 percent, and expected lives of one to four years.  Under SFAS
+No. 148, the weighted average fair value per share of options issued during
+the years ended March 31, 2005, and 2004 was $4.72, and $6.00, respectively.
+No options were granted during the year ended March 31, 2006.
+
+9.  EMPLOYEE BENEFIT PLANS
+
+In January 1995, the Company established a defined contribution plan which
+qualifies under Section 401(k) of the Internal Revenue Code.  The plan
+provides retirement benefits for employees meeting minimum age and service
+requirements.  Participants may contribute up to 20 percent of their gross
+wages, subject to certain limitations.  The plan provides for discretionary
+matching contributions by the Company, as determined by the Board of
+Directors.  The discretionary amounts contributed to the plan for the years
+ended March 31, 2006, 2005 and 2004 were $150,000, $125,000, and $107,000,
+respectively.
+
+In October 1996, the Board of Directors reserved up to 37,500 shares of MITY
+Enterprises common stock to be issued under the provisions of the 401(k) plan.
+An additional 50,000 shares of common stock were reserved in January 2000 and
+an additional 100,000 shares of common stock were reserved in March 2002.
+Shares are issued to the plan on a quarterly basis.  The amounts issued to the
+plan in MITY Enterprises common stock for the years ended March 31, 2006, 2005
+and 2004 were $63,000, $60,000, and $103,000, respectively.  As of March 31,
+2006, 131,457 shares had been issued under the provisions of the plan.
+
+<PAGE> 56
+
+10.  INCOME TAXES
+
+Income tax expense from operations consisted of the following components:
+
+
+
+YEAR ENDED MARCH 31,    2006            2005            2004
+                    -----------     -----------     -----------
+ Current:
+   Federal          $ 1,663,000     $ 1,392,000     $ 1,708,000
+   State                295,000         211,000         244,000
+   Foreign              399,000         318,000         431,000
+                    -----------     -----------     -----------
+ Total current        2,357,000       1,921,000       2,383,000
+                    -----------     -----------     -----------
+ Deferred:
+   Federal              405,000        (430,000)        359,000
+   State                 28,000         (42,000)         35,000
+   Foreign               21,000          (1,000)        (11,000)
+                    -----------     -----------     -----------
+ Total deferred         454,000        (473,000)        383,000
+                    -----------     -----------     -----------
+                    $ 2,811,000     $ 1,448,000     $ 2,766,000
+                    ===========     ===========     ===========
+
+The amount of the Company's foreign pre-tax income for the years ended March
+31, 2006, 2005 and 2004 was $1,268,000, $834,000, and $361,000, respectively.
+
+The tax provisions for continuing operations were at effective rates as
+follows:
+
+
+
+YEAR ENDED MARCH 31,              2006       2005       2004
+                                 ------     ------     ------
+ Federal statutory tax rates      34.0%      34.0%      34.0%
+ State / provincial income taxes,
+   net of federal benefit          3.9        3.3        3.3
+ Deduction related to domestic
+   production activities          (1.0)        -          -
+ Meals and entertainment           0.2        0.4        0.2
+ Foreign sales                    (0.6)      (0.6)      (0.5)
+ Tax exempt interest income       (0.4)      (0.1)        -
+ Research and development tax
+   credit                         (0.8)        -          -
+ Other                            (1.6)       0.2        0.2
+                                 ------     ------     ------
+                                  33.7%      37.2%      37.2%
+                                 ======     ======     ======
+
+<PAGE> 57
+
+The tax effects of temporary differences that give rise to significant
+portions of deferred tax assets and deferred tax liabilities are as follows:
+
+
+
+MARCH 31,                      2006                 2005
+                         Current  Long Term   Current  Long Term
+                        --------  ---------  --------  ---------
+Deferred tax assets:
+ Allowance for doubtful
+  accounts              $ 45,000             $ 55,000
+ Inventory                86,000              134,000
+ Vacation accrual         71,000               60,000
+ Warranty reserve and
+  accrual                175,000              196,000
+ Discontinued operations  22,000               77,000
+ Net operating loss
+  carryforward                                105,000
+ AMT credit                        $ 30,000              $30,000
+ Depreciation and
+  amortization                      273,000              373,000
+ Other accruals            3,000               74,000
+                        --------  ---------  --------  ---------
+ Total                   402,000    303,000   701,000    403,000
+Deferred tax liabilities:
+ Goodwill                           (55,000)
+                        --------  ---------  --------  ---------
+Net deferred tax asset  $402,000   $248,000  $701,000   $403,000
+                        ========  =========  ========  =========
+
+At March 31, 2006, the Company had utilized all of its previously held
+consolidated net operating loss carryforwards for federal income tax purposes.
+
+11.  COMMITMENTS AND CONTINGENCIES
+
+The Company leases two buildings in its Waterloo, Ontario, Canada location
+under an operating lease which expires in August 2006.  The current agreement
+requires lease payments of $16,000 Canadian (approximately US $14,000) per
+month through August 2006.  Management expects to renew these leases based on
+similar terms.
+
+Total rent expense was $187,000, $147,000, and $132,000 for the years ended
+March 31, 2006, 2005 and 2004, respectively.
+
+At March 31, 2006, the Company has fixed price commitments to purchase
+$321,000 in raw materials inventory.
+
+The Company has been named as defendant in certain lawsuits.  While the
+Company cannot predict the results of these actions, management believes,
+based in part on the advice of legal counsel, that the liability, if any,
+resulting from such litigation and claims will not have a material affect on
+the consolidated financial statements.
+
+<PAGE> 58
+
+12.  BUSINESS SEGMENT INFORMATION
+
+Management currently views the Company as being two business segments:
+multipurpose room furniture and healthcare seating.  The multipurpose room
+furniture business segment manufactures and markets lightweight, durable,
+folding leg tables, folding chairs, stacking chairs, lecterns,  and other
+related products.  The Company's healthcare seating segment manufactures and
+markets healthcare chairs and related products.  The Company's healthcare
+seating segment includes all of the Company's foreign-based sales.  Corporate
+and fence related assets and expenditures are include in the multipurpose room
+furniture segment.  During the year ended March 31, 2006, sales volumes and
+other metrics of the corporate and fence related assets were not significant
+enough for their classification as separate segments.
+
+Reportable segment data reconciled to the consolidated financial statements
+for the fiscal years ended March 31, 2006, 2005 and 2004 is as follows:
+
+
+FISCAL YEAR ENDED MARCH 31,    2006         2005         2004
+                           -----------  -----------  -----------
+Net sales:
+ Multipurpose room
+  furniture                $48,201,000  $43,040,000  $39,002,000
+ Healthcare seating          7,500,000    7,232,000    6,208,000
+                           -----------  -----------  -----------
+                           $55,701,000  $50,272,000  $45,210,000
+                           ===========  ===========  ===========
+Income from operations:
+ Multipurpose room
+  furniture                $ 6,657,000  $ 2,332,000  $ 6,238,000
+ Healthcare seating          1,448,000    1,505,000    1,303,000
+                           -----------  -----------  -----------
+                           $ 8,105,000  $ 3,837,000  $ 7,541,000
+                           ===========  ===========  ===========
+Depreciation & amortization
+ expense:
+ Multipurpose room
+  furniture                $ 1,299,000  $ 1,661,000  $ 1,502,000
+ Healthcare seating            175,000      169,000      132,000
+                           -----------  -----------  -----------
+                           $ 1,474,000  $ 1,830,000  $ 1,634,000
+                           ===========  ===========  ===========
+Capital expenditures, net:
+ Multipurpose room
+  furniture                $ 1,893,000  $ 1,900,000  $ 3,101,000
+ Healthcare seating            343,000      242,000      169,000
+                           -----------  -----------  -----------
+                           $ 2,236,000  $ 2,142,000  $ 3,270,000
+                           ===========  ===========  ===========
+
+MARCH 31,                              2006          2005
+                                    -----------   -----------
+Total assets:
+ Multipurpose room furniture        $28,735,000   $30,626,000
+ Healthcare seating                   6,084,000     4,990,000
+                                    -----------   -----------
+                                    $34,819,000   $35,616,000
+                                    ===========   ===========
+<PAGE> 59
+
+13.  ACQUISITION
+
+On April 1, 2004, the Company announced the acquisition of the assets of
+Versipanel LLC, a privately-owned designer, manufacturer and marketer of a
+variety of portable partitions based in Phoenix, Arizona.  The transaction was
+treated for accounting purposes as a purchase and accordingly, the Company has
+included the operating results of Versipanel in the financial statements from
+April 1, 2004.
+
+In conjunction with this acquisition, the Company paid $1,201,000 in cash.
+The acquisition resulted in goodwill of $1,085,000 all of which is deductible
+for tax purposes.  Up to an additional $200,000 of the purchase price was
+contingently payable based on obtaining certain sales growth targets on the
+Versipanel product line through April 26, 2005.  These growth targets were not
+achieved.
+
+The unaudited pro forma results of operations of the Company for the year
+ended March 31, 2005 and 2004 (assuming the acquisition of Versipanel had
+occurred as of April 1, 2003) are as follows:
+
+
+FISCAL YEAR ENDED MARCH 31,      2005            2004
+                             -----------     -----------
+ Net sales                   $50,272,000     $46,689,000
+ Net income                    2,476,000       4,863,000
+ Basic earnings per share          $0.58           $1.17
+ Diluted earnings per share        $0.55           $1.11
+
+
+14.  SUBSEQUENT EVENT
+
+Pursuant to the Company's stock repurchase plan, on May 10, 2006, the Company
+repurchased 144,071 shares of the Company's common stock at a price of $18.50
+per share.  On May 18, 2006, the Company's board of directors increased the
+share authorization in the buyback plan by 200,000 shares.  This brings the
+total shares authorized in the plan to be repurchased to 850,000 shares, with
+224,083 remaining in the authorization.
+
+Subsequent to the year ended March 31, 2006, the Company purchased
+approximately 4 acres in Waterloo, Ontario, Canada for $570,000.  The Company
+intends to construct a new facility during the upcoming fiscal year and will
+relocate its healthcare seating operations to that facility.
+
+<PAGE> 60
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+          None to report.
+
+ITEM 9A.  CONTROLS AND PROCEDURES
+
+Evaluation of disclosure controls and procedures.  Under the supervision and
+with the participation of our management, including our Chief Executive
+Officer and Chief Financial Officer, we evaluated the effectiveness of the
+design and operation of our disclosure controls and procedures (as defined in
+Rule 13a-15(e) under the Securities Exchange Act of 1934 (the "Exchange
+Act")).  Based upon that evaluation, the Chief Executive Officer and Chief
+Financial Officer concluded that, as of the end of the period covered by this
+report, our disclosure controls and procedures were effective.
+
+Changes in internal control over financial reporting.  During the most recent
+fiscal quarter ended March 31, 2006, there has been no change in our internal
+control over financial reporting (as defined in Rule 13a-15(f) under the
+Exchange Act) that has materially affected, or is reasonably likely to
+materially affect, our internal control over financial reporting.
+
+ITEM 9B.  OTHER INFORMATION
+
+          None to report.
+
+<PAGE> 61
+
+                            PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The information required by this Item is incorporated by reference to the
+sections of the Company's Proxy Statement filed in connection with its 2006
+Annual Meeting of Stockholders entitled "Nominees" and "Directors and
+Executive Officers."
+
+
+AUDIT COMMITTEE FINANCIAL EXPERT
+
+The Board of Directors of the Company has determined that each of Hal B.
+Heaton, Chair of the Audit Committee, and Audit Committee member Ralph E.
+Crump is an audit committee financial expert as defined by Item 401(h) of
+Regulations S-K of the Securities Exchange Act of 1934, as amended (the
+"Exchange Act") and is independent within the meaning of Item 7(d)(3)(iv) of
+Schedule 14A of the Exchange Act.  The Board of Directors of the Company has
+designated Hal B. Heaton, Chair of the Audit Committee as its audit committee
+financial expert.
+
+CODE OF ETHICS
+
+The Company has adopted a code of business conduct and ethics for directors,
+officers and executives.  The Code of Ethics is available on the Company's
+website at www.mityinc.com.  Shareholders may request a free copy of the Code
+of Ethics from the Company at MITY Enterprises, Inc., Attn: Investor
+Relations, 1301 West 400 North, Orem, UT 84057.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+The information required by this item is incorporated by reference to the
+section of the Company's Proxy Statement filed in connection with its 2006
+Annual Meeting of Stockholders entitled "Executive Compensation."
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+RELATED STOCKHOLDER MATTERS
+
+The information required by this item is incorporated by reference to the
+section of the Company's Proxy Statement filed in connection with its 2006
+Annual Meeting of Stockholders entitled "Security Ownership of Management and
+Others."
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The information required by this item is incorporated by reference to the
+sections of the Company's Proxy Statement filed in connection with its 2006
+Annual Meeting of Stockholders entitled "Executive Compensation" and "Certain
+Transactions."
+
+ITEM 14.  PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+The information required by this item is incorporated by reference to the
+sections of the Company's Proxy Statement filed in connection with its 2006
+Annual Meeting of Stockholders entitled "Auditor's Fees."
+
+
+<PAGE> 62
+
+
+
+                            PART IV
+
+ITEM 15.  EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+   (a) The following documents are filed as part of this report:
+       (1) All financial statements: See consolidated financial
+           statement index shown on page 29.
+       (2) Financial statement schedule: Valuation and Qualifying
+           Accounts for the three fiscal years ended March 31,
+           2006
+       (3) Exhibits are incorporated herein by reference or are
+           filed with this report as indicated below
+
+
+                         INDEX TO EXHIBITS
+
+Exhibit No.     Description
+
+2.1
+Contribution Agreement dated as of March 24, 1997 by and among Estate of
+Chester E. Dekko, David Kebrdle, Dennis and Mary M. Kebrdle, Domenic and
+Martha S. Federico, ChiCol Group, Inc., DO Group, Inc., Sican Corp., Sican II
+Corp., DO Group Holding, Inc. and Mity-Lite, Inc. incorporated by reference to
+the referenced exhibit number to the Company's Form 8-K dated March 31, 1997.
+
+2.2
+Stock Purchase Agreement dated as of March 13, 1997 between Mity-Lite, Inc.
+and Xaio, Inc. incorporated by reference to the referenced exhibit number to
+the Company's Form 8-K dated March 31, 1997.
+
+2.3
+Stock Purchase Agreement dated as of March 13, 1997 between Mity-Lite, Inc.
+and Ellman Equities, Inc. incorporated by reference to the referenced exhibit
+number to the Company's Form 8-K dated March 31, 1997.
+
+2.4
+Stock Purchase Agreement dated as of March 13, 1997 between Mity-Lite, Inc.
+and Key Equity Capital Corporation incorporated by reference to the referenced
+exhibit number to the Company's Form 8-K dated March 31, 1997.
+
+2.5
+Stock Purchase Agreement dated as of March 13, 1997 between Mity-Lite, Inc.
+and National City Capital Corporation incorporated by reference to the
+referenced exhibit number to the Company's Form 8-K dated March 31, 1997.
+
+2.6
+Stock Purchase Agreement dated as of March 13, 1997 between Mity-Lite, Inc.
+and Cardinal Development Capital Fund I incorporated by reference to the
+referenced exhibit number to the Company's Form 8-K dated March 31, 1997.
+
+2.7
+Term Loan Agreement dated as of March 24, 1997 between Mity-Lite, Inc. and
+Sican Corp. incorporated by reference to the referenced exhibit number to the
+Company's Form 8-K dated March 31, 1997.
+
+<PAGE> 63
+
+2.8
+Put Agreement dated as of March 24, 1997 by and among Mity-Lite, Inc. and
+Dennis Kebrdle, David Kebrdle, Domenic Federico, ChiCol Group, Inc., Sican II
+Corp., and DO Group, Inc. incorporated by reference to the referenced exhibit
+number to the Company's Form 8-K dated March 31, 1997.
+
+2.9
+Stock Purchase Agreement dated as of November 20, 1998, by and among Mity-Lite
+Acquisition Corp. and Stephen E. Brotherston, Glenn C. Brotherston, Ian D.
+Brotherston, Margaret E. Brotherston and Sandra L. Brotherston incorporated by
+reference to the referenced exhibit number to the Company's Form 8-K dated
+November 25, 1998.
+
+2.10
+Asset Purchase Agreement dated as of April 9, 1999, by and among The
+CenterCore Group, Inc., a Delaware Corporation, Fleet Capital Corporation, a
+Rhode Island Corporation, and C Core, Inc., a Utah Corporation and wholly
+owned subsidiary of Mity-Lite, Inc. incorporated by reference to the
+referenced exhibit number to the Company's Form 8-K dated April 9, 1999.
+
+2.11
+Form of Assignment Agreement by and among BOCCC, Inc., a Utah Corporation and
+wholly owned subsidiary of Mity-Lite, Inc., and various parties holding
+subordinated debt instruments of The CenterCore Group, Inc.  This form of
+Assignment Agreement is substantially the same agreement that was signed by
+BOCCC, Inc. and nine different subordinated debt holders incorporated by
+reference to the referenced exhibit number to the Company's Form 8-K dated
+April 9, 1999.
+
+2.12
+Stock Purchase Agreement, By and Among DO Group Holding, Inc., David Kebrdle,
+Mary M. Kebrdle, Martha S. Federico, Estate of Chester E. Dekko, Dennis
+Kebrdle, Domenic Federico and Mity-Lite, Inc. dated March 17, 2000
+incorporated by reference to the referenced exhibit number to the Company's
+Form 8-K dated April 1, 2000.
+
+3.1
+Amended and Restated Articles of Incorporation of the Registrant incorporated
+by reference to the referenced exhibit number to the Company's Registration
+Statement on Form SB-2, Reg. No. 33-76758-D.
+
+3.2
+Amended and Restated Bylaws of the Registrant incorporated by reference to the
+referenced exhibit number to the Company's Registration Statement on Form
+SB-2, Reg. No. 33-76758-D.
+
+
+3.3
+First Amendment to the Amended and Restated Bylaws of Registrant incorporated
+by reference to the referenced exhibit number to the Company's Registration
+Statement on Form SB-2, Reg. No. 33-76758-D.
+
+4.1
+Form of Stock Certificate incorporated by reference to the referenced exhibit
+number to the Company's Registration Statement on Form SB-2, Reg. No.
+33-76758-D.
+
+<PAGE> 64
+
+10.1
+Revolving Note dated March 16, 1992 and Revolving Loan Agreement dated March
+16, 1992 between the Registrant and First Security Bank of Utah, N.A.
+incorporated by reference to the referenced exhibit number to the Company's
+Registration Statement on Form SB-2, Reg. No. 33-76758-D.
+
+10.2
+Modification Agreement dated March 16, 1993 between the Registrant and First
+Security Bank of Utah, N.A. incorporated by reference to the referenced
+exhibit number to the Company's Registration Statement on Form SB-2, Reg. No.
+33-76758-D.
+
+10.3
+Lease Agreement dated November 1, 1993 between the Registrant and the Walter
+M. and Orpha M. Lewis Family Trust incorporated by reference to the referenced
+exhibit number to the Company's Registration Statement on Form SB-2, Reg. No.
+33-76758-D.
+
+10.4
+Trademark License dated November 23, 1993 between the Registrant and R.D.
+Werner Co., Inc. incorporated by reference to the referenced exhibit number to
+the Company's Registration Statement on Form SB-2, Reg. No. 33-76758-D.
+
+10.5
+Solicitation, Offer and Award Contract between the Registrant and the General
+Services Administration Federal Supply Service dated January 27, 1992 (issued
+March 6, 1990) and Amendments thereto dated January 27, 1992 (effective July
+16, 1990), January 27, 1992 (effective December 1, 1990), January 27, 1992
+(effective December 28, 1991) and the Revision of August 24, 1992 incorporated
+by reference to the referenced exhibit number to the Company's Registration
+Statement on Form SB-2, Reg. No. 33-76758-D.
+
+10.6
+Notice of Contract Award dated June 23, 1993 between the Registrant and the
+Commonwealth of Virginia, Department of General Services Division of Purchases
+and Supply incorporated by reference to the referenced exhibit number to the
+Company's Registration Statement on Form SB-2, Reg. No. 33-76758-D.
+
+10.7
+Agreement dated July 26, 1990 between the Registrant and the State of Utah,
+Department of Administrative Services and Revisions thereto dated March 8,
+1991, June 5, 1991, and May 19, 1992 and March 10, 1993 incorporated by
+reference to the referenced exhibit number to the Company's Registration
+Statement on Form SB-2, Reg. No. 33-76758-D.
+
+10.8
+Agreement dated December 17, 1991 between the Registrant and the Air Force
+Nonappropriated Fund Purchasing Office incorporated by reference to the
+referenced exhibit number to the Company's Registration Statement on Form
+SB-2, Reg. No. 33-76758-D.
+
+10.9
+Purchasing Contract effective October 1, 1993 between the Registrant and The
+Corporation of the Presiding Bishop of The Church of Jesus Christ of
+Latter-Day Saints incorporated by reference to the referenced exhibit number
+to the Company's Registration Statement on Form SB-2, Reg. No. 33-76758-D.
+
+<PAGE> 65
+
+10.10*
+Employment Agreement with attached Proprietary Information Agreement dated
+effective as of May 21, 1993 between Registrant and Gregory L. Wilson
+incorporated by reference to the referenced exhibit number to the Company's
+Registration Statement on Form SB-2, Reg. No. 33-76758-D.
+
+10.11*
+Employment Agreement with attached Proprietary Information Agreement dated
+effective as of May 21, 1993 between Registrant and Stanley L. Pool
+incorporated by reference to the referenced exhibit number to the Company's
+Registration Statement on Form SB-2, Reg. No. 33-76758-D.
+
+
+10.12*
+
+Employment Agreement with attached Proprietary Information Agreement dated
+effective as of May 21, 1993 between Registrant and Kenneth A. Law
+incorporated by reference to the referenced exhibit number to the Company's
+Registration Statement on Form SB-2, Reg. No. 33-76758-D.
+
+10.13*
+Employment Agreement with attached Proprietary Information Agreement dated
+effective as of February 16, 1994 between Registrant and Brent Bonham
+incorporated by reference to the referenced exhibit number to the Company's
+Registration Statement on Form SB-2, Reg. No. 33-76758-D.
+
+10.14*
+Employment Agreement with attached Proprietary Information Agreement dated
+effective as of February 16, 1994 between Registrant and Bradley T Nielson
+incorporated by reference to the referenced exhibit number to the Company's
+Registration Statement on Form SB-2, Reg. No. 33-76758-D.
+
+10.15*
+1990 Stock Option Plan, as amended and Form of Stock Option Agreements
+incorporated by reference to the referenced exhibit number to the Company's
+Registration Statement on Form SB-2, Reg. No. 33-76758-D.
+
+10.16
+Form of Indemnification Agreements between Registrant and officers and
+directors of Registrant incorporated by reference to the referenced exhibit
+number to the Company's Registration Statement on Form SB-2, Reg. No.
+33-76758-D.
+
+10.17
+Form of Lock-up Agreements with Shareholders incorporated by reference to the
+referenced exhibit number to the Company's Registration Statement on Form
+SB-2, Reg. No. 33-76758-D.
+
+10.18
+Form of Confidentiality Agreement entered into with employees of the
+Registrant incorporated by reference to the referenced exhibit number to the
+Company's Registration Statement on Form SB-2, Reg. No. 33-76758-D.
+
+10.19
+Key-Man Insurance Policy between the Company and Chubb Sovereign Life
+Insurance Company incorporated by reference to the referenced exhibit number
+to the Company's Registration Statement on Form SB-2, Reg. No. 33-76758-D.
+
+<PAGE> 66
+
+10.20
+Distributor Agreement between the Company and Sebel Furniture Limited dated
+February 14, 1994 incorporated by reference to the referenced exhibit number
+to the Company's Form 10-KSB for the year ended March 31, 1994.
+
+10.21
+Lease Agreement dated March 31, 1995 between the Company and the Walter M. and
+Orpha M. Lewis Family Trust incorporated by reference to the referenced
+exhibit number to the Company's Form 10-KSB for the year ended March 31, 1995.
+
+10.22
+Exclusive Distributor Agreement between the Company and Mobilite International
+Limited (aka Mity-Lite (Europe) Limited) incorporated by reference to the
+referenced exhibit number to the Company's Form 10-KSB for the year ended
+March 31, 1995.
+
+10.23
+Purchasing Contract effective October 1, 1995 between the Registrant and The
+Corporation of the Presiding Bishop of The Church of Jesus Christ of
+Latter-Day Saints incorporated by reference to the referenced exhibit number
+to the Company's Form 10-QSB for the quarter ended December 31, 1995.
+
+10.24
+Promissory Note dated December 6, 1995 between the Registrant and Zions First
+National Bank incorporated by reference to the referenced exhibit number to
+the Company's Form 10-QSB for the quarter ended December 31, 1995.
+
+10.25
+Promissory Note dated October 27, 1995 between Registrant and First Security
+Bank incorporated by reference to the referenced exhibit to the Company's Form
+10-KSB for the year ended March 31, 1996.
+
+10.26
+Summary Plan Description and Basic Plan Document for the 1995 Mity-Lite,Inc.
+Employee Retirement Plan incorporated by reference to the referenced exhibit
+number to the Company's Form 10-KSB for the year ended March 31, 1996.
+
+10.27
+Promissory Note dated January 23, 1997  between the Registrant and Zions First
+National Bank incorporated by reference to the referenced exhibit number to
+the Company's Form 10-KSB for the year ended March 31, 1997.
+
+10.28
+Modification Agreement (dated October 27, 1996) to Promissory Note dated
+October 27, 1995 between the Registrant and First Security Bank incorporated
+by reference to the referenced exhibit number to the Company's Form 10-KSB for
+the year ended March 31, 1997.
+
+10.29
+Lease Agreement Amendment dated October 31, 1996 between the Company and the
+Walter M. and Orpha M. Lewis Family Trust incorporated by reference to the
+referenced exhibit number to the Company's Form 10-KSB for the year ended
+March 31, 1997.
+
+<PAGE> 67
+
+10.30
+Promissory Note dated December 15, 1997  between the Registrant and Zions
+First National Bank incorporated by reference to the referenced exhibit number
+to the Company's Form 10-KSB for the year ended March 31, 1998.
+
+10.31
+Modification Agreement (dated October 25, 1997) to Promissory Note dated
+October 27, 1995 between the Registrant and First Security Bank incorporated
+by reference to the referenced exhibit number to the Company's Form 10-KSB for
+the year ended March 31, 1998.
+
+10.32
+1997 Stock Incentive Plan and Form of Agreements incorporated by reference to
+the referenced exhibit number to the Company's Form 10-KSB for the year ended
+March 31, 1998.
+
+10.33
+Promissory Note dated November 18, 1998 between the Registrant and Zions First
+National Bank incorporated by reference to the referenced exhibit number to
+the Company's Form 10-K for the year ended March 31, 1999.
+
+10.34
+Promissory Note dated May 26, 2000 between the Registrant and Zions First
+National Bank incorporated by reference to the referenced exhibit number to
+the Company's Form 10-K for the year ended March 31, 2000.
+
+10.35*
+Form of Employment Agreement between the Company and its Executive Officers
+incorporated by reference to the referenced exhibit number to the Company's
+Form 10-K for the year ended March 31, 2001.
+
+11.1
+Statement Regarding Computation of Per Share Earnings.
+
+21
+Subsidiaries of Registrant.
+
+23.1
+Consent of Deloitte & Touche LLP.
+
+31.1
+Certification of CEO Pursuant to Rule 13a-14(a) of the Exchange Act, as
+adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+31.2
+Certification of CFO Pursuant to Rule 13a-14(a) of the Exchange Act, as
+adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+32.1
+Certification of CEO Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant
+to Section 906 of the Sarbanes-Oxley Act of 2002
+
+32.2
+Certification of CFO Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant
+to Section 906 of the Sarbanes-Oxley Act of 2002
+
+
+* These items represent a management contract or compensatory plan.
+
+<PAGE> 68
+
+          FINANCIAL STATEMENT SCHEDULES
+
+          SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+     All other schedules have been omitted because they are not required, not
+applicable, or the information is otherwise set forth in the financial
+statements or notes thereto.
+
+
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Board of Directors and
+  Shareholders of Mity Enterprises, Inc.:
+
+We have audited the consolidated financial statements of MITY Enterprises,
+Inc. and subsidiaries (the "Company") as of March 31, 2006 and 2005, and for
+each of the three years in the period ended March 31, 2006, and have issued
+our report thereon dated May 19, 2006; such report is included elsewhere in
+this Annual Report on Form 10-K.  Our audits also included the consolidated
+financial statement schedule of the Company listed in Item 15.  This
+consolidated financial statement schedule is the responsibility of the
+Company's management.  Our responsibility is to express an opinion based on
+our audits.  In our opinion, such consolidated financial statement schedule,
+when considered in relation to the basic consolidated financial statements
+taken as a whole, present fairly in all material respects the information set
+forth therein.
+
+Salt Lake City, Utah
+May 19, 2006
+
+
+<PAGE> 69
+
+               MITY ENTERPRISES, INC. AND SUBSIDIARIES
+           SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+          FOR THE YEARS ENDED MARCH 31, 2006, 2005 AND 2004
+
+                                Additions/
+                                (Reductions)
+                                Charged
+                    Balance     or Credited
+                    at          to Costs    Deductions Balance
+                    Beginning   and         from       at End
+                    of Period   Expenses    Reserves   of Period
+                    ----------  ---------   --------   ---------
+ACCOUNTS RECEIVABLE ALLOWANCE:
+
+Year ended:
+ March 31, 2006      $ 147,000  $  41,000  $  48,000  $ 140,000
+ March 31, 2005        168,000     24,000     45,000    147,000
+ March 31, 2004        140,000     91,000     63,000    168,000
+
+
+INVENTORY RESERVES:
+
+Year ended:
+ March 31, 2006      $ 372,000  $  25,000  $ 172,000  $ 225,000
+ March 31, 2005         31,000    341,000       -       372,000
+ March 31, 2004         28,000      3,000       -        31,000
+
+
+RESERVES ON NOTES RECEIVABLE
+
+Year Ended:
+ March 31, 2006      $  20,000  $ (20,000)      -          -
+ March 31, 2005        150,000   (140,000)  $ 10,000  $  20,000
+ March 31, 2004        180,000    (30,000)      -       150,000
+
+
+ACCRUED WARRANTY
+
+Year Ended:
+ March 31, 2006      $ 439,000  $ 900,000  $(869,000) $ 470,000
+ March 31, 2005        415,000    661,000   (637,000)   439,000
+ March 31, 2004        365,000    669,000   (619,000)   415,000
+
+
+<PAGE> 70
+
+                           SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Exchange Act,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+                                MITY ENTERPRISES, INC.
+
+                                By:/s/ Bradley T Nielson
+                                   ----------------------------------
+                                   Bradley T Nielson, President,
+                                   Chief Executive Officer
+                                Date: May 23, 2006
+
+
+
+     Pursuant to the requirements of the Exchange Act, this report has been
+signed below by the following persons on behalf of the registrant and in the
+capacities and on the dates indicated:
+
+ SIGNATURE                    TITLE                    DATE
+ ---------                    -----                    ----
+
+/s/ Gregory L. Wilson    Chairman of the Board and  May 23, 2006
+----------------------   Director
+Gregory L. Wilson
+
+
+/s/ Bradley T Nielson    President and Chief        May 23, 2006
+----------------------   Executive Officer
+Bradley T Nielson        (Principal Executive Officer)
+
+
+/s/ Paul R. Killpack     Chief Financial Officer    May 23, 2006
+----------------------   (Principal Financial and
+Paul R. Killpack         Accounting Officer)
+
+
+/s/ Ralph E. Crump       Director                   May 23, 2006
+----------------------
+Ralph E. Crump
+
+
+/s/ Peter Najar          Director                   May 23, 2006
+----------------------
+Peter Najar
+
+
+/s/ C. Lewis Wilson      Director                   May 23, 2006
+----------------------
+C. Lewis Wilson
+
+
+/s/ Hal B. Heaton        Director                   May 23, 2006
+----------------------
+Hal B. Heaton
+
+</TEXT>
+</DOCUMENT>
+

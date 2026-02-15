@@ -1,6 +1,6 @@
 # Module 4 - KWIC Validation Report (v2)
 
-Generated: 2026-02-09 22:58:47
+Generated: 2026-02-15 15:53:12
 
 ## Inputs
 - tokens: `C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/tokens_objects.rds`
@@ -25,7 +25,7 @@ Generated: 2026-02-09 22:58:47
 - tone: improv*, strong*, declin*
 - negation: not, no, never
 
-## Total KWIC rows exported: 949
+## Total KWIC rows exported: 1019
 
 ### Rows by construct / pattern / group
 
@@ -34,33 +34,33 @@ Generated: 2026-02-09 22:58:47
 | forward | expect* | bottom | 50 |
 | forward | expect* | top | 50 |
 | forward | anticipat* | bottom | 17 |
-| forward | anticipat* | top | 37 |
-| forward | forecast* | bottom |  2 |
+| forward | anticipat* | top | 45 |
+| forward | forecast* | bottom |  4 |
 | forward | forecast* | top | 21 |
 | negation | not | bottom | 50 |
 | negation | not | top | 50 |
 | negation | no | bottom | 50 |
 | negation | no | top | 50 |
 | negation | never | top |  1 |
-| operational | capital_expenditure | bottom |  2 |
+| operational | capital_expenditure | bottom |  1 |
 | operational | capital_expenditure | top |  2 |
-| operational | gross_margin | bottom |  1 |
-| operational | gross_margin | top | 36 |
-| operational | operating_cash_flow | bottom |  1 |
+| operational | gross_margin | bottom | 26 |
+| operational | gross_margin | top | 38 |
+| operational | operating_cash_flow | bottom |  2 |
 | risk | risk | bottom | 50 |
 | risk | risk | top | 50 |
 | risk | risks | bottom | 50 |
 | risk | risks | top | 50 |
-| risk | uncertain* | bottom | 40 |
-| risk | uncertain* | top | 38 |
+| risk | uncertain* | bottom | 50 |
+| risk | uncertain* | top | 36 |
 | risk | adverse* | bottom | 50 |
 | risk | adverse* | top | 50 |
-| tone | improv* | bottom | 11 |
+| tone | improv* | bottom | 10 |
 | tone | improv* | top | 50 |
-| tone | strong* | bottom |  5 |
-| tone | strong* | top | 27 |
-| tone | declin* | bottom | 45 |
-| tone | declin* | top | 13 |
+| tone | strong* | bottom |  4 |
+| tone | strong* | top | 33 |
+| tone | declin* | bottom | 47 |
+| tone | declin* | top | 32 |
 
 ## Revision Notes (v2)
 - Fixed dplyr `all_of()` rename issue

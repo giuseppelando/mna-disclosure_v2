@@ -1,6 +1,13 @@
 # ==============================================================================
 # 05_nlp_parse_sections.R
-# SEC-API extraction of Item 7 (MD&A) and Item 1A (Risk Factors) for full dataset
+# SEC-API extraction of Item 7 (MD&A) and Item 1A (Risk Factors)
+#
+# CRITICAL: This script extracts text for UNIQUE filings only.
+#           Multiple deals may reference the same filing - we parse it once.
+#
+# INPUT:  data/interim/deals_filing_matched.rds (one row per deal)
+#         OR data/interim/filings_manifest_sec_api.rds (if exists)
+# OUTPUT: data/interim/parsed_sections.rds (one row per accession_number)
 # ==============================================================================
 
 library(tidyverse)
@@ -140,39 +147,55 @@ sec_api_get_item <- function(filing_url, item, token, endpoint, type = "text",
   list(ok = FALSE, status = last_status, body = last_body)
 }
 
-should_skip_cached <- function(status_vec) {
-  # status_vec is parse_status from cache for an accession; use first non-NA
-  s <- status_vec[which(!is.na(status_vec))[1]] %||% NA_character_
-  if (is.na(s)) return(FALSE)
-  if (s == "success") return(TRUE)
-  if (!RETRY_TOO_SHORT && s %in% c("too_short_mda", "too_short_risk")) return(TRUE)
-  if (!RETRY_TRANSIENT_FAILURES && (str_detect(s, "^sec_api_failed") || s == "error")) return(TRUE)
+should_skip_cached <- function(parse_status) {
+  if (is.na(parse_status)) return(FALSE)
+  if (parse_status == "success") return(TRUE)
+  if (!RETRY_TOO_SHORT && parse_status %in% c("too_short_mda", "too_short_risk")) return(TRUE)
+  if (!RETRY_TRANSIENT_FAILURES && (str_detect(parse_status, "^sec_api_failed") || parse_status == "error")) return(TRUE)
   FALSE
 }
 
 # ------------------------------------------------------------------------------
-# Load filings list (manifest if present; else build from deals_filing_matched)
+# Load filings list - DEDUPLICATED BY ACCESSION_NUMBER
 # ------------------------------------------------------------------------------
+log_message("\nLoading filings list...", log_file)
+
 if (file.exists(MANIFEST_PATH)) {
-  log_message(glue("Loading filings manifest: {MANIFEST_PATH}"), log_file)
+  log_message(glue("  → Loading manifest: {MANIFEST_PATH}"), log_file)
   filings_manifest <- readRDS(MANIFEST_PATH)
+  
+  # CRITICAL: Deduplicate by accession_number ONLY
+  # Different matched_cik values may point to same filing - we only parse once
   filings_to_extract <- filings_manifest %>%
     filter(!is.na(accession_number), nzchar(accession_number),
            !is.na(filing_url), nzchar(filing_url)) %>%
-    select(accession_number, filing_url, matched_cik, filing_date) %>%
-    distinct()
+    distinct(accession_number, .keep_all = TRUE) %>%
+    select(accession_number, filing_url, filing_date)
+  
 } else {
-  log_message("Manifest not found; building filings list from deals_filing_matched...", log_file)
+  log_message("  → Manifest not found; building from deals_filing_matched...", log_file)
   deals_filing_matched <- readRDS(PATHS$deals_filing_matched)
+  
+  # CRITICAL: Deduplicate by accession_number ONLY
   filings_to_extract <- deals_filing_matched %>%
     filter(match_status == "matched",
            !is.na(accession_number), nzchar(accession_number),
            !is.na(filing_url), nzchar(filing_url)) %>%
-    select(accession_number, filing_url, matched_cik, filing_date) %>%
-    distinct()
+    distinct(accession_number, .keep_all = TRUE) %>%
+    select(accession_number, filing_url, filing_date)
 }
 
-log_message(glue("  → Unique filings to extract: {nrow(filings_to_extract)}"), log_file)
+n_unique_filings <- nrow(filings_to_extract)
+log_message(glue("  → Unique filings to extract (by accession_number): {n_unique_filings}"), log_file)
+
+# Validation: ensure no duplicates
+n_unique_accessions <- n_distinct(filings_to_extract$accession_number)
+if (n_unique_accessions != n_unique_filings) {
+  log_message("  ✗ ERROR: Still have duplicate accession_numbers!", log_file, "ERROR")
+  stop("Deduplication failed in filings_to_extract")
+} else {
+  log_message("  ✓ Verified: one row per accession_number", log_file)
+}
 
 # ------------------------------------------------------------------------------
 # Load cache and determine which filings still need extraction
@@ -181,28 +204,37 @@ parsed_cache <- NULL
 filings_pending <- filings_to_extract
 
 if (file.exists(PATHS$parsed_sections)) {
-  log_message("Found parsed_sections cache; loading...", log_file)
+  log_message("\nFound parsed_sections cache; loading...", log_file)
   parsed_cache <- readRDS(PATHS$parsed_sections)
+  
+  # Deduplicate cache by accession_number (in case of legacy duplicates)
+  n_cache_before <- nrow(parsed_cache)
+  parsed_cache <- parsed_cache %>%
+    group_by(accession_number) %>%
+    arrange(desc(extracted_at)) %>%
+    slice(1) %>%
+    ungroup()
+  n_cache_after <- nrow(parsed_cache)
+  
+  if (n_cache_before != n_cache_after) {
+    log_message(glue("  → Deduplicated cache: {n_cache_before} → {n_cache_after} rows"), log_file)
+  }
   
   # Map accession -> parse_status; skip per policy
   cache_status <- parsed_cache %>%
-    select(accession_number, parse_status) %>%
-    group_by(accession_number) %>%
-    summarise(parse_status = dplyr::first(parse_status), .groups = "drop")
+    select(accession_number, parse_status)
   
   filings_pending <- filings_to_extract %>%
     left_join(cache_status, by = "accession_number") %>%
-    rowwise() %>%
-    mutate(skip_cached = should_skip_cached(parse_status)) %>%
-    ungroup() %>%
+    mutate(skip_cached = sapply(parse_status, should_skip_cached)) %>%
     filter(!skip_cached) %>%
-    select(accession_number, filing_url, matched_cik, filing_date)
+    select(accession_number, filing_url, filing_date)
   
-  log_message(glue("  → Cached rows: {nrow(parsed_cache)}"), log_file)
-  log_message(glue("  → Filings skipped due to cache: {nrow(filings_to_extract) - nrow(filings_pending)}"), log_file)
+  log_message(glue("  → Cached filings: {n_cache_after}"), log_file)
+  log_message(glue("  → Filings skipped (already parsed): {n_unique_filings - nrow(filings_pending)}"), log_file)
   log_message(glue("  → Filings pending extraction: {nrow(filings_pending)}"), log_file)
 } else {
-  log_message("No parsed_sections cache found; extracting all filings.", log_file)
+  log_message("\nNo parsed_sections cache found; extracting all filings.", log_file)
 }
 
 # ------------------------------------------------------------------------------
@@ -211,7 +243,7 @@ if (file.exists(PATHS$parsed_sections)) {
 rate_limiter <- make_rate_limiter_safe(SEC_API$rate_limit_per_second)
 
 if (nrow(filings_pending) > 0) {
-  log_message(glue("Extracting sections for {nrow(filings_pending)} filings via SEC-API..."), log_file)
+  log_message(glue("\nExtracting sections for {nrow(filings_pending)} filings via SEC-API..."), log_file)
   
   progress <- create_progress_safe(nrow(filings_pending), "SEC-API Extractor")
   parsed_results <- vector("list", nrow(filings_pending))
@@ -221,6 +253,7 @@ if (nrow(filings_pending) > 0) {
   for (i in seq_len(nrow(filings_pending))) {
     accession <- filings_pending$accession_number[i]
     f_url <- filings_pending$filing_url[i]
+    f_date <- filings_pending$filing_date[i]
     
     res <- tryCatch({
       r7 <- sec_api_get_item(
@@ -255,6 +288,7 @@ if (nrow(filings_pending) > 0) {
       tibble(
         accession_number = accession,
         filing_url = f_url,
+        filing_date = f_date,
         source = "sec_api_extractor",
         extracted_at = Sys.time(),
         
@@ -274,6 +308,7 @@ if (nrow(filings_pending) > 0) {
       tibble(
         accession_number = accession,
         filing_url = f_url,
+        filing_date = f_date,
         source = "sec_api_extractor",
         extracted_at = Sys.time(),
         mda_text = NA_character_,
@@ -294,7 +329,8 @@ if (nrow(filings_pending) > 0) {
     if (i %% checkpoint_every == 0) {
       temp_new <- bind_rows(parsed_results[1:i])
       if (!is.null(parsed_cache)) {
-        temp_all <- bind_rows(parsed_cache, temp_new)
+        temp_all <- bind_rows(parsed_cache, temp_new) %>%
+          distinct(accession_number, .keep_all = TRUE)
       } else {
         temp_all <- temp_new
       }
@@ -307,34 +343,48 @@ if (nrow(filings_pending) > 0) {
   
   new_parsed <- bind_rows(parsed_results)
   
+  # Combine with cache, keeping latest extraction for each accession
   if (!is.null(parsed_cache)) {
     all_parsed <- bind_rows(parsed_cache, new_parsed) %>%
-      arrange(accession_number, extracted_at) %>%
       group_by(accession_number) %>%
-      summarise(
-        # keep the latest attempt
-        filing_url = dplyr::last(filing_url),
-        source = dplyr::last(source),
-        extracted_at = dplyr::last(extracted_at),
-        mda_text = dplyr::last(mda_text),
-        risk_factors_text = dplyr::last(risk_factors_text),
-        mda_word_count = dplyr::last(mda_word_count),
-        risk_word_count = dplyr::last(risk_word_count),
-        parse_status = dplyr::last(parse_status),
-        api_http_7 = dplyr::last(api_http_7),
-        api_http_1A = dplyr::last(api_http_1A),
-        api_error_7 = dplyr::last(api_error_7),
-        api_error_1A = dplyr::last(api_error_1A),
-        .groups = "drop"
-      )
+      arrange(desc(extracted_at)) %>%
+      slice(1) %>%
+      ungroup()
   } else {
     all_parsed <- new_parsed
   }
   
 } else {
-  log_message("No filings pending extraction; using cached parsed_sections.", log_file)
+  log_message("\nNo filings pending extraction; using cached parsed_sections.", log_file)
   all_parsed <- parsed_cache
 }
+
+# ------------------------------------------------------------------------------
+# Final validation: ensure no duplicates in output
+# ------------------------------------------------------------------------------
+log_message("\nValidating output...", log_file)
+
+n_output_rows <- nrow(all_parsed)
+n_output_unique <- n_distinct(all_parsed$accession_number)
+
+if (n_output_rows != n_output_unique) {
+  log_message(glue("  ⚠ Found duplicates: {n_output_rows} rows, {n_output_unique} unique"), log_file, "WARNING")
+  log_message("  → Deduplicating...", log_file)
+  
+  all_parsed <- all_parsed %>%
+    group_by(accession_number) %>%
+    arrange(desc(extracted_at)) %>%
+    slice(1) %>%
+    ungroup()
+  
+  log_message(glue("  → After deduplication: {nrow(all_parsed)} rows"), log_file)
+}
+
+# Final check
+stopifnot("Output still has duplicates!" = 
+            n_distinct(all_parsed$accession_number) == nrow(all_parsed))
+
+log_message(glue("  ✓ Output verified: {nrow(all_parsed)} unique filings"), log_file)
 
 # ------------------------------------------------------------------------------
 # Statistics + QA summaries
@@ -381,4 +431,5 @@ log_message(glue("  → Sample saved: {sample_path}"), log_file)
 
 log_section("STEP 5 COMPLETE", log_file)
 log_message(glue("Output: {PATHS$parsed_sections}"), log_file)
+log_message(glue("Unique filings parsed: {nrow(all_parsed)}"), log_file)
 log_message("Next step: Run 06_merge_final_dataset.R", log_file)

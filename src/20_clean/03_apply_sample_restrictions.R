@@ -1,24 +1,58 @@
 # =============================================================================
-# src/20_clean/apply_sample_restrictions_v2.R
+# src/20_clean/03_apply_sample_restrictions.R
 # =============================================================================
-# COMPREHENSIVE SAMPLE RESTRICTIONS FOR M&A RESEARCH
+# SAMPLE RESTRICTIONS FOR M&A RESEARCH - BLUEPRINT ALIGNED
 #
-# Aligned with research design principles:
-# - Conditional on announcement (no entry margin)
-# - Terminal outcomes only (completed/withdrawn)
-# - Control transfer focus (acquisition context)
-# - US public targets (standardized disclosure)
-# - Clean premium data where available
+# DESIGN LOGIC:
+# -------------
+# The research has TWO distinct analyses:
+#   1. PREMIUM ANALYSIS: requires SDC pre-calculated premium (1-week window)
+#   2. COMPLETION ANALYSIS: requires only terminal outcome (completed/withdrawn)
 #
-# Input:  data/interim/deals_with_premium.rds (or deals_ingested.rds)
+# PREMIUM DATA DECISION:
+# ----------------------
+# Analysis showed that SDC pre-calculated premium and manually calculated
+# premium (offer_price / target_price - 1) match within ±0.1% for 99.9% of
+# deals. Therefore, we use SDC pre-calculated premium for:
+#   - Methodological consistency (SDC's documented approach)
+#   - Comparability with literature
+#   - Avoidance of edge cases (stock splits, data entry errors)
+#
+# Premium availability is a DATA QUALITY FLAG, not a sample restriction.
+# All deals meeting base criteria enter the sample; has_premium flags
+# eligibility for premium analysis.
+#
+# Input:  data/interim/deals_ingested.rds
 # Output: data/processed/deals_restricted.rds
+#         data/processed/deals_restricted.xlsx
 # =============================================================================
 
 suppressPackageStartupMessages({
   library(dplyr)
   library(stringr)
   library(glue)
+  library(openxlsx)
 })
+
+# =============================================================================
+# CONFIGURATION
+# =============================================================================
+
+config <- list(
+  # Period bounds (Item 1A mandatory from Dec 2005 → 2006 filings onward)
+  year_min = 2006,
+  year_max = 2023,
+  
+  # Control transfer: no arbitrary threshold per blueprint
+  minority_stake_threshold = NA,
+  
+  # Deal value: no minimum threshold per blueprint section 2.4
+  min_deal_value = NA,
+  
+  # Premium window: 1-week is standard in M&A literature
+  # (Alternatives: 1-day, 4-weeks - available for robustness)
+  premium_window = "1_week"
+)
 
 # =============================================================================
 # SETUP LOGGING
@@ -38,7 +72,8 @@ log_msg <- function(msg, level = "INFO") {
 }
 
 log_msg(paste(rep("=", 70), collapse = ""))
-log_msg("SAMPLE RESTRICTION CASCADE - COMPREHENSIVE VERSION")
+log_msg("SAMPLE RESTRICTION CASCADE - BLUEPRINT ALIGNED")
+log_msg("Design: Base sample for COMPLETION + SDC premium flag for PREMIUM")
 log_msg(paste(rep("=", 70), collapse = ""))
 
 # =============================================================================
@@ -49,11 +84,7 @@ log_msg("")
 log_msg("STEP 1: Loading data...")
 log_msg(paste(rep("-", 70), collapse = ""))
 
-# Try to load premium version first, fall back to ingested
-if (file.exists("data/interim/deals_with_premium.rds")) {
-  df <- readRDS("data/interim/deals_with_premium.rds")
-  log_msg("Loaded: deals_with_premium.rds")
-} else if (file.exists("data/interim/deals_ingested.rds")) {
+if (file.exists("data/interim/deals_ingested.rds")) {
   df <- readRDS("data/interim/deals_ingested.rds")
   log_msg("Loaded: deals_ingested.rds")
 } else {
@@ -62,393 +93,415 @@ if (file.exists("data/interim/deals_with_premium.rds")) {
 
 n_start <- nrow(df)
 log_msg(glue("Starting sample: {n_start} deals"))
-
-# Show available columns for debugging
-log_msg(glue("Available columns: {ncol(df)}"))
-log_msg("Key columns present:", "DEBUG")
-key_cols <- c("deal_id", "target_name", "deal_status", "deal_completed", 
-              "target_nation", "percentage_of_cash", "percentage_of_stock",
-              "deal_premium")
-for (col in key_cols) {
-  present <- col %in% names(df)
-  log_msg(glue("  {col}: {if(present) '✓' else '✗'}"), "DEBUG")
-}
+log_msg(glue("Columns: {ncol(df)}"))
 
 # =============================================================================
-# STEP 2: IDENTIFY STAKE COLUMNS DYNAMICALLY
+# STEP 2: IDENTIFY AND STANDARDIZE KEY COLUMNS
 # =============================================================================
 
 log_msg("")
-log_msg("STEP 2: Identifying stake columns...")
+log_msg("STEP 2: Identifying key columns...")
 log_msg(paste(rep("-", 70), collapse = ""))
 
-# Find stake columns (various naming conventions)
-initial_stake_col <- names(df)[str_detect(names(df), "percent.*owned.*before|initial.*stake|percent.*before")][1]
-final_stake_col <- names(df)[str_detect(names(df), "percent.*acquired|final.*stake|percent.*after|percent.*of.*shares.*acquired")][1]
-
-if (!is.na(initial_stake_col)) {
-  log_msg(glue("Found initial stake: {initial_stake_col}"))
-} else {
-  log_msg("No initial stake column found", "WARN")
-}
+# --- Stake columns ---
+final_stake_col <- names(df)[str_detect(names(df), regex("percentage_of_shares_acquired_in_transaction|percent.*acquired|final.*stake", ignore_case = TRUE))][1]
 
 if (!is.na(final_stake_col)) {
   log_msg(glue("Found final stake: {final_stake_col}"))
-  
-  # Rename for consistency
-  df <- df %>%
-    rename(final_stake_pct = !!sym(final_stake_col))
-  
-  log_msg(glue("Summary of final_stake_pct:"))
-  log_msg(glue("  Min: {round(min(df$final_stake_pct, na.rm=TRUE), 1)}%"), "DEBUG")
-  log_msg(glue("  Median: {round(median(df$final_stake_pct, na.rm=TRUE), 1)}%"), "DEBUG")
-  log_msg(glue("  Max: {round(max(df$final_stake_pct, na.rm=TRUE), 1)}%"), "DEBUG")
-  log_msg(glue("  Missing: {sum(is.na(df$final_stake_pct))} ({round(100*sum(is.na(df$final_stake_pct))/n_start,1)}%)"), "DEBUG")
+  if (final_stake_col != "final_stake_pct") {
+    df <- df %>% rename(final_stake_pct = !!sym(final_stake_col))
+  }
 } else {
-  log_msg("WARNING: No final stake column found - cannot apply control transfer filter", "WARN")
+  log_msg("No final stake column found", "WARN")
+  df$final_stake_pct <- NA_real_
 }
 
+# --- Deal value ---
+deal_value_col <- names(df)[str_detect(names(df), regex("deal_value_usd_millions|deal.*value.*usd.*million", ignore_case = TRUE))][1]
+if (!is.na(deal_value_col) && deal_value_col != "deal_value_usd_millions") {
+  df <- df %>% rename(deal_value_usd_millions = !!sym(deal_value_col))
+  log_msg(glue("Renamed {deal_value_col} → deal_value_usd_millions"))
+}
+
+# --- Year announced ---
+if ("date_announced" %in% names(df) && !("year_announced" %in% names(df))) {
+  df <- df %>%
+    mutate(year_announced = as.integer(format(date_announced, "%Y")))
+  log_msg("Created year_announced from date_announced")
+}
+
+# --- SDC Premium columns ---
+premium_col_map <- list(
+  "1_day" = "premium_paid_1_day_prior_to_announcement",
+  "1_week" = "premium_paid_1_week_prior_to_announcement",
+  "4_weeks" = "premium_paid_4_weeks_prior_to_announcement"
+)
+
+# Check which premium columns exist
+premium_cols_present <- list()
+for (window in names(premium_col_map)) {
+  col <- premium_col_map[[window]]
+  if (col %in% names(df)) {
+    premium_cols_present[[window]] <- col
+    n_avail <- sum(!is.na(df[[col]]))
+    log_msg(glue("SDC premium ({window}): {n_avail} deals ({round(100*n_avail/nrow(df),1)}%)"))
+  }
+}
+
+# Primary premium column (configurable)
+primary_premium_col <- premium_col_map[[config$premium_window]]
+if (!primary_premium_col %in% names(df)) {
+  stop(glue("Primary premium column not found: {primary_premium_col}"))
+}
+log_msg(glue("Primary premium window: {config$premium_window} → {primary_premium_col}"))
+
 # =============================================================================
-# STEP 3: RESTRICTION CASCADE (RESEARCH DESIGN ALIGNED)
+# STEP 3: RESTRICTION CASCADE (BASE SAMPLE)
 # =============================================================================
 
 log_msg("")
-log_msg("STEP 3: Applying restriction cascade...")
+log_msg("STEP 3: Applying restriction cascade (BASE SAMPLE)...")
+log_msg("Note: Premium is a DATA QUALITY FLAG, not a restriction")
 log_msg(paste(rep("-", 70), collapse = ""))
 
-# Track sample at each step
 cascade <- data.frame(
   step = character(),
+  rule = character(),
   description = character(),
+  n_before = integer(),
+  n_after = integer(),
   n_removed = integer(),
-  n_remaining = integer(),
-  pct_remaining = numeric(),
+  pct_of_initial = numeric(),
   stringsAsFactors = FALSE
 )
 
-add_cascade_step <- function(step_name, step_desc, n_before, n_after) {
+add_step <- function(step_num, rule_ref, desc, n_b, n_a) {
   cascade <<- rbind(cascade, data.frame(
-    step = step_name,
-    description = step_desc,
-    n_removed = n_before - n_after,
-    n_remaining = n_after,
-    pct_remaining = round(100 * n_after / n_start, 1),
+    step = as.character(step_num),
+    rule = rule_ref,
+    description = desc,
+    n_before = n_b,
+    n_after = n_a,
+    n_removed = n_b - n_a,
+    pct_of_initial = round(100 * n_a / n_start, 1),
     stringsAsFactors = FALSE
   ))
 }
 
-# Initial state
-add_cascade_step("0", "Initial sample", n_start, n_start)
 df_working <- df
+add_step(0, "-", "Initial sample", n_start, n_start)
 
 # --------------------------------------------------------------------------
-# RESTRICTION 1: Terminal outcomes only (completed or withdrawn)
+# FILTER 1: Terminal outcomes only (DL-03)
 # --------------------------------------------------------------------------
 log_msg("")
-log_msg("Restriction 1: Terminal outcomes only...")
+log_msg("FILTER 1: Terminal outcomes only (DL-03)...")
 
 n_before <- nrow(df_working)
 
 if ("deal_completed" %in% names(df_working)) {
-  df_working <- df_working %>%
-    filter(!is.na(deal_completed))
-  
-  log_msg(glue("  Using deal_completed indicator"))
+  df_working <- df_working %>% filter(!is.na(deal_completed))
 } else if ("deal_status" %in% names(df_working)) {
   df_working <- df_working %>%
-    filter(
-      str_to_lower(str_trim(deal_status)) %in% c("completed", "withdrawn")
-    )
-  
-  log_msg(glue("  Using deal_status classification"))
-} else {
-  log_msg("  WARNING: Cannot identify terminal outcomes - skipping", "WARN")
+    filter(str_to_lower(str_trim(deal_status)) %in% c("completed", "withdrawn"))
 }
 
 n_after <- nrow(df_working)
-add_cascade_step("1", "Non-terminal outcomes", n_before, n_after)
-log_msg(glue("  Removed: {n_before - n_after} ({round(100*(n_before-n_after)/n_before,1)}%)"))
-log_msg(glue("  Remaining: {n_after}"))
+add_step(1, "DL-03", "Terminal outcomes only", n_before, n_after)
+log_msg(glue("  Removed: {n_before - n_after}  |  Remaining: {n_after}"))
 
 # --------------------------------------------------------------------------
-# RESTRICTION 2: Control transfer (stake ≥ 50%)
+# FILTER 2: Control transfer screen (DL-09)
 # --------------------------------------------------------------------------
 log_msg("")
-log_msg("Restriction 2: Control transfer (stake ≥ 50%)...")
+log_msg("FILTER 2: Control transfer screen (DL-09)...")
 
 n_before <- nrow(df_working)
 
-if ("final_stake_pct" %in% names(df_working)) {
-  # First, remove deals with missing stake
-  n_missing_stake <- sum(is.na(df_working$final_stake_pct))
-  
+if (!is.na(config$minority_stake_threshold)) {
   df_working <- df_working %>%
-    filter(
-      !is.na(final_stake_pct),  # Must have stake data
-      final_stake_pct >= 50      # Must be control transfer
-    )
-  
-  log_msg(glue("  Removed missing stake: {n_missing_stake}"))
-  log_msg(glue("  Removed non-control (<50%): {n_before - nrow(df_working) - n_missing_stake}"))
-} else {
-  log_msg("  WARNING: Cannot apply stake filter - skipping", "WARN")
+    filter(is.na(final_stake_pct) | final_stake_pct >= config$minority_stake_threshold)
 }
 
 n_after <- nrow(df_working)
-add_cascade_step("2", "Non-control transactions + missing stake", n_before, n_after)
-log_msg(glue("  Removed: {n_before - n_after} ({round(100*(n_before-n_after)/n_before,1)}%)"))
-log_msg(glue("  Remaining: {n_after}"))
+add_step(2, "DL-09", "Control transfer screen", n_before, n_after)
+log_msg(glue("  Removed: {n_before - n_after}  |  Remaining: {n_after}"))
 
 # --------------------------------------------------------------------------
-# RESTRICTION 3: US public targets
+# FILTER 3: US public targets (DL-01)
 # --------------------------------------------------------------------------
 log_msg("")
-log_msg("Restriction 3: US public targets...")
+log_msg("FILTER 3: US public targets (DL-01)...")
 
 n_before <- nrow(df_working)
 
 if ("target_nation" %in% names(df_working)) {
   df_working <- df_working %>%
-    filter(
-      str_detect(str_to_upper(str_trim(target_nation)), "^US$|^USA$|UNITED STATES")
-    )
-  
-  log_msg(glue("  Filtered to US targets"))
-} else {
-  log_msg("  WARNING: No target_nation column - skipping", "WARN")
+    filter(str_detect(str_to_upper(str_trim(target_nation)), "^US$|^USA$|UNITED STATES"))
 }
 
 n_after <- nrow(df_working)
-add_cascade_step("3", "Non-US targets", n_before, n_after)
-log_msg(glue("  Removed: {n_before - n_after} ({round(100*(n_before-n_after)/n_before,1)}%)"))
-log_msg(glue("  Remaining: {n_after}"))
+add_step(3, "DL-01", "US public targets", n_before, n_after)
+log_msg(glue("  Removed: {n_before - n_after}  |  Remaining: {n_after}"))
 
 # --------------------------------------------------------------------------
-# RESTRICTION 4 (OPTIONAL): LBO exclusion
+# FILTER 4: Announcement date required (DL-04)
 # --------------------------------------------------------------------------
 log_msg("")
-log_msg("Restriction 4 (OPTIONAL): LBO exclusion...")
+log_msg("FILTER 4: Announcement date required (DL-04)...")
 
 n_before <- nrow(df_working)
 
-# Look for LBO indicators in deal type or acquisition technique
-lbo_cols <- names(df_working)[str_detect(names(df_working), "deal.*type|acquisition.*technique")]
+if ("date_announced" %in% names(df_working)) {
+  df_working <- df_working %>% filter(!is.na(date_announced))
+}
 
-if (length(lbo_cols) > 0) {
-  log_msg(glue("  Checking columns: {paste(lbo_cols, collapse=', ')}"))
-  
-  # Create LBO flag
+n_after <- nrow(df_working)
+add_step(4, "DL-04", "Announcement date required", n_before, n_after)
+log_msg(glue("  Removed: {n_before - n_after}  |  Remaining: {n_after}"))
+
+# --------------------------------------------------------------------------
+# FILTER 5: Payment method required (DL-10)
+# --------------------------------------------------------------------------
+log_msg("")
+log_msg("FILTER 5: Payment method required (DL-10)...")
+
+n_before <- nrow(df_working)
+
+if ("payment_method_clean" %in% names(df_working)) {
+  df_working <- df_working %>% filter(!is.na(payment_method_clean))
+} else if (all(c("percentage_of_cash", "percentage_of_stock") %in% names(df_working))) {
   df_working <- df_working %>%
-    mutate(
-      is_lbo = rowSums(across(
-        all_of(lbo_cols),
-        ~str_detect(str_to_lower(as.character(.x)), "lbo|leveraged.*buyout|management.*buyout|mbo")
-      ), na.rm = TRUE) > 0
-    )
-  
-  n_lbo <- sum(df_working$is_lbo, na.rm = TRUE)
-  log_msg(glue("  Found {n_lbo} LBOs ({round(100*n_lbo/n_before,1)}%)"))
-  
-  # Optionally exclude (commented out by default - uncomment if needed)
-  # df_working <- df_working %>% filter(!is_lbo)
-  # log_msg("  LBOs excluded")
-  
-  log_msg("  LBOs flagged but NOT excluded (adjust if needed)", "WARN")
-} else {
-  log_msg("  No LBO indicators found - skipping")
+    filter(!is.na(percentage_of_cash) | !is.na(percentage_of_stock))
 }
 
 n_after <- nrow(df_working)
-add_cascade_step("4", "LBOs (if excluded)", n_before, n_after)
-log_msg(glue("  Remaining: {n_after}"))
+add_step(5, "DL-10", "Payment method required", n_before, n_after)
+log_msg(glue("  Removed: {n_before - n_after}  |  Remaining: {n_after}"))
 
 # --------------------------------------------------------------------------
-# RESTRICTION 5: Missing critical identifiers
+# FILTER 6: Industry identifiers required (DL-11)
 # --------------------------------------------------------------------------
 log_msg("")
-log_msg("Restriction 5: Missing critical identifiers...")
+log_msg("FILTER 6: Industry identifiers required (DL-11)...")
 
 n_before <- nrow(df_working)
 
-df_working <- df_working %>%
-  filter(
-    !is.na(deal_id),
-    !is.na(target_name)
-  )
-
-# Check for ticker (important for CIK matching)
-if ("target_ticker" %in% names(df_working)) {
-  n_no_ticker <- sum(is.na(df_working$target_ticker))
-  log_msg(glue("  Deals without ticker: {n_no_ticker} ({round(100*n_no_ticker/n_before,1)}%)"), "WARN")
-  log_msg("  (Kept in sample - CIK matching will handle)")
+sic_cols <- names(df_working)[str_detect(names(df_working), regex("target.*sic|sic.*target", ignore_case = TRUE))]
+if (length(sic_cols) > 0) {
+  df_working <- df_working %>% filter(!is.na(.data[[sic_cols[1]]]))
+  log_msg(glue("  Using: {sic_cols[1]}"))
 }
 
 n_after <- nrow(df_working)
-add_cascade_step("5", "Missing deal_id or target_name", n_before, n_after)
-log_msg(glue("  Removed: {n_before - n_after}"))
-log_msg(glue("  Remaining: {n_after}"))
+add_step(6, "DL-11", "Industry identifiers required", n_before, n_after)
+log_msg(glue("  Removed: {n_before - n_after}  |  Remaining: {n_after}"))
+
+# --------------------------------------------------------------------------
+# FILTER 7: Period 2006-2023 (DL-18)
+# --------------------------------------------------------------------------
+log_msg("")
+log_msg(glue("FILTER 7: Period {config$year_min}-{config$year_max} (DL-18)..."))
+
+n_before <- nrow(df_working)
+
+if ("year_announced" %in% names(df_working)) {
+  df_working <- df_working %>%
+    filter(year_announced >= config$year_min, year_announced <= config$year_max)
+}
+
+n_after <- nrow(df_working)
+add_step(7, "DL-18", glue("Period {config$year_min}-{config$year_max}"), n_before, n_after)
+log_msg(glue("  Removed: {n_before - n_after}  |  Remaining: {n_after}"))
+
+# --------------------------------------------------------------------------
+# FILTER 8: Deal value available (Section 2.4 - no minimum)
+# --------------------------------------------------------------------------
+log_msg("")
+log_msg("FILTER 8: Deal value available (Section 2.4)...")
+
+n_before <- nrow(df_working)
+
+if ("deal_value_usd_millions" %in% names(df_working)) {
+  df_working <- df_working %>% filter(!is.na(deal_value_usd_millions))
+}
+
+n_after <- nrow(df_working)
+add_step(8, "2.4", "Deal value available", n_before, n_after)
+log_msg(glue("  Removed: {n_before - n_after}  |  Remaining: {n_after}"))
 
 # =============================================================================
-# STEP 4: DATA QUALITY FLAGS
+# STEP 4: CREATE ANALYSIS ELIGIBILITY FLAGS
 # =============================================================================
 
 log_msg("")
-log_msg("STEP 4: Creating data quality flags...")
+log_msg("STEP 4: Creating analysis eligibility flags...")
 log_msg(paste(rep("-", 70), collapse = ""))
 
-# Precompute column existence once (stable, avoids mutate scoping issues)
-has_col_deal_premium <- "deal_premium" %in% names(df_working)
-has_col_target_ticker <- "target_ticker" %in% names(df_working)
-has_col_target_cusip  <- "target_cusip" %in% names(df_working)
-has_col_payment_clean <- "payment_method_clean" %in% names(df_working)
-has_col_cash          <- "percentage_of_cash" %in% names(df_working)
-has_col_stock         <- "percentage_of_stock" %in% names(df_working)
-
-# Identify key columns once
-price_cols <- names(df_working)[str_detect(names(df_working), "price")]
-has_offer_price_col <- any(str_detect(price_cols, "paid|acquir"))
-has_target_price_col <- any(str_detect(price_cols, "target.*prior"))
-
-deal_value_cols <- names(df_working)[str_detect(names(df_working), "deal.*value|transaction.*value")]
-deal_value_col <- if (length(deal_value_cols) > 0) deal_value_cols[1] else NA_character_
-
-announce_date_cols <- names(df_working)[str_detect(names(df_working), "date.*announced")]
-announce_date_col <- if (length(announce_date_cols) > 0) announce_date_cols[1] else NA_character_
-
+# --- Premium flags (SDC pre-calculated) ---
 df_working <- df_working %>%
   mutate(
-    # Premium data availability (vectorised; safe if column absent)
-    has_premium = if (has_col_deal_premium) !is.na(deal_premium) else FALSE,
+    # Primary premium (1-week, standard in literature)
+    has_premium = !is.na(.data[[primary_premium_col]]),
+    premium_1w = .data[[primary_premium_col]],
     
-    # Price data components (dataset-level existence, repeated per row)
-    has_price_data = (has_offer_price_col & has_target_price_col),
+    # Alternative windows (for robustness)
+    has_premium_1d = if ("premium_paid_1_day_prior_to_announcement" %in% names(.)) 
+      !is.na(premium_paid_1_day_prior_to_announcement) else FALSE,
+    has_premium_4w = if ("premium_paid_4_weeks_prior_to_announcement" %in% names(.)) 
+      !is.na(premium_paid_4_weeks_prior_to_announcement) else FALSE,
     
-    # Identifier completeness
-    has_ticker = if (has_col_target_ticker) !is.na(target_ticker) else FALSE,
-    has_cusip  = if (has_col_target_cusip)  !is.na(target_cusip)  else FALSE,
+    # Completion (all base sample deals are eligible)
+    has_completion_outcome = TRUE,
     
-    # Deal characteristics completeness
-    has_deal_value = if (!is.na(deal_value_col)) !is.na(.data[[deal_value_col]]) else FALSE,
-    
-    has_payment_method =
-      if (has_col_payment_clean) {
-        !is.na(payment_method_clean)
-      } else if (has_col_cash && has_col_stock) {
-        !is.na(percentage_of_cash) | !is.na(percentage_of_stock)
-      } else {
-        FALSE
-      },
-    
-    # Dates completeness
-    has_announce_date = if (!is.na(announce_date_col)) !is.na(.data[[announce_date_col]]) else FALSE,
-    
-    # Overall quality score (0-1)
-    data_quality_score = (
-      as.numeric(has_premium) * 0.3 +
-        as.numeric(has_ticker) * 0.2 +
-        as.numeric(has_deal_value) * 0.2 +
-        as.numeric(has_payment_method) * 0.15 +
-        as.numeric(has_announce_date) * 0.15
-    )
+    # Identifiers (for CIK matching)
+    has_ticker = if ("target_ticker" %in% names(.)) !is.na(target_ticker) else FALSE,
+    has_cusip = if ("target_cusip" %in% names(.)) !is.na(target_cusip) else FALSE
   )
 
-# Quality summary
-quality_summary <- df_working %>%
+# Analysis eligibility summary
+eligibility <- df_working %>%
   summarise(
-    n = n(),
-    pct_premium = round(100 * sum(has_premium, na.rm=TRUE) / n(), 1),
-    pct_ticker = round(100 * sum(has_ticker, na.rm=TRUE) / n(), 1),
-    pct_deal_value = round(100 * sum(has_deal_value, na.rm=TRUE) / n(), 1),
-    pct_payment = round(100 * sum(has_payment_method, na.rm=TRUE) / n(), 1),
-    mean_quality = round(mean(data_quality_score, na.rm=TRUE), 2)
+    n_total = n(),
+    n_completion = sum(has_completion_outcome),
+    n_premium = sum(has_premium),
+    n_premium_1d = sum(has_premium_1d),
+    n_premium_4w = sum(has_premium_4w),
+    n_ticker = sum(has_ticker),
+    n_cusip = sum(has_cusip)
   )
 
-log_msg("Data quality summary:")
-log_msg(glue("  Premium data: {quality_summary$pct_premium}%"))
-log_msg(glue("  Ticker: {quality_summary$pct_ticker}%"))
-log_msg(glue("  Deal value: {quality_summary$pct_deal_value}%"))
-log_msg(glue("  Payment method: {quality_summary$pct_payment}%"))
-log_msg(glue("  Mean quality score: {quality_summary$mean_quality}"))
+log_msg("")
+log_msg("Analysis eligibility:")
+log_msg(glue("  COMPLETION analysis: {eligibility$n_completion} deals (100% of base sample)"))
+log_msg(glue("  PREMIUM analysis:    {eligibility$n_premium} deals ({round(100*eligibility$n_premium/eligibility$n_total,1)}%)"))
+log_msg(glue("    └─ 1-week window (primary)"))
+log_msg(glue("  Premium robustness windows:"))
+log_msg(glue("    └─ 1-day:   {eligibility$n_premium_1d} deals"))
+log_msg(glue("    └─ 4-weeks: {eligibility$n_premium_4w} deals"))
 
-# Prepare for CIK matching (add empty column)
-df_working <- df_working %>%
-  mutate(target_cik = NA_character_)
+# =============================================================================
+# STEP 5: PREPARE FOR CIK MATCHING
+# =============================================================================
+
+log_msg("")
+log_msg("STEP 5: Preparing for CIK matching...")
+log_msg(paste(rep("-", 70), collapse = ""))
 
 if (!("target_cik" %in% names(df_working))) {
   df_working <- df_working %>% mutate(target_cik = NA_character_)
+  log_msg("Added target_cik column (empty)")
 }
 
-log_msg("Added target_cik column for CIK matching")
+df_working <- df_working %>% arrange(target_name)
+log_msg("Sorted by target_name")
+
+log_msg(glue("  Ticker available: {round(100*eligibility$n_ticker/eligibility$n_total,1)}%"))
+log_msg(glue("  CUSIP available:  {round(100*eligibility$n_cusip/eligibility$n_total,1)}%"))
 
 # =============================================================================
-# STEP 5: SAVE OUTPUTS
+# STEP 6: SAVE OUTPUTS
 # =============================================================================
 
 log_msg("")
-log_msg("STEP 5: Saving outputs...")
+log_msg("STEP 6: Saving outputs...")
 log_msg(paste(rep("-", 70), collapse = ""))
 
-# Save restricted sample
-output_path <- "data/processed/deals_restricted.rds"
-saveRDS(df_working, output_path)
-log_msg(glue("Saved: {output_path}"))
+output_rds <- "data/processed/deals_restricted.rds"
+saveRDS(df_working, output_rds)
+log_msg(glue("✓ Saved: {output_rds}"))
+log_msg(glue("  Rows: {nrow(df_working)}  |  Columns: {ncol(df_working)}"))
 
-# Save cascade report
-cascade_path <- "data/interim/sample_cascade.csv"
-write.csv(cascade, cascade_path, row.names = FALSE)
-log_msg(glue("Saved: {cascade_path}"))
+output_xlsx <- "data/processed/deals_restricted.xlsx"
+write.xlsx(df_working, output_xlsx, overwrite = TRUE)
+log_msg(glue("✓ Saved: {output_xlsx}"))
+
+cascade_csv <- "data/interim/sample_cascade_blueprint.csv"
+write.csv(cascade, cascade_csv, row.names = FALSE)
+log_msg(glue("✓ Saved: {cascade_csv}"))
 
 # =============================================================================
-# STEP 6: SUMMARY REPORT
+# STEP 7: FINAL SUMMARY
 # =============================================================================
 
 log_msg("")
 log_msg(paste(rep("=", 70), collapse = ""))
-log_msg("RESTRICTION CASCADE COMPLETE")
+log_msg("SAMPLE RESTRICTION CASCADE COMPLETE")
 log_msg(paste(rep("=", 70), collapse = ""))
 
 log_msg("")
-log_msg("Sample reduction:")
+log_msg("Cascade summary:")
 for (i in 2:nrow(cascade)) {
-  log_msg(glue("  Step {cascade$step[i]}: -{cascade$n_removed[i]} ({cascade$description[i]})"))
+  log_msg(glue("  [{cascade$rule[i]}] {cascade$description[i]}"))
+  log_msg(glue("       Removed: {cascade$n_removed[i]}  |  Retained: {cascade$pct_of_initial[i]}%"))
 }
 
 log_msg("")
-log_msg(glue("Final sample: {nrow(df_working)} deals ({round(100*nrow(df_working)/n_start,1)}% of initial)"))
+log_msg(glue("BASE SAMPLE: {nrow(df_working)} deals ({round(100*nrow(df_working)/n_start,1)}% retention)"))
+log_msg(glue("  → COMPLETION analysis: {eligibility$n_completion} deals"))
+log_msg(glue("  → PREMIUM analysis:    {eligibility$n_premium} deals (SDC 1-week)"))
 
+# Sample characteristics
 log_msg("")
-log_msg("Data quality indicators:")
-log_msg(glue("  Premium available: {sum(df_working$has_premium, na.rm=TRUE)} deals"))
-log_msg(glue("  Ticker available: {sum(df_working$has_ticker, na.rm=TRUE)} deals"))
-log_msg(glue("  Ready for CIK matching: {sum(df_working$has_ticker, na.rm=TRUE)} deals"))
+log_msg("Sample characteristics:")
+if ("deal_value_usd_millions" %in% names(df_working)) {
+  log_msg(glue("  Deal value - Median: ${round(median(df_working$deal_value_usd_millions, na.rm=T),1)}M"))
+}
+if ("year_announced" %in% names(df_working)) {
+  log_msg(glue("  Year range: {min(df_working$year_announced, na.rm=T)} - {max(df_working$year_announced, na.rm=T)}"))
+}
+if ("deal_completed" %in% names(df_working)) {
+  n_completed <- sum(df_working$deal_completed == TRUE, na.rm = TRUE)
+  n_withdrawn <- sum(df_working$deal_completed == FALSE, na.rm = TRUE)
+  log_msg(glue("  Completed: {n_completed} ({round(100*n_completed/nrow(df_working),1)}%)"))
+  log_msg(glue("  Withdrawn: {n_withdrawn} ({round(100*n_withdrawn/nrow(df_working),1)}%)"))
+}
+
+# Premium characteristics (for eligible deals only)
+df_premium <- df_working %>% filter(has_premium)
+if (nrow(df_premium) > 0) {
+  log_msg("")
+  log_msg("Premium characteristics (eligible deals only):")
+  log_msg(glue("  Premium - Median: {round(median(df_premium$premium_1w, na.rm=T),1)}%"))
+  log_msg(glue("  Premium - IQR: [{round(quantile(df_premium$premium_1w, 0.25, na.rm=T),1)}%, {round(quantile(df_premium$premium_1w, 0.75, na.rm=T),1)}%]"))
+}
 
 close(log_conn)
 
-# Console summary
+# =============================================================================
+# CONSOLE SUMMARY
+# =============================================================================
+
 cat("\n")
-cat("╔══════════════════════════════════════════════════════════════════╗\n")
-cat("║         SAMPLE RESTRICTION CASCADE - COMPLETE                    ║\n")
-cat("╠══════════════════════════════════════════════════════════════════╣\n")
-cat(sprintf("║ Initial sample:     %-44d ║\n", n_start))
-cat(sprintf("║ Final sample:       %-44d ║\n", nrow(df_working)))
-cat(sprintf("║ Retention rate:     %.1f%%%38s ║\n", 100*nrow(df_working)/n_start, ""))
-cat("╠══════════════════════════════════════════════════════════════════╣\n")
-cat("║ Restrictions applied:                                            ║\n")
+cat("╔═══════════════════════════════════════════════════════════════════════╗\n")
+cat("║        SAMPLE RESTRICTIONS - BLUEPRINT ALIGNED - COMPLETE            ║\n")
+cat("╠═══════════════════════════════════════════════════════════════════════╣\n")
+cat(sprintf("║ Initial sample:        %-47d ║\n", n_start))
+cat(sprintf("║ BASE SAMPLE:           %-47d ║\n", nrow(df_working)))
+cat(sprintf("║ Retention:             %.1f%%%46s ║\n", 100*nrow(df_working)/n_start, ""))
+cat("╠═══════════════════════════════════════════════════════════════════════╣\n")
+cat("║ Analysis eligibility:                                                 ║\n")
+cat(sprintf("║   COMPLETION analysis: %-5d deals (100%%)                          ║\n", 
+            eligibility$n_completion))
+cat(sprintf("║   PREMIUM analysis:    %-5d deals (%.1f%%) [SDC 1-week]             ║\n", 
+            eligibility$n_premium,
+            100*eligibility$n_premium/eligibility$n_total))
+cat("╠═══════════════════════════════════════════════════════════════════════╣\n")
+cat("║ Filters applied (BASE SAMPLE):                                        ║\n")
 for (i in 2:nrow(cascade)) {
-  if (cascade$n_removed[i] > 0) {
-    cat(sprintf("║   %d. %-42s -%5d ║\n", 
-                as.integer(cascade$step[i]),
-                substr(cascade$description[i], 1, 42),
-                cascade$n_removed[i]))
-  }
+  cat(sprintf("║ [%-5s] %-44s -%6d ║\n",
+              cascade$rule[i],
+              substr(cascade$description[i], 1, 44),
+              cascade$n_removed[i]))
 }
-cat("╠══════════════════════════════════════════════════════════════════╣\n")
-cat("║ Data quality:                                                    ║\n")
-cat(sprintf("║   Premium data:        %5.1f%%%33s ║\n", quality_summary$pct_premium, ""))
-cat(sprintf("║   Ticker (for CIK):    %5.1f%%%33s ║\n", quality_summary$pct_ticker, ""))
-cat(sprintf("║   Deal value:          %5.1f%%%33s ║\n", quality_summary$pct_deal_value, ""))
-cat("╠══════════════════════════════════════════════════════════════════╣\n")
-cat("║ Output: data/processed/deals_restricted.rds                      ║\n")
-cat("╚══════════════════════════════════════════════════════════════════╝\n")
+cat("╠═══════════════════════════════════════════════════════════════════════╣\n")
+cat("║ Premium methodology:                                                  ║\n")
+cat("║   • Using SDC pre-calculated premium (1-week window)                 ║\n")
+cat("║   • Consistent with literature; avoids edge cases                    ║\n")
+cat("║   • Alternative windows available for robustness                     ║\n")
+cat("╠═══════════════════════════════════════════════════════════════════════╣\n")
+cat("║ Outputs:                                                              ║\n")
+cat("║   • deals_restricted.rds   (base sample + eligibility flags)         ║\n")
+cat("║   • deals_restricted.xlsx  (for manual CIK matching)                 ║\n")
+cat("╚═══════════════════════════════════════════════════════════════════════╝\n")
 cat("\n")
-cat("✓ Next: source('src/15_historical_cik/resolve_historical_tickers_complete.R')\n\n")

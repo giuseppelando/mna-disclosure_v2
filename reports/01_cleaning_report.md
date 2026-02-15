@@ -1,9 +1,9 @@
 # TEXT CLEANING REPORT (v2)
-Generated: 2026-02-09 22:55:44.168698
+Generated: 2026-02-15 15:46:25.131081
 
 ## Input
 - File: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/processed/deals_with_10k_text_analysis.rds
-- Deals: 2391
+- Deals: 4186
 
 ## Cleaning Operations
 1. HTML/XBRL artifact removal
@@ -19,15 +19,15 @@ Generated: 2026-02-09 22:55:44.168698
 ## Word Count Statistics (Clean)
 ### MD&A:
 - Min: 119
-- Median: 10400
-- Mean: 11303.5
+- Median: 10836
+- Mean: 11862.5
 - Max: 72289
 
 ### Risk Factors:
-- Min: 221
-- Median: 7712
-- Mean: 9385.1
-- Max: 43269
+- Min: 99
+- Median: 8034.5
+- Mean: 9559.7
+- Max: 70258
 
 ## Financial Pattern Preservation
 Sample size: 100

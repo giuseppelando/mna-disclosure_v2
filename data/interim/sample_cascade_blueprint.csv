@@ -1,0 +1,10 @@
+"step","rule","description","n_before","n_after","n_removed","pct_of_initial"
+"0","-","Initial sample",9469,9469,0,100
+"1","DL-03","Terminal outcomes only",9469,8885,584,93.8
+"2","DL-09","Control transfer screen",8885,8885,0,93.8
+"3","DL-01","US public targets",8885,8885,0,93.8
+"4","DL-04","Announcement date required",8885,8885,0,93.8
+"5","DL-10","Payment method required",8885,7090,1795,74.9
+"6","DL-11","Industry identifiers required",7090,7090,0,74.9
+"7","DL-18","Period 2006-2023",7090,6694,396,70.7
+"8","2.4","Deal value available",6694,6694,0,70.7

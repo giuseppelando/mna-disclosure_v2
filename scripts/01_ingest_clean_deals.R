@@ -1,6 +1,13 @@
 # ==============================================================================
 # Step 1: Load and Clean Deals
 # Remove deals without CIK, prepare for matching
+# 
+# INPUT:  data/interim/deals_with_cik_matches.xlsx (from CIK matching process)
+# OUTPUT: data/interim/deals_clean.rds
+#
+# NOTE: Input may have multiple rows per deal (multiple CIK candidates).
+#       This script preserves all CIK candidates - deduplication happens in Step 3
+#       after we know which CIK actually has a valid filing.
 # ==============================================================================
 
 library(tidyverse)
@@ -17,8 +24,8 @@ if (dir.exists(file.path(current_dir, "config")) &&
 }
 
 # Load configuration
-source(file.path(PROJECT_ROOT,"config/pipeline_config.R"))
-source(file.path(PROJECT_ROOT,"src/99_utils/utils.R"))
+source(file.path(PROJECT_ROOT, "config/pipeline_config.R"))
+source(file.path(PROJECT_ROOT, "src/99_utils/utils.R"))
 
 # Initialize logging
 log_file <- init_logging(PATHS$log_dir, "01_ingest_clean_deals")
@@ -45,60 +52,95 @@ deals_clean <- deals_raw %>%
     date_announced = as.Date(date_announced)
   ) %>%
   # Remove deals without CIK
-  filter(!is.na(target_cik)) %>%
+  filter(!is.na(target_cik) & nzchar(target_cik)) %>%
   # Remove deals without announcement date
-  filter(!is.na(date_announced)) %>%
-  # Ensure each deal has a unique identifier
-  mutate(
-    deal_id = row_number()
-  )
+  filter(!is.na(date_announced))
 
 # Summary statistics
 n_original <- nrow(deals_raw)
-n_removed_no_cik <- sum(is.na(deals_raw$target_cik))
+n_removed_no_cik <- sum(is.na(deals_raw$target_cik) | !nzchar(as.character(deals_raw$target_cik)))
 n_removed_no_date <- sum(is.na(deals_raw$date_announced) & !is.na(deals_raw$target_cik))
 n_final <- nrow(deals_clean)
 
 log_message("\nSummary:", log_file)
-log_message(glue("  → Original deals: {n_original}"), log_file)
+log_message(glue("  → Original rows: {n_original}"), log_file)
 log_message(glue("  → Removed (no CIK): {n_removed_no_cik}"), log_file)
 log_message(glue("  → Removed (no announcement date): {n_removed_no_date}"), log_file)
-log_message(glue("  → Final clean deals: {n_final}"), log_file)
+log_message(glue("  → Final rows: {n_final}"), log_file)
 log_message(glue("  → Coverage: {round(100 * n_final / n_original, 1)}%"), log_file)
 
 # ==============================================================================
-# Analyze CIK structure
+# Analyze deal structure (important for understanding duplicates)
 # ==============================================================================
 
-log_message("\nAnalyzing CIK structure...", log_file)
+log_message("\nAnalyzing deal structure...", log_file)
 
-# Count deals with multiple CIKs
-# Note: Multiple CIKs appear as duplicate rows for the same deal (from matching process)
-cik_counts <- deals_clean %>%
-  group_by(target_name, date_announced) %>%
-  summarise(
-    n_ciks = n(),
-    ciks = paste(unique(target_cik), collapse = ", "),
-    .groups = "drop"
-  ) %>%
-  mutate(has_multiple_ciks = n_ciks > 1)
+# Identify the correct deal_id column (from SDC)
+# Look for existing deal identifier columns
+deal_id_candidates <- c("deal_id", "dealid", "deal_number", "sdc_deal_id", "transaction_id")
+existing_deal_id <- intersect(tolower(names(deals_clean)), deal_id_candidates)
 
-n_unique_deals <- nrow(cik_counts)
-n_single_cik <- sum(!cik_counts$has_multiple_ciks)
-n_multiple_cik <- sum(cik_counts$has_multiple_ciks)
-
-log_message(glue("  → Unique deals (target_name + announcement_date): {n_unique_deals}"), log_file)
-log_message(glue("  → Deals with single CIK: {n_single_cik} ({round(100 * n_single_cik / n_unique_deals, 1)}%)"), log_file)
-log_message(glue("  → Deals with multiple CIKs: {n_multiple_cik} ({round(100 * n_multiple_cik / n_unique_deals, 1)}%)"), log_file)
-
-if (n_multiple_cik > 0) {
-  max_ciks <- max(cik_counts$n_ciks)
-  avg_ciks <- mean(cik_counts$n_ciks[cik_counts$has_multiple_ciks])
-  log_message(glue("  → Average CIKs per multi-CIK deal: {round(avg_ciks, 2)}"), log_file)
-  log_message(glue("  → Maximum CIKs for a single deal: {max_ciks}"), log_file)
+if (length(existing_deal_id) > 0) {
+  # Use existing deal_id
+  deal_id_col <- names(deals_clean)[tolower(names(deals_clean)) == existing_deal_id[1]]
+  log_message(glue("  → Using existing deal identifier: {deal_id_col}"), log_file)
+} else {
+  # Create logical deal identifier based on target + date
+  log_message("  → No deal_id found, creating logical_deal_id from target_name + date_announced", log_file)
+  deal_id_col <- "logical_deal_id"
 }
 
-log_message(glue("  → Total rows in dataset: {n_final} (includes duplicates for multiple CIKs)"), log_file)
+# Create a canonical deal identifier for analysis
+deals_clean <- deals_clean %>%
+  mutate(
+    logical_deal_id = paste(target_name, as.character(date_announced), sep = "___")
+  )
+
+# Count unique deals vs rows
+n_unique_deals <- n_distinct(deals_clean$logical_deal_id)
+n_rows <- nrow(deals_clean)
+
+log_message(glue("  → Total rows (including CIK candidates): {n_rows}"), log_file)
+log_message(glue("  → Unique logical deals (target + date): {n_unique_deals}"), log_file)
+
+if (n_rows > n_unique_deals) {
+  n_multi_cik_deals <- deals_clean %>%
+    count(logical_deal_id) %>%
+    filter(n > 1) %>%
+    nrow()
+  
+  cik_distribution <- deals_clean %>%
+    count(logical_deal_id) %>%
+    count(n, name = "num_deals")
+  
+  log_message(glue("  → Deals with multiple CIK candidates: {n_multi_cik_deals}"), log_file)
+  log_message("  → CIK candidates per deal distribution:", log_file)
+  for (i in 1:nrow(cik_distribution)) {
+    log_message(glue("      {cik_distribution$n[i]} CIK(s): {cik_distribution$num_deals[i]} deals"), log_file)
+  }
+  
+  log_message("\n  ⚠ Multiple CIK candidates will be resolved in Step 3 (first valid CIK wins)", log_file)
+}
+
+# ==============================================================================
+# Remove pure duplicates (same deal + same CIK appearing multiple times)
+# ==============================================================================
+
+log_message("\nRemoving pure duplicates (same deal + same CIK)...", log_file)
+
+n_before_dedup <- nrow(deals_clean)
+
+deals_clean <- deals_clean %>%
+  distinct(logical_deal_id, target_cik, .keep_all = TRUE)
+
+n_after_dedup <- nrow(deals_clean)
+n_pure_dups_removed <- n_before_dedup - n_after_dedup
+
+if (n_pure_dups_removed > 0) {
+  log_message(glue("  → Removed {n_pure_dups_removed} pure duplicate rows"), log_file)
+} else {
+  log_message("  → No pure duplicates found", log_file)
+}
 
 # ==============================================================================
 # Date range analysis
@@ -132,21 +174,21 @@ safe_save(deals_clean, PATHS$deals_clean, log_file)
 log_message("\nFinal validation checks...", log_file)
 
 validation_results <- list(
-  total_deals = n_final,
-  all_have_cik = all(!is.na(deals_clean$target_cik)),
+  all_have_cik = all(!is.na(deals_clean$target_cik) & nzchar(deals_clean$target_cik)),
   all_have_date = all(!is.na(deals_clean$date_announced)),
-  unique_deal_ids = n_distinct(deals_clean$deal_id) == nrow(deals_clean),
+  all_have_logical_id = all(!is.na(deals_clean$logical_deal_id)),
   date_range_valid = date_range$min_date >= as.Date("1990-01-01") & 
-                     date_range$max_date <= Sys.Date()
+                     date_range$max_date <= Sys.Date(),
+  no_pure_duplicates = nrow(deals_clean) == nrow(distinct(deals_clean, logical_deal_id, target_cik))
 )
 
-all_checks_passed <- all(unlist(validation_results[2:5]))
+all_checks_passed <- all(unlist(validation_results))
 
 if (all_checks_passed) {
   log_message("  ✓ All validation checks passed", log_file)
 } else {
   log_message("  ✗ Some validation checks failed:", log_file, "ERROR")
-  for (check_name in names(validation_results)[2:5]) {
+  for (check_name in names(validation_results)) {
     status <- ifelse(validation_results[[check_name]], "✓", "✗")
     log_message(glue("    {status} {check_name}"), log_file)
   }
@@ -158,6 +200,6 @@ if (all_checks_passed) {
 
 log_section("STEP 1 COMPLETE", log_file)
 log_message(glue("Output: {PATHS$deals_clean}"), log_file)
-log_message(glue("Clean deals ready for EDGAR matching: {n_final}"), log_file)
+log_message(glue("Rows: {nrow(deals_clean)} (with CIK candidates)"), log_file)
+log_message(glue("Unique deals: {n_unique_deals}"), log_file)
 log_message("\nNext step: Run 02_ingest_build_edgar_index.R", log_file)
-

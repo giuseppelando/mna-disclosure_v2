@@ -152,3 +152,42 @@ create_rate_limiter <- function(calls_per_second = 10) {
     last_call_time <<- Sys.time()
   }
 }
+
+#' Clean and normalize CIK to 10-digit zero-padded format
+#'
+#' SEC CIKs should be 10-digit strings with leading zeros.
+#' This function handles various input formats:
+#' - Numeric: 1234567 -> "0001234567"
+#' - Character without padding: "1234567" -> "0001234567"
+#' - Already padded: "0001234567" -> "0001234567"
+#' - With spaces/special chars: cleaned first
+#'
+#' @param cik CIK value(s) - can be numeric or character, scalar or vector
+#' @return Character vector of 10-digit zero-padded CIKs
+#' @examples
+#' clean_cik(1234567)
+#' clean_cik("1234567")
+#' clean_cik(c("1234567", "0000001750", NA))
+clean_cik <- function(cik) {
+  if (is.null(cik) || length(cik) == 0) {
+    return(NA_character_)
+  }
+  
+  # Convert to character
+  cik <- as.character(cik)
+  
+  # Remove any whitespace and non-numeric characters
+  cik <- gsub("[^0-9]", "", cik)
+  
+  # Handle empty strings and NAs
+  cik[cik == "" | is.na(cik)] <- NA_character_
+  
+  # Zero-pad to 10 digits using %d format (not %s which pads with spaces)
+  cik <- ifelse(
+    is.na(cik),
+    NA_character_,
+    sprintf("%010d", as.numeric(cik))
+  )
+  
+  return(cik)
+}

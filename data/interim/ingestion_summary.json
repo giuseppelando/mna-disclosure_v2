@@ -1,6 +1,8 @@
 {
-  "date": "2026-01-30",
-  "input": "Deals_v3.xlsx",
-  "n_rows": 8239,
-  "n_cols": 58
+  "date": "2026-02-14",
+  "input": "GridExport_February_11_2026_22_10_55.xlsx",
+  "n_rows": 9469,
+  "n_cols": 62,
+  "n_completed": 7236,
+  "n_withdrawn": 1649
 }

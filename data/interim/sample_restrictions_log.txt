@@ -1,0 +1,108 @@
+[2026-02-14 20:05:50] [INFO] ======================================================================
+[2026-02-14 20:05:50] [INFO] SAMPLE RESTRICTION CASCADE - BLUEPRINT ALIGNED
+[2026-02-14 20:05:50] [INFO] Design: Base sample for COMPLETION + SDC premium flag for PREMIUM
+[2026-02-14 20:05:50] [INFO] ======================================================================
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] STEP 1: Loading data...
+[2026-02-14 20:05:50] [INFO] ----------------------------------------------------------------------
+[2026-02-14 20:05:50] [INFO] Loaded: deals_ingested.rds
+[2026-02-14 20:05:50] [INFO] Starting sample: 9469 deals
+[2026-02-14 20:05:50] [INFO] Columns: 62
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] STEP 2: Identifying key columns...
+[2026-02-14 20:05:50] [INFO] ----------------------------------------------------------------------
+[2026-02-14 20:05:50] [INFO] Found final stake: percentage_of_shares_acquired_in_transaction
+[2026-02-14 20:05:50] [INFO] SDC premium (1_day): 5295 deals (55.9%)
+[2026-02-14 20:05:50] [INFO] SDC premium (1_week): 5285 deals (55.8%)
+[2026-02-14 20:05:50] [INFO] SDC premium (4_weeks): 5291 deals (55.9%)
+[2026-02-14 20:05:50] [INFO] Primary premium window: 1_week → premium_paid_1_week_prior_to_announcement
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] STEP 3: Applying restriction cascade (BASE SAMPLE)...
+[2026-02-14 20:05:50] [INFO] Note: Premium is a DATA QUALITY FLAG, not a restriction
+[2026-02-14 20:05:50] [INFO] ----------------------------------------------------------------------
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] FILTER 1: Terminal outcomes only (DL-03)...
+[2026-02-14 20:05:50] [INFO]   Removed: 584  |  Remaining: 8885
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] FILTER 2: Control transfer screen (DL-09)...
+[2026-02-14 20:05:50] [INFO]   Removed: 0  |  Remaining: 8885
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] FILTER 3: US public targets (DL-01)...
+[2026-02-14 20:05:50] [INFO]   Removed: 0  |  Remaining: 8885
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] FILTER 4: Announcement date required (DL-04)...
+[2026-02-14 20:05:50] [INFO]   Removed: 0  |  Remaining: 8885
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] FILTER 5: Payment method required (DL-10)...
+[2026-02-14 20:05:50] [INFO]   Removed: 1795  |  Remaining: 7090
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] FILTER 6: Industry identifiers required (DL-11)...
+[2026-02-14 20:05:50] [INFO]   Using: target_primary_sic
+[2026-02-14 20:05:50] [INFO]   Removed: 0  |  Remaining: 7090
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] FILTER 7: Period 2006-2023 (DL-18)...
+[2026-02-14 20:05:50] [INFO]   Removed: 396  |  Remaining: 6694
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] FILTER 8: Deal value available (Section 2.4)...
+[2026-02-14 20:05:50] [INFO]   Removed: 0  |  Remaining: 6694
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] STEP 4: Creating analysis eligibility flags...
+[2026-02-14 20:05:50] [INFO] ----------------------------------------------------------------------
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] Analysis eligibility:
+[2026-02-14 20:05:50] [INFO]   COMPLETION analysis: 6694 deals (100% of base sample)
+[2026-02-14 20:05:50] [INFO]   PREMIUM analysis:    4520 deals (67.5%)
+[2026-02-14 20:05:50] [INFO]     └─ 1-week window (primary)
+[2026-02-14 20:05:50] [INFO]   Premium robustness windows:
+[2026-02-14 20:05:50] [INFO]     └─ 1-day:   4531 deals
+[2026-02-14 20:05:50] [INFO]     └─ 4-weeks: 4528 deals
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] STEP 5: Preparing for CIK matching...
+[2026-02-14 20:05:50] [INFO] ----------------------------------------------------------------------
+[2026-02-14 20:05:50] [INFO] Added target_cik column (empty)
+[2026-02-14 20:05:50] [INFO] Sorted by target_name
+[2026-02-14 20:05:50] [INFO]   Ticker available: 99.9%
+[2026-02-14 20:05:50] [INFO]   CUSIP available:  100%
+[2026-02-14 20:05:50] [INFO] 
+[2026-02-14 20:05:50] [INFO] STEP 6: Saving outputs...
+[2026-02-14 20:05:50] [INFO] ----------------------------------------------------------------------
+[2026-02-14 20:05:50] [INFO] ✓ Saved: data/processed/deals_restricted.rds
+[2026-02-14 20:05:50] [INFO]   Rows: 6694  |  Columns: 70
+[2026-02-14 20:05:51] [INFO] ✓ Saved: data/processed/deals_restricted.xlsx
+[2026-02-14 20:05:51] [INFO] ✓ Saved: data/interim/sample_cascade_blueprint.csv
+[2026-02-14 20:05:51] [INFO] 
+[2026-02-14 20:05:51] [INFO] ======================================================================
+[2026-02-14 20:05:51] [INFO] SAMPLE RESTRICTION CASCADE COMPLETE
+[2026-02-14 20:05:51] [INFO] ======================================================================
+[2026-02-14 20:05:51] [INFO] 
+[2026-02-14 20:05:51] [INFO] Cascade summary:
+[2026-02-14 20:05:51] [INFO]   [DL-03] Terminal outcomes only
+[2026-02-14 20:05:51] [INFO]        Removed: 584  |  Retained: 93.8%
+[2026-02-14 20:05:51] [INFO]   [DL-09] Control transfer screen
+[2026-02-14 20:05:51] [INFO]        Removed: 0  |  Retained: 93.8%
+[2026-02-14 20:05:51] [INFO]   [DL-01] US public targets
+[2026-02-14 20:05:51] [INFO]        Removed: 0  |  Retained: 93.8%
+[2026-02-14 20:05:51] [INFO]   [DL-04] Announcement date required
+[2026-02-14 20:05:51] [INFO]        Removed: 0  |  Retained: 93.8%
+[2026-02-14 20:05:51] [INFO]   [DL-10] Payment method required
+[2026-02-14 20:05:51] [INFO]        Removed: 1795  |  Retained: 74.9%
+[2026-02-14 20:05:51] [INFO]   [DL-11] Industry identifiers required
+[2026-02-14 20:05:51] [INFO]        Removed: 0  |  Retained: 74.9%
+[2026-02-14 20:05:51] [INFO]   [DL-18] Period 2006-2023
+[2026-02-14 20:05:51] [INFO]        Removed: 396  |  Retained: 70.7%
+[2026-02-14 20:05:51] [INFO]   [2.4] Deal value available
+[2026-02-14 20:05:51] [INFO]        Removed: 0  |  Retained: 70.7%
+[2026-02-14 20:05:51] [INFO] 
+[2026-02-14 20:05:51] [INFO] BASE SAMPLE: 6694 deals (70.7% retention)
+[2026-02-14 20:05:51] [INFO]   → COMPLETION analysis: 6694 deals
+[2026-02-14 20:05:51] [INFO]   → PREMIUM analysis:    4520 deals (SDC 1-week)
+[2026-02-14 20:05:51] [INFO] 
+[2026-02-14 20:05:51] [INFO] Sample characteristics:
+[2026-02-14 20:05:51] [INFO]   Deal value - Median: $323.2M
+[2026-02-14 20:05:51] [INFO]   Year range: 2006 - 2022
+[2026-02-14 20:05:51] [INFO]   Completed: 5259 (78.6%)
+[2026-02-14 20:05:51] [INFO]   Withdrawn: 1435 (21.4%)
+[2026-02-14 20:05:51] [INFO] 
+[2026-02-14 20:05:51] [INFO] Premium characteristics (eligible deals only):
+[2026-02-14 20:05:51] [INFO]   Premium - Median: 23.7%
+[2026-02-14 20:05:51] [INFO]   Premium - IQR: [7.9%, 42.4%]

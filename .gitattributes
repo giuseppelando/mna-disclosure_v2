@@ -1,0 +1,15 @@
+# Git LFS tracking for large data files
+# Required because GitHub has 100MB file size limit
+
+# Large RDS files (NLP outputs - take hours to regenerate)
+data/interim/parsed_sections.rds filter=lfs diff=lfs merge=lfs -text
+data/interim/cleaned_text.rds filter=lfs diff=lfs merge=lfs -text
+data/interim/tokens_objects.rds filter=lfs diff=lfs merge=lfs -text
+data/interim/dfm_objects.rds filter=lfs diff=lfs merge=lfs -text
+
+# Large processed datasets
+data/processed/deals_with_10k_text.rds filter=lfs diff=lfs merge=lfs -text
+data/processed/deals_with_10k_text_analysis.rds filter=lfs diff=lfs merge=lfs -text
+
+# Final analysis dataset
+data/final/analysis_dataset.rds filter=lfs diff=lfs merge=lfs -text

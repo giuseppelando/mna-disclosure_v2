@@ -1,15 +1,31 @@
 # ==============================================================================
 # Step 3: Match Deals to Filings
 # Apply timing rules and match each deal to the most recent eligible 10-K
-# First valid CIK wins
+# 
+# CRITICAL: This step implements "first valid CIK wins" deduplication.
+#           Input may have multiple rows per deal (CIK candidates).
+#           Output has exactly ONE row per logical deal.
+#
+# INPUT:  data/interim/deals_clean.rds (may have multiple CIK candidates per deal)
+#         data/interim/edgar_10k_index.rds
+# OUTPUT: data/interim/deals_filing_matched.rds (ONE row per deal)
 # ==============================================================================
 
 library(tidyverse)
 library(glue)
 
+# Detect project root
+current_dir <- getwd()
+if (dir.exists(file.path(current_dir, "config")) && 
+    dir.exists(file.path(current_dir, "src"))) {
+  PROJECT_ROOT <- current_dir
+} else {
+  PROJECT_ROOT <- dirname(current_dir)
+}
+
 # Load configuration and utilities
-source("C:/Users/giuse/Documents/GitHub/mna-disclosure/config/pipeline_config.R")
-source("C:/Users/giuse/Documents/GitHub/mna-disclosure/src/99_utils/utils.R")
+source(file.path(PROJECT_ROOT, "config/pipeline_config.R"))
+source(file.path(PROJECT_ROOT, "src/99_utils/utils.R"))
 
 # Initialize logging
 log_file <- init_logging(PATHS$log_dir, "03_merge_match_deals_to_filings")
@@ -23,115 +39,153 @@ log_message("Loading data...", log_file)
 deals_clean <- readRDS(PATHS$deals_clean)
 edgar_index <- readRDS(PATHS$edgar_index)
 
-log_message(glue("  → Deals: {nrow(deals_clean)}"), log_file)
+n_input_rows <- nrow(deals_clean)
+n_unique_deals <- n_distinct(deals_clean$logical_deal_id)
+
+log_message(glue("  → Input rows (with CIK candidates): {n_input_rows}"), log_file)
+log_message(glue("  → Unique logical deals: {n_unique_deals}"), log_file)
 log_message(glue("  → EDGAR filings: {nrow(edgar_index)}"), log_file)
 
 # ==============================================================================
-# Matching function
+# Matching function for a single deal-CIK combination
 # ==============================================================================
 
-#' Match a single deal to a 10-K filing
-#'
-#' @param deal_row Single row from deals_clean
-#' @param edgar_index EDGAR index data frame
-#' @param lag_min Minimum lag in days
-#' @return Named list with match results
-match_deal_to_filing <- function(deal_row, edgar_index, lag_min) {
-  date_announced <- deal_row$date_announced
-  target_cik <- deal_row$target_cik
+match_single_cik <- function(cik, date_announced, edgar_index, lag_min) {
+  # Clean CIK format
+  cik_clean <- clean_cik(cik)
   
-  # Split CIKs (handle multiple CIKs)
-  cik_list <- str_split(target_cik, ",\\s*")[[1]] %>%
-    str_trim() %>%
-    clean_cik()
+  # Filter filings for this CIK
+  cik_filings <- edgar_index %>%
+    filter(cik == cik_clean)
   
-  # Try each CIK in order until we find a valid filing
-  for (cik in cik_list) {
-    # Filter filings for this CIK
-    cik_filings <- edgar_index %>%
-      filter(cik == !!cik)
-    
-    if (nrow(cik_filings) == 0) {
-      next  # No filings for this CIK, try next
-    }
-    
-    # Apply timing filter
-    max_filing_date <- date_announced - lag_min
-    
-    eligible_filings <- cik_filings %>%
-      filter(filing_date <= max_filing_date) %>%
-      arrange(desc(filing_date))
-    
-    if (nrow(eligible_filings) > 0) {
-      # Found a valid filing - take the most recent
-      matched_filing <- eligible_filings[1, ]
-      
-      return(list(
-        matched_cik = cik,
-        filing_date = matched_filing$filing_date,
-        accession_number = matched_filing$accession_number,
-        filing_url = matched_filing$filing_url,
-        company_name = matched_filing$company_name,
-        days_lag = as.numeric(date_announced - matched_filing$filing_date),
-        match_status = "matched",
-        n_ciks_tried = which(cik_list == cik),
-        n_eligible_filings = nrow(eligible_filings)
-      ))
-    }
+  if (nrow(cik_filings) == 0) {
+    return(list(
+      matched = FALSE,
+      filing_date = as.Date(NA),
+      accession_number = NA_character_,
+      filing_url = NA_character_,
+      company_name = NA_character_,
+      days_lag = NA_real_,
+      n_eligible_filings = 0L
+    ))
   }
   
-  # No valid filing found for any CIK
-  return(list(
-    matched_cik = NA_character_,
-    filing_date = as.Date(NA),
-    accession_number = NA_character_,
-    filing_url = NA_character_,
-    company_name = NA_character_,
-    days_lag = NA_real_,
-    match_status = "no_valid_filing",
-    n_ciks_tried = length(cik_list),
-    n_eligible_filings = 0
-  ))
+  # Apply timing filter: filing must be at least lag_min days before announcement
+  max_filing_date <- date_announced - lag_min
+  
+  eligible_filings <- cik_filings %>%
+    filter(filing_date <= max_filing_date) %>%
+    arrange(desc(filing_date))
+  
+  if (nrow(eligible_filings) == 0) {
+    return(list(
+      matched = FALSE,
+      filing_date = as.Date(NA),
+      accession_number = NA_character_,
+      filing_url = NA_character_,
+      company_name = NA_character_,
+      days_lag = NA_real_,
+      n_eligible_filings = 0L
+    ))
+  }
+  
+  # Take the most recent eligible filing
+  best_filing <- eligible_filings[1, ]
+  
+  list(
+    matched = TRUE,
+    filing_date = best_filing$filing_date,
+    accession_number = best_filing$accession_number,
+    filing_url = best_filing$filing_url,
+    company_name = best_filing$company_name,
+    days_lag = as.numeric(date_announced - best_filing$filing_date),
+    n_eligible_filings = nrow(eligible_filings)
+  )
 }
 
 # ==============================================================================
-# Match all deals
+# Match all deal-CIK combinations
 # ==============================================================================
 
 log_message(glue("\nMatching deals to filings with lag_min = {TIMING$lag_min} days..."), log_file)
-log_message("This may take a few minutes.\n", log_file)
+log_message("Processing all CIK candidates for each deal...\n", log_file)
 
 # Create progress bar
-progress <- create_progress(nrow(deals_clean), "Matching deals")
+progress <- create_progress(n_input_rows, "Matching deals")
 
-# Match each deal
-matches <- vector("list", nrow(deals_clean))
+# Match each row (deal-CIK combination)
+match_results <- vector("list", n_input_rows)
 
-for (i in 1:nrow(deals_clean)) {
-  matches[[i]] <- match_deal_to_filing(
-    deals_clean[i, ],
-    edgar_index,
-    TIMING$lag_min
+for (i in 1:n_input_rows) {
+  row <- deals_clean[i, ]
+  
+  result <- match_single_cik(
+    cik = row$target_cik,
+    date_announced = row$date_announced,
+    edgar_index = edgar_index,
+    lag_min = TIMING$lag_min
   )
+  
+  match_results[[i]] <- tibble(
+    row_index = i,
+    matched_cik = if (result$matched) clean_cik(row$target_cik) else NA_character_,
+    filing_date = result$filing_date,
+    accession_number = result$accession_number,
+    filing_url = result$filing_url,
+    company_name = result$company_name,
+    days_lag = result$days_lag,
+    match_status = if (result$matched) "matched" else "no_valid_filing",
+    n_eligible_filings = result$n_eligible_filings
+  )
+  
   progress$update(i)
 }
 
 progress$close()
 
+# Combine results with original data
+matches_df <- bind_rows(match_results)
+deals_with_matches <- bind_cols(deals_clean, matches_df %>% select(-row_index))
+
+log_message("\nMatching complete. Now deduplicating to one row per deal...", log_file)
+
 # ==============================================================================
-# Combine results
+# CRITICAL: Deduplicate to ONE row per logical deal
+# Strategy: "First valid CIK wins"
+#   1. If any CIK candidate has a match, use that one
+#   2. If multiple CIKs have matches, use the one with shortest lag (most recent filing)
+#   3. If no CIK has a match, keep the first row (for tracking purposes)
 # ==============================================================================
 
-log_message("\nCombining results...", log_file)
+log_message("\nApplying 'first valid CIK wins' deduplication...", log_file)
 
-# Convert list to data frame
-matches_df <- bind_rows(matches)
+deals_filing_matched <- deals_with_matches %>%
+  group_by(logical_deal_id) %>%
+  arrange(
+    # Priority 1: matched status (matched first)
+    desc(match_status == "matched"),
+    # Priority 2: shortest lag (most recent filing) among matched
+    days_lag
+  ) %>%
+  slice(1) %>%  # Take the best row for each deal
+  ungroup()
 
-# Combine with original deals
-deals_filing_matched <- bind_cols(
-  deals_clean,
-  matches_df
-)
+# Verify deduplication
+n_output_rows <- nrow(deals_filing_matched)
+n_output_deals <- n_distinct(deals_filing_matched$logical_deal_id)
+
+if (n_output_rows != n_output_deals) {
+  log_message("  ✗ ERROR: Deduplication failed!", log_file, "ERROR")
+  stop("Deduplication failed: output rows != unique deals")
+}
+
+if (n_output_rows != n_unique_deals) {
+  log_message("  ✗ ERROR: Lost deals during deduplication!", log_file, "ERROR")
+  stop(glue("Lost deals: input had {n_unique_deals}, output has {n_output_rows}"))
+}
+
+log_message(glue("  ✓ Deduplication successful: {n_output_rows} rows (one per deal)"), log_file)
+log_message(glue("  → Removed {n_input_rows - n_output_rows} CIK candidate rows"), log_file)
 
 # ==============================================================================
 # Match statistics
@@ -160,18 +214,6 @@ if (nrow(matched_deals) > 0) {
   log_message(glue("  → Median lag: {median(matched_deals$days_lag)} days"), log_file)
   log_message(glue("  → Min lag: {min(matched_deals$days_lag)} days"), log_file)
   log_message(glue("  → Max lag: {max(matched_deals$days_lag)} days"), log_file)
-  
-  # How many CIKs were tried
-  cik_tries <- matched_deals %>%
-    count(n_ciks_tried) %>%
-    arrange(n_ciks_tried)
-  
-  log_message("\n  CIKs tried before match:", log_file)
-  for (i in 1:nrow(cik_tries)) {
-    n_tried <- cik_tries$n_ciks_tried[i]
-    count <- cik_tries$n[i]
-    log_message(glue("    → {n_tried} CIK(s): {count} deals"), log_file)
-  }
 }
 
 # ==============================================================================
@@ -180,29 +222,48 @@ if (nrow(matched_deals) > 0) {
 
 log_message("\nValidation checks:", log_file)
 
-# Check: all matched deals have lag >= lag_min
+validation_passed <- TRUE
+
+# Check 1: One row per deal
+check_one_row <- n_distinct(deals_filing_matched$logical_deal_id) == nrow(deals_filing_matched)
+if (check_one_row) {
+  log_message("  ✓ One row per logical deal", log_file)
+} else {
+  log_message("  ✗ Multiple rows per deal detected!", log_file, "ERROR")
+  validation_passed <- FALSE
+}
+
+# Check 2: All original deals preserved
+check_preserved <- n_distinct(deals_filing_matched$logical_deal_id) == n_unique_deals
+if (check_preserved) {
+  log_message(glue("  ✓ All {n_unique_deals} deals preserved"), log_file)
+} else {
+  log_message("  ✗ Some deals were lost!", log_file, "ERROR")
+  validation_passed <- FALSE
+}
+
+# Check 3: Lag constraint for matched deals
 if (nrow(matched_deals) > 0) {
-  min_lag_check <- all(matched_deals$days_lag >= TIMING$lag_min)
-  if (min_lag_check) {
+  check_lag <- all(matched_deals$days_lag >= TIMING$lag_min)
+  if (check_lag) {
     log_message(glue("  ✓ All matched deals have lag >= {TIMING$lag_min} days"), log_file)
   } else {
     log_message(glue("  ✗ Some matched deals have lag < {TIMING$lag_min} days"), log_file, "ERROR")
+    validation_passed <- FALSE
   }
   
-  # Check: filing dates are before announcement dates
-  date_order_check <- all(matched_deals$filing_date < matched_deals$date_announced)
-  if (date_order_check) {
+  # Check 4: Filing dates before announcement dates
+  check_dates <- all(matched_deals$filing_date < matched_deals$date_announced)
+  if (check_dates) {
     log_message("  ✓ All filing dates are before announcement dates", log_file)
   } else {
-    log_message("  ✗ Some filing dates are after announcement dates", log_file, "ERROR")
+    log_message("  ✗ Some filing dates are after announcement dates!", log_file, "ERROR")
+    validation_passed <- FALSE
   }
 }
 
-# Check: total deals preserved
-if (nrow(deals_filing_matched) == nrow(deals_clean)) {
-  log_message(glue("  ✓ All {nrow(deals_clean)} deals preserved"), log_file)
-} else {
-  log_message("  ✗ Deal count mismatch", log_file, "ERROR")
+if (!validation_passed) {
+  stop("Validation failed - check log for details")
 }
 
 # ==============================================================================
@@ -214,25 +275,32 @@ ensure_dir(dirname(PATHS$deals_filing_matched), log_file)
 safe_save(deals_filing_matched, PATHS$deals_filing_matched, log_file)
 
 # ==============================================================================
-# Prepare download list
+# Prepare filing list for next step
 # ==============================================================================
 
-log_message("\nPreparing download list...", log_file)
+log_message("\nPreparing unique filings list for extraction...", log_file)
 
-filings_to_download <- deals_filing_matched %>%
+# Get unique filings (multiple deals may reference same 10-K)
+unique_filings <- deals_filing_matched %>%
   filter(match_status == "matched") %>%
-  select(deal_id, matched_cik, accession_number, filing_url, filing_date) %>%
-  distinct()
+  distinct(accession_number, .keep_all = TRUE) %>%
+  select(accession_number, filing_url, filing_date, matched_cik)
 
-log_message(glue("  → Unique filings to download: {nrow(filings_to_download)}"), log_file)
+n_unique_filings <- nrow(unique_filings)
+n_matched_deals <- nrow(matched_deals)
 
-# Save download list
-download_list_path <- file.path(
-  dirname(PATHS$deals_filing_matched),
-  "filings_to_download.rds"
-)
-saveRDS(filings_to_download, download_list_path)
-log_message(glue("  → Saved download list: {download_list_path}"), log_file)
+log_message(glue("  → Matched deals: {n_matched_deals}"), log_file)
+log_message(glue("  → Unique filings to extract: {n_unique_filings}"), log_file)
+
+if (n_unique_filings < n_matched_deals) {
+  n_shared <- n_matched_deals - n_unique_filings
+  log_message(glue("  → Deals sharing a filing: {n_shared} (same company, multiple deals)"), log_file)
+}
+
+# Save unique filings list
+filings_path <- file.path(dirname(PATHS$deals_filing_matched), "filings_to_download.rds")
+saveRDS(unique_filings, filings_path)
+log_message(glue("  → Saved: {filings_path}"), log_file)
 
 # ==============================================================================
 # Summary
@@ -240,7 +308,7 @@ log_message(glue("  → Saved download list: {download_list_path}"), log_file)
 
 log_section("STEP 3 COMPLETE", log_file)
 log_message(glue("Output: {PATHS$deals_filing_matched}"), log_file)
-log_message(glue("Matched deals: {nrow(matched_deals)} / {nrow(deals_clean)} ({round(100 * nrow(matched_deals) / nrow(deals_clean), 1)}%)"), log_file)
-log_message(glue("Filings to download: {nrow(filings_to_download)}"), log_file)
+log_message(glue("Deals: {n_output_rows} (one row per deal)"), log_file)
+log_message(glue("Matched: {nrow(matched_deals)} ({round(100 * nrow(matched_deals) / n_output_rows, 1)}%)"), log_file)
+log_message(glue("Unique filings to extract: {n_unique_filings}"), log_file)
 log_message("\nNext step: Run 04_ingest_download_10k_filings.R", log_file)
-

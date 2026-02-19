@@ -1,0 +1,66 @@
+[2026-02-19 01:55:43] [INFO] ================================================================================
+[2026-02-19 01:55:43] [INFO] STEP 6: MERGE FINAL DATASET
+[2026-02-19 01:55:43] [INFO] ================================================================================
+[2026-02-19 01:55:43] [INFO] Lag filter enabled: max = 1095 days (3 years)
+[2026-02-19 01:55:43] [INFO] 
+Loading data...
+[2026-02-19 01:55:44] [INFO]   → deals_filing_matched: 5752 rows
+[2026-02-19 01:55:44] [INFO]   → parsed_sections: 4280 rows
+[2026-02-19 01:55:44] [INFO] 
+Validating inputs...
+[2026-02-19 01:55:44] [INFO]   ✓ deals_filing_matched: one row per deal (5752 deals)
+[2026-02-19 01:55:44] [INFO]   ✓ parsed_sections: one row per accession (4280 filings)
+[2026-02-19 01:55:44] [INFO] 
+Applying lag filter...
+[2026-02-19 01:55:44] [INFO]   → Found 32 deals with lag > 1095 days
+[2026-02-19 01:55:44] [INFO]   → Examples (top 5 by lag):
+[2026-02-19 01:55:44] [INFO]       Capital Bancorp Inc: 4431 days
+[2026-02-19 01:55:44] [INFO]       Southcrest Financial Group Inc: 4402 days
+[2026-02-19 01:55:44] [INFO]       Leslies Poolmart Inc: 4374 days
+[2026-02-19 01:55:44] [INFO]       Leslies Poolmart Inc: 4363 days
+[2026-02-19 01:55:44] [INFO]       Willbros Group Inc: 3317 days
+[2026-02-19 01:55:44] [INFO]   → After filter: 5720 deals
+[2026-02-19 01:55:44] [INFO]   → Excluded: 32 deals
+[2026-02-19 01:55:44] [INFO] 
+Merging datasets...
+[2026-02-19 01:55:45] [INFO]   ✓ Merge successful: 5720 rows preserved
+[2026-02-19 01:55:45] [INFO] 
+Data availability:
+[2026-02-19 01:55:45] [INFO]   → complete: 4186 (73.2%)
+[2026-02-19 01:55:45] [INFO]   → no_filing: 1175 (20.5%)
+[2026-02-19 01:55:45] [INFO]   → too_short_risk: 201 (3.5%)
+[2026-02-19 01:55:45] [INFO]   → too_short_mda: 158 (2.8%)
+[2026-02-19 01:55:45] [INFO] Complete cases (ready for NLP): 4186
+[2026-02-19 01:55:45] [INFO] 
+Lag statistics (complete cases):
+[2026-02-19 01:55:45] [INFO]   Mean: 273.1, Median: 265
+[2026-02-19 01:55:45] [INFO]   Range: [90, 1077] days
+[2026-02-19 01:55:45] [INFO] 
+Text statistics (complete cases):
+[2026-02-19 01:55:45] [INFO]   MD&A: mean=13078, median=11848
+[2026-02-19 01:55:45] [INFO]   Risk: mean=9679, median=8160.5
+[2026-02-19 01:55:45] [INFO]   Total corpus: 95,259,220 words
+[2026-02-19 01:55:45] [INFO] 
+Validation checks:
+[2026-02-19 01:55:45] [INFO]   ✓ one_row_per_deal
+[2026-02-19 01:55:45] [INFO]   ✓ lag_min_respected
+[2026-02-19 01:55:45] [INFO]   ✓ lag_max_respected
+[2026-02-19 01:55:45] [INFO]   ✓ temporal_order
+[2026-02-19 01:55:45] [INFO]   ✓ text_present
+[2026-02-19 01:55:45] [INFO] 
+Saving outputs...
+[2026-02-19 01:56:03] [INFO] Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/processed/deals_with_10k_text.rds (156.91 MB)
+[2026-02-19 01:56:21] [INFO] Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/processed/deals_with_10k_text_analysis.rds (151.77 MB)
+[2026-02-19 01:56:21] [INFO] ================================================================================
+[2026-02-19 01:56:21] [INFO] PIPELINE COMPLETE
+[2026-02-19 01:56:21] [INFO] ================================================================================
+[2026-02-19 01:56:21] [INFO] Final dataset:
+[2026-02-19 01:56:21] [INFO]   → Total deals: 5720
+[2026-02-19 01:56:21] [INFO]   → Complete (with text): 4186 (73.2%)
+[2026-02-19 01:56:21] [INFO]   → Corpus size: 95,259,220 words
+[2026-02-19 01:56:21] [INFO] 
+Output files:
+[2026-02-19 01:56:21] [INFO]   → Full dataset: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/processed/deals_with_10k_text.rds
+[2026-02-19 01:56:21] [INFO]   → Analysis subset: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/processed/deals_with_10k_text_analysis.rds
+[2026-02-19 01:56:21] [INFO] 
+Ready for NLP analysis!

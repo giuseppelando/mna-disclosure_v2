@@ -1,0 +1,126 @@
+[2026-02-19 01:02:01] [INFO] ================================================================================
+[2026-02-19 01:02:01] [INFO] STEP 5: PARSE SECTIONS (SEC-API)
+[2026-02-19 01:02:01] [INFO] ================================================================================
+[2026-02-19 01:02:01] [INFO] SEC-API configuration:
+[2026-02-19 01:02:01] [INFO]   → endpoint: https://api.sec-api.io/extractor
+[2026-02-19 01:02:01] [INFO]   → rate_limit_per_second: 5
+[2026-02-19 01:02:01] [INFO]   → max_retries: 3
+[2026-02-19 01:02:01] [INFO] 
+Loading filings list...
+[2026-02-19 01:02:01] [INFO]   → Loading manifest: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/filings_manifest_sec_api.rds
+[2026-02-19 01:02:01] [INFO]   → Unique filings to extract (by accession_number): 4280
+[2026-02-19 01:02:01] [INFO]   ✓ Verified: one row per accession_number
+[2026-02-19 01:02:01] [INFO] 
+No parsed_sections cache found; extracting all filings.
+[2026-02-19 01:02:01] [INFO] Extracting sections for 4280 filings via SEC-API...
+[2026-02-19 01:02:34] [INFO] Checkpoint saved: 50/4280
+[2026-02-19 01:03:08] [INFO] Checkpoint saved: 100/4280
+[2026-02-19 01:03:36] [INFO] Checkpoint saved: 150/4280
+[2026-02-19 01:04:10] [INFO] Checkpoint saved: 200/4280
+[2026-02-19 01:04:36] [INFO] Checkpoint saved: 250/4280
+[2026-02-19 01:05:13] [INFO] Checkpoint saved: 300/4280
+[2026-02-19 01:05:44] [INFO] Checkpoint saved: 350/4280
+[2026-02-19 01:06:18] [INFO] Checkpoint saved: 400/4280
+[2026-02-19 01:06:54] [INFO] Checkpoint saved: 450/4280
+[2026-02-19 01:07:22] [INFO] Checkpoint saved: 500/4280
+[2026-02-19 01:07:55] [INFO] Checkpoint saved: 550/4280
+[2026-02-19 01:08:28] [INFO] Checkpoint saved: 600/4280
+[2026-02-19 01:09:00] [INFO] Checkpoint saved: 650/4280
+[2026-02-19 01:09:31] [INFO] Checkpoint saved: 700/4280
+[2026-02-19 01:09:57] [INFO] Checkpoint saved: 750/4280
+[2026-02-19 01:10:28] [INFO] Checkpoint saved: 800/4280
+[2026-02-19 01:11:12] [INFO] Checkpoint saved: 850/4280
+[2026-02-19 01:11:42] [INFO] Checkpoint saved: 900/4280
+[2026-02-19 01:12:13] [INFO] Checkpoint saved: 950/4280
+[2026-02-19 01:12:42] [INFO] Checkpoint saved: 1000/4280
+[2026-02-19 01:13:17] [INFO] Checkpoint saved: 1050/4280
+[2026-02-19 01:13:46] [INFO] Checkpoint saved: 1100/4280
+[2026-02-19 01:14:18] [INFO] Checkpoint saved: 1150/4280
+[2026-02-19 01:14:47] [INFO] Checkpoint saved: 1200/4280
+[2026-02-19 01:15:19] [INFO] Checkpoint saved: 1250/4280
+[2026-02-19 01:15:52] [INFO] Checkpoint saved: 1300/4280
+[2026-02-19 01:16:22] [INFO] Checkpoint saved: 1350/4280
+[2026-02-19 01:16:51] [INFO] Checkpoint saved: 1400/4280
+[2026-02-19 01:17:19] [INFO] Checkpoint saved: 1450/4280
+[2026-02-19 01:17:47] [INFO] Checkpoint saved: 1500/4280
+[2026-02-19 01:18:19] [INFO] Checkpoint saved: 1550/4280
+[2026-02-19 01:18:52] [INFO] Checkpoint saved: 1600/4280
+[2026-02-19 01:19:29] [INFO] Checkpoint saved: 1650/4280
+[2026-02-19 01:20:01] [INFO] Checkpoint saved: 1700/4280
+[2026-02-19 01:20:36] [INFO] Checkpoint saved: 1750/4280
+[2026-02-19 01:21:07] [INFO] Checkpoint saved: 1800/4280
+[2026-02-19 01:21:48] [INFO] Checkpoint saved: 1850/4280
+[2026-02-19 01:22:28] [INFO] Checkpoint saved: 1900/4280
+[2026-02-19 01:23:12] [INFO] Checkpoint saved: 1950/4280
+[2026-02-19 01:23:45] [INFO] Checkpoint saved: 2000/4280
+[2026-02-19 01:24:13] [INFO] Checkpoint saved: 2050/4280
+[2026-02-19 01:24:48] [INFO] Checkpoint saved: 2100/4280
+[2026-02-19 01:25:22] [INFO] Checkpoint saved: 2150/4280
+[2026-02-19 01:25:53] [INFO] Checkpoint saved: 2200/4280
+[2026-02-19 01:26:39] [INFO] Checkpoint saved: 2250/4280
+[2026-02-19 01:27:26] [INFO] Checkpoint saved: 2300/4280
+[2026-02-19 01:28:09] [INFO] Checkpoint saved: 2350/4280
+[2026-02-19 01:28:47] [INFO] Checkpoint saved: 2400/4280
+[2026-02-19 01:29:21] [INFO] Checkpoint saved: 2450/4280
+[2026-02-19 01:29:55] [INFO] Checkpoint saved: 2500/4280
+[2026-02-19 01:30:43] [INFO] Checkpoint saved: 2550/4280
+[2026-02-19 01:31:28] [INFO] Checkpoint saved: 2600/4280
+[2026-02-19 01:32:01] [INFO] Checkpoint saved: 2650/4280
+[2026-02-19 01:32:39] [INFO] Checkpoint saved: 2700/4280
+[2026-02-19 01:33:15] [INFO] Checkpoint saved: 2750/4280
+[2026-02-19 01:33:59] [INFO] Checkpoint saved: 2800/4280
+[2026-02-19 01:34:35] [INFO] Checkpoint saved: 2850/4280
+[2026-02-19 01:35:21] [INFO] Checkpoint saved: 2900/4280
+[2026-02-19 01:36:02] [INFO] Checkpoint saved: 2950/4280
+[2026-02-19 01:36:37] [INFO] Checkpoint saved: 3000/4280
+[2026-02-19 01:37:18] [INFO] Checkpoint saved: 3050/4280
+[2026-02-19 01:37:57] [INFO] Checkpoint saved: 3100/4280
+[2026-02-19 01:38:41] [INFO] Checkpoint saved: 3150/4280
+[2026-02-19 01:39:25] [INFO] Checkpoint saved: 3200/4280
+[2026-02-19 01:40:12] [INFO] Checkpoint saved: 3250/4280
+[2026-02-19 01:40:54] [INFO] Checkpoint saved: 3300/4280
+[2026-02-19 01:41:42] [INFO] Checkpoint saved: 3350/4280
+[2026-02-19 01:42:25] [INFO] Checkpoint saved: 3400/4280
+[2026-02-19 01:43:10] [INFO] Checkpoint saved: 3450/4280
+[2026-02-19 01:43:55] [INFO] Checkpoint saved: 3500/4280
+[2026-02-19 01:44:29] [INFO] Checkpoint saved: 3550/4280
+[2026-02-19 01:45:11] [INFO] Checkpoint saved: 3600/4280
+[2026-02-19 01:45:51] [INFO] Checkpoint saved: 3650/4280
+[2026-02-19 01:46:44] [INFO] Checkpoint saved: 3700/4280
+[2026-02-19 01:47:26] [INFO] Checkpoint saved: 3750/4280
+[2026-02-19 01:48:11] [INFO] Checkpoint saved: 3800/4280
+[2026-02-19 01:48:59] [INFO] Checkpoint saved: 3850/4280
+[2026-02-19 01:49:45] [INFO] Checkpoint saved: 3900/4280
+[2026-02-19 01:50:28] [INFO] Checkpoint saved: 3950/4280
+[2026-02-19 01:51:15] [INFO] Checkpoint saved: 4000/4280
+[2026-02-19 01:52:02] [INFO] Checkpoint saved: 4050/4280
+[2026-02-19 01:52:44] [INFO] Checkpoint saved: 4100/4280
+[2026-02-19 01:53:37] [INFO] Checkpoint saved: 4150/4280
+[2026-02-19 01:54:16] [INFO] Checkpoint saved: 4200/4280
+[2026-02-19 01:55:06] [INFO] Checkpoint saved: 4250/4280
+[2026-02-19 01:55:25] [INFO] 
+Validating output...
+[2026-02-19 01:55:25] [INFO]   ✓ Output verified: 4280 unique filings
+[2026-02-19 01:55:25] [INFO] 
+Parse status distribution:
+[2026-02-19 01:55:25] [INFO]   → success: 3941 (92.1%)
+[2026-02-19 01:55:25] [INFO]   → too_short_risk: 193 (4.5%)
+[2026-02-19 01:55:25] [INFO]   → too_short_mda: 146 (3.4%)
+[2026-02-19 01:55:25] [INFO] Success coverage: 3941 / 4280 (92.1%)
+[2026-02-19 01:55:25] [INFO] Successful parses stats:
+[2026-02-19 01:55:25] [INFO]   → Mean MD&A words: 13035
+[2026-02-19 01:55:25] [INFO]   → Median MD&A words: 11777
+[2026-02-19 01:55:25] [INFO]   → Mean Risk words: 9760
+[2026-02-19 01:55:25] [INFO]   → Median Risk words: 8180
+[2026-02-19 01:55:25] [INFO] 
+Saving parsed sections...
+[2026-02-19 01:55:43] [INFO] Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/parsed_sections.rds (148.59 MB)
+[2026-02-19 01:55:43] [INFO] 
+Creating sample for manual inspection...
+[2026-02-19 01:55:43] [INFO]   → Sample saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/parsing_sample_sec_api.rds
+[2026-02-19 01:55:43] [INFO] ================================================================================
+[2026-02-19 01:55:43] [INFO] STEP 5 COMPLETE
+[2026-02-19 01:55:43] [INFO] ================================================================================
+[2026-02-19 01:55:43] [INFO] Output: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/parsed_sections.rds
+[2026-02-19 01:55:43] [INFO] Unique filings parsed: 4280
+[2026-02-19 01:55:43] [INFO] Next step: Run 06_merge_final_dataset.R

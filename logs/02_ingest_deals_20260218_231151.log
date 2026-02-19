@@ -1,0 +1,112 @@
+====================================================================== 
+PIPELINE STEP 02: 02_ingest_deals
+Started: 2026-02-18 23:11:51.21961 
+Source: src/10_ingest/02_ingest_deals_final.R 
+====================================================================== 
+
+G3;[2026-02-18 23:11:51] [INFO] ======================================================================
+gG3;[2026-02-18 23:11:51] [INFO] M&A DATA INGESTION - FIXED VERSION
+gG3;[2026-02-18 23:11:51] [INFO] ======================================================================
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 1: Loading column mapping...
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:51] [INFO] Loaded mapping for 48 columns
+gG3;[2026-02-18 23:11:51] [INFO] Will keep 48 columns
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 2: Loading raw data...
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:51] [INFO] Input: GridExport_February_11_2026_22_10_55.xlsx
+gG3;[2026-02-18 23:11:51] [INFO] Loaded: 9469 rows × 48 columns
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 3: Renaming columns...
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:51] [DEBUG] Duplicate 'target_ticker': keeping target_primary_ticker_symbol
+gG3;[2026-02-18 23:11:51] [INFO] Selected 47 columns
+gG3;[2026-02-18 23:11:51] [INFO] Renamed 5 columns
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 4: Converting data types (FIXED VERSION)...
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:51] [INFO] Duration columns: number_of_days_between_date_announced_and_date_effective
+gG3;[2026-02-18 23:11:51] [INFO] Date columns: 4
+gG3;[2026-02-18 23:11:51] [INFO] Numeric columns: 15
+gG3;[2026-02-18 23:11:51] [DEBUG]   number_of_days_between_date_announced_and_date_effective: numeric -> integer
+gG3;[2026-02-18 23:11:51] [DEBUG]     Before: -999, 44, -999
+gG3;[2026-02-18 23:11:51] [DEBUG]     After: NA, 44, NA (nonmiss=7236)
+gG3;[2026-02-18 23:11:51] [DEBUG]   date_announced: POSIXct/POSIXt -> Date, parsed=9469
+gG3;[2026-02-18 23:11:51] [DEBUG]   date_effective: POSIXct/POSIXt -> Date, parsed=7236
+gG3;[2026-02-18 23:11:51] [DEBUG]   date_withdrawn: POSIXct/POSIXt -> Date, parsed=1801
+gG3;[2026-02-18 23:11:51] [DEBUG]   rank_date: POSIXct/POSIXt -> Date, parsed=9469
+gG3;[2026-02-18 23:11:51] [DEBUG]   consideration_price_per_share_usd: character -> numeric
+gG3;[2026-02-18 23:11:51] [INFO] Type conversion complete
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 5: Removing duplicates...
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:51] [INFO] Removed 0 duplicates
+gG3;[2026-02-18 23:11:51] [INFO] Final: 9469 unique deals
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 6: Creating derived variables...
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:51] [DEBUG] Created: deal_completed, withdrawn, deal_outcome_terminal
+gG3;[2026-02-18 23:11:51] [INFO]   Completed: 7236
+gG3;[2026-02-18 23:11:51] [INFO]   Withdrawn: 1649
+gG3;[2026-02-18 23:11:51] [DEBUG] Created: time_to_close
+gG3;[2026-02-18 23:11:51] [DEBUG] Created: target_sic_primary, target_sic_2digit
+gG3;[2026-02-18 23:11:51] [DEBUG] Created: year_announced, month_announced
+gG3;[2026-02-18 23:11:51] [DEBUG] Created: industry_year
+gG3;[2026-02-18 23:11:51] [DEBUG] Created: payment_method_clean
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 7: Creating sample filter flags...
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:51] [INFO] Flags created:
+gG3;[2026-02-18 23:11:51] [DEBUG]   flag_has_deal_id: 9469 (100%)
+gG3;[2026-02-18 23:11:51] [DEBUG]   flag_has_target_name: 9469 (100%)
+gG3;[2026-02-18 23:11:51] [DEBUG]   flag_has_announce_date: 9469 (100%)
+gG3;[2026-02-18 23:11:51] [DEBUG]   flag_terminal_outcome: 8885 (93.8%)
+gG3;[2026-02-18 23:11:51] [DEBUG]   flag_has_premium_inputs: 9469 (100%)
+gG3;[2026-02-18 23:11:51] [INFO] Final dataset: 9469 rows × 62 columns
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 8: Validation checks...
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:51] [INFO] Checking number_of_days_between_date_announced_and_date_effective:
+gG3;[2026-02-18 23:11:51] [INFO]   Class: integer
+gG3;[2026-02-18 23:11:51] [INFO]   Sample: NA, 44, NA, NA, 279
+gG3;[2026-02-18 23:11:51] [INFO]   ✓ Column is correctly typed as integer
+gG3;[2026-02-18 23:11:51] [INFO] Checking withdrawn flag:
+gG3;[2026-02-18 23:11:51] [INFO]   Class: integer
+gG3;[2026-02-18 23:11:51] [INFO]   Completed (0): 7236
+gG3;[2026-02-18 23:11:51] [INFO]   Withdrawn (1): 1649
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 9: Saving outputs...
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:51] [INFO] Saved: data/interim/deals_ingested.rds
+gG3;[2026-02-18 23:11:51] [INFO] Saved: data/interim/kept_columns.csv
+gG3;[2026-02-18 23:11:51] [INFO] Saved: data/interim/ingestion_summary.json
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] ======================================================================
+gG3;[2026-02-18 23:11:51] [INFO] INGESTION COMPLETE (FIXED VERSION)
+gG3;[2026-02-18 23:11:51] [INFO] Dataset: 9469 deals × 62 columns
+gG3;[2026-02-18 23:11:51] [INFO] ======================================================================
+g
+╔══════════════════════════════════════════════════════════════════╗
+║              INGESTION COMPLETE (FIXED VERSION)                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║ File:       GridExport_February_11_2026_22_10_55.xlsx            ║
+║ Deals:      9469                                                 ║
+║ Columns:    62                                                   ║
+╠══════════════════════════════════════════════════════════════════╣
+║ Completed:  7236                                                 ║
+║ Withdrawn:  1649                                                 ║
+╠══════════════════════════════════════════════════════════════════╣
+║ FIXES APPLIED:                                                   ║
+║   ✓ number_of_days column preserved as integer                   ║
+║   ✓ SDC missing value (-999) converted to NA                     ║
+║   ✓ withdrawn flag added for logit analysis                      ║
+╠══════════════════════════════════════════════════════════════════╣
+║ Output: data/interim/deals_ingested.rds                          ║
+╚══════════════════════════════════════════════════════════════════╝
+
+
+====================================================================== 
+Completed: 2026-02-18 23:11:51.80641 
+Log saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/logs/02_ingest_deals_20260218_231151.log 
+====================================================================== 

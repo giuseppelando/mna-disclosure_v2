@@ -1,0 +1,14 @@
+[2026-02-19 01:02:01] [INFO] ================================================================================
+[2026-02-19 01:02:01] [INFO] STEP 4: PREPARE FILINGS MANIFEST (SEC-API)
+[2026-02-19 01:02:01] [INFO] ================================================================================
+[2026-02-19 01:02:01] [INFO] Loading deals_filing_matched...
+[2026-02-19 01:02:01] [INFO]   → Total deals: 5752
+[2026-02-19 01:02:01] [INFO]   → Matched deals with filing_url: 4577
+[2026-02-19 01:02:01] [INFO]   → Unique filings prepared for SEC-API extraction: 4280
+[2026-02-19 01:02:01] [INFO] No parsed_sections cache found.
+[2026-02-19 01:02:01] [INFO] Saving filings_manifest_sec_api...
+[2026-02-19 01:02:01] [INFO]   → Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/filings_manifest_sec_api.rds
+[2026-02-19 01:02:01] [INFO] ================================================================================
+[2026-02-19 01:02:01] [INFO] STEP 4 COMPLETE
+[2026-02-19 01:02:01] [INFO] ================================================================================
+[2026-02-19 01:02:01] [INFO] Next step: Run 05_nlp_parse_sections.R (SEC-API extraction).

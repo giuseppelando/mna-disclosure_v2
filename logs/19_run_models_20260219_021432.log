@@ -1,0 +1,153 @@
+====================================================================== 
+PIPELINE STEP 19: 19_run_models
+Started: 2026-02-19 02:14:32.017418 
+Source: src/50_models/New Pipeline/09_run_models_v7.R 
+====================================================================== 
+
+=== MODULE 09: ECONOMETRIC MODELS (v6) ===
+
+==============================================================================
+A. PREMIUM REGRESSIONS (OLS + FE)
+------------------------------------------------------------------------------
+  Loaded: 3102 obs
+  Core NLP: operational_specificity_raw_z, fl_sentence_share_z, risk_transparency_z, tone_lm_z
+  Controls: ln_deal_value, tender, percentage_of_cash
+  Analysis sample (complete cases): 3102
+
+[P1] Core 4 + Year FE...
+  N=3102  R²=0.059
+[P2] Core 4 + Ind×Year FE...
+G3;NOTE: 357 fixed-effect singletons were removed (357 observations).
+g  N=2745  R²=0.254
+[P3] Extended (Core + supplementary)...
+  N=3095  R²=0.062
+[P4] Core + Processing costs...
+  N=3102  R²=0.065
+[P5] Individual indices (one-at-a-time)...
+  operational_specificity_raw_z: β=-5.016
+  fl_sentence_share_z: β=2.270
+  risk_transparency_z: β=0.417
+  tone_lm_z: β=2.119
+
+Exporting premium results...
+  Saved: output/tables/premium_results.csv (49 rows)
+
+==============================================================================
+B. COMPLETION PROBABILITY (Logit)
+------------------------------------------------------------------------------
+  Loaded: 4186 obs | C=3371 W=815
+  Analysis sample: 4186
+
+[C1] Core 4 + Year FE...
+  N=4186
+    operational_specificity_raw_z: -0.042 (OR=0.959)
+    fl_sentence_share_z: -0.058 (OR=0.944)
+    risk_transparency_z: 0.112 (OR=1.118)
+    tone_lm_z: -0.044 (OR=0.957)
+[C2] Core 4 + Ind×Year FE...
+G3;NOTE: 584 fixed-effects (1,213 observations) removed because of only 0 or only 1 outcomes or singletons.
+g  N=2973
+[C3] Extended...
+  N=4179
+[C4] Core + Processing costs...
+  N=4186
+
+Exporting completion results...
+  Saved: output/tables/completion_results.csv (33 rows)
+
+==============================================================================
+C. DURATION MODELS (AFT primary + Cox robustness)
+------------------------------------------------------------------------------
+
+--- C.1: AFT Log-Normal (completed deals) ---
+  Loaded: 3181 completed deals | median=108 days
+  Analysis sample: 3181
+
+[AFT1] Core 4 (log-normal)...
+  N=3181  Log-likelihood=-18858.9
+  Coefficients (% change in duration per 1 SD):
+    operational_specificity_raw_z: 0.078 → exp=1.081 (8.1% change)
+    fl_sentence_share_z: -0.022 → exp=0.978 (-2.2% change)
+    risk_transparency_z: -0.033 → exp=0.967 (-3.3% change)
+    tone_lm_z: -0.042 → exp=0.959 (-4.1% change)
+
+[AFT2] Extended (Core + supplementary)...
+  N=3178
+
+[AFT3] Core + Processing costs...
+  N=3181
+
+[AFT4] Core 4 (Weibull, distributional robustness)...
+  N=3181  Log-likelihood=-19020.6
+  AIC comparison: Log-normal=37735.9 | Weibull=38059.2 → Log-normal preferred
+
+--- C.2: Cox PH with proper censoring (robustness) ---
+  Loaded: 3995 obs | events=3181 | censored=814
+  Analysis sample: 3995
+
+[Cox1] Core 4 + strata(year) with censoring...
+  N=3995  Events=3181  Concordance=0.643
+    operational_specificity_raw_z: β=-0.112 (HR=0.894)
+    fl_sentence_share_z: β=-0.012 (HR=0.988)
+    risk_transparency_z: β=0.020 (HR=1.021)
+    tone_lm_z: β=0.008 (HR=1.009)
+
+[PH Test] Proportional hazard assumption (censored Cox)...
+  Global test:
+                                   chisq df             p
+operational_specificity_raw_z  45.732540  1  1.355522e-11
+fl_sentence_share_z             4.494089  1  3.401224e-02
+risk_transparency_z             5.621376  1  1.774272e-02
+tone_lm_z                      30.248233  1  3.801375e-08
+ln_deal_value                 111.141970  1  5.508147e-26
+tender                        204.047985  1  2.732209e-46
+percentage_of_cash            412.507759  1  1.042932e-91
+GLOBAL                        645.538175  7 3.777343e-135
+
+Exporting duration results...
+  Saved: output/tables/duration_results.csv (48 rows)
+
+==============================================================================
+MODEL COMPARISON
+------------------------------------------------------------------------------
+  Saved: output/tables/model_comparison.csv (17 models)
+# A tibble: 17 × 6
+   type           model                            n_obs      r2  adj_r2 n_coefs
+   <chr>          <chr>                            <int>   <dbl>   <dbl>   <dbl>
+ 1 Premium        P1_core_yearFE                    3102  0.0593     NA        7
+ 2 Premium        P2_core_indyrFE                   2745  0.254      NA        7
+ 3 Premium        P3_extended                       3095  0.0618     NA       10
+ 4 Premium        P4_proc_costs                     3102  0.0649     NA        9
+ 5 Premium        P5_operational_specificity_raw_z  3102  0.0571     NA        4
+ 6 Premium        P5_fl_sentence_share_z            3102  0.0455     NA        4
+ 7 Premium        P5_risk_transparency_z            3102  0.0424     NA        4
+ 8 Premium        P5_tone_lm_z                      3102  0.0449     NA        4
+ 9 Completion     C1_core_yearFE                    4186  0.0648     NA        7
+10 Completion     C2_core_indyrFE                   2973  0.149      NA        7
+11 Completion     C3_extended                       4179  0.0698     NA       10
+12 Completion     C4_proc_costs                     4186  0.0659     NA        9
+13 Duration (AFT) AFT1_core                           NA NA      -18859.       7
+14 Duration (AFT) AFT2_extended                       NA NA      -18835.      10
+15 Duration (AFT) AFT3_proc_costs                     NA NA      -18849.       9
+16 Duration (AFT) AFT4_weibull                        NA NA      -19021.       7
+17 Duration (Cox) Cox1_censored                     3995  0.643      NA        7
+
+Generating report...
+
+==============================================================================
+MODULE 09 COMPLETE (v6)
+==============================================================================
+
+Models estimated: 8 premium + 4 completion + 5 duration = 17 total
+
+Output files:
+  output/tables/premium_results.csv
+  output/tables/completion_results.csv
+  output/tables/duration_results.csv
+  output/tables/model_comparison.csv
+  reports/09_econometric_report.md
+
+====================================================================== 
+Completed: 2026-02-19 02:14:40.981472 
+Log saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/logs/19_run_models_20260219_021432.log 
+====================================================================== 

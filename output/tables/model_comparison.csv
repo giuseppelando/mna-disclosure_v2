@@ -1,0 +1,18 @@
+type,model,n_obs,r2,adj_r2,n_coefs
+Premium,P1_core_yearFE,3102,0.05926057853396394,NA,7
+Premium,P2_core_indyrFE,2745,0.25382455924079417,NA,7
+Premium,P3_extended,3095,0.06176322736017681,NA,10
+Premium,P4_proc_costs,3102,0.06493574302848248,NA,9
+Premium,P5_operational_specificity_raw_z,3102,0.057118889234565096,NA,4
+Premium,P5_fl_sentence_share_z,3102,0.045465788304368204,NA,4
+Premium,P5_risk_transparency_z,3102,0.04239341593824997,NA,4
+Premium,P5_tone_lm_z,3102,0.04491474829403119,NA,4
+Completion,C1_core_yearFE,4186,0.06480234805420437,NA,7
+Completion,C2_core_indyrFE,2973,0.14861169224648685,NA,7
+Completion,C3_extended,4179,0.0697563551342445,NA,10
+Completion,C4_proc_costs,4186,0.06593028670247136,NA,9
+Duration (AFT),AFT1_core,NA,NA,-18858.939196858693,7
+Duration (AFT),AFT2_extended,NA,NA,-18835.14660647698,10
+Duration (AFT),AFT3_proc_costs,NA,NA,-18848.81275568684,9
+Duration (AFT),AFT4_weibull,NA,NA,-19020.591775716715,7
+Duration (Cox),Cox1_censored,3995,0.643202832254611,NA,7

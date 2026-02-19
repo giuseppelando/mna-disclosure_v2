@@ -1,0 +1,51 @@
+[2026-02-19 00:44:16] [INFO] ================================================================================
+[2026-02-19 00:44:16] [INFO] STEP 1: LOAD AND CLEAN DEALS
+[2026-02-19 00:44:16] [INFO] ================================================================================
+[2026-02-19 00:44:16] [INFO] Loading deals from Excel...
+[2026-02-19 00:44:16] [INFO]   → Loaded 7454 rows, 66 columns
+[2026-02-19 00:44:16] [INFO] 
+Cleaning and validating data...
+[2026-02-19 00:44:16] [INFO] 
+Summary:
+[2026-02-19 00:44:16] [INFO]   → Original rows: 7454
+[2026-02-19 00:44:16] [INFO]   → Removed (no CIK): 909
+[2026-02-19 00:44:16] [INFO]   → Removed (no announcement date): 0
+[2026-02-19 00:44:16] [INFO]   → Final rows: 6545
+[2026-02-19 00:44:16] [INFO]   → Coverage: 87.8%
+[2026-02-19 00:44:16] [INFO] 
+Analyzing deal structure...
+[2026-02-19 00:44:16] [INFO]   → Using existing deal identifier: deal_id
+[2026-02-19 00:44:16] [INFO]   → Total rows (including CIK candidates): 6545
+[2026-02-19 00:44:16] [INFO]   → Unique logical deals (target + date): 5752
+[2026-02-19 00:44:16] [INFO]   → Deals with multiple CIK candidates: 702
+[2026-02-19 00:44:16] [INFO]   → CIK candidates per deal distribution:
+[2026-02-19 00:44:16] [INFO]       1 CIK(s): 5050 deals
+[2026-02-19 00:44:16] [INFO]       2 CIK(s): 638 deals
+[2026-02-19 00:44:16] [INFO]       3 CIK(s): 43 deals
+[2026-02-19 00:44:16] [INFO]       4 CIK(s): 19 deals
+[2026-02-19 00:44:16] [INFO]       5 CIK(s): 1 deals
+[2026-02-19 00:44:16] [INFO]       9 CIK(s): 1 deals
+[2026-02-19 00:44:16] [INFO] 
+  ⚠ Multiple CIK candidates will be resolved in Step 3 (first valid CIK wins)
+[2026-02-19 00:44:16] [INFO] 
+Removing pure duplicates (same deal + same CIK)...
+[2026-02-19 00:44:16] [INFO]   → Removed 268 pure duplicate rows
+[2026-02-19 00:44:16] [INFO] 
+Date range analysis...
+[2026-02-19 00:44:16] [INFO]   → Earliest announcement: 2006-01-01
+[2026-02-19 00:44:16] [INFO]   → Latest announcement: 2022-12-21
+[2026-02-19 00:44:16] [INFO]   → Span: 17 years
+[2026-02-19 00:44:16] [INFO] 
+Saving cleaned data...
+[2026-02-19 00:44:17] [INFO] Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/deals_clean.rds (0.72 MB)
+[2026-02-19 00:44:17] [INFO] 
+Final validation checks...
+[2026-02-19 00:44:17] [INFO]   ✓ All validation checks passed
+[2026-02-19 00:44:17] [INFO] ================================================================================
+[2026-02-19 00:44:17] [INFO] STEP 1 COMPLETE
+[2026-02-19 00:44:17] [INFO] ================================================================================
+[2026-02-19 00:44:17] [INFO] Output: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/deals_clean.rds
+[2026-02-19 00:44:17] [INFO] Rows: 6277 (with CIK candidates)
+[2026-02-19 00:44:17] [INFO] Unique deals: 5752
+[2026-02-19 00:44:17] [INFO] 
+Next step: Run 02_ingest_build_edgar_index.R

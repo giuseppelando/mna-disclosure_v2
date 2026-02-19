@@ -1,0 +1,5 @@
+row,col,r
+forward_looking_norm,fl_sentence_share,0.9035576831235914
+tone_lm_norm,tone_lm,0.8785928149387793
+operational_specificity_norm,operational_specificity_raw,0.7815051241164374
+risk_transparency_norm,risk_transparency,0.772447071936241

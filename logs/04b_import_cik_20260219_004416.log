@@ -1,0 +1,60 @@
+====================================================================== 
+PIPELINE STEP 04b: 04b_import_cik
+Started: 2026-02-19 00:44:16.082047 
+Source: src/20_resolve/04b_import_cik_matches.R 
+====================================================================== 
+
+
+====================================================================== 
+IMPORT CIK MATCHES FROM EXCEL (FIXED)
+====================================================================== 
+
+Reading: data/interim/deals_with_cik_matches.xlsx 
+  Rows: 7454 
+  Columns: 66 
+
+Fixing column types...
+✓ number_of_days_between_date_announced_and_date_effective: preserved as integerSample: 78, 308, 71, 70, 59
+Creating withdrawn flag...
+✓ Created withdrawn from deal_status
+Validation:
+  ✓ Required columns present
+  Rows with CIK: 6545 (87.8%) 
+  Rows without CIK: 909 (12.2%) 
+  Withdrawn: 1599 
+  Completed: 5855 
+  Unique targets: 4640 
+  Unique deals: 6694 
+  Deals with multiple CIKs: 485 
+
+Standardizing CIK format...
+  ✓ CIK zero-padded to 10 digits
+
+Sample CIK values:
+# A tibble: 5 × 2
+  target_name target_cik
+  <chr>       <chr>     
+1 IXIA        0001120295
+2 IXIA        0001120295
+3 RH          0001528849
+4 RH          0001528849
+5 SM&A        0001050031
+
+✓ Saved: data/interim/deals_with_cik.rds 
+  Rows: 7454 
+
+Verifying saved file...
+number_of_days_between_date_announced_and_date_effective: integerSample: 78, 308, 71, 70, 59withdrawn: integerCompleted (0): 5855, Withdrawn (1): 1599
+====================================================================== 
+IMPORT COMPLETE (FIXED)
+====================================================================== 
+Total rows: 7454 
+Rows with CIK: 6545 (87.8%) 
+Next step: source('src/20_resolve/05_filing_identify.R') 
+====================================================================== 
+
+
+====================================================================== 
+Completed: 2026-02-19 00:44:16.58263 
+Log saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/logs/04b_import_cik_20260219_004416.log 
+====================================================================== 

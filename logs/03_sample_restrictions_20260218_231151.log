@@ -1,0 +1,151 @@
+====================================================================== 
+PIPELINE STEP 03: 03_sample_restrictions
+Started: 2026-02-18 23:11:51.809592 
+Source: src/20_clean/03_apply_sample_restrictions.R 
+====================================================================== 
+
+G3;[2026-02-18 23:11:51] [INFO] ======================================================================
+gG3;[2026-02-18 23:11:51] [INFO] SAMPLE RESTRICTION CASCADE - BLUEPRINT ALIGNED
+gG3;[2026-02-18 23:11:51] [INFO] Design: Base sample for COMPLETION + SDC premium flag for PREMIUM
+gG3;[2026-02-18 23:11:51] [INFO] ======================================================================
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 1: Loading data...
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:51] [INFO] Loaded: deals_ingested.rds
+gG3;[2026-02-18 23:11:51] [INFO] Starting sample: 9469 deals
+gG3;[2026-02-18 23:11:51] [INFO] Columns: 62
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 2: Identifying key columns...
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:51] [INFO] Found final stake: percentage_of_shares_acquired_in_transaction
+gG3;[2026-02-18 23:11:51] [INFO] SDC premium (1_day): 5295 deals (55.9%)
+gG3;[2026-02-18 23:11:51] [INFO] SDC premium (1_week): 5285 deals (55.8%)
+gG3;[2026-02-18 23:11:51] [INFO] SDC premium (4_weeks): 5291 deals (55.9%)
+gG3;[2026-02-18 23:11:51] [INFO] Primary premium window: 1_week → premium_paid_1_week_prior_to_announcement
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 3: Applying restriction cascade (BASE SAMPLE)...
+gG3;[2026-02-18 23:11:51] [INFO] Note: Premium is a DATA QUALITY FLAG, not a restriction
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] FILTER 1: Terminal outcomes only (DL-03)...
+gG3;[2026-02-18 23:11:51] [INFO]   Removed: 584  |  Remaining: 8885
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] FILTER 2: Control transfer screen (DL-09)...
+gG3;[2026-02-18 23:11:51] [INFO]   Removed: 0  |  Remaining: 8885
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] FILTER 3: US public targets (DL-01)...
+gG3;[2026-02-18 23:11:51] [INFO]   Removed: 0  |  Remaining: 8885
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] FILTER 4: Announcement date required (DL-04)...
+gG3;[2026-02-18 23:11:51] [INFO]   Removed: 0  |  Remaining: 8885
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] FILTER 5: Payment method required (DL-10)...
+gG3;[2026-02-18 23:11:51] [INFO]   Removed: 1795  |  Remaining: 7090
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] FILTER 6: Industry identifiers required (DL-11)...
+gG3;[2026-02-18 23:11:51] [INFO]   Using: target_primary_sic
+gG3;[2026-02-18 23:11:51] [INFO]   Removed: 0  |  Remaining: 7090
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] FILTER 7: Period 2006-2023 (DL-18)...
+gG3;[2026-02-18 23:11:51] [INFO]   Removed: 396  |  Remaining: 6694
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] FILTER 8: Deal value available (Section 2.4)...
+gG3;[2026-02-18 23:11:51] [INFO]   Removed: 0  |  Remaining: 6694
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 4: Creating analysis eligibility flags...
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] Analysis eligibility:
+gG3;[2026-02-18 23:11:51] [INFO]   COMPLETION analysis: 6694 deals (100% of base sample)
+gG3;[2026-02-18 23:11:51] [INFO]   PREMIUM analysis:    4520 deals (67.5%)
+gG3;[2026-02-18 23:11:51] [INFO]     └─ 1-week window (primary)
+gG3;[2026-02-18 23:11:51] [INFO]   Premium robustness windows:
+gG3;[2026-02-18 23:11:51] [INFO]     └─ 1-day:   4531 deals
+gG3;[2026-02-18 23:11:51] [INFO]     └─ 4-weeks: 4528 deals
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 5: Preparing for CIK matching...
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:51] [INFO] Added target_cik column (empty)
+gG3;[2026-02-18 23:11:51] [INFO] Sorted by target_name
+gG3;[2026-02-18 23:11:51] [INFO]   Ticker available: 99.9%
+gG3;[2026-02-18 23:11:51] [INFO]   CUSIP available:  100%
+gG3;[2026-02-18 23:11:51] [INFO] 
+gG3;[2026-02-18 23:11:51] [INFO] STEP 6: Saving outputs...
+gG3;[2026-02-18 23:11:51] [INFO] ----------------------------------------------------------------------
+gG3;[2026-02-18 23:11:52] [INFO] ✓ Saved: data/processed/deals_restricted.rds
+gG3;[2026-02-18 23:11:52] [INFO]   Rows: 6694  |  Columns: 70
+gG3;[2026-02-18 23:11:52] [INFO] ✓ Saved: data/processed/deals_restricted.xlsx
+gG3;[2026-02-18 23:11:52] [INFO] ✓ Saved: data/interim/sample_cascade_blueprint.csv
+gG3;[2026-02-18 23:11:52] [INFO] 
+gG3;[2026-02-18 23:11:52] [INFO] ======================================================================
+gG3;[2026-02-18 23:11:52] [INFO] SAMPLE RESTRICTION CASCADE COMPLETE
+gG3;[2026-02-18 23:11:52] [INFO] ======================================================================
+gG3;[2026-02-18 23:11:52] [INFO] 
+gG3;[2026-02-18 23:11:52] [INFO] Cascade summary:
+gG3;[2026-02-18 23:11:52] [INFO]   [DL-03] Terminal outcomes only
+gG3;[2026-02-18 23:11:52] [INFO]        Removed: 584  |  Retained: 93.8%
+gG3;[2026-02-18 23:11:52] [INFO]   [DL-09] Control transfer screen
+gG3;[2026-02-18 23:11:52] [INFO]        Removed: 0  |  Retained: 93.8%
+gG3;[2026-02-18 23:11:52] [INFO]   [DL-01] US public targets
+gG3;[2026-02-18 23:11:52] [INFO]        Removed: 0  |  Retained: 93.8%
+gG3;[2026-02-18 23:11:52] [INFO]   [DL-04] Announcement date required
+gG3;[2026-02-18 23:11:52] [INFO]        Removed: 0  |  Retained: 93.8%
+gG3;[2026-02-18 23:11:52] [INFO]   [DL-10] Payment method required
+gG3;[2026-02-18 23:11:52] [INFO]        Removed: 1795  |  Retained: 74.9%
+gG3;[2026-02-18 23:11:52] [INFO]   [DL-11] Industry identifiers required
+gG3;[2026-02-18 23:11:52] [INFO]        Removed: 0  |  Retained: 74.9%
+gG3;[2026-02-18 23:11:52] [INFO]   [DL-18] Period 2006-2023
+gG3;[2026-02-18 23:11:52] [INFO]        Removed: 396  |  Retained: 70.7%
+gG3;[2026-02-18 23:11:52] [INFO]   [2.4] Deal value available
+gG3;[2026-02-18 23:11:52] [INFO]        Removed: 0  |  Retained: 70.7%
+gG3;[2026-02-18 23:11:52] [INFO] 
+gG3;[2026-02-18 23:11:52] [INFO] BASE SAMPLE: 6694 deals (70.7% retention)
+gG3;[2026-02-18 23:11:52] [INFO]   → COMPLETION analysis: 6694 deals
+gG3;[2026-02-18 23:11:52] [INFO]   → PREMIUM analysis:    4520 deals (SDC 1-week)
+gG3;[2026-02-18 23:11:52] [INFO] 
+gG3;[2026-02-18 23:11:52] [INFO] Sample characteristics:
+gG3;[2026-02-18 23:11:52] [INFO]   Deal value - Median: $323.2M
+gG3;[2026-02-18 23:11:52] [INFO]   Year range: 2006 - 2022
+gG3;[2026-02-18 23:11:52] [INFO]   Completed: 5259 (78.6%)
+gG3;[2026-02-18 23:11:52] [INFO]   Withdrawn: 1435 (21.4%)
+gG3;[2026-02-18 23:11:52] [INFO] 
+gG3;[2026-02-18 23:11:52] [INFO] Premium characteristics (eligible deals only):
+gG3;[2026-02-18 23:11:52] [INFO]   Premium - Median: 23.7%
+gG3;[2026-02-18 23:11:52] [INFO]   Premium - IQR: [7.9%, 42.4%]
+g
+╔═══════════════════════════════════════════════════════════════════════╗
+║        SAMPLE RESTRICTIONS - BLUEPRINT ALIGNED - COMPLETE            ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║ Initial sample:        9469                                            ║
+║ BASE SAMPLE:           6694                                            ║
+║ Retention:             70.7%                                               ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║ Analysis eligibility:                                                 ║
+║   COMPLETION analysis: 6694  deals (100%)                          ║
+║   PREMIUM analysis:    4520  deals (67.5%) [SDC 1-week]             ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║ Filters applied (BASE SAMPLE):                                        ║
+║ [DL-03] Terminal outcomes only                       -   584 ║
+║ [DL-09] Control transfer screen                      -     0 ║
+║ [DL-01] US public targets                            -     0 ║
+║ [DL-04] Announcement date required                   -     0 ║
+║ [DL-10] Payment method required                      -  1795 ║
+║ [DL-11] Industry identifiers required                -     0 ║
+║ [DL-18] Period 2006-2023                             -   396 ║
+║ [2.4  ] Deal value available                         -     0 ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║ Premium methodology:                                                  ║
+║   • Using SDC pre-calculated premium (1-week window)                 ║
+║   • Consistent with literature; avoids edge cases                    ║
+║   • Alternative windows available for robustness                     ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║ Outputs:                                                              ║
+║   • deals_restricted.rds   (base sample + eligibility flags)         ║
+║   • deals_restricted.xlsx  (for manual CIK matching)                 ║
+╚═══════════════════════════════════════════════════════════════════════╝
+
+
+====================================================================== 
+Completed: 2026-02-18 23:11:52.964202 
+Log saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/logs/03_sample_restrictions_20260218_231151.log 
+====================================================================== 

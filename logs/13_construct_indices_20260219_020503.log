@@ -1,0 +1,98 @@
+====================================================================== 
+PIPELINE STEP 13: 13_construct_indices
+Started: 2026-02-19 02:05:03.556184 
+Source: src/30_nlp/New Pipeline/03_construct_indices_v6_1.R 
+====================================================================== 
+
+=== MODULE 3: INDEX CONSTRUCTION (v6) ===
+
+BLOCK 0: Loading data...
+  LM: Pos=347 Neg=2345 Unc=297 Lit=903
+  min_cell_size=10
+
+BLOCK 1: Operational Specificity...
+  Compounds matched in DFM: 18
+  Composite (raw) mean: 64.4779 | sd: 21.0642
+
+BLOCK 2: Forward-Looking Intensity (v6.1 — sentence-based)...
+  FL sentence markers: 16 patterns (18 action verbs from default)
+  FL sentence share: mean=0.0841 | sd=0.0409
+  FL precision share (FL sents with numbers): mean=0.4958
+  Commitment (strong modal) density: mean=2.1332
+  Hedging (weak modal) density: mean=3.9222
+
+BLOCK 3: Risk Transparency (v6.1 — boilerplate vs idiosyncratic)...
+  min_cosine_cell: 5
+  Cosine fallback usage: sic2_year=2867 | sic2=1241 | year=78 | global=0 | NA=0
+  Cosine sim to centroid: mean=0.4381 | sd=0.1911
+  Risk transparency (1-sim): mean=0.5619 | sd=0.1911
+  NAs (singleton groups): 0
+  LM risk dict matched: 2003/2602 terms
+  LM risk density (per 1000 alpha): mean=69.1414
+  Risk numeric density: mean=10.0529
+
+BLOCK 4: Managerial Tone (v6 — corrected formula)...
+  Matched LM terms: Pos=298 | Neg=1408
+  ToneLM mean: -0.3981 | sd: 0.2164 | NAs: 0 (should be 0)
+  Pos density mean: 5.1166 | Neg density mean: 12.6532
+
+BLOCK 5: Normalisation and fallback auditing...
+
+  min_cell_size=10
+  Fallback usage (counts) by index:
+  - operational_specificity_norm:
+# A tibble: 5 × 2
+  level         n
+  <chr>     <int>
+1 sic2_year  1849
+2 sic2       2171
+3 year        166
+4 global        0
+5 missing       0
+  - forward_looking_norm:
+# A tibble: 5 × 2
+  level         n
+  <chr>     <int>
+1 sic2_year  1849
+2 sic2       2171
+3 year        166
+4 global        0
+5 missing       0
+  - risk_transparency_norm:
+# A tibble: 5 × 2
+  level         n
+  <chr>     <int>
+1 sic2_year  1849
+2 sic2       2171
+3 year        166
+4 global        0
+5 missing       0
+  - risk_disclosure_raw_norm:
+# A tibble: 5 × 2
+  level         n
+  <chr>     <int>
+1 sic2_year  1849
+2 sic2       2171
+3 year        166
+4 global        0
+5 missing       0
+  - tone_lm_norm:
+# A tibble: 5 × 2
+  level         n
+  <chr>     <int>
+1 sic2_year  1849
+2 sic2       2171
+3 year        166
+4 global        0
+5 missing       0
+
+BLOCK 6: Saving final dataset...
+  4186 obs x 25 vars -> C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/disclosure_indices.rds
+
+Report: C:/Users/giuse/Documents/GitHub/mna-disclosure/reports/03_index_construction_report.md
+=== MODULE 3 COMPLETE (v6) ===
+
+====================================================================== 
+Completed: 2026-02-19 02:09:01.586681 
+Log saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/logs/13_construct_indices_20260219_020503.log 
+====================================================================== 

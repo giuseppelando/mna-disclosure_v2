@@ -1,0 +1,72 @@
+====================================================================== 
+PIPELINE STEP 11: 11_text_cleaning
+Started: 2026-02-19 01:56:21.525314 
+Source: src/30_nlp/New Pipeline/01_text_cleaning_v3.R 
+====================================================================== 
+
+=== MODULE 1: TEXT CLEANING (v3) ===
+Starting text cleaning pipeline...
+
+BLOCK 0: Loading and validating data...
+  - Loaded 4186 deals
+  - Required columns: deal_id, mda_text, risk_factors_text
+  - Optional columns: target_primary_sic, year_announced, mda_word_count, risk_word_count
+
+BLOCK 1: Defining EDGAR-aware cleaning functions...
+  - Functions defined: clean_edgar_text(), remove_boilerplate_conservative(),
+    count_words_total(), count_words_alpha()
+
+BLOCK 3: Applying cleaning to MD&A and Risk Factors...
+  - MD&A cleaning complete
+  - Risk Factors cleaning complete
+  - Case-preserved versions created (for readability)
+
+BLOCK 4: Computing DUAL word counts and quality checks...
+  - MD&A  alpha/total ratio: mean=0.894 | median=0.900
+  - Risk  alpha/total ratio: mean=0.987 | median=0.987
+  - Dual word counts computed
+  - Quality checks completed
+
+=== CLEANING VALIDATION SUMMARY ===
+
+Basic Counts:
+  Total deals: 4186
+  MD&A empty after cleaning: 0 (0.0%)
+  Risk Factors empty after cleaning: 0 (0.0%)
+
+MD&A Word Count — Total (all tokens):
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+    119    8055   10836   11862   14316   72289 
+
+MD&A Word Count — Alphabetic only:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+    114    7234    9734   10558   12769   67898 
+
+Risk Factors Word Count — Total:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+     99    5198    8034    9560   12172   70258 
+
+Risk Factors Word Count — Alphabetic only:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+    102    5140    7899    9436   12032   61666 
+
+Financial Pattern Preservation (n=100 sample):
+  Documents with numbers: 100.0%
+  Documents with percentages: 98.0%
+  Documents with currency: 100.0%
+  Documents with decimals: 100.0%
+
+BLOCK 5: Saving interim outputs...
+  - Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/cleaned_text.rds
+  - Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/cleaning_summary.rds
+  - Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/reports/01_cleaning_report.md
+
+=== MODULE 1 COMPLETE (v3) ===
+Cleaned text: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/cleaned_text.rds
+Report: C:/Users/giuse/Documents/GitHub/mna-disclosure/reports/01_cleaning_report.md
+Ready for Module 2: Tokenization (v4)
+
+====================================================================== 
+Completed: 2026-02-19 01:59:29.557747 
+Log saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/logs/11_text_cleaning_20260219_015621.log 
+====================================================================== 

@@ -1,0 +1,138 @@
+====================================================================== 
+PIPELINE STEP 12: 12_tokenization_dtm
+Started: 2026-02-19 01:59:29.561433 
+Source: src/30_nlp/New Pipeline/02_tokenization_dtm_v4_1.R 
+====================================================================== 
+
+=== MODULE 2: TOKENIZATION AND DTM CONSTRUCTION (v4) ===
+Starting tokenization pipeline...
+
+BLOCK 0: Loading cleaned data...
+  - Loaded 4186 deals
+  - MD&A texts: 4186
+  - Risk Factors texts: 4186
+
+BLOCK 1: Creating quanteda corpus objects...
+  - MD&A corpus: 4186 documents
+  - Risk corpus: 4186 documents
+
+BLOCK 2: Defining dual-track stopword lists...
+  - Track A: 158 stopwords (kept 30 finance-critical)
+  - Track B: 26 minimal stopwords for bigrams
+
+BLOCK 2B: Loading operational phrase whitelist...
+  - Defined 65 operational phrases
+
+BLOCK 3: Extracting numeric features via regex...
+  - Numeric features extracted for 4186 deals
+  - Summary (MD&A numeric_density):
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  3.676  96.991 116.258 124.144 142.223 696.233 
+
+  - Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/numeric_features.rds
+
+BLOCK 4: Creating base tokens (pre-stopword removal)...
+  - MD&A: 4186 documents
+  - Risk: 4186 documents
+
+BLOCK 5: Track A — Dictionary-ready unigrams...
+  - MD&A unigrams (dict): 4186 documents
+  - Risk unigrams (dict): 4186 documents
+
+BLOCK 6: Track B — Bigram-ready tokens with compounds...
+  v4.1: Using split_hyphens=TRUE for compound matching
+  - Compounds applied (65 phrases)
+  - MD&A compound tokens: 4186 docs
+  - MD&A free bigrams: 4186 docs
+
+BLOCK 7: Creating unigram DFMs...
+  - MD&A: 88913 features, sparsity 98.55%
+  - Risk: 68983 features, sparsity 98.02%
+
+BLOCK 8: Trimming DFMs...
+  v4: Dictionary DFMs — min_docfreq=2 only (NO max_docfreq)
+  v4: Exploratory DFMs — full trimming retained
+
+  - MD&A dict DFM: 88913 → 46469 features (min_docfreq=2 only)
+  - Risk dict DFM: 68983 → 38935 features (min_docfreq=2 only)
+
+  LM-critical term retention check (MD&A dict DFM):
+    risk           : OK
+    loss           : OK
+    impairment     : OK
+    decline        : OK
+    adverse        : OK
+    uncertain      : OK
+    volatility     : OK
+    favorable      : OK
+    positive       : OK
+    will           : OK
+    may            : OK
+    could          : OK
+    not            : OK
+
+  - MD&A explore DFM: 46336 features (with max_docfreq=0.95)
+  - Risk explore DFM: 38842 features (with max_docfreq=0.95)
+
+BLOCK 9: Creating compound/bigram DFMs...
+  - MD&A compounds: 36985 features (trimmed)
+  - MD&A free bigrams: 685111 features (trimmed)
+  - Risk compounds: 32453 features (trimmed)
+
+BLOCK 10: Creating TF-IDF weighted DFM for Risk Disclosure...
+  - Risk TF-IDF DFM: 4186 docs × 38935 features
+
+BLOCK 11: Computing negation diagnostics...
+  - Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/negation_diagnostics.rds
+
+BLOCK 12: Running validation checks...
+
+  Top 20 MD&A unigrams (dict-ready, no max_docfreq trim):
+  million  december      year       net    income     ended      cash  increase  interest     sales financial       tax    assets       due   revenue     costs operating    fiscal primarily   related 
+   583370    275939    241226    235051    222264    187050    185845    160501    159397    150291    148272    148181    147645    147408    147077    142266    138581    134357    133755    133332 
+
+  Top 20 MD&A compounds:
+    year_ended         fiscal       revenues          loans           loan       products     impairment       facility        product     securities              s     investment    acquisition        segment      customers 
+        133587          93315          85725          85365          81969          62516          59535          57561          57230          54201          52262          50377          50094          49533          44150 
+           u.s    investments    development       customer administrative 
+         42344          40139          36975          36128          35999 
+
+  Finance word retention (dictionary DFMs):
+    revenue         MD&A: OK  Risk: OK
+    margin          MD&A: OK  Risk: OK
+    debt            MD&A: OK  Risk: OK
+    capital         MD&A: OK  Risk: OK
+    risk            MD&A: OK  Risk: OK
+    uncertainty     MD&A: OK  Risk: OK
+    expect          MD&A: OK  Risk: OK
+    will            MD&A: OK  Risk: OK
+    increase        MD&A: OK  Risk: OK
+    decrease        MD&A: OK  Risk: OK
+    not             MD&A: OK  Risk: OK
+    may             MD&A: OK  Risk: OK
+
+  Summary:
+                  DFM_Type Documents Features Sparsity
+1  MD&A Dict (no max trim)      4186    46469   97.24%
+2 MD&A Explore (full trim)      4186    46336   97.52%
+3           MD&A Compounds      4186    36985   97.03%
+4        MD&A Free Bigrams      4186   685111   99.33%
+5  Risk Dict (no max trim)      4186    38935   96.51%
+6              Risk TF-IDF      4186    38935   96.51%
+
+BLOCK 13: Saving outputs...
+  - Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/tokens_objects.rds
+  - Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/dfm_objects.rds
+  - Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/vocabulary_lists.rds
+  - Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/tokenization_summary.rds
+
+BLOCK 14: Generating report...
+  - Report: C:/Users/giuse/Documents/GitHub/mna-disclosure/reports/02_tokenization_report.md
+
+=== MODULE 2 COMPLETE (v4) ===
+Ready for Module 3: Index Construction (v6)
+
+====================================================================== 
+Completed: 2026-02-19 02:05:03.551462 
+Log saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/logs/12_tokenization_dtm_20260219_015929.log 
+====================================================================== 

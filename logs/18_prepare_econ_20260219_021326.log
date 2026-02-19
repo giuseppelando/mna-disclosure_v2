@@ -1,0 +1,70 @@
+====================================================================== 
+PIPELINE STEP 18: 18_prepare_econ
+Started: 2026-02-19 02:13:26.377211 
+Source: src/50_models/New Pipeline/08_prepare_econometrics_v7.R 
+====================================================================== 
+
+=== MODULE 08: ECONOMETRIC PREPARATION (v6) ===
+
+BLOCK 1: Loading analysis dataset...
+  - 4186 × 117
+
+BLOCK 2: Winsorizing continuous variables...
+  premium_1d: 32 low, 32 high (thresholds: -35.54 / 238.85)
+  premium_1w: 31 low, 31 high (thresholds: -37.44 / 254.96)
+  premium_4w: 32 low, 32 high (thresholds: -36.89 / 261.45)
+  deal_value_usd_millions: 39 low, 42 high (thresholds: 2.00 / 27166.79)
+  time_to_close: 0 low, 34 high (thresholds: 0.00 / 1161.00)
+
+BLOCK 3: Log transforms...
+  deal_value_usd_millions → ln_deal_value_usd_millions
+  deal_value_usd_millions_w → ln_deal_value
+
+BLOCK 4: Standardizing NLP indices (raw → _z)...
+  operational_specificity_raw → operational_specificity_raw_z (mean=64.478, sd=21.064)
+  fl_sentence_share → fl_sentence_share_z (mean=0.084, sd=0.041)
+  risk_transparency → risk_transparency_z (mean=0.562, sd=0.191)
+  tone_lm → tone_lm_z (mean=-0.398, sd=0.216)
+  fl_precision_share → fl_precision_share_z (mean=0.496, sd=0.199)
+  commitment_density → commitment_density_z (mean=2.133, sd=0.997)
+  hedging_density → hedging_density_z (mean=3.922, sd=1.679)
+  risk_disclosure_raw → risk_disclosure_raw_z (mean=69.141, sd=9.492)
+  risk_numeric_density → risk_numeric_density_z (mean=10.053, sd=6.630)
+  pos_density → pos_density_z (mean=5.117, sd=2.092)
+  neg_density → neg_density_z (mean=12.653, sd=5.381)
+  + 6 processing cost vars standardized
+
+BLOCK 5: Fixed effects...
+  fe_ind_year: 977 cells | fe_year: 17 levels
+
+BLOCK 6: Additional control variables...
+  tender: 710 tender offers
+
+BLOCK 7: Sample restriction flags...
+  premium bounds [-100, 300]: ok=3102 | low=0 | high=0
+  small deals (< $10M): 254
+
+BLOCK 8: Creating analysis subsets...
+  Core NLP sample: 4186 / 4186
+  econ_premium: 3102 obs | premium mean=32.7 | median=24.7
+  econ_completion: 4186 obs | C=3371 W=815
+  econ_duration (completed): 3181 obs | mean=166 days | median=108 days
+  econ_duration_full (Cox): 3995 obs | events=3181 | censored=814
+    Completed: mean=173 days | Withdrawn (censored): mean=395 days
+
+BLOCK 9: Summary statistics...
+  Saved: output/tables/econ_summary_stats.csv (16 vars)
+
+BLOCK 10: Correlation matrix...
+  Saved: output/tables/econ_correlation.csv (7 × 7)
+
+=== MODULE 08 COMPLETE (v6) ===
+  econ_premium:    data/processed/econ_premium.rds
+  econ_completion: data/processed/econ_completion.rds
+  econ_duration:   data/processed/econ_duration.rds
+Ready for Module 09: Model estimation.
+
+====================================================================== 
+Completed: 2026-02-19 02:14:32.012178 
+Log saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/logs/18_prepare_econ_20260219_021326.log 
+====================================================================== 

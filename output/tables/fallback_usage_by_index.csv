@@ -1,0 +1,16 @@
+var,level,n,share
+forward_looking_norm_level,sic2,2171,0.5186335403726708
+forward_looking_norm_level,sic2_year,1849,0.44171046344959386
+forward_looking_norm_level,year,166,0.03965599617773531
+operational_specificity_norm_level,sic2,2171,0.5186335403726708
+operational_specificity_norm_level,sic2_year,1849,0.44171046344959386
+operational_specificity_norm_level,year,166,0.03965599617773531
+risk_disclosure_raw_norm_level,sic2,2171,0.5186335403726708
+risk_disclosure_raw_norm_level,sic2_year,1849,0.44171046344959386
+risk_disclosure_raw_norm_level,year,166,0.03965599617773531
+risk_transparency_norm_level,sic2,2171,0.5186335403726708
+risk_transparency_norm_level,sic2_year,1849,0.44171046344959386
+risk_transparency_norm_level,year,166,0.03965599617773531
+tone_lm_norm_level,sic2,2171,0.5186335403726708
+tone_lm_norm_level,sic2_year,1849,0.44171046344959386
+tone_lm_norm_level,year,166,0.03965599617773531

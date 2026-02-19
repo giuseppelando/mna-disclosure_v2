@@ -1,5 +1,14 @@
-# TEXT CLEANING REPORT (v2)
-Generated: 2026-02-15 15:46:25.131081
+# TEXT CLEANING REPORT (v3 — dual word counts)
+Generated: 2026-02-19 01:59:29.556896
+
+## Key change in v3
+Introduced dual word counts:
+- `wc_total`: all non-whitespace tokens (for numeric density denominators)
+- `wc_alpha`: alphabetic tokens only (for dictionary-based density denominators)
+
+This resolves the denominator mismatch where dictionary hits (computed on
+alphabetic tokens after `remove_numbers=TRUE`) were divided by total word count
+(including numbers), systematically attenuating dictionary-based indices.
 
 ## Input
 - File: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/processed/deals_with_10k_text_analysis.rds
@@ -16,28 +25,8 @@ Generated: 2026-02-15 15:46:25.131081
 - MD&A empty: 0 (0.0%)
 - Risk Factors empty: 0 (0.0%)
 
-## Word Count Statistics (Clean)
-### MD&A:
-- Min: 119
-- Median: 10836
-- Mean: 11862.5
-- Max: 72289
-
-### Risk Factors:
-- Min: 99
-- Median: 8034.5
-- Mean: 9559.7
-- Max: 70258
-
-## Financial Pattern Preservation
-Sample size: 100
-- With numbers: 100.0%
-- With percentages: 98.0%
-- With currency: 100.0%
-- With decimals: 100.0%
-
-## Validation Notes
-- Check median reduction ratio in [0.70, 0.95] (not too aggressive)
-- Verify >95% of sample documents retain financial patterns
-- Empty documents flagged but not dropped (preserve sample integrity)
+## Alpha/Total Ratio (diagnostic)
+- MD&A  mean: 0.894
+- Risk  mean: 0.987
+(Expected range: 0.70–0.90 for typical 10-K text)
 

@@ -1,0 +1,24 @@
+====================================================================== 
+PIPELINE STEP 14: 14_kwic_validation
+Started: 2026-02-19 02:09:01.589783 
+Source: src/30_nlp/New Pipeline/04_kwic_validation_v3.R 
+====================================================================== 
+
+=== MODULE 4: KWIC VALIDATION (v3) ===
+  Index columns: operational_specificity_norm, forward_looking_norm, risk_transparency_norm, tone_lm_norm
+
+  Extracting FL sentence samples (v3 new)...
+  - FL sentence samples: 79 rows
+  Extracting risk transparency excerpts (v3 new)...
+  - Risk transparency excerpts: 20 rows
+
+Saved outputs:
+  - C:/Users/giuse/Documents/GitHub/mna-disclosure/output/tables/kwic_samples.xlsx
+  - C:/Users/giuse/Documents/GitHub/mna-disclosure/reports/04_kwic_validation.md
+
+=== MODULE 4 COMPLETE (v3) ===
+
+====================================================================== 
+Completed: 2026-02-19 02:09:27.872012 
+Log saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/logs/14_kwic_validation_20260219_020901.log 
+====================================================================== 

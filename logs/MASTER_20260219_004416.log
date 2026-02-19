@@ -1,0 +1,61 @@
+[00:44:16] ============================================================
+[00:44:16] PIPELINE RUN
+[00:44:16] Start: 2026-02-19 00:44:16.061111
+[00:44:16] START_AT: 04b
+[00:44:16] ============================================================
+[00:44:16] SKIP 01_analyze_columns.R
+[00:44:16] SKIP 02_ingest_deals.R
+[00:44:16] SKIP 03_sample_restrictions.R
+[00:44:16] SKIP 04_match_target_cik.R
+[00:44:16] START 04b_import_cik_matches.R
+[00:44:16] DONE 04b_import_cik_matches.R (0 min)
+[00:44:16] START 05_clean_deals_for_matching.R
+[00:44:17] DONE 05_clean_deals_for_matching.R (0 min)
+[00:44:17] START 06_build_edgar_index.R
+[01:01:38] DONE 06_build_edgar_index.R (17.4 min)
+[01:01:38] START 07_match_deals_to_filings.R
+[01:02:01] DONE 07_match_deals_to_filings.R (0.4 min)
+[01:02:01] START 08_prepare_filings_manifest.R
+[01:02:01] DONE 08_prepare_filings_manifest.R (0 min)
+[01:02:01] START 09_parse_sections.R
+[01:55:43] DONE 09_parse_sections.R (53.7 min)
+[01:55:43] START 10_merge_deals_text.R
+[01:56:21] DONE 10_merge_deals_text.R (0.6 min)
+[01:56:21] START 11_text_cleaning.R
+[01:59:29] DONE 11_text_cleaning.R (3.1 min)
+[01:59:29] START 12_tokenization_dtm.R
+[02:05:03] DONE 12_tokenization_dtm.R (5.6 min)
+[02:05:03] START 13_construct_indices.R
+[02:09:01] DONE 13_construct_indices.R (4 min)
+[02:09:01] START 14_kwic_validation.R
+[02:09:27] DONE 14_kwic_validation.R (0.4 min)
+[02:09:27] START 15_descriptive_analysis.R
+[02:09:31] DONE 15_descriptive_analysis.R (0.1 min)
+[02:09:31] START 16_processing_costs.R
+[02:12:59] DONE 16_processing_costs.R (3.5 min)
+[02:12:59] START 17_assemble_dataset.R
+[02:13:26] DONE 17_assemble_dataset.R (0.4 min)
+[02:13:26] START 18_prepare_econometrics.R
+[02:14:32] DONE 18_prepare_econometrics.R (1.1 min)
+[02:14:32] START 19_run_models.R
+[02:14:40] DONE 19_run_models.R (0.1 min)
+[02:14:40] ============================================================
+[02:14:40] SUMMARY
+[02:14:40]   04b_import_cik_matches.R                      OK  (0 min)
+[02:14:40]   05_clean_deals_for_matching.R                 OK  (0 min)
+[02:14:40]   06_build_edgar_index.R                        OK  (17.4 min)
+[02:14:40]   07_match_deals_to_filings.R                   OK  (0.4 min)
+[02:14:40]   08_prepare_filings_manifest.R                 OK  (0 min)
+[02:14:40]   09_parse_sections.R                           OK  (53.7 min)
+[02:14:40]   10_merge_deals_text.R                         OK  (0.6 min)
+[02:14:40]   11_text_cleaning.R                            OK  (3.1 min)
+[02:14:40]   12_tokenization_dtm.R                         OK  (5.6 min)
+[02:14:40]   13_construct_indices.R                        OK  (4 min)
+[02:14:40]   14_kwic_validation.R                          OK  (0.4 min)
+[02:14:40]   15_descriptive_analysis.R                     OK  (0.1 min)
+[02:14:40]   16_processing_costs.R                         OK  (3.5 min)
+[02:14:40]   17_assemble_dataset.R                         OK  (0.4 min)
+[02:14:40]   18_prepare_econometrics.R                     OK  (1.1 min)
+[02:14:40]   19_run_models.R                               OK  (0.1 min)
+[02:14:40] End: 2026-02-19 02:14:40.985073
+[02:14:40] ============================================================

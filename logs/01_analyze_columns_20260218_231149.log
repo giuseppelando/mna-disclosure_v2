@@ -1,0 +1,95 @@
+====================================================================== 
+PIPELINE STEP 01: 01_analyze_columns
+Started: 2026-02-18 23:11:49.871446 
+Source: src/10_ingest/01_analyze_columns.R 
+====================================================================== 
+
+
+╔════════════════════════════════════════════════════════════════╗
+║      COMPREHENSIVE COLUMN ANALYZER FOR M&A RESEARCH            ║
+╚════════════════════════════════════════════════════════════════╝
+
+STEP 1: Loading raw data file...
+------------------------------------------------------------------ 
+  Input file: GridExport_February_11_2026_22_10_55.xlsx
+  Dimensions: 9469 rows × 48 columns
+
+STEP 2: Analyzing each column...
+------------------------------------------------------------------ 
+  Analyzed 48 columns
+  Numeric columns: 15
+  Date columns: 4
+  Character columns: 29
+
+STEP 3: Mapping columns to research constructs...
+------------------------------------------------------------------ 
+  Mapped columns by construct:
+    date_announcement [CRITICAL]: 6 columns
+    outcome_premium_input [CRITICAL]: 5 columns
+    control_industry [MEDIUM]: 4 columns
+    control_payment [HIGH]: 4 columns
+    moderator_deal [MEDIUM]: 4 columns
+    identifier_acquirer [HIGH]: 3 columns
+    moderator_geography [MEDIUM]: 3 columns
+    control_deal_value [HIGH]: 2 columns
+    identifier_target [CRITICAL]: 2 columns
+    identifier_target [HIGH]: 2 columns
+    control_deal_type [HIGH]: 1 columns
+    control_geography [HIGH]: 1 columns
+    control_geography [MEDIUM]: 1 columns
+    control_industry [HIGH]: 1 columns
+    control_public_status [HIGH]: 1 columns
+    date_completion [CRITICAL]: 1 columns
+    date_withdrawn [HIGH]: 1 columns
+    identifier_deal [CRITICAL]: 1 columns
+    identifier_target [MEDIUM]: 1 columns
+    metadata_rank [LOW]: 1 columns
+    moderator_related_deal [LOW]: 1 columns
+    outcome_completion [CRITICAL]: 1 columns
+
+STEP 4: Checking for missing critical constructs...
+------------------------------------------------------------------ 
+  ✓ All critical constructs present
+
+STEP 5: Identifying potentially useful unmapped columns...
+------------------------------------------------------------------ 
+  Found 1 unmapped columns with <90% missing data:
+  (These may contain useful information - review manually)
+
+     1. form_of_the_deal                                   [100.0% complete]
+
+STEP 6: Saving analysis outputs...
+------------------------------------------------------------------ 
+  ✓ Saved: data/interim/column_analysis.csv
+  ✓ Saved: data/interim/research_mapping.csv
+  ✓ Saved: data/interim/column_analysis_report.txt
+
+STEP 7: Generating recommendations...
+------------------------------------------------------------------ 
+  RECOMMENDATIONS:
+    ⚠️  WARNING: Premium inputs detected but check they're the right ones.
+    ✓ GOOD: Payment method can be constructed from percentage columns.
+
+╔════════════════════════════════════════════════════════════════╗
+║                   ANALYSIS COMPLETE                             ║
+╠════════════════════════════════════════════════════════════════╣
+║ Total columns analyzed:      48                                ║
+║ Mapped to constructs:        47                                ║
+║ Unmapped (>10% data):        1                                 ║
+╠════════════════════════════════════════════════════════════════╣
+║ Priority breakdown:                                             ║
+║   CRITICAL:                  16                                ║
+║   HIGH:                      16                                ║
+║   MEDIUM:                    13                                ║
+╠════════════════════════════════════════════════════════════════╣
+║ Next steps:                                                     ║
+║ 1. Review: data/interim/column_analysis_report.txt             ║
+║ 2. Check: Payment method columns (percentage_of_cash/stock)    ║
+║ 3. Run: read_deals_v4_intelligent.R                            ║
+╚════════════════════════════════════════════════════════════════╝
+
+
+====================================================================== 
+Completed: 2026-02-18 23:11:51.206123 
+Log saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/logs/01_analyze_columns_20260218_231149.log 
+====================================================================== 

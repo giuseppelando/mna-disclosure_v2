@@ -1,0 +1,12 @@
+index,n,n_zero,pct_zero,overall_sd,median_within_sd,cv
+operational_specificity_raw,4186,0,0,21.064212,14.708874,0.327
+fl_sentence_share,4186,7,0.2,0.040894,0.033454,0.486
+fl_precision_share,4179,42,1,0.19894,0.177766,0.401
+commitment_density,4186,14,0.3,0.997044,0.839692,0.467
+hedging_density,4186,2,0,1.678681,1.159853,0.428
+risk_transparency,4186,0,0,0.191142,0.126196,0.34
+risk_disclosure_raw,4186,0,0,9.491999,7.470578,0.137
+risk_numeric_density,4186,0,0,6.630481,4.404208,0.66
+tone_lm,4186,18,0.4,0.21638,0.181114,0.543
+pos_density,4186,7,0.2,2.091938,1.721836,0.409
+neg_density,4186,2,0,5.380804,3.825385,0.425

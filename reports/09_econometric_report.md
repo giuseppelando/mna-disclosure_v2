@@ -1,6 +1,6 @@
 # Module 09 — Econometric Models Report (v6)
 
-Generated: 2026-02-16 20:41:35.533813
+Generated: 2026-02-19 02:14:40.978945
 
 ## Variable mapping (v6)
 | Role | Variable | Description |

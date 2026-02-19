@@ -1,0 +1,61 @@
+====================================================================== 
+PIPELINE STEP 04: 04_match_cik
+Started: 2026-02-18 23:11:52.966762 
+Source: src/20_resolve/04_match_target_cik.R 
+====================================================================== 
+
+
+==============================================================================
+PHASE 1: Reading input files
+==============================================================================
+Reading deals_restricted from:
+C:/Users/giuse/Documents/GitHub/mna-disclosure/data/processed/deals_restricted.rds→ Loaded 6694 rows, 70 columns→ Unique target_name values: 4640  ⚠ Column 'target_cik' already exists - will be overwritten
+  → Removed existing target_cik column
+
+Reading companies from:
+C:/Users/giuse/Documents/GitHub/mna-disclosure/data/raw/companies.rds→ Loaded 663000 rows, 3 columns→ Unique name values: 657160→ Unique cik_key values: 610499
+VALIDATION CHECKPOINTS:
+→ Original row count: 6694 (must be preserved as unique targets)→ Original unique target_name count: 4640→ Expected to validate against: 6694 rows representing unique deals
+==============================================================================
+PHASE 2: Tier 1 matching (exact string match)
+==============================================================================
+Results:→ Unique targets matched: 5→ Unique targets unmatched: 4635→ Total rows with matches: 8(includes duplicates for multiple CIK matches)
+==============================================================================
+PHASE 3: Tier 2 matching (normalized names)
+==============================================================================
+Unmatched from Tier 1:→ Rows requiring Tier 2 matching: 6686→ Unique targets requiring Tier 2: 4635
+Applying normalized matching...
+Results:→ Unique targets matched in Tier 2: 3872→ Unique targets still unmatched: 763→ Total rows with Tier 2 matches: 6413
+==============================================================================
+PHASE 4: Combining Tier 1 and Tier 2 results
+==============================================================================
+Combined results:→ Total rows in final dataset: 7454→ Rows with CIK populated: 6421→ Rows with CIK blank: 1033
+==============================================================================
+PHASE 5: Validation
+==============================================================================
+Validation checks:→ Unique target_name in final dataset: 4640→ Expected (from original data): 4640  ✓ VALIDATION PASSED: All original unique targets preserved
+
+Row count check:→ Original deals_restricted rows: 6694→ Final dataset rows: 7454→ Additional rows (due to multiple CIK matches): 760⚠ Original row count is 6694, not 3440
+==============================================================================
+PHASE 6: Summary Statistics
+==============================================================================
+Overall coverage:→ Total unique targets: 4640→ Targets with at least one CIK: 3877 (83.6%)→ Targets with no CIK: 763 (16.4%)
+Row expansion:→ Total rows (including duplicates): 7454→ Original rows: 6694→ Expansion factor: 1.114x
+Multiple CIK matches:→ Average CIKs per matched target: 1.66→ Targets with multiple CIKs: 1396 (36%)→ Maximum CIKs for a single target: 19
+==============================================================================
+PHASE 7: Exporting to Excel
+==============================================================================
+Output file:
+C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/deals_with_cik_matches.xlsx✓ Export complete→ File size: 2.42 MB
+==============================================================================
+SCRIPT COMPLETED SUCCESSFULLY
+==============================================================================
+Output: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/deals_with_cik_matches.xlsxTotal rows: 7454Unique targets: 4640Coverage: 3877/4640 targets matched (83.6%)
+Ready for manual review and editing in Excel
+==============================================================================
+
+
+====================================================================== 
+Completed: 2026-02-18 23:11:55.613042 
+Log saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/logs/04_match_cik_20260218_231152.log 
+====================================================================== 

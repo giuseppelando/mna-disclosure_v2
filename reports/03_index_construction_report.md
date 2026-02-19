@@ -1,29 +1,41 @@
-# Module 3 - Index Construction Report (v5)
+# Module 3 — Index Construction Report (v6)
 
-Generated: 2026-02-15 15:52:20.493307
+Generated: 2026-02-19 02:09:01.585364
 Observations: 4186
 
-## Forward-looking intensity construct
-- Definition: forward-looking language = modal-based detection + regex-pattern detection
-- Modal tokens (configured): anticipate, anticipated, anticipates, forecast, forecasted, forecasting, forecasts, expect, expects, expected, project, projects, projected, projecting, plan, plans, planned, planning, intend, intends, intended, intending, aim, aims, aimed, aiming, target, targets, targeted, targeting, outlook, guidance, will, would, shall, future, forthcoming, upcoming, next
-- Modal tokens active in DFM: anticipate, anticipated, anticipates, forecast, forecasted, forecasting, forecasts, expect, expects, project, projects, projected, projecting, plan, plans, planned, planning, intend, intends, intended, intending, aim, aims, aimed, aiming, target, targets, targeted, targeting, outlook, guidance, will, would, shall, forthcoming, upcoming, next
-- Regex patterns source: config
-- Active regex patterns: 12
-- Total modal matches (corpus): 281282
-- Total regex matches (corpus): 117596
-- Contribution shares: modal=0.705 | regex=0.295
+## v6 Changes (feedback-driven)
 
-## Risk dictionary transparency
-- Source label: LM(Uncertainty + Negative)
-- Preprocessing: lowercase -> trim -> drop NA/empty -> keep single-token -> unique
-- Raw sizes: Uncertainty=297 | Negative=2345 | Combined=2642
-- Final usable dictionary size: 2602
-- Matched in DFM (unigram): 1996/2602
-- Unmatched (not in DFM feature set): 606/2602
-- Examples matched: abandon, abandoned, abandoning, abandonment, abandonments, aberrations, abetting, abeyance, abnormal, abnormalities
-- Examples unmatched: abandons, abdicated, abdicates, abdicating, abdication, abdications, aberrant, aberration, aberrational, abeyances
+### High-impact fixes applied:
+1. **Coherent denominators**: dictionary densities use wc_alpha; numeric densities use wc_total
+2. **No max_docfreq trimming** on dictionary DFMs (handled in Module 2 v4)
+3. **Multiword rejection**: preprocess_dict() errors on multiword entries
+4. **Tone formula**: (Pos-Neg)/(Pos+Neg+1), always defined, no endogenous NA
+5. **Modal separation**: strong (commitment) vs weak (hedging) tracked separately
 
-## Normalisation audit (hierarchical fallback)
+### New constructs:
+A. **Forward-looking (sentence-based)**: share of MD&A sentences with prospective markers
+B. **Risk transparency (cosine similarity)**: 1 - cosine_sim(doc, industry-year centroid)
+C. **Corrected tone + separate Pos/Neg densities**
+
+## Forward-looking intensity (v6)
+- Sentence markers: 16 patterns
+- FL sentence share: mean=0.0841 | sd=0.0409
+- FL precision (FL sents with numbers): mean=0.4958
+- Commitment density (strong modals): mean=2.1332
+- Hedging density (weak modals): mean=3.9222
+
+## Risk transparency (v6)
+- Cosine sim to industry-year centroid: mean=0.4381
+- Risk transparency (1-sim): mean=0.5619 | sd=0.1911
+- Legacy LM risk density (per 1000 alpha): mean=69.1414
+
+## Tone (v6 — corrected)
+- Formula: (Pos-Neg)/(Pos+Neg+1)
+- ToneLM: mean=-0.3981 | sd=0.2164 | NAs=0
+
+## Normalisation
 - min_cell_size: 10
-- Levels: sic2×year -> sic2 -> year -> global
+- Levels: sic2×year → sic2 → year → global
+- NOTE: normalised indices are for descriptive use. Regressions should
+  use raw indices + FE (avoids double de-meaning efficiency loss).
 

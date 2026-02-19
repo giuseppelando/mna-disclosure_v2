@@ -84,6 +84,40 @@ sec_headers <- function(user_agent, accept = NULL) {
 }
 
 # ------------------------------------------------------------------------------
+# API: Build full filing URL from CIK + accession + primary document
+# ------------------------------------------------------------------------------
+
+#' Build the full EDGAR filing URL
+#' @param cik CIK (any format)
+#' @param accession_number accession in dashed form
+#' @param primary_document filename of the primary document (e.g. "filing.htm")
+#' @return full URL to the filing document, or NA_character_
+build_filing_url <- function(cik, accession_number, primary_document) {
+  cik_i <- cik_to_int(cik)
+  acc <- as.character(accession_number)
+  pdoc <- as.character(primary_document)
+  
+  # Vectorised
+  acc_nd <- accession_nodash(acc)
+  
+  url <- paste0(
+    "https://www.sec.gov/Archives/edgar/data/",
+    cik_i, "/", acc_nd, "/", pdoc
+  )
+  
+  # Return NA where any component is missing
+  url <- ifelse(
+    is.na(cik_i) | cik_i == "" |
+    is.na(acc_nd) | acc_nd == "" |
+    is.na(pdoc)  | pdoc == "",
+    NA_character_,
+    url
+  )
+  
+  url
+}
+
+# ------------------------------------------------------------------------------
 # API: Build Archives directory URL
 # ------------------------------------------------------------------------------
 

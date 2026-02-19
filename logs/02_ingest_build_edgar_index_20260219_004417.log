@@ -1,0 +1,41 @@
+[2026-02-19 00:44:17] [INFO] ================================================================================
+[2026-02-19 00:44:17] [INFO] STEP 2: BUILD EDGAR INDEX
+[2026-02-19 00:44:17] [INFO] ================================================================================
+[2026-02-19 00:44:17] [INFO] Loading cleaned deals...
+[2026-02-19 00:44:17] [INFO]   → Loaded 6277 deals
+[2026-02-19 00:44:17] [INFO] 
+Extracting unique CIKs...
+[2026-02-19 00:44:17] [INFO]   → Total unique CIKs to query: 4242
+[2026-02-19 00:44:17] [INFO] 
+No existing index found. Building from scratch...
+[2026-02-19 00:44:17] [INFO] Querying EDGAR for 4242 CIKs...
+[2026-02-19 00:44:17] [INFO] Rate limit: 10 requests/second
+[2026-02-19 00:44:17] [INFO] This may take a while. Progress will be shown.
+
+[2026-02-19 01:01:37] [INFO] Query complete:
+[2026-02-19 01:01:37] [INFO]   → Successful: 3834
+[2026-02-19 01:01:37] [INFO]   → Failed: 408
+[2026-02-19 01:01:37] [INFO]   → Total filings retrieved: 37502
+[2026-02-19 01:01:37] [INFO] 
+Filtering and enriching index...
+[2026-02-19 01:01:37] [INFO]   → Filings in sample period: 29646
+[2026-02-19 01:01:37] [INFO]   → Unique CIKs: 3764
+[2026-02-19 01:01:37] [INFO]   → Date range: 2005-01-03 to 2024-12-31
+[2026-02-19 01:01:37] [INFO] 
+Coverage analysis...
+[2026-02-19 01:01:37] [INFO]   → CIKs with filings: 3764
+[2026-02-19 01:01:37] [INFO]   → Average filings per CIK: 7.9
+[2026-02-19 01:01:37] [INFO]   → Median filings per CIK: 7
+[2026-02-19 01:01:37] [WARNING]   ⚠ CIKs with no 10-K filings: 478
+[2026-02-19 01:01:37] [INFO] 
+Saving EDGAR index...
+[2026-02-19 01:01:38] [INFO] Saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/edgar_10k_index.rds (0.7 MB)
+[2026-02-19 01:01:38] [INFO]   → Removed temporary file
+[2026-02-19 01:01:38] [INFO] ================================================================================
+[2026-02-19 01:01:38] [INFO] STEP 2 COMPLETE
+[2026-02-19 01:01:38] [INFO] ================================================================================
+[2026-02-19 01:01:38] [INFO] Output: C:/Users/giuse/Documents/GitHub/mna-disclosure/data/interim/edgar_10k_index.rds
+[2026-02-19 01:01:38] [INFO] Total 10-K filings indexed: 29646
+[2026-02-19 01:01:38] [INFO] Unique CIKs covered: 3764
+[2026-02-19 01:01:38] [INFO] 
+Next step: Run 03_merge_match_deals_to_filings.R

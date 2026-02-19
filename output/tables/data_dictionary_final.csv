@@ -1,0 +1,118 @@
+column,type,construction,n_non_na
+logical_deal_id,character,From source,4186
+target_name,character,From source,4186
+date_announced,Date,From source,4186
+matched_cik,character,From source,4186
+accession_number,character,From source,4186
+filing_date,Date,From source,4186
+days_lag,numeric,From source,4186
+mda_text,character,From source,4186
+risk_factors_text,character,From source,4186
+mda_word_count,integer,From source,4186
+risk_word_count,integer,From source,4186
+deal_id,character,From source,4186
+deal_status,character,From source,4186
+number_of_days_between_date_announced_and_date_effective,numeric,From source,4186
+percentage_of_shares_held_by_acquiror_6_months_prior_to_announcement,numeric,From source,4186
+target_share_price_1_day_prior_to_announcement_usd,numeric,From source,4097
+target_share_price_1_week_prior_to_announcement_usd,numeric,From source,4096
+target_share_price_4_weeks_prior_to_announcement_usd,numeric,From source,4098
+date_effective,POSIXct,From source,3371
+share_price_paid_by_acquiror_for_target_shares_usd,numeric,From source,3169
+premium_paid_1_day_prior_to_announcement,numeric,From source,3102
+premium_paid_4_weeks_prior_to_announcement,numeric,From source,3102
+premium_paid_1_week_prior_to_announcement,numeric,From source,3098
+target_financial_advisors_name,character,From source,2743
+consideration_price_per_share_usd,numeric,From source,1021
+target_nation,character,From source,4186
+acquirer_name,character,From source,4186
+target_primary_sic,character,From source,4186
+target_public_status,character,From source,4186
+acquiror_ultimate_parent_name,character,From source,4186
+final_stake_pct,numeric,From source,4186
+percentage_of_cash,numeric,From source,4186
+percentage_of_stock,numeric,From source,4186
+target_ticker,character,From source,4183
+deal_type,character,From source,4182
+deal_value_usd_millions,numeric,From source,4186
+rank_value_including_net_debt_of_target_usd_millions,numeric,From source,4165
+percentage_of_shares_owned_after_transaction,numeric,From source,3287
+acquiror_financial_advisors_name,character,From source,2229
+date_withdrawn,POSIXct,From source,815
+rank_date,POSIXct,From source,4186
+target_macro_industry,character,From source,4186
+target_mid_industry,character,From source,4186
+acquiror_macro_industry,character,From source,4186
+acquiror_mid_industry,character,From source,4186
+acquiror_nation,character,From source,4186
+target_cusip,character,From source,4186
+target_state,character,From source,4186
+acquisition_techniques,character,From source,4186
+form_of_the_deal,character,From source,4186
+deal_attitude,character,From source,4186
+tender_offer_flag,logical,From source,4186
+cross_border_deal_flag,logical,From source,4186
+acquiror_state,character,From source,4186
+related_sdc_deal_number,character,From source,804
+competing_offer_flag,character,From source,446
+deal_completed,numeric,From source,4186
+deal_outcome_terminal,logical,From source,4186
+time_to_close,numeric,From source,3371
+year_announced,numeric,From source,4186
+month_announced,numeric,From source,4186
+payment_method_clean,character,From source,4186
+flag_has_deal_id,logical,From source,4186
+flag_has_target_name,logical,From source,4186
+flag_has_announce_date,logical,From source,4186
+flag_terminal_outcome,logical,From source,4186
+flag_has_premium_inputs,logical,From source,4186
+has_premium,logical,From source,4186
+premium_1w,numeric,From source,3098
+has_premium_1d,logical,From source,4186
+has_premium_4w,logical,From source,4186
+has_completion_outcome,logical,From source,4186
+has_ticker,logical,From source,4186
+has_cusip,logical,From source,4186
+operational_specificity_raw,numeric,0.5*numeric_density(wc_total) + 0.5*compound_density(wc_alpha),4186
+fl_sentence_share,numeric,# FL sentences / # total sentences (MD&A),4186
+fl_precision_share,numeric,# FL sentences with numbers / # FL sentences,4179
+commitment_density,numeric,strong modals (will/shall/must) per 1000 alpha words,4186
+hedging_density,numeric,weak modals (may/might/could/would/should) per 1000 alpha words,4186
+risk_transparency,numeric,"1 - cosine_sim(doc_tfidf, peer_centroid); hierarchical fallback",4186
+risk_disclosure_raw,numeric,LM(unc+neg) counts per 1000 alpha words (Risk Factors),4186
+risk_numeric_density,numeric,From source,4186
+tone_lm,numeric,(Pos-Neg)/(Pos+Neg+1) on MD&A (always defined),4186
+pos_density,numeric,LM positive counts per 1000 alpha words (MD&A),4186
+neg_density,numeric,LM negative counts per 1000 alpha words (MD&A),4186
+operational_specificity_norm,numeric,Z-scored hierarchical (sic2xyear > sic2 > year > global),4186
+forward_looking_norm,numeric,Z-scored hierarchical (sic2xyear > sic2 > year > global),4186
+risk_transparency_norm,numeric,Z-scored hierarchical (sic2xyear > sic2 > year > global),4186
+risk_disclosure_raw_norm,numeric,Z-scored hierarchical (sic2xyear > sic2 > year > global),4186
+tone_lm_norm,numeric,Z-scored hierarchical (sic2xyear > sic2 > year > global),4186
+operational_specificity_norm_level,character,From source,4186
+forward_looking_norm_level,character,From source,4186
+risk_transparency_norm_level,character,From source,4186
+risk_disclosure_raw_norm_level,character,From source,4186
+tone_lm_norm_level,character,From source,4186
+premium_1d,numeric,= premium_paid_1_day_prior (numeric),3102
+premium_4w,numeric,From source,3102
+completion,integer,"1=Completed, 0=Withdrawn, NA=other",4186
+sic2,character,From source,4186
+ind_year_fe,character,From source,4186
+sample_core,integer,From source,4186
+sample_risk,integer,From source,4186
+sample_premium,integer,From source,4186
+sample_completion,integer,From source,4186
+sample_duration,integer,From source,4186
+operational_specificity_raw_outlier,integer,1 if |raw - mean| > 5*SD,4186
+fl_sentence_share_outlier,integer,1 if |raw - mean| > 5*SD,4186
+risk_transparency_outlier,integer,1 if |raw - mean| > 5*SD,4186
+tone_lm_outlier,integer,1 if |raw - mean| > 5*SD,4186
+mda_fog,numeric,Gunning Fog Index (MD&A) via quanteda.textstats,4186
+mda_fk,numeric,Flesch-Kincaid Grade Level (MD&A) via quanteda.textstats,4186
+risk_fog,numeric,Gunning Fog Index (Risk Factors),4186
+risk_fk,numeric,Flesch-Kincaid Grade Level (Risk Factors),4186
+mda_log_length,numeric,log(alpha word count) (MD&A),4186
+risk_log_length,numeric,log(alpha word count) (Risk Factors),4186
+mda_wc,integer,From source,4186
+risk_wc,integer,From source,4186

@@ -1,0 +1,68 @@
+====================================================================== 
+PIPELINE STEP 17: 17_assemble_dataset
+Started: 2026-02-19 02:12:59.573967 
+Source: src/30_nlp/New Pipeline/07_assemble_analysis_dataset_FINAL.R 
+====================================================================== 
+
+=== MODULE 6: FINAL DATASET ASSEMBLY (v6) ===
+
+BLOCK 1: Loading data...
+  - Base: 4186 × 74 | Indices: 4186 × 25
+
+BLOCK 2: Merge key...
+  - Key: deal_id
+
+BLOCK 3: Selecting index deliverables...
+  - Kept 22/25 columns from indices
+
+BLOCK 4: Merging...
+  - Row count preserved: OK
+
+BLOCK 5: Post-merge checks...
+  - Index missingness:
+    operational_specificity_raw   : 0 NAs (0.00%)
+    fl_sentence_share             : 0 NAs (0.00%)
+    risk_transparency             : 0 NAs (0.00%)
+    tone_lm                       : 0 NAs (0.00%)
+
+BLOCK 5B: Constructing outcome variables...
+  - premium_1d
+  - premium_1w
+  - premium_4w
+  - completion: C=3371 W=815 NA=0
+  - time_to_close construction:
+    Found SDC column 'number_of_days_between_date_announced_and_date_effective'
+    n_valid=3181 | n_sentinel(-999)=815 | mean=173.3 | median=108.0 days
+
+BLOCK 5C: FE identifiers...
+  - ind_year_fe: 977 unique cells
+
+BLOCK 5D: Sample flags...
+  - sample_core:       4186 / 4186
+  - sample_risk:       4186 / 4186
+  - sample_premium:    3102 / 4186
+  - sample_completion: 4186 / 4186
+  - sample_duration:   3181 / 4186
+
+BLOCK 5E: Outlier flags (|z| > 5 SD on raw)...
+  - operational_specificity_raw: 2 outliers
+  - fl_sentence_share: 7 outliers
+  - risk_transparency: 0 outliers
+  - tone_lm: 1 outliers
+
+BLOCK 5F: Integrating processing costs (Module 07)...
+  - Joined 9 processing cost variables
+  - mda_fog NAs: 0 | mda_log_length NAs: 0
+
+BLOCK 6: Saving...
+  - RDS: data/final/analysis_dataset.rds
+  - CSV: data/final/analysis_dataset.csv (115 cols)
+
+BLOCK 7: Data dictionary...
+
+=== MODULE 6 COMPLETE (v6) ===
+
+====================================================================== 
+Completed: 2026-02-19 02:13:26.364225 
+Log saved: C:/Users/giuse/Documents/GitHub/mna-disclosure/logs/17_assemble_dataset_20260219_021259.log 
+====================================================================== 
